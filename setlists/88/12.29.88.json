@@ -1,0 +1,33 @@
+{
+    "date": "December 29, 1988",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "To Lay Me Down",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

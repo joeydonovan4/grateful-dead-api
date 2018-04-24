@@ -1,0 +1,34 @@
+{
+    "date": "June 17, 1991",
+    "day": "Monday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Eyes Of The World",
+            "Walkin' Blues",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Cassidy",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Truckin'",
+            "New Speedway Boogie",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "China Doll",
+            "Playin' Reprise",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

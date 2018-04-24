@@ -1,0 +1,34 @@
+{
+    "date": "September 9, 1974",
+    "day": "Monday",
+    "venue": "Alexandra Palace",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "Scarlet Begonias",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Deal",
+            "El Paso",
+            "Ship Of Fools",
+            "Tennessee Jed",
+            "Truckin'",
+            "Wharf Rat",
+            "Uncle John's Band",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "date": "June 4, 1970",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Candyman",
+            "Silver Threads",
+            "Friend Of The Devil",
+            "Cumberland Blues",
+            "Wake Up Little Susie",
+            "Swing Low Sweet Chariot",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Not Fade Away",
+            "Midnight Hour"
+        ],
+        "encore": [
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

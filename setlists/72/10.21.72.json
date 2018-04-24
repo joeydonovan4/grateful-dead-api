@@ -1,0 +1,40 @@
+{
+    "date": "October 21, 1972",
+    "day": "Saturday",
+    "venue": "Vanderbilt University",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Deal",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Loser",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Big River",
+            "He's Gone",
+            "Greatest Story Ever Told",
+            "Bird Song",
+            "Truckin'",
+            "The Other One",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

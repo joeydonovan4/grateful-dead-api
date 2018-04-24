@@ -1,0 +1,33 @@
+{
+    "date": "April 11, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "I'm A King Bee",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "It's A Man's World"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "New Speedway Boogie",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Deep Elem Blues",
+            "Candyman",
+            "Black Peter",
+            "Uncle John's Band"
+        ],
+        "setThree": [
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "date": "October 2, 1972",
+    "day": "Monday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Cumberland Blues",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "He's Gone",
+            "Me And Bobby McGee",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Tomorrow Is Forever",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Stella Blue",
+            "Truckin'",
+            "Nobody's Jam",
+            "Drums",
+            "Uncle John's Band Jam",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "Johnny B. Goode"
+        ]
+    }
+}

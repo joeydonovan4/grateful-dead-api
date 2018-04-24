@@ -1,0 +1,35 @@
+{
+    "date": "December 17, 1993",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "Desolation Row",
+            "Ramble On Rose",
+            "Broken Arrow",
+            "Lazy River Road",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "The Last Time",
+            "Attics Of My Life",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

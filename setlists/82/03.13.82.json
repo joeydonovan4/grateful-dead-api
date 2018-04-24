@@ -1,0 +1,36 @@
+{
+    "date": "March 13, 1982",
+    "day": "Saturday",
+    "venue": "Reno Centennial Coliseum",
+    "city": "Reno",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

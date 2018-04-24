@@ -1,0 +1,36 @@
+{
+    "date": "May 5, 1978",
+    "day": "Friday",
+    "venue": "Thompson Arena",
+    "city": "Hanover",
+    "state": "NH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Cassidy",
+            "Candyman",
+            "El Paso",
+            "They Love Each Other",
+            "Passenger",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

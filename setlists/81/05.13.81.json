@@ -1,0 +1,35 @@
+{
+    "date": "May 13, 1981",
+    "day": "Wednesday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "C.C. Rider",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Bird Song",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Iko Iko",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

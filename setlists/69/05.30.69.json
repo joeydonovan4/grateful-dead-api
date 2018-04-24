@@ -1,0 +1,20 @@
+{
+    "date": "May 30, 1969",
+    "day": "Friday",
+    "venue": "Springer's Inn",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Doin' That Rag",
+            "I'm A King Bee",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

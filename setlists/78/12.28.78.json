@@ -1,0 +1,38 @@
+{
+    "date": "December 28, 1978",
+    "day": "Thursday",
+    "venue": "Golden Hall",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Funiculi Funicula",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "From The Heart Of Me",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

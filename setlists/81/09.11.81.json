@@ -1,0 +1,38 @@
+{
+    "date": "September 11, 1981",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Little Red Rooster",
+            "Cumberland Blues",
+            "Beat It On Down The Line",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Morning Dew",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

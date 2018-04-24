@@ -1,0 +1,42 @@
+{
+    "date": "April 11, 1972",
+    "day": "Tuesday",
+    "venue": "City Hall",
+    "city": "Newcastle",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Deal",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Big Boss Man",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Jack Straw",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Next Time You See Me",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Ramble On Rose",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

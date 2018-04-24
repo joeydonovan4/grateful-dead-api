@@ -1,0 +1,33 @@
+{
+    "date": "July 3, 1994",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "It's All Over Now",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Fire On The Mountain",
+            "Box Of Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Corrina",
+            "The Days Between",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

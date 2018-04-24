@@ -1,0 +1,18 @@
+{
+    "date": "March 20, 1970",
+    "day": "Friday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Minglewood Blues"
+        ]
+    }
+}

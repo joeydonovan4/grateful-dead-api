@@ -1,0 +1,33 @@
+{
+    "date": "March 30, 1987",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "It's All Over Now",
+            "Stagger Lee",
+            "Good Time Blues",
+            "Box Of Rain",
+            "Loser",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "December 19, 1969",
+    "day": "Friday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Monkey And The Engineer",
+            "Little Sadie",
+            "Long Black Limousine",
+            "I've Been All Around This World"
+        ],
+        "setTwo": [
+            "Mason's Children",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Peter",
+            "Hard To Handle",
+            "Cumberland Blues",
+            "Casey Jones",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Uncle John's Band",
+            "Turn On Your Love Light"
+        ]
+    }
+}

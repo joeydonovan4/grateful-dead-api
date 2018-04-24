@@ -1,0 +1,33 @@
+{
+    "date": "December 30, 1990",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Feel Like A Stranger",
+            "Candyman",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "High Time",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "Valley Road"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "Terrapin Station",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

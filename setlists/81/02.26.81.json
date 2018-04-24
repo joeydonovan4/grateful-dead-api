@@ -1,0 +1,38 @@
+{
+    "date": "February 26, 1981",
+    "day": "Thursday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Althea",
+            "Little Red Rooster",
+            "Bird Song",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Passenger",
+            "Peggy-O",
+            "Passenger",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

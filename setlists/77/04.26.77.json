@@ -1,0 +1,32 @@
+{
+    "date": "April 26, 1977",
+    "day": "Tuesday",
+    "venue": "Capitol Theater",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Tennessee Jed",
+            "Big River",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "Deal"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Mississippi Half-Step",
+            "Dancin' In The Streets",
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "Stella Blue"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

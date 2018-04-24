@@ -1,0 +1,33 @@
+{
+    "date": "October 11, 1994",
+    "day": "Tuesday",
+    "venue": "USAir Arena",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "High Time",
+            "If The Shoe Fits",
+            "Lazy River Road",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Man Smart-Woman Smarter",
+            "Samba In The Rain",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

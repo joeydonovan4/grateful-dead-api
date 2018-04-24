@@ -1,0 +1,44 @@
+{
+    "date": "July 26, 1972",
+    "day": "Wednesday",
+    "venue": "Paramount Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Black Throated Wind",
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "Sugaree",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "The Promised Land",
+            "He's Gone",
+            "Me And My Uncle",
+            "You Win Again",
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Dark Star",
+            "Comes A Time",
+            "Sugar Magnolia",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Stella Blue",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

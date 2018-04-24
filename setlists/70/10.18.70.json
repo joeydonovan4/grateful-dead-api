@@ -1,0 +1,18 @@
+{
+    "date": "October 18, 1970",
+    "day": "Sunday",
+    "venue": "Tyrone Guthrie Theatre",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Morning Dew",
+            "Mama Tried",
+            "Cumberland Blues",
+            "Good Lovin'"
+        ]
+    }
+}

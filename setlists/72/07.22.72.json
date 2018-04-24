@@ -1,0 +1,42 @@
+{
+    "date": "July 22, 1972",
+    "day": "Saturday",
+    "venue": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "You Win Again",
+            "Jack Straw",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Cumberland Blues",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Deal",
+            "Promised Land",
+            "Sing Me Back Home",
+            "Mississippi Half-Step",
+            "Me And Bobby McGee",
+            "Ramble On Rose",
+            "Truckin'",
+            "He's Gone",
+            "Sugar Magnolia",
+            "Morning Dew",
+            "Uncle John's Band",
+            "One More Saturday Night"
+        ]
+    }
+}

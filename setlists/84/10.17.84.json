@@ -1,0 +1,37 @@
+{
+    "date": "October 17, 1984",
+    "day": "Wednesday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Promised Land",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Truckin'",
+            "Nobody's Jam",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

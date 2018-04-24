@@ -1,0 +1,13 @@
+{
+    "date": "February 20, 1970",
+    "day": "Friday",
+    "venue": "Panther Hall",
+    "city": "Fort Worth",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "March 19, 1977",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mama Tried",
+            "Loser",
+            "Big River",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Samson And Delilah",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Franklin's Tower",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "November 29, 1994",
+    "day": "Tuesday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Walkin' Blues",
+            "So Many Roads",
+            "El Paso",
+            "Tennessee Jed",
+            "Easy Answers"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Baba O'Riley",
+            "Tomorrow Never Knows",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

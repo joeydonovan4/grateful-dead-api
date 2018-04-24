@@ -1,0 +1,36 @@
+{
+    "date": "September 14, 1991",
+    "day": "Saturday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Jack-A-Roe",
+            "Desolation Row",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Ship Of Fools",
+            "Truckin'",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "China Doll",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

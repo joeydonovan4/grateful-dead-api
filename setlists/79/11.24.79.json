@@ -1,0 +1,36 @@
+{
+    "date": "November 24, 1979",
+    "day": "Saturday",
+    "venue": "Golden Hall",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Cassidy",
+            "Easy To Love You",
+            "Althea",
+            "Passenger"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

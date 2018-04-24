@@ -1,0 +1,35 @@
+{
+    "date": "November 8, 1969",
+    "day": "Saturday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Casey Jones",
+            "Dire Wolf",
+            "Easy Wind",
+            "I'm A King Bee",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Mama Tried",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cumberland Blues",
+            "Dark Star",
+            "The Other One",
+            "Dark Star",
+            "Uncle John's Band Jam",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "September 20, 1990",
+    "day": "Thursday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Althea",
+            "It's All Over Now",
+            "Ramble On Rose",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Greatest Story Ever Told",
+            "U.S. Blues"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Dark Star",
+            "Playin' Reprise",
+            "Dark Star",
+            "Throwin' Stones",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

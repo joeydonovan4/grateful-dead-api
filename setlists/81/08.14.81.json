@@ -1,0 +1,40 @@
+{
+    "date": "August 14, 1981",
+    "day": "Friday",
+    "venue": "Seattle Center Coliseum",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "On The Road Again",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Little Red Rooster",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "Bertha",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Drums",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

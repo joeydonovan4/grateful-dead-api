@@ -1,0 +1,38 @@
+{
+    "date": "May 11, 1980",
+    "day": "Sunday",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Loser",
+            "It's All Over Now",
+            "Easy To Love You",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Feel Like A Stranger",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

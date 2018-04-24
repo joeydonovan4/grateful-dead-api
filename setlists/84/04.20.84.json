@@ -1,0 +1,34 @@
+{
+    "date": "April 20, 1984",
+    "day": "Friday",
+    "venue": "Philadelphia Civic Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "It Must Have Been The Roses",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Drums",
+            "I Need A Miracle",
+            "Morning Dew",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

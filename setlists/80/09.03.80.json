@@ -1,0 +1,37 @@
+{
+    "date": "September 3, 1980",
+    "day": "Wednesday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Candyman",
+            "Easy To Love You",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "High Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "He's Gone",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

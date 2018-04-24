@@ -1,0 +1,36 @@
+{
+    "date": "July 14, 1970",
+    "day": "Tuesday",
+    "venue": "Euphoria Ballroom",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Friend Of The Devil",
+            "Dire Wolf",
+            "Dark Hollow",
+            "Candyman",
+            "Black Peter",
+            "How Long Blues",
+            "Deep Elem Blues",
+            "Cumberland Blues",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "The Frozen Logger",
+            "Casey Jones",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Easy Wind",
+            "Me And My Uncle",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ]
+    }
+}

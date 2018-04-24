@@ -1,0 +1,39 @@
+{
+    "date": "August 5, 1974",
+    "day": "Monday",
+    "venue": "Philadelphia Civic Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Deal",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "It Must Have Been The Roses",
+            "Big River",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Scarlet Begonias",
+            "He's Gone",
+            "Truckin'",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

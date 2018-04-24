@@ -1,0 +1,32 @@
+{
+    "date": "February 26, 1994",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Althea",
+            "Black Throated Wind",
+            "Loose Lucy",
+            "Broken Arrow",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

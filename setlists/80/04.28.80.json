@@ -1,0 +1,35 @@
+{
+    "date": "April 28, 1980",
+    "day": "Monday",
+    "venue": "Boutwell Auditorium",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "El Paso",
+            "Althea",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Far From Me",
+            "Feel Like A Stranger",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Goin' Down The Road Feeling Bad"
+        ]
+    }
+}

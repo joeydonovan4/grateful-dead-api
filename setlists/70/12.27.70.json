@@ -1,0 +1,17 @@
+{
+    "date": "December 27, 1970",
+    "day": "Sunday",
+    "venue": "Legion Stadium",
+    "city": "El Monte",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sunday Quartet",
+            "Silver Threads",
+            "Cold Jordan",
+            "I Hear A Voice Callin",
+            "Swing Low Sweet Chariot"
+        ]
+    }
+}

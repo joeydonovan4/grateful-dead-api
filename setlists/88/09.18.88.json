@@ -1,0 +1,33 @@
+{
+    "date": "September 18, 1988",
+    "day": "Sunday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Good Time Blues",
+            "Big Railroad Blues",
+            "Stuck Inside Of Mobile",
+            "Stagger Lee",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Not Fade Away",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

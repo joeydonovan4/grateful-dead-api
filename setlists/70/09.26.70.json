@@ -1,0 +1,22 @@
+{
+    "date": "September 26, 1970",
+    "day": "Saturday",
+    "venue": "Terrace Ballroom",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I Know You Rider",
+            "Ripple",
+            "Candyman",
+            "Friend Of The Devil"
+        ],
+        "setTwo": [
+            "Big Boss Man",
+            "Uncle John's Band",
+            "Casey Jones",
+            "Morning Dew"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "April 5, 1995",
+    "day": "Wednesday",
+    "venue": "Birmingham-Jefferson Civic Center Coliseum",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Row Jimmy",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Long Way To Go Home",
+            "Truckin'",
+            "That Would Be Something",
+            "Uncle John's Band",
+            "Matilda Matilda",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

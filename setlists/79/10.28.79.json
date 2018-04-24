@@ -1,0 +1,33 @@
+{
+    "date": "October 28, 1979",
+    "day": "Sunday",
+    "venue": "Cape Cod Coliseum",
+    "city": "South Yarmouth",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Passenger",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

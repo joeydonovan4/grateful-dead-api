@@ -1,0 +1,32 @@
+{
+    "date": "December 13, 1993",
+    "day": "Monday",
+    "venue": "San Diego Sports Arena",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Ramble On Rose",
+            "The Same Thing",
+            "Brown-Eyed Women",
+            "Broken Arrow",
+            "Easy Answers",
+            "Mississippi Half-Step"
+        ],
+        "setTwo": [
+            "Lucy In The Sky With Diamonds",
+            "Man Smart-Woman Smarter",
+            "Long Way To Go Home",
+            "Eyes Of The World",
+            "Drums",
+            "The Last Time",
+            "The Days Between",
+            "Throwin' Stones"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "date": "October 31, 1969",
+    "day": "Friday",
+    "venue": "San Jose State University",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Dire Wolf",
+            "It Hurts Me Too",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mama Tried",
+            "High Time",
+            "Sitting On Top Of The World",
+            "Next Time You See Me",
+            "Easy Wind",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "June 14, 1987",
+    "day": "Sunday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Tons Of Steel",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Feel Like A Stranger",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

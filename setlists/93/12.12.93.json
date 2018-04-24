@@ -1,0 +1,36 @@
+{
+    "date": "December 12, 1993",
+    "day": "Sunday",
+    "venue": "San Diego Sports Arena",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Althea",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "That Would Be Something",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "date": "August 4, 1967",
+    "day": "Friday",
+    "venue": "O'Keefe Center",
+    "city": "Toronto",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "New Potato Caboose",
+            "Viola Lee Blues",
+            "Alligator"
+        ]
+    }
+}

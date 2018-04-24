@@ -1,0 +1,40 @@
+{
+    "date": "August 31, 1980",
+    "day": "Sunday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Far From Me",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Uncle John's Band",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Comes A Time",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "April 3, 1985",
+    "day": "Wednesday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Down In The Bottom",
+            "Ain't Superstitious",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Spoonful",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "March 22, 1969",
+    "day": "Saturday",
+    "venue": "Rose Palace",
+    "city": "Pasadena",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "March 14, 1990",
+    "day": "Wednesday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Feel Like A Stranger",
+            "Good Time Blues",
+            "Mama Tried",
+            "Big River",
+            "Loose Lucy",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Jam",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

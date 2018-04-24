@@ -1,0 +1,35 @@
+{
+    "date": "September 16, 1990",
+    "day": "Sunday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Iko Iko",
+            "Looks Like Rain",
+            "He's Gone",
+            "Jam",
+            "Drums",
+            "Standing On The Moon",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

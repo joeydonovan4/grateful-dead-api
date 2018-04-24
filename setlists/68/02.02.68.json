@@ -1,0 +1,15 @@
+{
+    "date": "February 2, 1968",
+    "day": "Friday",
+    "venue": "Crystal Ballroom",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment"
+        ]
+    }
+}

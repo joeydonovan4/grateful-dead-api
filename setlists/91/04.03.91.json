@@ -1,0 +1,36 @@
+{
+    "date": "April 3, 1991",
+    "day": "Wednesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Crazy Fingers",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

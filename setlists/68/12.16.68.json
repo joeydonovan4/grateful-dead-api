@@ -1,0 +1,16 @@
+{
+    "date": "December 16, 1968",
+    "day": "Monday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jam"
+        ],
+        "setTwo": [
+            "Jam"
+        ]
+    }
+}

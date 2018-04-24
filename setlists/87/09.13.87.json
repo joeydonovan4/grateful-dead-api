@@ -1,0 +1,35 @@
+{
+    "date": "September 13, 1987",
+    "day": "Sunday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Fever",
+            "Stagger Lee",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Good Lovin'",
+            "La Bamba",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

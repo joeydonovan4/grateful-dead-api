@@ -1,0 +1,37 @@
+{
+    "date": "May 14, 1980",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Mexicali Blues",
+            "El Paso",
+            "Tennessee Jed",
+            "Let It Grow",
+            "Althea",
+            "Easy To Love You",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Comes A Time",
+            "The Other One",
+            "Drums",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

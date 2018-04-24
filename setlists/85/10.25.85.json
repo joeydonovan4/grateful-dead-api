@@ -1,0 +1,32 @@
+{
+    "date": "October 25, 1985",
+    "day": "Friday",
+    "venue": "The Sportatorium",
+    "city": "Hollywood",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deal",
+            "Little Red Rooster",
+            "Iko Iko",
+            "El Paso",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Loser",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

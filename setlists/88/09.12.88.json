@@ -1,0 +1,35 @@
+{
+    "date": "September 12, 1988",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Good Time Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "When I Paint My Masterpiece",
+            "When Push Comes To Shove",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Cold Rain And Snow",
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

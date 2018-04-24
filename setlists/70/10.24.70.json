@@ -1,0 +1,27 @@
+{
+    "date": "October 24, 1970",
+    "day": "Saturday",
+    "venue": "Kiel Opera House",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "It Hurts Me Too",
+            "Me And My Uncle",
+            "Friend Of The Devil",
+            "Cold Rain And Snow",
+            "Attics Of My Life",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Casey Jones",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

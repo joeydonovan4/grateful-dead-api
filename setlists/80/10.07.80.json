@@ -1,0 +1,46 @@
+{
+    "date": "October 7, 1980",
+    "day": "Tuesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "Monkey And The Engineer",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Deep Elem Blues",
+            "El Paso",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Loser",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Little Red Rooster",
+            "Don't Ease Me In",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setThree": [
+            "Shakedown Street",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "date": "March 16, 1968",
+    "day": "Saturday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Good Morning Little School Girl",
+            "It Hurts Me Too",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback",
+            "And We Bid You Goodnight",
+            "Morning Dew"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "October 29, 1985",
+    "day": "Tuesday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Deal"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "December 31, 1966",
+    "day": "Saturday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

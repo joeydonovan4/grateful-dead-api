@@ -1,0 +1,37 @@
+{
+    "date": "September 2, 1983",
+    "day": "Friday",
+    "venue": "Boise Pavilion",
+    "city": "Boise",
+    "state": "ID",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Wang Dang Doodle",
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Big River",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Throwin' Stones",
+            "Goin' Down The Road Feeling Bad",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

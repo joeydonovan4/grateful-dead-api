@@ -1,0 +1,24 @@
+{
+    "date": "March 21, 1970",
+    "day": "Saturday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Walkin' The Dog",
+            "Me And My Uncle",
+            "Death Don't Have No Mercy",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Big Boss Man",
+            "He Was A Friend Of Mine",
+            "Viola Lee Blues",
+            "The Seven",
+            "Cumberland Blues"
+        ]
+    }
+}

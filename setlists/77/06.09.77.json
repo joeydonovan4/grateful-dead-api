@@ -1,0 +1,39 @@
+{
+    "date": "June 9, 1977",
+    "day": "Thursday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Jack Straw",
+            "They Love Each Other",
+            "Cassidy",
+            "Sunrise",
+            "Deal",
+            "Looks Like Rain",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Funiculi Funicula",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "St. Stephen",
+            "Not Fade Away",
+            "Drums",
+            "St. Stephen",
+            "Terrapin Station",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "One More Saturday Night"
+        ]
+    }
+}

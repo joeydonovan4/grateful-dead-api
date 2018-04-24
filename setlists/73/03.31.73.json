@@ -1,0 +1,40 @@
+{
+    "date": "March 31, 1973",
+    "day": "Saturday",
+    "venue": "War Memorial Auditorium",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "The Race Is On",
+            "Sugaree",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "El Paso",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Spanish Jam",
+            "I Know You Rider",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

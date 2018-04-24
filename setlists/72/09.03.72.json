@@ -1,0 +1,49 @@
+{
+    "date": "September 3, 1972",
+    "day": "Sunday",
+    "venue": "Folsom Field",
+    "city": "Boulder",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Black Throated Wind",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Mississippi Half-Step",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Bertha",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "Loser",
+            "He's Gone",
+            "The Other One",
+            "Wharf Rat",
+            "Johnny B. Goode"
+        ],
+        "setThree": [
+            "Cold Rain And Snow",
+            "Sugar Magnolia",
+            "Deal",
+            "Jack Straw",
+            "Ramble On Rose",
+            "Rockin' Pneumonia & The Boogie Woogie Flu",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

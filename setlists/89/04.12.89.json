@@ -1,0 +1,35 @@
+{
+    "date": "April 12, 1989",
+    "day": "Wednesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "When I Paint My Masterpiece",
+            "Cumberland Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Spoonful",
+            "Smokestack Lightning",
+            "He's Gone",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

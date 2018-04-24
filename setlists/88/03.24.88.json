@@ -1,0 +1,34 @@
+{
+    "date": "March 24, 1988",
+    "day": "Thursday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Loser",
+            "It's All Over Now",
+            "Far From Me",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

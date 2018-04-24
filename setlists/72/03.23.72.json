@@ -1,0 +1,44 @@
+{
+    "date": "March 23, 1972",
+    "day": "Thursday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Mr. Charlie",
+            "Tennessee Jed",
+            "El Paso",
+            "You Win Again",
+            "Jack Straw",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Me And Bobby McGee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Ramble On Rose",
+            "Two Souls In Communion",
+            "Mexicali Blues",
+            "Dark Star",
+            "Big Boss Man",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

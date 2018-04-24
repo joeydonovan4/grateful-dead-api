@@ -1,0 +1,38 @@
+{
+    "date": "August 6, 1982",
+    "day": "Friday",
+    "venue": "St. Paul Civic Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "New Minglewood Blues",
+            "Candyman",
+            "Little Red Rooster",
+            "Bird Song",
+            "El Paso",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "January 2, 1970",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Uncle John's Band",
+            "High Time",
+            "Dire Wolf",
+            "Easy Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Good Lovin'",
+            "Me And My Uncle",
+            "Monkey And The Engineer",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

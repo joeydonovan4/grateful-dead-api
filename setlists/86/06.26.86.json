@@ -1,0 +1,33 @@
+{
+    "date": "June 26, 1986",
+    "day": "Thursday",
+    "venue": "The Metrodome",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Gimme Some Lovin'",
+            "Sugaree",
+            "Little Red Rooster",
+            "Iko Iko",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Mexicali Blues"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

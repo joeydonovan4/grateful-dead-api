@@ -1,0 +1,43 @@
+{
+    "date": "December 14, 1971",
+    "day": "Tuesday",
+    "venue": "Hill Auditorium",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Loser",
+            "Jack Straw",
+            "Next Time You See Me",
+            "Tennessee Jed",
+            "El Paso",
+            "Big Railroad Blues",
+            "Me And My Uncle",
+            "Run Rudolph Run",
+            "Black Peter",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Big Boss Man",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle Jam",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "You Win Again",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

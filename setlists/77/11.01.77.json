@@ -1,0 +1,34 @@
+{
+    "date": "November 1, 1977",
+    "day": "Tuesday",
+    "venue": "COBO Arena",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Passenger",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Estimated Prophet",
+            "The Other One",
+            "Drums",
+            "Wharf Rat",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

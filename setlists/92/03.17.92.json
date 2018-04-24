@@ -1,0 +1,32 @@
+{
+    "date": "March 17, 1992",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "New Minglewood Blues",
+            "Loser",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Long Way To Go Home",
+            "Truckin'",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "So Many Roads",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "date": "October 19, 1980",
+    "day": "Sunday",
+    "venue": "Saenger Performing Arts Center",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Jack-A-Roe",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "Cassidy",
+            "Bird Song",
+            "Heaven Help The Fool",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Passenger",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

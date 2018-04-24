@@ -1,0 +1,35 @@
+{
+    "date": "May 25, 1993",
+    "day": "Tuesday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Jack-A-Roe",
+            "Wang Dang Doodle",
+            "Loose Lucy",
+            "Queen Jane Approximately",
+            "Lazy River Road",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

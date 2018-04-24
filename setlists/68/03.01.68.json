@@ -1,0 +1,13 @@
+{
+    "date": "March 1, 1968",
+    "day": "Friday",
+    "venue": "The Looking Glass",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

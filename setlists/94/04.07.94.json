@@ -1,0 +1,31 @@
+{
+    "date": "April 7, 1994",
+    "day": "Thursday",
+    "venue": "Miami Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

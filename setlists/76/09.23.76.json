@@ -1,0 +1,39 @@
+{
+    "date": "September 23, 1976",
+    "day": "Thursday",
+    "venue": "Cameron Indoor Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Crazy Fingers",
+            "El Paso",
+            "It Must Have Been The Roses",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "High Time",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Drums",
+            "The Other One"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

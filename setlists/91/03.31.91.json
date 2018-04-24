@@ -1,0 +1,32 @@
+{
+    "date": "March 31, 1991",
+    "day": "Sunday",
+    "venue": "Greensboro Coliseum",
+    "city": "Greensboro",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Wang Dang Doodle",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "West LA Fadeaway",
+            "Cassidy",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

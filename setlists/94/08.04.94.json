@@ -1,0 +1,37 @@
+{
+    "date": "August 4, 1994",
+    "day": "Thursday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Walkin' Blues",
+            "So Many Roads",
+            "Eternity",
+            "Childhood's End",
+            "Deal"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

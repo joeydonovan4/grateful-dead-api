@@ -1,0 +1,34 @@
+{
+    "date": "May 3, 1979",
+    "day": "Thursday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "It's All Over Now",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Tennessee Jed",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Not Fade Away",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

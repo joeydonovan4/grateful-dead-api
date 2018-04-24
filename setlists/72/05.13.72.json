@@ -1,0 +1,42 @@
+{
+    "date": "May 13, 1972",
+    "day": "Saturday",
+    "venue": "Fairgrounds",
+    "city": "Lille",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "Loser",
+            "Beat It On Down The Line",
+            "Mr. Charlie",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Sugaree",
+            "Mexicali Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Big River",
+            "He's Gone",
+            "It Hurts Me Too",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

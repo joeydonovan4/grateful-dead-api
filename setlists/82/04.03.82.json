@@ -1,0 +1,37 @@
+{
+    "date": "April 3, 1982",
+    "day": "Saturday",
+    "venue": "The Scope",
+    "city": "Norfolk",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "C.C. Rider",
+            "Bird Song",
+            "It's All Over Now",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Good Time Blues",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "August 8, 1982",
+    "day": "Sunday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Peggy-O",
+            "Samson And Delilah"
+        ],
+        "setTwo": [
+            "Far From Me",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

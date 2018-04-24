@@ -1,0 +1,37 @@
+{
+    "date": "February 26, 1977",
+    "day": "Saturday",
+    "venue": "Swing Auditorium",
+    "city": "San Bernardino",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Terrapin Station",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Estimated Prophet",
+            "Sugaree",
+            "Mama Tried",
+            "Deal",
+            "Playin' In The Band",
+            "The Wheel",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Tennessee Jed",
+            "The Music Never Stopped",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Promised Land",
+            "Eyes Of The World",
+            "Dancin' In The Streets",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "November 2, 1979",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "El Paso",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

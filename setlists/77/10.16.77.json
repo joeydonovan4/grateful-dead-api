@@ -1,0 +1,35 @@
+{
+    "date": "October 16, 1977",
+    "day": "Sunday",
+    "venue": "Assembly Center",
+    "city": "Baton Route",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Cassidy",
+            "Loser",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Sunrise",
+            "Dire Wolf",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Good Lovin'",
+            "Terrapin Station",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

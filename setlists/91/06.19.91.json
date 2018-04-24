@@ -1,0 +1,33 @@
+{
+    "date": "June 19, 1991",
+    "day": "Wednesday",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Space",
+            "Stella Blue",
+            "The Other One",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

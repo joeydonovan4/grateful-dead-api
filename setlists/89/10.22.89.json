@@ -1,0 +1,35 @@
+{
+    "date": "October 22, 1989",
+    "day": "Sunday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Foolish Heart",
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Blow Away",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 9, 1982",
+    "day": "Friday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "C.C. Rider",
+            "Bird Song",
+            "It's All Over Now",
+            "Loser",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "To Lay Me Down",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Satisfaction"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

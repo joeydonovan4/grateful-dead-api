@@ -1,0 +1,36 @@
+{
+    "date": "April 29, 1980",
+    "day": "Tuesday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Passenger",
+            "Brown-Eyed Women",
+            "Far From Me",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

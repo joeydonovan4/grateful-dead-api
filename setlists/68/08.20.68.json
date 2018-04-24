@@ -1,0 +1,15 @@
+{
+    "date": "August 20, 1968",
+    "day": "Tuesday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "Death Don't Have No Mercy"
+        ]
+    }
+}

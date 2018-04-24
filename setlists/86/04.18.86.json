@@ -1,0 +1,37 @@
+{
+    "date": "April 18, 1986",
+    "day": "Friday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Tons Of Steel",
+            "My Baby Left Me",
+            "That's Alright Mama",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "Smokestack Lightning",
+            "Stella Blue",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

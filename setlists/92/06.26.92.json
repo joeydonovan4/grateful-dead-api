@@ -1,0 +1,35 @@
+{
+    "date": "June 26, 1992",
+    "day": "Friday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Peggy-O",
+            "The Same Thing",
+            "Loose Lucy",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Tennessee Jed",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Corrina",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

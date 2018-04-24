@@ -1,0 +1,36 @@
+{
+    "date": "October 8, 1981",
+    "day": "Thursday",
+    "venue": "Forum Theater",
+    "city": "Copenhagen",
+    "state": "N/A",
+    "country": "DNK",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Cassidy",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "date": "May 4, 1972",
+    "day": "Thursday",
+    "venue": "Olympia Theater",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Deal",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Chinatown Shuffle",
+            "Playin' In The Band",
+            "You Win Again",
+            "It Hurts Me Too",
+            "He's Gone",
+            "El Paso",
+            "Big Railroad Blues",
+            "Two Souls In Communion",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Next Time You See Me",
+            "Ramble On Rose",
+            "Jack Straw",
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Mexicali Blues",
+            "Big Boss Man",
+            "Uncle John's Band",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

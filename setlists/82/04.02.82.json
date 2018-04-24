@@ -1,0 +1,36 @@
+{
+    "date": "April 2, 1982",
+    "day": "Friday",
+    "venue": "Cameron Indoor Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Little Red Rooster",
+            "Candyman",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

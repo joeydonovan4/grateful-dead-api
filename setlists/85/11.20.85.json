@@ -1,0 +1,34 @@
+{
+    "date": "November 20, 1985",
+    "day": "Wednesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "C.C. Rider",
+            "Stagger Lee",
+            "My Brother Esau",
+            "High Time",
+            "Beat It On Down The Line",
+            "Promised Land",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Don't Need Love",
+            "Drums",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

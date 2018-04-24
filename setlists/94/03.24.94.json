@@ -1,0 +1,34 @@
+{
+    "date": "March 24, 1994",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Loser",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Loose Lucy",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

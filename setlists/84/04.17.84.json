@@ -1,0 +1,34 @@
+{
+    "date": "April 17, 1984",
+    "day": "Tuesday",
+    "venue": "Niagara Falls Convention Center",
+    "city": "Niagara Falls",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Drums",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

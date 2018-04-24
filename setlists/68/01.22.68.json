@@ -1,0 +1,24 @@
+{
+    "date": "January 22, 1968",
+    "day": "Monday",
+    "venue": "Eagle's Auditorium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Spanish Jam",
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ]
+    }
+}

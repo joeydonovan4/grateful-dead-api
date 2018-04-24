@@ -1,0 +1,38 @@
+{
+    "date": "November 20, 1971",
+    "day": "Saturday",
+    "venue": "Pauley Pavilion",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Big Railroad Blues",
+            "Jack Straw",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "You Win Again",
+            "Not Fade Away",
+            "China Cat Sunflower Jam",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

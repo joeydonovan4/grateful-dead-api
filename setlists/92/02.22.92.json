@@ -1,0 +1,36 @@
+{
+    "date": "February 22, 1992",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Stagger Lee",
+            "Wang Dang Doodle",
+            "So Many Roads",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Wave To The Wind",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "One More Saturday Night",
+            "Mississippi Half-Step",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

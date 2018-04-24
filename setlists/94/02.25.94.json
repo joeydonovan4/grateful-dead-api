@@ -1,0 +1,36 @@
+{
+    "date": "February 25, 1994",
+    "day": "Friday",
+    "venue": "Oakland Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Queen Jane Approximately",
+            "Loser",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

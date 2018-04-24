@@ -1,0 +1,36 @@
+{
+    "date": "May 30, 1992",
+    "day": "Saturday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Wang Dang Doodle",
+            "High Time",
+            "Maggie's Farm",
+            "Cumberland Blues",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Spanish Jam",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

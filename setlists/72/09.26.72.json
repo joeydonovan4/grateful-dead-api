@@ -1,0 +1,40 @@
+{
+    "date": "September 26, 1972",
+    "day": "Tuesday",
+    "venue": "Stanley Theater",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "He's Gone",
+            "Mexicali Blues",
+            "Deal",
+            "Big River",
+            "Cumberland Blues",
+            "Black Throated Wind",
+            "Bird Song",
+            "Sugaree",
+            "Around And Around",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "El Paso",
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "Tomorrow Is Forever",
+            "Truckin'",
+            "The Other One",
+            "It's All Over Now",
+            "Baby Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "26 Miles",
+            "Johnny B. Goode"
+        ]
+    }
+}

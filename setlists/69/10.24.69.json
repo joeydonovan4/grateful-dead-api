@@ -1,0 +1,28 @@
+{
+    "date": "October 24, 1969",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Dire Wolf",
+            "High Time",
+            "Hard To Handle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Easy Wind",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Mama Tried",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ]
+    }
+}

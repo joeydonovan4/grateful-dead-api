@@ -1,0 +1,34 @@
+{
+    "date": "March 25, 1972",
+    "day": "Saturday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Bo Diddley",
+            "I'm A Man",
+            "Jam",
+            "Take It Off",
+            "Mona"
+        ],
+        "setTwo": [
+            "How Sweet It Is",
+            "Are You Lonely For Me",
+            "Next Time You See Me",
+            "Brown-Eyed Women",
+            "Smokestack Lightning",
+            "Sitting On Top Of The World",
+            "Sugaree",
+            "Looks Like Rain",
+            "Bertha",
+            "Mr. Charlie",
+            "Playin' In The Band",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

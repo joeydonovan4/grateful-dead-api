@@ -1,0 +1,33 @@
+{
+    "date": "March 4, 1994",
+    "day": "Friday",
+    "venue": "Blockbuster Desert Sky Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Black Peter",
+            "Throwin' Stones"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

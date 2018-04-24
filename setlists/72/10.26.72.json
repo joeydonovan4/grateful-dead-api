@@ -1,0 +1,38 @@
+{
+    "date": "October 26, 1972",
+    "day": "Thursday",
+    "venue": "Music Hall",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Me And Bobby McGee",
+            "Don't Ease Me In",
+            "Mexicali Blues",
+            "Bird Song",
+            "Big River",
+            "Tennessee Jed",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Deal",
+            "Me And My Uncle",
+            "Brokedown Palace",
+            "Truckin'",
+            "Nobody's Fault But Mine Jam",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "One More Saturday Night"
+        ]
+    }
+}

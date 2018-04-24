@@ -1,0 +1,36 @@
+{
+    "date": "May 5, 1981",
+    "day": "Tuesday",
+    "venue": "Glens Falls Civic Center",
+    "city": "Glens Falls",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "El Paso",
+            "Ramble On Rose",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Passenger",
+            "Althea",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Uncle John's Band",
+            "Truckin'",
+            "Alabama Getaway",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

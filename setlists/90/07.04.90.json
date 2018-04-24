@@ -1,0 +1,35 @@
+{
+    "date": "July 4, 1990",
+    "day": "Wednesday",
+    "venue": "Sandstone Amphitheatre",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Mississippi Half-Step",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "It's All Over Now",
+            "Loser",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Just A Little Light",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

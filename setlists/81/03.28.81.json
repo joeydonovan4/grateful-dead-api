@@ -1,0 +1,37 @@
+{
+    "date": "March 28, 1981",
+    "day": "Saturday",
+    "venue": "Grugahalle",
+    "city": "Essen",
+    "state": "N/A",
+    "country": "GER",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

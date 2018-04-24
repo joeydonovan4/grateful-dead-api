@@ -1,0 +1,33 @@
+{
+    "date": "June 15, 1992",
+    "day": "Monday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "The Same Thing",
+            "Tennessee Jed",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Saint Of Circumstance",
+            "So Many Roads",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

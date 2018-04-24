@@ -1,0 +1,32 @@
+{
+    "date": "December 9, 1994",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "The Same Thing",
+            "Loose Lucy",
+            "El Paso",
+            "Broken Arrow",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Truckin'",
+            "That Would Be Something",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Box Of Rain",
+            "Johnny B. Goode"
+        ]
+    }
+}

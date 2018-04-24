@@ -1,0 +1,17 @@
+{
+    "date": "August 16, 1969",
+    "day": "Saturday",
+    "venue": "Max Yasgur's Farm",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "St. Stephen",
+            "Mama Tried",
+            "Dark Star",
+            "High Time",
+            "Turn On Your Love Light"
+        ]
+    }
+}

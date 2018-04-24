@@ -1,0 +1,38 @@
+{
+    "date": "January 18, 1979",
+    "day": "Thursday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Jack-A-Roe",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "Ship Of Fools",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

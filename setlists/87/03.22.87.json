@@ -1,0 +1,33 @@
+{
+    "date": "March 22, 1987",
+    "day": "Sunday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "It's All Over Now",
+            "West LA Fadeaway",
+            "El Paso",
+            "When Push Comes To Shove",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Black Peter",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

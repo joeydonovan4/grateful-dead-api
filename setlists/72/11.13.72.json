@@ -1,0 +1,35 @@
+{
+    "date": "November 13, 1972",
+    "day": "Monday",
+    "venue": "Memorial Hall",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Box Of Rain",
+            "Black Throated Wind",
+            "Candyman",
+            "El Paso",
+            "Tomorrow Is Forever",
+            "Around And Around",
+            "Brown-Eyed Women",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Dark Star",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

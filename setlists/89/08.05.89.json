@@ -1,0 +1,32 @@
+{
+    "date": "August 5, 1989",
+    "day": "Saturday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Cold Rain And Snow",
+            "We Can Run",
+            "Stagger Lee",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Hey Pocky Way",
+            "Playin' In The Band",
+            "I Know You Rider",
+            "Terrapin Station",
+            "Drums",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

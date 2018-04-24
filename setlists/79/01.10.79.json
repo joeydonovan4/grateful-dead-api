@@ -1,0 +1,38 @@
+{
+    "date": "January 10, 1979",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "El Paso",
+            "Row Jimmy",
+            "Passenger",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Dark Star",
+            "Drums",
+            "Wharf Rat",
+            "St. Stephen",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

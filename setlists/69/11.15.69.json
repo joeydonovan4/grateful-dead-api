@@ -1,0 +1,29 @@
+{
+    "date": "November 15, 1969",
+    "day": "Saturday",
+    "venue": "Lanai Theater",
+    "city": "Crockett",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Easy Wind",
+            "Cumberland Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Next Time You See Me",
+            "Mama Tried",
+            "Big Boss Man",
+            "Cosmic Charlie",
+            "Dire Wolf",
+            "Cold Rain And Snow",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Turn On Your Love Light"
+        ]
+    }
+}

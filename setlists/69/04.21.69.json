@@ -1,0 +1,34 @@
+{
+    "date": "April 21, 1969",
+    "day": "Monday",
+    "venue": "The Ark",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Morning Dew",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Sitting On Top Of The World",
+            "Alligator",
+            "Drums",
+            "Jam",
+            "Alligator",
+            "Doin' That Rag"
+        ],
+        "setTwo": [
+            "Foxy Lady Jam",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Viola Lee Blues"
+        ]
+    }
+}

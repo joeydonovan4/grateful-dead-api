@@ -1,0 +1,37 @@
+{
+    "date": "November 29, 1966",
+    "day": "Tuesday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sick And Tired",
+            "Standing On The Corner",
+            "Mindbender",
+            "It Hurts Me Too",
+            "Viola Lee Blues",
+            "I Know You Rider",
+            "It's A Sin",
+            "Cream Puff War"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "The Same Thing",
+            "Stealin",
+            "Big Boy Pete",
+            "One Kind Favor",
+            "Viola Lee Blues",
+            "Early Morning Rain",
+            "Cold Rain And Snow"
+        ],
+        "setThree": [
+            "Down So Long",
+            "There's Something On Your Mind",
+            "Lindy",
+            "Good Morning Little School Girl",
+            "I Just Wanna Make Love To You"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "February 12, 1989",
+    "day": "Sunday",
+    "venue": "The Forum",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Hell In A Bucket",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Promised Land",
+            "West LA Fadeaway",
+            "How Long Blues",
+            "Gimme Some Lovin'"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Monkey And The Engineer",
+            "Alabama Getaway",
+            "Dire Wolf",
+            "Cassidy",
+            "Stuck Inside Of Mobile",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Foolish Heart"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

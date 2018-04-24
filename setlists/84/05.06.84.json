@@ -1,0 +1,36 @@
+{
+    "date": "May 6, 1984",
+    "day": "Sunday",
+    "venue": "Silva Hall (Hult Center)",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Black Peter",
+            "Around And Around",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

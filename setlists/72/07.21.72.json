@@ -1,0 +1,40 @@
+{
+    "date": "July 21, 1972",
+    "day": "Friday",
+    "venue": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "Cumberland Blues",
+            "Me And Bobby McGee",
+            "Loser",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "Stella Blue",
+            "Playin' In The Band",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "WRS Prelude",
+            "Me And My Uncle",
+            "Deal",
+            "Jack Straw",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Jam",
+            "The Other One",
+            "Comes A Time",
+            "Sugar Magnolia",
+            "Ramble On Rose"
+        ]
+    }
+}

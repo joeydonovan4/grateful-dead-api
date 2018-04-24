@@ -1,0 +1,40 @@
+{
+    "date": "May 17, 1981",
+    "day": "Sunday",
+    "venue": "Onondaga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Little Red Rooster",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

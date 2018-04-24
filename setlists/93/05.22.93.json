@@ -1,0 +1,32 @@
+{
+    "date": "May 22, 1993",
+    "day": "Saturday",
+    "venue": "Shoreline Ampitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Broken Arrow",
+            "Supplication",
+            "Stagger Lee",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Corrina",
+            "Drums",
+            "The Last Time",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

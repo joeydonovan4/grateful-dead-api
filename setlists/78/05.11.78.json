@@ -1,0 +1,37 @@
+{
+    "date": "May 11, 1978",
+    "day": "Thursday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Loser",
+            "Mexicali Blues",
+            "Mama Tried",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London",
+            "Johnny B. Goode"
+        ]
+    }
+}

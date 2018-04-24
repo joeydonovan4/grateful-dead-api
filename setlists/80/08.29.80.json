@@ -1,0 +1,39 @@
+{
+    "date": "August 29, 1980",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Row Jimmy",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Far From Me",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Althea",
+            "Let It Grow",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "December 31, 1991",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Candyman",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "Black Throated Wind",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Not Fade Away",
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

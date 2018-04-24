@@ -1,0 +1,46 @@
+{
+    "date": "June 16, 1974",
+    "day": "Sunday",
+    "venue": "State Fairgrounds",
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Scarlet Begonias",
+            "Black Throated Wind",
+            "Sugaree",
+            "El Paso",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Ship Of Fools",
+            "U.S. Blues",
+            "The Race Is On",
+            "Eyes Of The World",
+            "Big River",
+            "Playin' In The Band"
+        ],
+        "setThree": [
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Deal",
+            "Greatest Story Ever Told",
+            "Truckin'",
+            "Nobody's Fault But Mine Jam",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

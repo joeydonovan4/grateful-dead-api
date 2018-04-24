@@ -1,0 +1,37 @@
+{
+    "date": "September 21, 1982",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Me And My Uncle",
+            "Big River",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Loser",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "High Time",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

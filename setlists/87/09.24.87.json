@@ -1,0 +1,35 @@
+{
+    "date": "September 24, 1987",
+    "day": "Thursday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "High Time",
+            "Me And My Uncle",
+            "Big River",
+            "Big Boss Man",
+            "My Brother Esau",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Hell In A Bucket",
+            "Fire On The Mountain",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "date": "January 24, 1970",
+    "day": "Saturday",
+    "venue": "Honolulu Civic Auditorium",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cumberland Blues",
+            "Cold Rain And Snow"
+        ]
+    }
+}

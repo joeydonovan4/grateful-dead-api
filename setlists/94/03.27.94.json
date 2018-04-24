@@ -1,0 +1,33 @@
+{
+    "date": "March 27, 1994",
+    "day": "Sunday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Candyman",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "October 19, 1973",
+    "day": "Friday",
+    "venue": "Fairgrounds Arena",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Jack Straw",
+            "They Love Each Other",
+            "El Paso",
+            "Row Jimmy",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Mississippi Half-Step",
+            "Big River",
+            "Dark Star",
+            "Mind Left Body Jam",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Eyes Of The World",
+            "Stella Blue",
+            "Johnny B. Goode"
+        ]
+    }
+}

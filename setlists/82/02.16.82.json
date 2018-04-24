@@ -1,0 +1,38 @@
+{
+    "date": "February 16, 1982",
+    "day": "Tuesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Nobody's Jam",
+            "Black Peter",
+            "Playin' In The Band",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "October 1, 1994",
+    "day": "Saturday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Just Like Tom Thumb's Blues",
+            "So Many Roads",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

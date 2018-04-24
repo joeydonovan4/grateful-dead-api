@@ -1,0 +1,44 @@
+{
+    "date": "March 19, 1973",
+    "day": "Monday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "He's Gone",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Wave That Flag",
+            "Box Of Rain",
+            "The Race Is On",
+            "Row Jimmy",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Loose Lucy",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Big River",
+            "Mississippi Half-Step",
+            "Stella Blue",
+            "Jack Straw",
+            "Truckin'",
+            "The Other One",
+            "Eyes Of The World",
+            "China Doll",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

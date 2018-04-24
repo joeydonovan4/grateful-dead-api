@@ -1,0 +1,33 @@
+{
+    "date": "May 20, 1992",
+    "day": "Wednesday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Walkin' Blues",
+            "Brown-Eyed Women",
+            "Desolation Row",
+            "Stagger Lee",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Truckin'",
+            "Crazy Fingers",
+            "Saint Of Circumstance",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

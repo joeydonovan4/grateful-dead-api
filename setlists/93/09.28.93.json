@@ -1,0 +1,33 @@
+{
+    "date": "September 28, 1993",
+    "day": "Tuesday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "So Many Roads",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Attics Of My Life",
+            "Throwin' Stones",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

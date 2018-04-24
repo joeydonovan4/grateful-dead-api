@@ -1,0 +1,33 @@
+{
+    "date": "April 4, 1987",
+    "day": "Saturday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Althea",
+            "El Paso",
+            "Tennessee Jed",
+            "Cassidy",
+            "Good Time Blues",
+            "Box Of Rain",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Willie And The Hand Jive",
+            "Drums",
+            "Truckin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

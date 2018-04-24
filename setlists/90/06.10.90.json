@@ -1,0 +1,34 @@
+{
+    "date": "June 10, 1990",
+    "day": "Sunday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Dire Wolf",
+            "Wang Dang Doodle",
+            "Row Jimmy",
+            "Picasso Moon",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Eyes Of The World",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "This Could Be The Last Time"
+        ]
+    }
+}

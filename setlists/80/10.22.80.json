@@ -1,0 +1,44 @@
+{
+    "date": "October 22, 1980",
+    "day": "Wednesday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "Been All Around This World",
+            "Monkey And The Engineer",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

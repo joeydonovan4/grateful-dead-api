@@ -1,0 +1,33 @@
+{
+    "date": "August 24, 1985",
+    "day": "Saturday",
+    "venue": "Boreal Ridge Ski Resort",
+    "city": "Donner's Summit",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Day Tripper"
+        ]
+    }
+}

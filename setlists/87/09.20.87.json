@@ -1,0 +1,35 @@
+{
+    "date": "September 20, 1987",
+    "day": "Sunday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Far From Me",
+            "It Must Have Been The Roses",
+            "Desolation Row",
+            "Might As Well",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Iko Iko",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "Brokedown Palace"
+        ]
+    }
+}

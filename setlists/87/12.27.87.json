@@ -1,0 +1,36 @@
+{
+    "date": "December 27, 1987",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Jack Straw",
+            "Peggy-O",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

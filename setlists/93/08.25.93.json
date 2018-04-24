@@ -1,0 +1,33 @@
+{
+    "date": "August 25, 1993",
+    "day": "Wednesday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "The Same Thing",
+            "Friend Of The Devil",
+            "Easy Answers",
+            "So Many Roads",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "All Along The Watchtower",
+            "Attics Of My Life",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

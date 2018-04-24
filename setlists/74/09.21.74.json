@@ -1,0 +1,33 @@
+{
+    "date": "September 21, 1974",
+    "day": "Saturday",
+    "venue": "Palais Des Sports",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Sugaree",
+            "Promised Land",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Eyes Of The World",
+            "China Doll"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Row Jimmy",
+            "Big River",
+            "Ship Of Fools",
+            "Uncle John's Band",
+            "Around And Around",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "July 13, 1994",
+    "day": "Wednesday",
+    "venue": "Franklin County Airport",
+    "city": "Highgate",
+    "state": "VT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Jack Straw",
+            "Althea",
+            "Queen Jane Approximately",
+            "Loser",
+            "It's All Over Now",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "New Speedway Boogie",
+            "Long Way To Go Home",
+            "Corrina",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "I Want To Tell You",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

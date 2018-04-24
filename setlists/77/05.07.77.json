@@ -1,0 +1,36 @@
+{
+    "date": "May 7, 1977",
+    "day": "Saturday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Cassidy",
+            "Deal",
+            "Jack Straw",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Big River",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

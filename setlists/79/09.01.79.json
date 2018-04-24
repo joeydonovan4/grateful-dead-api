@@ -1,0 +1,33 @@
+{
+    "date": "September 1, 1979",
+    "day": "Saturday",
+    "venue": "Holleder Stadium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

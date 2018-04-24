@@ -1,0 +1,34 @@
+{
+    "date": "April 13, 1989",
+    "day": "Thursday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "It's All Over Now",
+            "To Lay Me Down",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

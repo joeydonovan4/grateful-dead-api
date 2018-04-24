@@ -1,0 +1,47 @@
+{
+    "date": "June 22, 1973",
+    "day": "Friday",
+    "venue": "PNE Coliseum",
+    "city": "Vancouver",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "Deal",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Bird Song",
+            "The Race Is On",
+            "Sugaree",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Promised Land",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Black Peter",
+            "Greatest Story Ever Told",
+            "Big Railroad Blues",
+            "He's Gone",
+            "Truckin'",
+            "Nobody's Jam",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

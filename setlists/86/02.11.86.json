@@ -1,0 +1,35 @@
+{
+    "date": "February 11, 1986",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "New Minglewood Blues",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "The Music Never Stopped",
+            "Might As Well",
+            "Drums"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Hey Bo Diddley",
+            "Goin' Down The Road Feeling Bad"
+        ]
+    }
+}

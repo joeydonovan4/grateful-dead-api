@@ -1,0 +1,23 @@
+{
+    "date": "May 6, 1970",
+    "day": "Wednesday",
+    "venue": "Kresge Plaza",
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Next Time You See Me",
+            "Morning Dew",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Casey Jones",
+            "St. Stephen",
+            "Not Fade Away"
+        ]
+    }
+}

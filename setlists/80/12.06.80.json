@@ -1,0 +1,23 @@
+{
+    "date": "December 6, 1980",
+    "day": "Saturday",
+    "venue": "Mill Valley Recreation Center",
+    "city": "Mill Valley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "Been All Around This World",
+            "Monkey And The Engineer",
+            "Jack-A-Roe",
+            "Cassidy",
+            "Bird Song",
+            "Oh Babe It Ain't No Lie"
+        ],
+        "encore": [
+            "Ripple"
+        ]
+    }
+}

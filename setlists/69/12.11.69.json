@@ -1,0 +1,35 @@
+{
+    "date": "December 11, 1969",
+    "day": "Thursday",
+    "venue": "Thelma Theater",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Black Peter",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Cumberland Blues",
+            "Morning Dew",
+            "Next Time You See Me",
+            "Sitting On Top Of The World",
+            "Beat It On Down The Line",
+            "Big Boss Man",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "High Time",
+            "Dancin' In The Streets",
+            "Easy Wind",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ]
+    }
+}

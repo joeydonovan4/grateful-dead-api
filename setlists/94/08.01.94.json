@@ -1,0 +1,33 @@
+{
+    "date": "August 1, 1994",
+    "day": "Monday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Peggy-O",
+            "The Same Thing",
+            "Stagger Lee",
+            "Childhood's End",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samba In The Rain",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Satisfaction"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

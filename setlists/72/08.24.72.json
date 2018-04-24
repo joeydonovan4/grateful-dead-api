@@ -1,0 +1,39 @@
+{
+    "date": "August 24, 1972",
+    "day": "Thursday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Truckin'",
+            "Dark Star",
+            "Morning Dew",
+            "Sugar Magnolia",
+            "Ramble On Rose",
+            "Greatest Story Ever Told",
+            "Sing Me Back Home",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

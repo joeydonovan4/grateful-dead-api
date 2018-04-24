@@ -1,0 +1,35 @@
+{
+    "date": "April 17, 1987",
+    "day": "Friday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "When Push Comes To Shove",
+            "Desolation Row",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

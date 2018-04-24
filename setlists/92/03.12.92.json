@@ -1,0 +1,34 @@
+{
+    "date": "March 12, 1992",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Bertha",
+            "Walkin' Blues",
+            "Stagger Lee",
+            "Beat It On Down The Line",
+            "Just Like Tom Thumb's Blues",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Corrina",
+            "Playin' Reprise",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

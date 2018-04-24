@@ -1,0 +1,33 @@
+{
+    "date": "August 27, 1993",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Lazy River Road",
+            "Broken Arrow",
+            "Loose Lucy",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Wave To The Wind",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Corrina",
+            "Drums",
+            "I Need A Miracle",
+            "The Days Between",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

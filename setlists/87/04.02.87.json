@@ -1,0 +1,37 @@
+{
+    "date": "April 2, 1987",
+    "day": "Thursday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Dupree's Diamond Blues",
+            "Far From Me",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "When Push Comes To Shove",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Drums",
+            "Gimme Some Lovin'",
+            "The Wheel",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

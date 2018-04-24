@@ -1,0 +1,33 @@
+{
+    "date": "June 30, 1995",
+    "day": "Friday",
+    "venue": "Three Rivers Stadium",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Take Me To The River",
+            "Candyman",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Rain",
+            "Box Of Rain",
+            "Samba In The Rain",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Rhythm Devils",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "June 23, 1992",
+    "day": "Tuesday",
+    "venue": "Star Lake Amphitheatre",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Stuck Inside Of Mobile",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Spoonful",
+            "So Many Roads",
+            "Long Way To Go Home",
+            "Corrina",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

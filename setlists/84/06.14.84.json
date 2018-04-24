@@ -1,0 +1,32 @@
+{
+    "date": "June 14, 1984",
+    "day": "Thursday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Playin' In The Band",
+            "Dear Mr. Fantasy",
+            "Drums",
+            "Playin' In The Band",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

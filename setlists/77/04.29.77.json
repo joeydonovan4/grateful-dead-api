@@ -1,0 +1,38 @@
+{
+    "date": "April 29, 1977",
+    "day": "Friday",
+    "venue": "The Palladium",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Cassidy",
+            "They Love Each Other",
+            "Big River",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sugaree",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

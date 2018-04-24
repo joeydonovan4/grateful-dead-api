@@ -1,0 +1,37 @@
+{
+    "date": "December 12, 1990",
+    "day": "Wednesday",
+    "venue": "McNichols Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "Walkin' Blues",
+            "Loose Lucy",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Queen Jane Approximately",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Iko Iko",
+            "Dark Star",
+            "Terrapin Station",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

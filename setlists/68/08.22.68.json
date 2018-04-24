@@ -1,0 +1,28 @@
+{
+    "date": "August 22, 1968",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "St. Stephen",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

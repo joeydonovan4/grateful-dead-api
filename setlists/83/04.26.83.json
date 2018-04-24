@@ -1,0 +1,37 @@
+{
+    "date": "April 26, 1983",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Maybe You Know How I Feel",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "It Must Have Been The Roses",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Truckin'",
+            "Nobody's Jam",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "June 25, 1983",
+    "day": "Saturday",
+    "venue": "St. Paul Civic Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Cassidy",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Uncle John's Band",
+            "Drums",
+            "Throwin' Stones",
+            "Black Peter",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

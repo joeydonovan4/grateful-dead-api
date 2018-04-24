@@ -1,0 +1,38 @@
+{
+    "date": "December 12, 1972",
+    "day": "Tuesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Box Of Rain",
+            "El Paso",
+            "Cumberland Blues",
+            "Don't Ease Me In",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

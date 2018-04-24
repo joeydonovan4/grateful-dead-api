@@ -1,0 +1,37 @@
+{
+    "date": "July 26, 1994",
+    "day": "Tuesday",
+    "venue": "Riverport Amphitheatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Lazy River Road",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Childhood's End",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Victim Or The Crime",
+            "Samba In The Rain",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Attics Of My Life",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "December 11, 1972",
+    "day": "Monday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Loser",
+            "Me And Bobby McGee",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Box Of Rain",
+            "He's Gone",
+            "Around And Around",
+            "Friend Of The Devil",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Dark Star",
+            "Stella Blue",
+            "Big River",
+            "Deal",
+            "Truckin'",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

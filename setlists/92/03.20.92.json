@@ -1,0 +1,33 @@
+{
+    "date": "March 20, 1992",
+    "day": "Friday",
+    "venue": "Copps Coliseum",
+    "city": "Hamilton",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Althea",
+            "The Same Thing",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

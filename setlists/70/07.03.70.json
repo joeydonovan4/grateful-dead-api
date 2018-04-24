@@ -1,0 +1,13 @@
+{
+    "date": "July 3, 1970",
+    "day": "Friday",
+    "venue": "McMahon Stadium",
+    "city": "Calgary",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

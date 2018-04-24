@@ -1,0 +1,37 @@
+{
+    "date": "March 8, 1992",
+    "day": "Sunday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Loose Lucy",
+            "Desolation Row",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Wave To The Wind",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "So Many Roads",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

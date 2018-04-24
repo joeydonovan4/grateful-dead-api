@@ -1,0 +1,23 @@
+{
+    "date": "September 19, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Good Morning Little School Girl",
+            "Cold Rain And Snow",
+            "Easy Wind",
+            "Sugar Magnolia",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Darkness Jam",
+            "Turn On Your Love Light"
+        ]
+    }
+}

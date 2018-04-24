@@ -1,0 +1,31 @@
+{
+    "date": "March 9, 1985",
+    "day": "Saturday",
+    "venue": "Berkeley Community Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "One More Saturday Night",
+            "Sugaree",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "Cumberland Blues",
+            "I Need A Miracle",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "The Wheel",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

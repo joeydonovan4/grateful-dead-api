@@ -1,0 +1,36 @@
+{
+    "date": "November 4, 1977",
+    "day": "Friday",
+    "venue": "Cotterrell Gym",
+    "city": "Hamilton",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "Sunrise",
+            "New Minglewood Blues",
+            "Dupree's Diamond Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Cold Rain And Snow",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "The Other One",
+            "Drums",
+            "Iko Iko",
+            "Stella Blue",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

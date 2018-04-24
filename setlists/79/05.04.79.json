@@ -1,0 +1,37 @@
+{
+    "date": "May 4, 1979",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Loser",
+            "New Minglewood Blues",
+            "Don't Ease Me In",
+            "Passenger"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Stella Blue"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

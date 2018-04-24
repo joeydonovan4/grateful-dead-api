@@ -1,0 +1,23 @@
+{
+    "date": "November 21, 1970",
+    "day": "Saturday",
+    "venue": "Sargent Gym",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Candyman",
+            "Mama Tried",
+            "Easy Wind",
+            "St. Stephen",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Uncle John's Band"
+        ]
+    }
+}

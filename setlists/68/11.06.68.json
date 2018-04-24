@@ -1,0 +1,16 @@
+{
+    "date": "November 6, 1968",
+    "day": "Wednesday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven"
+        ]
+    }
+}

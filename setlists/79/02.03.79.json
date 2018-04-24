@@ -1,0 +1,36 @@
+{
+    "date": "February 3, 1979",
+    "day": "Saturday",
+    "venue": "Market Square Arena",
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Candyman",
+            "Mama Tried",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "From The Heart Of Me",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

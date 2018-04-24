@@ -1,0 +1,36 @@
+{
+    "date": "June 21, 1984",
+    "day": "Thursday",
+    "venue": "Kingswood Music Theatre",
+    "city": "Vaughan",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Dupree's Diamond Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Time Blues",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "New Orleans",
+            "Big Boss Man",
+            "Iko Iko"
+        ]
+    }
+}

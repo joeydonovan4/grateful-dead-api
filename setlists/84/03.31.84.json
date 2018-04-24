@@ -1,0 +1,34 @@
+{
+    "date": "March 31, 1984",
+    "day": "Saturday",
+    "venue": "Marin County Veteran's Memorial Auditorium",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Feel Like A Stranger",
+            "Dupree's Diamond Blues",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Hell In A Bucket",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Blues For Allah Jam",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

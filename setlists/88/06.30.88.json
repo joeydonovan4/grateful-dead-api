@@ -1,0 +1,38 @@
+{
+    "date": "June 30, 1988",
+    "day": "Thursday",
+    "venue": "Silver Stadium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Far From Me",
+            "Queen Jane Approximately",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Green Onions",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Believe It Or Not",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

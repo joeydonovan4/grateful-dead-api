@@ -1,0 +1,43 @@
+{
+    "date": "December 18, 1973",
+    "day": "Tuesday",
+    "venue": "Curtis Hixon Convention Hall",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Me And Bobby McGee",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "El Paso",
+            "Deal",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Dark Star",
+            "Drums",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

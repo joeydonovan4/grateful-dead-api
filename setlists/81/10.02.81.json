@@ -1,0 +1,36 @@
+{
+    "date": "October 2, 1981",
+    "day": "Friday",
+    "venue": "Rainbow Theater",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "Cassidy",
+            "Dire Wolf",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Shakedown Street",
+            "Bertha",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

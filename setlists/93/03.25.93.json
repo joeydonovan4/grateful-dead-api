@@ -1,0 +1,36 @@
+{
+    "date": "March 25, 1993",
+    "day": "Thursday",
+    "venue": "The Dean Dome",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "So Many Roads",
+            "New Minglewood Blues",
+            "Lazy River Road",
+            "Mexicali Blues",
+            "Big River",
+            "Friend Of The Devil",
+            "Eternity",
+            "Liberty"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Wave To The Wind",
+            "Terrapin Station",
+            "Drums",
+            "Long Way To Go Home",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

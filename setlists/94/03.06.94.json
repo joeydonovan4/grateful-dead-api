@@ -1,0 +1,35 @@
+{
+    "date": "March 6, 1994",
+    "day": "Sunday",
+    "venue": "Blockbuster Desert Sky Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Spoonful",
+            "Jack-A-Roe",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Easy Answers",
+            "Lazy River Road",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "The Last Time",
+            "Attics Of My Life",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

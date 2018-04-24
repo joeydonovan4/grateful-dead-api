@@ -1,0 +1,44 @@
+{
+    "date": "November 21, 1973",
+    "day": "Wednesday",
+    "venue": "Denver Coliseum",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Sugaree",
+            "Jack Straw",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Mexican Hat Dance Tuning",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Here Comes Sunshine",
+            "Big River",
+            "Brokedown Palace",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Playin' In The Band",
+            "El Paso",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "Morning Dew",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

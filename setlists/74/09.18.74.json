@@ -1,0 +1,41 @@
+{
+    "date": "September 18, 1974",
+    "day": "Wednesday",
+    "venue": "Parc des Expositions",
+    "city": "Dijon",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Uncle John's Band",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Scarlet Begonias",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Deal",
+            "The Race Is On",
+            "To Lay Me Down",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Loose Lucy",
+            "Big River",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Eyes Of The World",
+            "China Doll",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Ship Of Fools",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

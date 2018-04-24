@@ -1,0 +1,35 @@
+{
+    "date": "September 2, 1979",
+    "day": "Sunday",
+    "venue": "Augusta Civic Center",
+    "city": "Augusta",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Stagger Lee",
+            "Cassidy",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Jack-A-Roe",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ramble On Rose",
+            "Terrapin Station",
+            "Let It Grow",
+            "Drums",
+            "Stella Blue",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

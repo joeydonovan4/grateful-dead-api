@@ -1,0 +1,33 @@
+{
+    "date": "September 15, 1982",
+    "day": "Wednesday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "Let It Grow",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

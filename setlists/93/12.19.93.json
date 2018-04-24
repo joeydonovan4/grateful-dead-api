@@ -1,0 +1,35 @@
+{
+    "date": "December 19, 1993",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Wang Dang Doodle",
+            "Loose Lucy",
+            "Queen Jane Approximately",
+            "It Must Have Been The Roses",
+            "It's All Over Now",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "So Many Roads",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "The Other One",
+            "The Days Between",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

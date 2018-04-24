@@ -1,0 +1,34 @@
+{
+    "date": "June 7, 1991",
+    "day": "Friday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Loser",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "New Speedway Boogie",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

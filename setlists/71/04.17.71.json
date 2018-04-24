@@ -1,0 +1,35 @@
+{
+    "date": "April 17, 1971",
+    "day": "Saturday",
+    "venue": "Dillon Gym",
+    "city": "Princeton",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Big Railroad Blues",
+            "Big Boss Man",
+            "Bird Song",
+            "Playin' In The Band",
+            "Hard To Handle",
+            "Loser",
+            "Mama Tried",
+            "Casey Jones",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Me And Bobby McGee",
+            "Deal",
+            "Beat It On Down The Line",
+            "I'm A King Bee",
+            "Bertha",
+            "Sing Me Back Home",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ]
+    }
+}

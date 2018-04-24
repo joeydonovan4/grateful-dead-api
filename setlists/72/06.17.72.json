@@ -1,0 +1,43 @@
+{
+    "date": "June 17, 1972",
+    "day": "Saturday",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Loser",
+            "Beat It On Down The Line",
+            "Stella Blue",
+            "El Paso",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Big Railroad Blues",
+            "Jack Straw",
+            "Cumberland Blues",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Ramble On Rose",
+            "Rockin' Pneumonia & The Boogie Woogie Flu",
+            "Sugar Magnolia",
+            "You Win Again",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

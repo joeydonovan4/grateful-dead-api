@@ -1,0 +1,17 @@
+{
+    "date": "October 10, 1968",
+    "day": "Thursday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Alligator",
+            "The Other One",
+            "Death Don't Have No Mercy",
+            "Dark Star Jam"
+        ]
+    }
+}

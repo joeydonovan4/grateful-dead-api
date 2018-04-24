@@ -1,0 +1,31 @@
+{
+    "date": "March 20, 1971",
+    "day": "Saturday",
+    "venue": "University of Iowa",
+    "city": "Iowa City",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Hard To Handle",
+            "Playin' In The Band",
+            "Bertha",
+            "Deal",
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "Me And Bobby McGee",
+            "Cumberland Blues",
+            "Big Boss Man",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Sugar Magnolia",
+            "Around And Around",
+            "Uncle John's Band",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "April 5, 1969",
+    "day": "Saturday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Hard To Handle",
+            "Cosmic Charlie",
+            "China Cat Sunflower",
+            "Doin' That Rag",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "The Eleven",
+            "It's A Sin",
+            "Alligator",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

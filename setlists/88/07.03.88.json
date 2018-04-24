@@ -1,0 +1,34 @@
+{
+    "date": "July 3, 1988",
+    "day": "Sunday",
+    "venue": "Oxford Plains Speedway",
+    "city": "Oxford",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Tennessee Jed",
+            "Queen Jane Approximately",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Hey Pocky Way",
+            "Looks Like Rain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "I Will Take You Home",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

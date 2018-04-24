@@ -1,0 +1,13 @@
+{
+    "date": "April 25, 1970",
+    "day": "Saturday",
+    "venue": "Mammoth Gardens",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "April 4, 1995",
+    "day": "Tuesday",
+    "venue": "Birmingham-Jefferson Civic Center Coliseum",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Iko Iko",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Easy Answers",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

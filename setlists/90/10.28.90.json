@@ -1,0 +1,35 @@
+{
+    "date": "October 28, 1990",
+    "day": "Sunday",
+    "venue": "The Zenith",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Candyman",
+            "Box Of Rain",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Althea",
+            "Cassidy",
+            "Tennessee Jed",
+            "Stander On The Mountain"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "August 24, 1968",
+    "day": "Saturday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "January 26, 1970",
+    "day": "Monday",
+    "venue": "Honolulu Civic Auditorium",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

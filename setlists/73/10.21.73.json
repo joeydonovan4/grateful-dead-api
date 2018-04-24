@@ -1,0 +1,37 @@
+{
+    "date": "October 21, 1973",
+    "day": "Sunday",
+    "venue": "Civic Auditorium",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Beat It On Down The Line",
+            "Loser",
+            "Black Throated Wind",
+            "They Love Each Other",
+            "Cumberland Blues",
+            "El Paso",
+            "You Ain't Woman Enough",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Mississippi Half-Step",
+            "Big River",
+            "Playin' In The Band",
+            "He's Gone",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

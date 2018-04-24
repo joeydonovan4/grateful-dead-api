@@ -1,0 +1,32 @@
+{
+    "date": "December 28, 1990",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Victim Or The Crime",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "January 22, 1978",
+    "day": "Sunday",
+    "venue": "McArthur Court",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Peggy-O",
+            "El Paso",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Row Jimmy",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Close Encounters",
+            "St. Stephen",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

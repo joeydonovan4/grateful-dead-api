@@ -1,0 +1,56 @@
+{
+    "date": "May 14, 1970",
+    "day": "Thursday",
+    "venue": "Merramac Community College",
+    "city": "Kirkwood",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Friend Of The Devil",
+            "Deep Elem Blues",
+            "Silver Threads And Golden Needles",
+            "Candyman"
+        ],
+        "setTwo": [
+            "Six Days On The Road",
+            "Whatcha Gonna Do",
+            "Brown-Eyed Handsome Man",
+            "I Don't Know You",
+            "Cecilia",
+            "Cona't Pay The Price",
+            "Henry",
+            "Garden Of Eden",
+            "Fair Chance To Know",
+            "Last Lonely Eagle",
+            "Lodi",
+            "The Weight"
+        ],
+        "setThree": [
+            "Casey Jones",
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "Mama Tried",
+            "High Time",
+            "Drums",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Good Morning Little School Girl",
+            "Me And My Uncle",
+            "Dire Wolf",
+            "Cold Rain And Snow",
+            "Attics Of My Life",
+            "Cumberland Blues",
+            "New Speedway Boogie",
+            "St. Stephen",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Cold Jordan"
+        ]
+    }
+}

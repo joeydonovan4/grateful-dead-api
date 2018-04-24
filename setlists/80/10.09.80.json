@@ -1,0 +1,48 @@
+{
+    "date": "October 9, 1980",
+    "day": "Thursday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Dark Hollow",
+            "Been All Around This World",
+            "Cassidy",
+            "China Doll",
+            "On The Road Again",
+            "Bird Song",
+            "The Race Is On",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setThree": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "High Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

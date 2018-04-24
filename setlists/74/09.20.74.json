@@ -1,0 +1,42 @@
+{
+    "date": "September 20, 1974",
+    "day": "Friday",
+    "venue": "Palais Des Sports",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Cumberland Blues",
+            "Jack Straw",
+            "It Must Have Been The Roses",
+            "Beat It On Down The Line",
+            "Scarlet Begonias",
+            "Black Throated Wind",
+            "Friend Of The Devil",
+            "El Paso",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Brown-Eyed Women",
+            "Greatest Story Ever Told",
+            "Brokedown Palace",
+            "Truckin'",
+            "Eyes Of The World",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

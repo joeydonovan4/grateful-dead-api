@@ -1,0 +1,13 @@
+{
+    "date": "October 6, 1969",
+    "day": "Monday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

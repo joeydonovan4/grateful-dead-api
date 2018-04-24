@@ -1,0 +1,29 @@
+{
+    "date": "August 5, 1970",
+    "day": "Wednesday",
+    "venue": "Golden Hall Community Concourse",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Candyman",
+            "El Paso",
+            "Rosalie McFall",
+            "Cocaine Blues",
+            "Drink Up And Go Home",
+            "I Hear A Voice Callin",
+            "Cold Jordan",
+            "Swing Low Sweet Chariot"
+        ],
+        "setTwo": [
+            "Deep Elem Blues",
+            "Dark Hollow",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "To Lay Me Down",
+            "Dire Wolf",
+            "The Ballad Of Casey Jones"
+        ]
+    }
+}

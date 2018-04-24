@@ -1,0 +1,13 @@
+{
+    "date": "September 1, 1965",
+    "day": "Wednesday",
+    "venue": "In Room",
+    "city": "Belmont",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

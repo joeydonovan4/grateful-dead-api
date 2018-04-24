@@ -1,0 +1,32 @@
+{
+    "date": "May 21, 1992",
+    "day": "Thursday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

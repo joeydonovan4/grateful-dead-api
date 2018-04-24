@@ -1,0 +1,37 @@
+{
+    "date": "March 26, 1988",
+    "day": "Saturday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Stir It Up",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Mexicali Blues",
+            "Big River",
+            "Row Jimmy",
+            "Stuck Inside Of Mobile",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Gimme Some Lovin'",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

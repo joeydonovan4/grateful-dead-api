@@ -1,0 +1,35 @@
+{
+    "date": "October 21, 1978",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ollin Arrageed",
+            "Promised Land",
+            "Sugaree",
+            "Passenger",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "I Need A Miracle"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Mojo",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

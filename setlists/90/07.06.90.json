@@ -1,0 +1,37 @@
+{
+    "date": "July 6, 1990",
+    "day": "Friday",
+    "venue": "Cardinal Stadium",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Easy To Love You",
+            "Peggy-O",
+            "Desolation Row",
+            "West LA Fadeaway",
+            "Picasso Moon",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Standing On The Moon",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

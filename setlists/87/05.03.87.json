@@ -1,0 +1,34 @@
+{
+    "date": "May 3, 1987",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Promised Land",
+            "Row Jimmy",
+            "Peggy-O",
+            "Good Time Blues",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Feel Like A Stranger",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "The Mighty Quinn"
+        ]
+    }
+}

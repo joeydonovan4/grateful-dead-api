@@ -1,0 +1,37 @@
+{
+    "date": "July 18, 1982",
+    "day": "Sunday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Cassidy",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Crazy Fingers",
+            "Drums",
+            "Not Fade Away",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

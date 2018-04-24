@@ -1,0 +1,21 @@
+{
+    "date": "October 30, 1968",
+    "day": "Wednesday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "Death Letter Blues",
+            "The Other One",
+            "Turn On Your Love Light",
+            "The Seven",
+            "Death Don't Have No Mercy",
+            "Jam",
+            "Prisoner Blues",
+            "Dark Star Jam"
+        ]
+    }
+}

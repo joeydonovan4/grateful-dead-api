@@ -1,0 +1,24 @@
+{
+    "date": "May 7, 1969",
+    "day": "Wednesday",
+    "venue": "Polo Field at Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Good Lovin'",
+            "Dancin' In The Streets",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Dark Star",
+            "Me And My Uncle",
+            "Hi Heeled Sneakers",
+            "The Eleven",
+            "Smokestack Lightning"
+        ]
+    }
+}

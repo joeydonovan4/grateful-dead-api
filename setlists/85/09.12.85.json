@@ -1,0 +1,36 @@
+{
+    "date": "September 12, 1985",
+    "day": "Thursday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Bertha",
+            "It's All Over Now",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Drums",
+            "Not Fade Away",
+            "Brokedown Palace"
+        ]
+    }
+}

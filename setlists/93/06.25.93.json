@@ -1,0 +1,33 @@
+{
+    "date": "June 25, 1993",
+    "day": "Friday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Just Like Tom Thumb's Blues",
+            "Althea",
+            "Cassidy",
+            "Cumberland Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Saint Of Circumstance",
+            "Uncle John's Band",
+            "Corrina",
+            "Drums",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

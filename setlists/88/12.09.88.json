@@ -1,0 +1,34 @@
+{
+    "date": "December 9, 1988",
+    "day": "Friday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Franklin's Tower",
+            "When I Paint My Masterpiece",
+            "Jack-A-Roe",
+            "Walkin' Blues",
+            "High Time",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

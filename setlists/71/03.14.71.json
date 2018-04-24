@@ -1,0 +1,30 @@
+{
+    "date": "March 14, 1971",
+    "day": "Sunday",
+    "venue": "Camp Randall Field House",
+    "city": "Madison",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Me And My Uncle",
+            "It Hurts Me Too",
+            "Bertha",
+            "Me And Bobby McGee",
+            "Hard To Handle",
+            "Loser",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Sugar Magnolia",
+            "Wharf Rat",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Uncle John's Band"
+        ]
+    }
+}

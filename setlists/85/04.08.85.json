@@ -1,0 +1,38 @@
+{
+    "date": "April 8, 1985",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "In The Midnight Hour",
+            "Walkin' The Dog",
+            "Big Boss Man",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Down In The Bottom",
+            "Ain't Superstitious",
+            "Althea",
+            "Tons Of Steel",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Revolution",
+            "Hell In A Bucket",
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Stella Blue",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

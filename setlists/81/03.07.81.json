@@ -1,0 +1,37 @@
+{
+    "date": "March 7, 1981",
+    "day": "Saturday",
+    "venue": "Cole Field House",
+    "city": "College Park",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "C.C. Rider",
+            "Jack-A-Roe",
+            "Passenger",
+            "Bird Song",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

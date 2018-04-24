@@ -1,0 +1,18 @@
+{
+    "date": "July 30, 1970",
+    "day": "Thursday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "To Lay Me Down",
+            "Dire Wolf",
+            "Candyman",
+            "Rosalie McFall",
+            "I Hear A Voice Callin",
+            "Swing Low Sweet Chariot"
+        ]
+    }
+}

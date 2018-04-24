@@ -1,0 +1,36 @@
+{
+    "date": "April 23, 1977",
+    "day": "Saturday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Cassidy",
+            "Loser",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "It's All Over Now",
+            "Scarlet Begonias",
+            "Fire On The Mountain"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Bertha",
+            "The Music Never Stopped",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

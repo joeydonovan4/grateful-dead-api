@@ -1,0 +1,36 @@
+{
+    "date": "October 6, 1977",
+    "day": "Thursday",
+    "venue": "Activity Center",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Loser",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "December 28, 1991",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Jack Straw",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Queen Jane Approximately",
+            "Loser",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "One More Saturday Night Reprise"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

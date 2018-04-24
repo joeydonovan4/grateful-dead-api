@@ -1,0 +1,22 @@
+{
+    "date": "March 15, 1969",
+    "day": "Saturday",
+    "venue": "Hilton Hotel",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Hard To Handle",
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

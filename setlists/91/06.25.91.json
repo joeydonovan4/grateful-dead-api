@@ -1,0 +1,34 @@
+{
+    "date": "June 25, 1991",
+    "day": "Tuesday",
+    "venue": "Sandstone Amphitheatre",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Walkin' Blues",
+            "Candyman",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Smokestack Lightning",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Comes A Time",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "It's All Over Now"
+        ]
+    }
+}

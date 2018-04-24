@@ -1,0 +1,36 @@
+{
+    "date": "December 26, 1982",
+    "day": "Sunday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Cassidy",
+            "Candyman",
+            "It's All Over Now",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Far From Me",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Throwin' Stones",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

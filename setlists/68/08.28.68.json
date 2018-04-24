@@ -1,0 +1,18 @@
+{
+    "date": "August 28, 1968",
+    "day": "Wednesday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light",
+            "Good Morning Little School Girl"
+        ]
+    }
+}

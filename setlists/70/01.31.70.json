@@ -1,0 +1,34 @@
+{
+    "date": "January 31, 1970",
+    "day": "Saturday",
+    "venue": "The Wharehouse",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Dire Wolf",
+            "Big Boss Man",
+            "Morning Dew",
+            "Mason's Children",
+            "Me And My Uncle",
+            "Hard To Handle"
+        ],
+        "setTwo": [
+            "Long Black Limousine",
+            "Seasons",
+            "Saw Mill",
+            "Bound In Memories",
+            "The Race Is On"
+        ],
+        "setThree": [
+            "Black Peter",
+            "Little Sadie",
+            "I've Been All Around This World",
+            "Katie Mae",
+            "Cumberland Blues"
+        ]
+    }
+}

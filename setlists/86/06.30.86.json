@@ -1,0 +1,34 @@
+{
+    "date": "June 30, 1986",
+    "day": "Monday",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Big River",
+            "Loser",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Smokestack Lightning",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

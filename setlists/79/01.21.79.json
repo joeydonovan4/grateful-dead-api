@@ -1,0 +1,36 @@
+{
+    "date": "January 21, 1979",
+    "day": "Sunday",
+    "venue": "Masonic Temple",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

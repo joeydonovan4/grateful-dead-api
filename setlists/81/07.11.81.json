@@ -1,0 +1,39 @@
+{
+    "date": "July 11, 1981",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Bird Song",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

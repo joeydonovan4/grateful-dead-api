@@ -1,0 +1,36 @@
+{
+    "date": "April 21, 1978",
+    "day": "Friday",
+    "venue": "Rupp Arena",
+    "city": "Lexington",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Funiculi Funicula",
+            "Passenger",
+            "Row Jimmy",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Truckin'",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Werewolves Of London",
+            "U.S. Blues"
+        ]
+    }
+}

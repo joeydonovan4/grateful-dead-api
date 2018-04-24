@@ -1,0 +1,35 @@
+{
+    "date": "October 21, 1983",
+    "day": "Friday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Loser",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "Cassidy",
+            "Ramble On Rose",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

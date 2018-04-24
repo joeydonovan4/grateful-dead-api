@@ -1,0 +1,37 @@
+{
+    "date": "April 10, 1970",
+    "day": "Friday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Speedway Boogie",
+            "Mama Tried",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Hard To Handle",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Friend Of The Devil",
+            "Deep Elem Blues",
+            "Candyman",
+            "Wake Up Little Susie",
+            "Black Peter",
+            "Uncle John's Band"
+        ],
+        "setThree": [
+            "It's A Man's World",
+            "Dancin' In The Streets",
+            "High Time",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

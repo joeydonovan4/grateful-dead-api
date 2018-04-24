@@ -1,0 +1,37 @@
+{
+    "date": "September 4, 1991",
+    "day": "Wednesday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "When I Paint My Masterpiece",
+            "Cold Rain And Snow",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "China Doll",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

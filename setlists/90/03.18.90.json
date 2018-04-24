@@ -1,0 +1,36 @@
+{
+    "date": "March 18, 1990",
+    "day": "Sunday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Just A Little Light",
+            "When I Paint My Masterpiece",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "He's Gone",
+            "Truckin'",
+            "Spoonful",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

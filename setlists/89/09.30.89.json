@@ -1,0 +1,29 @@
+{
+    "date": "September 30, 1989",
+    "day": "Saturday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Estimated Prophet",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "I Will Take You Home",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Touch Of Grey"
+        ]
+    }
+}

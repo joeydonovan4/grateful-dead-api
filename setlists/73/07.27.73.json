@@ -1,0 +1,27 @@
+{
+    "date": "July 27, 1973",
+    "day": "Friday",
+    "venue": "Grand Prix Racecourse",
+    "city": "Watkins Glen",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Bird Song",
+            "Big River",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Jam",
+            "Wharf Rat"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

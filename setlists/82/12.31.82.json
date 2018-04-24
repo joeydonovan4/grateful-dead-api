@@ -1,0 +1,41 @@
+{
+    "date": "December 31, 1982",
+    "day": "Friday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "Far From Me",
+            "Cassidy",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Sugaree",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Deal",
+            "Sunshine Daydream"
+        ],
+        "setThree": [
+            "Turn On Your Love Light",
+            "Tell Mama",
+            "Baby What You Want Me To Do",
+            "Hard To Handle",
+            "In The Midnight Hour"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

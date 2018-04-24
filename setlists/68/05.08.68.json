@@ -1,0 +1,13 @@
+{
+    "date": "May 8, 1968",
+    "day": "Wednesday",
+    "venue": "Electric Circus",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues"
+        ]
+    }
+}

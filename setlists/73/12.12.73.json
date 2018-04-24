@@ -1,0 +1,46 @@
+{
+    "date": "December 12, 1973",
+    "day": "Wednesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "El Paso",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Big River",
+            "Deal",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Me And Bobby McGee",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Wharf Rat",
+            "Me And My Uncle",
+            "Eyes Of The World",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

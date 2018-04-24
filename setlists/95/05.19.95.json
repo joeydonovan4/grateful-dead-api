@@ -1,0 +1,32 @@
+{
+    "date": "May 19, 1995",
+    "day": "Friday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Friend Of The Devil",
+            "Wang Dang Doodle",
+            "Althea",
+            "Queen Jane Approximately",
+            "Deal"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Easy Answers",
+            "Standing On The Moon",
+            "Around And Around"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

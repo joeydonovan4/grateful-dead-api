@@ -1,0 +1,38 @@
+{
+    "date": "April 19, 1982",
+    "day": "Monday",
+    "venue": "Baltimore Civic Center",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "On The Road Again",
+            "Peggy-O",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "Little Red Rooster",
+            "Cumberland Blues",
+            "Man Smart-Woman Smarter",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "The Raven Space",
+            "The Wheel",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

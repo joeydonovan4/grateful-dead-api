@@ -1,0 +1,33 @@
+{
+    "date": "May 14, 1993",
+    "day": "Friday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Lazy River Road",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Liberty"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Corrina",
+            "Uncle John's Band",
+            "Drums",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

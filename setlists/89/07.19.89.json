@@ -1,0 +1,34 @@
+{
+    "date": "July 19, 1989",
+    "day": "Wednesday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Victim Or The Crime",
+            "West LA Fadeaway",
+            "Desolation Row",
+            "Deal"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "The Wheel",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

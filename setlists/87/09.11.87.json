@@ -1,0 +1,36 @@
+{
+    "date": "September 11, 1987",
+    "day": "Friday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Candyman",
+            "New Minglewood Blues",
+            "When Push Comes To Shove",
+            "Tons Of Steel",
+            "Desolation Row",
+            "Deal"
+        ],
+        "setTwo": [
+            "Happy Birthday",
+            "Sugar Magnolia",
+            "Sugaree",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Dear Mr. Fantasy",
+            "All Along The Watchtower",
+            "Wharf Rat",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "June 22, 1991",
+    "day": "Saturday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Shakedown Street",
+            "Wang Dang Doodle",
+            "Friend Of The Devil",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Playin' Reprise",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

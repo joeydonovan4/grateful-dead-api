@@ -1,0 +1,35 @@
+{
+    "date": "December 27, 1990",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Comes A Time",
+            "Drums",
+            "I Need A Miracle",
+            "The Wheel",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

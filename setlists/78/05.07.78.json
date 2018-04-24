@@ -1,0 +1,37 @@
+{
+    "date": "May 7, 1978",
+    "day": "Sunday",
+    "venue": "Field House",
+    "city": "Troy",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "Funiculi Funicula",
+            "Mexicali Blues",
+            "Mama Tried",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Friend Of The Devil",
+            "Passenger",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Iko Iko",
+            "The Other One",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

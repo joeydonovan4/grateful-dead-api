@@ -1,0 +1,39 @@
+{
+    "date": "December 9, 1981",
+    "day": "Wednesday",
+    "venue": "Events Center",
+    "city": "Boulder",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Bird Song",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Cassidy",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Satisfaction"
+        ]
+    }
+}

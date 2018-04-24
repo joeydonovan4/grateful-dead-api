@@ -1,0 +1,41 @@
+{
+    "date": "June 4, 1976",
+    "day": "Friday",
+    "venue": "Paramount Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Sugaree",
+            "Cassidy",
+            "Candyman",
+            "Big River",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Mission In The Rain",
+            "Looks Like Rain",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Might As Well",
+            "Samson And Delilah",
+            "Cosmic Charlie",
+            "Let It Grow",
+            "Drums",
+            "Stella Blue",
+            "Dancin' In The Streets",
+            "U.S. Blues"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

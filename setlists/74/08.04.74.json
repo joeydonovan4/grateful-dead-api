@@ -1,0 +1,40 @@
+{
+    "date": "August 4, 1974",
+    "day": "Sunday",
+    "venue": "Philadelphia Civic Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Scarlet Begonias",
+            "Black Throated Wind",
+            "Deal",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Jack Straw",
+            "Loser",
+            "El Paso",
+            "Row Jimmy",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Ship Of Fools",
+            "Big River",
+            "Loose Lucy",
+            "Me And My Uncle",
+            "It Must Have Been The Roses",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Wharf Rat",
+            "U.S. Blues",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

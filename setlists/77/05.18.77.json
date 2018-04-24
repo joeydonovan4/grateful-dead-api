@@ -1,0 +1,36 @@
+{
+    "date": "May 18, 1977",
+    "day": "Wednesday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deal",
+            "Cassidy",
+            "Jack-A-Roe",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Lazy Lightnin'",
+            "Supplication",
+            "High Time",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

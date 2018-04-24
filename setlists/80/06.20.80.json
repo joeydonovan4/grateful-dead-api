@@ -1,0 +1,38 @@
+{
+    "date": "June 20, 1980",
+    "day": "Friday",
+    "venue": "West High Auditorium",
+    "city": "Anchorage",
+    "state": "AK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Let It Grow",
+            "Althea",
+            "Easy To Love You",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "The Other One",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

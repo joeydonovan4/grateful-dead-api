@@ -1,0 +1,35 @@
+{
+    "date": "April 4, 1988",
+    "day": "Monday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Johnny B. Goode",
+            "Good Time Blues",
+            "They Love Each Other",
+            "Queen Jane Approximately",
+            "When Push Comes To Shove",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Good Lovin'",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "date": "July 7, 1969",
+    "day": "Monday",
+    "venue": "Piedmont Park",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Mama Tried",
+            "High Time",
+            "Casey Jones",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "June 17, 1988",
+    "day": "Friday",
+    "venue": "Met Center",
+    "city": "Bloomington",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Far From Me",
+            "When I Paint My Masterpiece",
+            "Althea",
+            "Victim Or The Crime"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

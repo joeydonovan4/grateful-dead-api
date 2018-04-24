@@ -1,0 +1,32 @@
+{
+    "date": "September 18, 1970",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Candyman",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Brokedown Palace",
+            "It's A Man's World",
+            "Till The Morning Comes",
+            "Me And My Uncle",
+            "Operator",
+            "Dancin' In The Streets",
+            "St. Stephen",
+            "Not Fade Away",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

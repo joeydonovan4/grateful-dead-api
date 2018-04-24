@@ -1,0 +1,35 @@
+{
+    "date": "June 21, 1993",
+    "day": "Monday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Spoonful",
+            "Jack-A-Roe",
+            "Black Throated Wind",
+            "Loose Lucy",
+            "Eternity",
+            "So Many Roads",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Corrina",
+            "Drums",
+            "The Last Time",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

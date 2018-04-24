@@ -1,0 +1,37 @@
+{
+    "date": "April 6, 1971",
+    "day": "Tuesday",
+    "venue": "Manhattan Center",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "It Hurts Me Too",
+            "Me And Bobby McGee",
+            "Dire Wolf",
+            "Oh Boy",
+            "Hog For You Baby",
+            "Playin' In The Band",
+            "Midnight Hour",
+            "Mama Tried",
+            "Cumberland Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Loser",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Truckin'"
+        ]
+    }
+}

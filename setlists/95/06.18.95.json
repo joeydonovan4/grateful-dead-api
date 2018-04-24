@@ -1,0 +1,33 @@
+{
+    "date": "June 18, 1995",
+    "day": "Sunday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Bertha",
+            "The Same Thing",
+            "Stagger Lee",
+            "Eternity",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

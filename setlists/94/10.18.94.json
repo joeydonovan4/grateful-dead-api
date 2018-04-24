@@ -1,0 +1,35 @@
+{
+    "date": "October 18, 1994",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Same Thing",
+            "Althea",
+            "Cassidy",
+            "Childhood's End",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Samba In The Rain",
+            "He's Gone",
+            "Smokestack Lightning",
+            "Truckin'",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

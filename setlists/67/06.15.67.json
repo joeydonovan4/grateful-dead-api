@@ -1,0 +1,13 @@
+{
+    "date": "June 15, 1967",
+    "day": "Thursday",
+    "venue": "Straight Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "January 7, 1966",
+    "day": "Friday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "It's A Sin",
+            "Sick And Tired",
+            "Mindbender",
+            "On The Road Again",
+            "She Belongs To Me",
+            "I'll Go Crazy",
+            "Can't Come Down",
+            "Death Don't Have No Mercy",
+            "Parchman Farm",
+            "Midnight Hour",
+            "The Only Time Is Now",
+            "Early Morning Rain",
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

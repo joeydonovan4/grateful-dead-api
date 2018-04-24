@@ -1,0 +1,38 @@
+{
+    "date": "June 19, 1976",
+    "day": "Saturday",
+    "venue": "Capitol Theatre",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Music Never Stopped",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "High Time",
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Dancin' In The Streets",
+            "Cosmic Charlie",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

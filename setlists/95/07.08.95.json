@@ -1,0 +1,35 @@
+{
+    "date": "July 8, 1995",
+    "day": "Saturday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Wang Dang Doodle",
+            "Althea",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It's All Too Much",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Visions Of Johanna",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

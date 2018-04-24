@@ -1,0 +1,36 @@
+{
+    "date": "January 17, 1978",
+    "day": "Tuesday",
+    "venue": "Sacramento Memorial Auditorium",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Cassidy",
+            "Loser",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Candyman",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

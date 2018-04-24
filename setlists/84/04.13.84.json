@@ -1,0 +1,35 @@
+{
+    "date": "April 13, 1984",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Day Job",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "West LA Fadeaway",
+            "It's All Over Now",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

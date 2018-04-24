@@ -1,0 +1,33 @@
+{
+    "date": "August 30, 1978",
+    "day": "Wednesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Mama Tried",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "The Other One",
+            "Eyes Of The World",
+            "Drums",
+            "If I Had The World To Give",
+            "Iko Iko",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

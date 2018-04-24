@@ -1,0 +1,39 @@
+{
+    "date": "September 21, 1973",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Railroad Blues",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Big River",
+            "Here Comes Sunshine",
+            "El Paso",
+            "Loose Lucy",
+            "Jack Straw",
+            "Black Peter",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Let Me Sing Your Blues Away",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Row Jimmy",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

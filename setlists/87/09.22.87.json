@@ -1,0 +1,37 @@
+{
+    "date": "September 22, 1987",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "Althea",
+            "Little Red Rooster",
+            "When Push Comes To Shove",
+            "When I Paint My Masterpiece",
+            "Ramble On Rose",
+            "Addams Family",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Gimme Some Lovin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "Playin' Reprise",
+            "The Wheel",
+            "Truckin'",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "December 28, 1979",
+    "day": "Friday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "It's All Over Now",
+            "High Time",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Uncle John's Band",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones",
+            "One More Saturday Night"
+        ]
+    }
+}

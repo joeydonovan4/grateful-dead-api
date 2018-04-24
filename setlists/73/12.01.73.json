@@ -1,0 +1,40 @@
+{
+    "date": "December 1, 1973",
+    "day": "Saturday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Brokedown Palace",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Around And Around",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Don't Ease Me In",
+            "Me And Bobby McGee",
+            "Mississippi Half-Step",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Row Jimmy",
+            "Greatest Story Ever Told",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ]
+    }
+}

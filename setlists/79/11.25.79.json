@@ -1,0 +1,37 @@
+{
+    "date": "November 25, 1979",
+    "day": "Sunday",
+    "venue": "Pauley Pavilion",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "New Minglewood Blues",
+            "Easy To Love You",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Bertha",
+            "Looks Like Rain",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

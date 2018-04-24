@@ -1,0 +1,34 @@
+{
+    "date": "October 16, 1981",
+    "day": "Friday",
+    "venue": "Club Melkweg",
+    "city": "Amsterdam",
+    "state": "N/A",
+    "country": "NLD",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Dire Wolf",
+            "Monkey And The Engineer",
+            "Bird Song",
+            "Cassidy",
+            "Oh Babe It Ain't No Lie",
+            "The Race Is On",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Hully Gully",
+            "The Wheel",
+            "Samson And Delilah",
+            "Gloria",
+            "Turn On Your Love Light",
+            "Goin' Down The Road Feeling Bad",
+            "Playin' In The Band",
+            "Black Peter"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

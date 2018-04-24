@@ -1,0 +1,34 @@
+{
+    "date": "May 21, 1995",
+    "day": "Sunday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "So Many Roads",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Unbroken Chain",
+            "Eyes Of The World",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Spanish Jam",
+            "The Other One",
+            "The Days Between",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

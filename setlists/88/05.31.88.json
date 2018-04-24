@@ -1,0 +1,13 @@
+{
+    "date": "May 31, 1988",
+    "day": "Tuesday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

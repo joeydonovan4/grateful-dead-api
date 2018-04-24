@@ -1,0 +1,35 @@
+{
+    "date": "September 26, 1991",
+    "day": "Thursday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Candyman",
+            "Mexicali Blues",
+            "Cumberland Blues",
+            "Picasso Moon",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Saint Of Circumstance",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Dark Star",
+            "Attics Of My Life",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

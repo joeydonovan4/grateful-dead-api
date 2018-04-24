@@ -1,0 +1,35 @@
+{
+    "date": "December 19, 1994",
+    "day": "Monday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Stagger Lee",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Broken Arrow",
+            "When I Paint My Masterpiece",
+            "So Many Roads",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "New Speedway Boogie",
+            "Nobody's Fault But Mine",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "The Days Between",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

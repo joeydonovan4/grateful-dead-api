@@ -1,0 +1,35 @@
+{
+    "date": "August 1, 1982",
+    "day": "Sunday",
+    "venue": "Zoo Amphitheatre",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Iko Iko",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

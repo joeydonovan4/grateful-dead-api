@@ -1,0 +1,23 @@
+{
+    "date": "May 3, 1970",
+    "day": "Sunday",
+    "venue": "Field House",
+    "city": "Middletown",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "New Speedway Boogie",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Don't Ease Me In",
+            "Turn On Your Love Light",
+            "The Main Ten",
+            "Uncle John's Band",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "September 8, 1990",
+    "day": "Saturday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Loser",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

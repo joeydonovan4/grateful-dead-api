@@ -1,0 +1,37 @@
+{
+    "date": "May 5, 1990",
+    "day": "Saturday",
+    "venue": "Cal State Dominguez Hills",
+    "city": "Carson",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "The Race Is On",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Queen Jane Approximately",
+            "Loser",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Loose Lucy",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

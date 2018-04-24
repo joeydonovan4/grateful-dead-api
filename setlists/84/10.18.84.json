@@ -1,0 +1,33 @@
+{
+    "date": "October 18, 1984",
+    "day": "Thursday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Candyman",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "Cassidy",
+            "Althea",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "Dancin' In The Streets",
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "China Doll",
+            "Drums",
+            "Playin' In The Band",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

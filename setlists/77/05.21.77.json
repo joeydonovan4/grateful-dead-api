@@ -1,0 +1,40 @@
+{
+    "date": "May 21, 1977",
+    "day": "Saturday",
+    "venue": "Lakeland Civic Center",
+    "city": "Lakeland",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "They Love Each Other",
+            "Cassidy",
+            "Jack-A-Roe",
+            "Jack Straw",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Passenger",
+            "Scarlet Begonias",
+            "Fire On The Mountain"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

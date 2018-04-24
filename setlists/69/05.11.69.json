@@ -1,0 +1,13 @@
+{
+    "date": "May 11, 1969",
+    "day": "Sunday",
+    "venue": "Aztec Bowl",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

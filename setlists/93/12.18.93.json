@@ -1,0 +1,34 @@
+{
+    "date": "December 18, 1993",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Spoonful",
+            "Friend Of The Devil",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "Long Way To Go Home",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

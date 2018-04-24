@@ -1,0 +1,32 @@
+{
+    "date": "March 31, 1994",
+    "day": "Thursday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "King Bee",
+            "Friend Of The Devil",
+            "Desolation Row",
+            "Tennessee Jed",
+            "Easy Answers"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Saint Of Circumstance",
+            "Long Way To Go Home",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

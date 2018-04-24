@@ -1,0 +1,35 @@
+{
+    "date": "May 29, 1992",
+    "day": "Friday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "Peggy-O",
+            "Black Throated Wind",
+            "They Love Each Other",
+            "Stuck Inside Of Mobile",
+            "Jack-A-Roe",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

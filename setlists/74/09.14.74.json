@@ -1,0 +1,41 @@
+{
+    "date": "September 14, 1974",
+    "day": "Saturday",
+    "venue": "Olympiahalle",
+    "city": "Munich",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Deal",
+            "Jack Straw",
+            "Scarlet Begonias",
+            "Promised Land",
+            "Loser",
+            "El Paso",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Tennessee Jed",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Big River",
+            "Sugaree",
+            "Mexicali Blues",
+            "Mississippi Half-Step",
+            "It Must Have Been The Roses",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Eyes Of The World",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

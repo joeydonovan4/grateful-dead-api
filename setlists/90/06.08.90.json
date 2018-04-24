@@ -1,0 +1,35 @@
+{
+    "date": "June 8, 1990",
+    "day": "Friday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Easy To Love You",
+            "Jack-A-Roe",
+            "Queen Jane Approximately",
+            "High Time",
+            "It's All Over Now",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Foolish Heart",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

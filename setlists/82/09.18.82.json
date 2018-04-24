@@ -1,0 +1,36 @@
+{
+    "date": "September 18, 1982",
+    "day": "Saturday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Cassidy",
+            "Far From Me"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Throwin' Stones",
+            "The Wheel",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

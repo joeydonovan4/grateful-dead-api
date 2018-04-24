@@ -1,0 +1,20 @@
+{
+    "date": "October 14, 1967",
+    "day": "Saturday",
+    "venue": "Continental Ballroom",
+    "city": "Santa Clara",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Good Morning Little School Girl"
+        ],
+        "setTwo": [
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

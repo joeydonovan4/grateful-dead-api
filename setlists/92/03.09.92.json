@@ -1,0 +1,32 @@
+{
+    "date": "March 9, 1992",
+    "day": "Monday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Big River",
+            "Row Jimmy",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Iko Iko",
+            "Corrina",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

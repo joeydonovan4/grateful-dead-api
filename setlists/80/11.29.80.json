@@ -1,0 +1,37 @@
+{
+    "date": "November 29, 1980",
+    "day": "Saturday",
+    "venue": "Alligator Alley Gym",
+    "city": "Gainesville",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

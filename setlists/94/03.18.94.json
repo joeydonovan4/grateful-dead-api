@@ -1,0 +1,33 @@
+{
+    "date": "March 18, 1994",
+    "day": "Friday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Deal",
+            "El Paso",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

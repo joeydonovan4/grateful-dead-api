@@ -1,0 +1,40 @@
+{
+    "date": "July 29, 1974",
+    "day": "Monday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "It Must Have Been The Roses",
+            "Cumberland Blues",
+            "Scarlet Begonias",
+            "Jack Straw",
+            "Deal",
+            "El Paso",
+            "To Lay Me Down",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "The Other One",
+            "Wharf Rat",
+            "Spanish Jam",
+            "Around And Around",
+            "Peggy-O",
+            "U.S. Blues",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

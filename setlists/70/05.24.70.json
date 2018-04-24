@@ -1,0 +1,30 @@
+{
+    "date": "May 24, 1970",
+    "day": "Sunday",
+    "venue": "Newcastle-Under-Lyme",
+    "city": "Newcastle",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Hard To Handle",
+            "Uncle John's Band",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Attics Of My Life",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cold Rain And Snow",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

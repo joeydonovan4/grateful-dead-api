@@ -1,0 +1,39 @@
+{
+    "date": "April 17, 1983",
+    "day": "Sunday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Big Railroad Blues",
+            "My Brother Esau",
+            "Peggy-O",
+            "Let It Grow",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Playin' In The Band",
+            "Drums",
+            "Love The One You're With",
+            "The Wheel",
+            "Playin' In The Band",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

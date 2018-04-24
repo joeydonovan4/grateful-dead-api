@@ -1,0 +1,36 @@
+{
+    "date": "February 11, 1989",
+    "day": "Saturday",
+    "venue": "The Forum",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Candyman",
+            "Big River",
+            "Built To Last",
+            "Queen Jane Approximately",
+            "We Can Run",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Standing On The Moon",
+            "Estimated Prophet",
+            "I Will Take You Home",
+            "Drums",
+            "Eyes Of The World",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

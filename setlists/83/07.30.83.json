@@ -1,0 +1,33 @@
+{
+    "date": "July 30, 1983",
+    "day": "Saturday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Cassidy",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

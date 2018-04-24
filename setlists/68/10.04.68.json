@@ -1,0 +1,14 @@
+{
+    "date": "October 4, 1968",
+    "day": "Friday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Clementine",
+            "Barbed Wire Whipping Party"
+        ]
+    }
+}

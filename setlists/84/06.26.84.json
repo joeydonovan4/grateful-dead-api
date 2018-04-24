@@ -1,0 +1,35 @@
+{
+    "date": "June 26, 1984",
+    "day": "Tuesday",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Feel Like A Stranger",
+            "Althea",
+            "Cassidy",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Don't Need Love",
+            "Truckin'",
+            "Wang Dang Doodle",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

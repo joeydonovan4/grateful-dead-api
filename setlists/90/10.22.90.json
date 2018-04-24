@@ -1,0 +1,33 @@
+{
+    "date": "October 22, 1990",
+    "day": "Monday",
+    "venue": "Festhalle Frankfurt",
+    "city": "Frankfurt",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Wang Dang Doodle",
+            "Foolish Heart",
+            "Desolation Row",
+            "Bird Song",
+            "Valley Road"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Standing On The Moon",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

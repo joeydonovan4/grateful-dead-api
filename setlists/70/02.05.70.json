@@ -1,0 +1,21 @@
+{
+    "date": "February 5, 1970",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big Boss Man",
+            "Black Peter",
+            "Mason's Children",
+            "The Eleven",
+            "Not Fade Away",
+            "Cumberland Blues",
+            "Uncle John's Band"
+        ]
+    }
+}

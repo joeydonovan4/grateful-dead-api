@@ -1,0 +1,43 @@
+{
+    "date": "November 8, 1970",
+    "day": "Sunday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "I Know You Rider",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "El Paso",
+            "Operator",
+            "Ripple",
+            "Friend Of The Devil",
+            "Wake Up Little Susie",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Mystery Train",
+            "My Babe",
+            "Around And Around",
+            "New Orleans",
+            "Searchin'",
+            "It's All Over Now Baby Blue",
+            "Casey Jones",
+            "Truckin'",
+            "Dark Star",
+            "The Main Ten",
+            "Dancin' In The Streets",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ]
+    }
+}

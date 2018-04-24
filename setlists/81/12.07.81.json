@@ -1,0 +1,37 @@
+{
+    "date": "December 7, 1981",
+    "day": "Monday",
+    "venue": "Des Moines Civic Center",
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Deep Elem Blues",
+            "Cassidy",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Truckin'",
+            "Nobody's Jam",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

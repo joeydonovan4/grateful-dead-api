@@ -1,0 +1,35 @@
+{
+    "date": "February 28, 1970",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Monkey And The Engineer",
+            "Little Sadie",
+            "Black Peter"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Dire Wolf",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Big Boss Man",
+            "Casey Jones",
+            "Alligator",
+            "Drums",
+            "The Other One",
+            "Mason's Children",
+            "Turn On Your Love Light",
+            "Uncle John's Band"
+        ]
+    }
+}

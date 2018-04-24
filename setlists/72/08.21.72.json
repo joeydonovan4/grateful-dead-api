@@ -1,0 +1,40 @@
+{
+    "date": "August 21, 1972",
+    "day": "Monday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "He's Gone",
+            "Black Throated Wind",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Stella Blue",
+            "Playin' In The Band",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Dark Star",
+            "El Paso",
+            "Dark Star",
+            "Deal",
+            "Sugar Magnolia",
+            "Mississippi Half-Step",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

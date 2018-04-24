@@ -1,0 +1,39 @@
+{
+    "date": "May 8, 1979",
+    "day": "Tuesday",
+    "venue": "Rec Hall",
+    "city": "State College",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Row Jimmy",
+            "El Paso",
+            "Stagger Lee",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "China Doll",
+            "Playin' In The Band",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Shakedown Street"
+        ]
+    }
+}

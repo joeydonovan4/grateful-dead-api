@@ -1,0 +1,32 @@
+{
+    "date": "January 11, 1978",
+    "day": "Wednesday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Big River",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sunrise",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "St. Stephen",
+            "Not Fade Away",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Passenger"
+        ]
+    }
+}

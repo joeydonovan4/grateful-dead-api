@@ -1,0 +1,37 @@
+{
+    "date": "July 30, 1988",
+    "day": "Saturday",
+    "venue": "Laguna Seca Raceway",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Loser",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Stuck Inside Of Mobile",
+            "When Push Comes To Shove",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Smokestack Lightning",
+            "Goin' Down The Road Feeling Bad",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

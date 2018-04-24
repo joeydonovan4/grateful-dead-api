@@ -1,0 +1,35 @@
+{
+    "date": "August 23, 1987",
+    "day": "Sunday",
+    "venue": "Calaveras County Fairgrounds",
+    "city": "Angels Camp",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "High Time",
+            "Walkin' Blues",
+            "Iko Iko",
+            "All Along The Watchtower"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Playin' In The Band",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Brokedown Palace"
+        ]
+    }
+}

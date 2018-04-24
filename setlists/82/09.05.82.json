@@ -1,0 +1,31 @@
+{
+    "date": "September 5, 1982",
+    "day": "Sunday",
+    "venue": "Glen Helen Regional Park",
+    "city": "Devore",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Samson And Delilah",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Man Smart-Woman Smarter",
+            "Truckin'",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Satisfaction"
+        ]
+    }
+}

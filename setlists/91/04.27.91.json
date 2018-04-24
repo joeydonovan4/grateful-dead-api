@@ -1,0 +1,35 @@
+{
+    "date": "April 27, 1991",
+    "day": "Saturday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Loose Lucy",
+            "Cassidy",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "date": "November 11, 1967",
+    "day": "Saturday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Beat It On Down The Line",
+            "Death Don't Have No Mercy",
+            "Good Morning Little School Girl",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

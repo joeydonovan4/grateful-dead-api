@@ -1,0 +1,36 @@
+{
+    "date": "March 30, 1980",
+    "day": "Sunday",
+    "venue": "Capitol Theater",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Peggy-O",
+            "Cassidy",
+            "Loser",
+            "El Paso",
+            "Far From Me",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

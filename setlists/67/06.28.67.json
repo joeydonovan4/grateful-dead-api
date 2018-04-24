@@ -1,0 +1,19 @@
+{
+    "date": "June 28, 1967",
+    "day": "Wednesday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Other One",
+            "Minglewood Blues",
+            "Dark Star",
+            "The Eleven",
+            "William Tell",
+            "Death Don't Have No Mercy",
+            "Clementine"
+        ]
+    }
+}

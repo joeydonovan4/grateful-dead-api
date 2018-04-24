@@ -1,0 +1,39 @@
+{
+    "date": "December 29, 1977",
+    "day": "Thursday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Loser",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Sugaree",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Sunrise",
+            "Playin' In The Band",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "China Doll",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Terrapin Station",
+            "Johnny B. Goode"
+        ]
+    }
+}

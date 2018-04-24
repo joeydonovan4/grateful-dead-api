@@ -1,0 +1,34 @@
+{
+    "date": "April 11, 1987",
+    "day": "Saturday",
+    "venue": "UIC Pavilion",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Loser",
+            "Tons Of Steel",
+            "Desolation Row",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Black Muddy River"
+        ]
+    }
+}

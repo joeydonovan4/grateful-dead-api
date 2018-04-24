@@ -1,0 +1,32 @@
+{
+    "date": "October 12, 1989",
+    "day": "Thursday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Blow Away",
+            "Tennessee Jed",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Hey Pocky Way",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

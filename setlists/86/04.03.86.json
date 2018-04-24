@@ -1,0 +1,34 @@
+{
+    "date": "April 3, 1986",
+    "day": "Thursday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "Supplication",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Don't Need Love",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

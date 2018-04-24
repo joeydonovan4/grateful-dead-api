@@ -1,0 +1,35 @@
+{
+    "date": "August 18, 1989",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "When I Paint My Masterpiece",
+            "Built To Last",
+            "Victim Or The Crime",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Crazy Fingers",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

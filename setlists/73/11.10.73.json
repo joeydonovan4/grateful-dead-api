@@ -1,0 +1,42 @@
+{
+    "date": "November 10, 1973",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Loser",
+            "Looks Like Rain",
+            "Deal",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "El Paso",
+            "Brokedown Palace",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Morning Dew",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Big River",
+            "Stella Blue",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Casey Jones"
+        ]
+    }
+}

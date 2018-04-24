@@ -1,0 +1,37 @@
+{
+    "date": "March 18, 1977",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "It's All Over Now",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Cassidy",
+            "Scarlet Begonias",
+            "Fire On The Mountain"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "The Alhambra",
+            "Drums",
+            "Not Fade Away",
+            "St. Stephen",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

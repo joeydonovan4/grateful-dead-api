@@ -1,0 +1,41 @@
+{
+    "date": "November 26, 1972",
+    "day": "Sunday",
+    "venue": "Civic Auditorium",
+    "city": "San Antonio",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Mexicali Blues",
+            "Sugaree",
+            "Black Throated Wind",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Box Of Rain",
+            "El Paso",
+            "Big Railroad Blues",
+            "Around And Around",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Big River",
+            "Dark Star",
+            "Me And Bobby McGee",
+            "Brokedown Palace",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "June 5, 1969",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Doin' That Rag",
+            "He Was A Friend Of Mine",
+            "Hard To Handle",
+            "Cosmic Charlie",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "China Cat Sunflower",
+            "Sitting On Top Of The World",
+            "Dark Star"
+        ]
+    }
+}

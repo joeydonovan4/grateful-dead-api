@@ -1,0 +1,23 @@
+{
+    "date": "August 2, 1969",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Mama Tried",
+            "High Time",
+            "Silver Threads",
+            "Slewfoot",
+            "I'm A King Bee",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Turn On Your Love Light"
+        ]
+    }
+}

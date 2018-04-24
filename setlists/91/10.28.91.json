@@ -1,0 +1,32 @@
+{
+    "date": "October 28, 1991",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Wang Dang Doodle",
+            "Loose Lucy",
+            "Stuck Inside Of Mobile",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "July 2, 1985",
+    "day": "Tuesday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Big Railroad Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Crazy Fingers",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Revolution",
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "date": "October 23, 1972",
+    "day": "Monday",
+    "venue": "Milwaukee Performing Arts Center",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Big River",
+            "Loser",
+            "Jack Straw",
+            "Deal",
+            "El Paso",
+            "Tennessee Jed",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Stella Blue",
+            "Beat It On Down The Line",
+            "Rockin' Pneumonia & The Boogie Woogie Flu",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Greatest Story Ever Told",
+            "Brokedown Palace",
+            "Dark Star",
+            "Mississippi Half-Step",
+            "Me And Bobby McGee",
+            "Tomorrow Is Forever",
+            "Sugar Magnolia",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

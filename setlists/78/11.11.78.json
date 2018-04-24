@@ -1,0 +1,15 @@
+{
+    "date": "November 11, 1978",
+    "day": "Saturday",
+    "venue": "NBC Studios",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ]
+    }
+}

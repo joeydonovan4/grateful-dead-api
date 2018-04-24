@@ -1,0 +1,36 @@
+{
+    "date": "December 31, 1989",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Big Boss Man",
+            "Stuck Inside Of Mobile",
+            "Shakedown Street"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Victim Or The Crime",
+            "Dark Star",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "setThree": [
+            "Brokedown Palace",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

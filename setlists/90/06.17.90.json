@@ -1,0 +1,35 @@
+{
+    "date": "June 17, 1990",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Jack-A-Roe",
+            "Easy To Love You",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Picasso Moon",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "I Will Take You Home",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "date": "July 7, 1986",
+    "day": "Monday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Baby Blue",
+            "Desolation Row"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "May 7, 1989",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Bertha",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Built To Last",
+            "Picasso Moon",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

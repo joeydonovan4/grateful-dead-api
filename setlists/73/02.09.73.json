@@ -1,0 +1,44 @@
+{
+    "date": "February 9, 1973",
+    "day": "Friday",
+    "venue": "Roscoe Maples Pavilion",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Row Jimmy",
+            "Black Throated Wind",
+            "Deal",
+            "Me And My Uncle",
+            "Sugaree",
+            "Looks Like Rain",
+            "Loose Lucy",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Here Comes Sunshine",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "They Love Each Other",
+            "Truckin'",
+            "Eyes Of The World",
+            "China Doll",
+            "Big River",
+            "Ramble On Rose",
+            "Box Of Rain",
+            "Wave That Flag",
+            "Sugar Magnolia",
+            "Uncle John's Band",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

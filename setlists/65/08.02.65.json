@@ -1,0 +1,13 @@
+{
+    "date": "August 2, 1965",
+    "day": "Monday",
+    "venue": "Big Al's Gas House",
+    "city": "Redwood City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

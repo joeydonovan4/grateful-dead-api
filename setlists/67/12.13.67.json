@@ -1,0 +1,13 @@
+{
+    "date": "December 13, 1967",
+    "day": "Wednesday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star"
+        ]
+    }
+}

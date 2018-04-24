@@ -1,0 +1,33 @@
+{
+    "date": "May 20, 1995",
+    "day": "Saturday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "The Race Is On",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "Eternity"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samba In The Rain",
+            "Man Smart-Woman Smarter",
+            "Truckin'",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "That Would Be Something",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "December 4, 1973",
+    "day": "Tuesday",
+    "venue": "Cincinnati Gardens",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Johnny B. Goode",
+            "Sugaree",
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "Deal",
+            "Big River",
+            "Tennessee Jed",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

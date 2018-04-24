@@ -1,0 +1,38 @@
+{
+    "date": "April 6, 1982",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Promised Land",
+            "Candyman",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

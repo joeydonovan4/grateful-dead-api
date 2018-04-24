@@ -1,0 +1,39 @@
+{
+    "date": "December 14, 1980",
+    "day": "Sunday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Little Red Rooster",
+            "Loser",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Passenger",
+            "Candyman",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "The Wheel",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

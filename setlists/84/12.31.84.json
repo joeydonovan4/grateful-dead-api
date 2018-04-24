@@ -1,0 +1,36 @@
+{
+    "date": "December 31, 1984",
+    "day": "Monday",
+    "venue": "San Francisco Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Jack Straw",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Spanish Jam",
+            "The Wheel",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Gimme Some Lovin'",
+            "Uncle John's Band",
+            "Around And Around",
+            "It's All Over Now, Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "October 28, 1984",
+    "day": "Sunday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "My Brother Esau",
+            "Althea",
+            "C.C. Rider",
+            "Bird Song",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

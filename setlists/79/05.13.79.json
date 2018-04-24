@@ -1,0 +1,34 @@
+{
+    "date": "May 13, 1979",
+    "day": "Sunday",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "Candyman",
+            "El Paso",
+            "Row Jimmy",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "June 28, 1983",
+    "day": "Tuesday",
+    "venue": "Poplar Creek Pavilion",
+    "city": "Poplar Creek",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Iko Iko"
+        ]
+    }
+}

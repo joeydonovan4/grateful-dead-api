@@ -1,0 +1,34 @@
+{
+    "date": "September 12, 1993",
+    "day": "Sunday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Loser",
+            "Desolation Row",
+            "Cumberland Blues",
+            "Eternity",
+            "Loose Lucy",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Lazy River Road",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

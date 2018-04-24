@@ -1,0 +1,35 @@
+{
+    "date": "July 12, 1990",
+    "day": "Thursday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Bertha",
+            "Just A Little Light",
+            "Queen Jane Approximately",
+            "Stagger Lee",
+            "Cassidy",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Dark Star",
+            "Drums",
+            "All Along The Watchtower",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

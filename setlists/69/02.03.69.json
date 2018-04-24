@@ -1,0 +1,13 @@
+{
+    "date": "February 3, 1969",
+    "day": "Monday",
+    "venue": "Guthrie Theatre",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

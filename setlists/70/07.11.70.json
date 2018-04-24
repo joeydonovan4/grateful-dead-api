@@ -1,0 +1,55 @@
+{
+    "date": "July 11, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Monkey And The Engineer",
+            "Don't Ease Me In",
+            "I've Been All Around This World",
+            "Dark Hollow",
+            "Black Peter",
+            "El Paso",
+            "New Speedway Boogie",
+            "So Sad (To Watch Good Love Go Bad)",
+            "Rosalie McFall",
+            "A Voice From  On High",
+            "Cold Jordan",
+            "Swing Low Sweet Chariot"
+        ],
+        "setTwo": [
+            "Whatcha Gonna Do",
+            "Truck Drivin' Man",
+            "Dirty Business",
+            "Lodi",
+            "Last Lonely Eagle",
+            "The Only Daddy That'll Walk The Line",
+            "Fair Chance To Know",
+            "Henry",
+            "Honky Tonk Women"
+        ],
+        "setThree": [
+            "Morning Dew",
+            "Sitting On Top Of The World",
+            "Me And My Uncle",
+            "Drums",
+            "Not Fade Away",
+            "Casey Jones",
+            "Mama Tried",
+            "Drums",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "High Time",
+            "Cumberland Blues",
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "Viola Lee Blues",
+            "Uncle John's Band"
+        ]
+    }
+}

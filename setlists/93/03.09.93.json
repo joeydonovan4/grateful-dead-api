@@ -1,0 +1,35 @@
+{
+    "date": "March 9, 1993",
+    "day": "Tuesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Wang Dang Doodle",
+            "Loose Lucy",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Broken Arrow",
+            "Row Jimmy",
+            "Eternity",
+            "Liberty"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Victim Or The Crime",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "The Last Time",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

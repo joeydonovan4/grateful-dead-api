@@ -1,0 +1,51 @@
+{
+    "date": "May 13, 1973",
+    "day": "Sunday",
+    "venue": "State Fairgrounds",
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Box Of Rain",
+            "Loser",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "El Paso",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Don't Ease Me In",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Tennessee Jed",
+            "Big River",
+            "Bertha",
+            "Jack Straw",
+            "Sugaree",
+            "Looks Like Rain",
+            "Here Comes Sunshine",
+            "Playin' In The Band"
+        ],
+        "setThree": [
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "Brown-Eyed Women",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Eyes Of The World",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

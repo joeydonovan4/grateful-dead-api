@@ -1,0 +1,36 @@
+{
+    "date": "April 11, 1982",
+    "day": "Sunday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "El Paso",
+            "Candyman",
+            "Little Red Rooster",
+            "Althea",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Samson And Delilah",
+            "Good Time Blues",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

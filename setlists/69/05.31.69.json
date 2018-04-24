@@ -1,0 +1,35 @@
+{
+    "date": "May 31, 1969",
+    "day": "Saturday",
+    "venue": "McArthur Court",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Cold Rain And Snow",
+            "Green Green Grass Of Home",
+            "Me And My Uncle",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Sitting On Top Of The World",
+            "It Hurts Me Too",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "He Was A Friend Of Mine",
+            "Dark Star",
+            "Feedback",
+            "Dark Star",
+            "Doin' That Rag",
+            "Cosmic Charlie"
+        ],
+        "encore": [
+            "It's All Over Now Baby Blue",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

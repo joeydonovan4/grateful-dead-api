@@ -1,0 +1,41 @@
+{
+    "date": "August 22, 1972",
+    "day": "Tuesday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Black Throated Wind",
+            "Friend Of The Devil",
+            "Big River",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "He's Gone",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "El Paso",
+            "Ramble On Rose",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Hey Bo Diddley"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

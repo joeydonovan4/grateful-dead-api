@@ -1,0 +1,35 @@
+{
+    "date": "June 12, 1992",
+    "day": "Friday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Brown-Eyed Women",
+            "Black Throated Wind",
+            "New Speedway Boogie",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Attics Of My Life"
+        ]
+    }
+}

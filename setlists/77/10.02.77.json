@@ -1,0 +1,36 @@
+{
+    "date": "October 2, 1977",
+    "day": "Sunday",
+    "venue": "Paramount Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Jack Straw",
+            "Sunrise",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Dupree's Diamond Blues",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Funiculi Funicula",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

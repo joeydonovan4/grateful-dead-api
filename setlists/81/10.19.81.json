@@ -1,0 +1,36 @@
+{
+    "date": "October 19, 1981",
+    "day": "Monday",
+    "venue": "Sports Palace",
+    "city": "Barcelona",
+    "state": "N/A",
+    "country": "ESP",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Passenger",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Spanish Jam",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

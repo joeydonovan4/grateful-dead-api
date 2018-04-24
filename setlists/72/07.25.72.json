@@ -1,0 +1,43 @@
+{
+    "date": "July 25, 1972",
+    "day": "Tuesday",
+    "venue": "Paramount Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Sugaree",
+            "Me And My Uncle",
+            "Bird Song",
+            "Black Throated Wind",
+            "Cumberland Blues",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "El Paso",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Loser",
+            "Beat It On Down The Line",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Greatest Story Ever Told",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Truckin'",
+            "The Other One Jam",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "November 2, 1977",
+    "day": "Wednesday",
+    "venue": "Field House",
+    "city": "Toronto",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Good Lovin'",
+            "Sunrise",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "St. Stephen",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "Terrapin Station"
+        ]
+    }
+}

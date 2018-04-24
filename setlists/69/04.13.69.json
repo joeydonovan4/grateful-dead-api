@@ -1,0 +1,26 @@
+{
+    "date": "April 13, 1969",
+    "day": "Sunday",
+    "venue": "University of Colorado",
+    "city": "Boulder",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Doin' That Rag",
+            "Good Morning Little School Girl",
+            "Morning Dew",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy"
+        ],
+        "setTwo": [
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

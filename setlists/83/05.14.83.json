@@ -1,0 +1,32 @@
+{
+    "date": "May 14, 1983",
+    "day": "Saturday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

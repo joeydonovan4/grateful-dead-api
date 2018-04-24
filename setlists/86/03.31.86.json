@@ -1,0 +1,31 @@
+{
+    "date": "March 31, 1986",
+    "day": "Monday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Roadrunner",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Desolation Row",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Ship Of Fools",
+            "Willie And The Hand Jive",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "Comes A Time",
+            "Truckin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

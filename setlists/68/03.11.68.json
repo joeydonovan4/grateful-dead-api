@@ -1,0 +1,18 @@
+{
+    "date": "March 11, 1968",
+    "day": "Monday",
+    "venue": "Sacramento Memorial Auditorium",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Caution (Do Not Stop On Tracks) Jam"
+        ]
+    }
+}

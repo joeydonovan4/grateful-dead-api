@@ -1,0 +1,37 @@
+{
+    "date": "September 4, 1980",
+    "day": "Thursday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Cassidy",
+            "Dire Wolf",
+            "New Minglewood Blues",
+            "Althea",
+            "Looks Like Rain",
+            "Far From Me",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ramble On Rose",
+            "Supplication",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "March 27, 1987",
+    "day": "Friday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Cumberland Blues",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Uncle John's Band",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

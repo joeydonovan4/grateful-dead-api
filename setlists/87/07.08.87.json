@@ -1,0 +1,34 @@
+{
+    "date": "July 8, 1987",
+    "day": "Wednesday",
+    "venue": "Roanoke Civic Center",
+    "city": "Roanoke",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "It's All Over Now",
+            "Dupree's Diamond Blues",
+            "Good Time Blues",
+            "When I Paint My Masterpiece",
+            "Big Railroad Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Crazy Fingers",
+            "Truckin'",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

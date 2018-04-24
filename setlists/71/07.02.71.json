@@ -1,0 +1,42 @@
+{
+    "date": "July 2, 1971",
+    "day": "Friday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And Bobby McGee",
+            "Next Time You See Me",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Loser",
+            "The Rub",
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Hard To Handle",
+            "Deal",
+            "Promised Land",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Mama Tried",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Big Boss Man",
+            "Casey Jones",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

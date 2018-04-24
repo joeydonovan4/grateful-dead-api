@@ -1,0 +1,13 @@
+{
+    "date": "June 1, 1967",
+    "day": "Thursday",
+    "venue": "Tompkins Square Park",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl"
+        ]
+    }
+}

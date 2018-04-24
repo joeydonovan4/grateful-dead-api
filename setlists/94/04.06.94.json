@@ -1,0 +1,35 @@
+{
+    "date": "April 6, 1994",
+    "day": "Wednesday",
+    "venue": "Miami Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Wang Dang Doodle",
+            "Broken Arrow",
+            "West LA Fadeaway",
+            "El Paso",
+            "Row Jimmy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Samson And Delilah",
+            "Cumberland Blues",
+            "Long Way To Go Home",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "December 7, 1979",
+    "day": "Friday",
+    "venue": "Indianapolis Convention Center",
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "Don't Ease Me In",
+            "El Paso",
+            "Big Railroad Blues",
+            "Easy To Love You",
+            "It's All Over Now",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Eyes Of The World",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

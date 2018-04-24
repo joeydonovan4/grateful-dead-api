@@ -1,0 +1,35 @@
+{
+    "date": "December 9, 1971",
+    "day": "Thursday",
+    "venue": "Fox Theatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Brown-Eyed Women",
+            "Mr. Charlie",
+            "Jack Straw",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "It Hurts Me Too",
+            "Tennessee Jed",
+            "El Paso",
+            "Run Rudolph Run",
+            "Black Peter",
+            "Playin' In The Band",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Big Boss Man",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

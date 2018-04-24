@@ -1,0 +1,35 @@
+{
+    "date": "July 6, 1987",
+    "day": "Monday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Mama Tried",
+            "Big River",
+            "Far From Me",
+            "Stagger Lee",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Iko Iko",
+            "Banana Boat Song",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Knockin' On Heaven's Door",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

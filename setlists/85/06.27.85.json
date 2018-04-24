@@ -1,0 +1,37 @@
+{
+    "date": "June 27, 1985",
+    "day": "Thursday",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "In The Midnight Hour",
+            "Bertha",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "El Paso",
+            "Crazy Fingers",
+            "Supplication",
+            "High Time",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Eyes Of The World",
+            "Goin' Down The Road Feeling Bad",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Baby Blue"
+        ]
+    }
+}

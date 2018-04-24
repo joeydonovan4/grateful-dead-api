@@ -1,0 +1,38 @@
+{
+    "date": "August 28, 1982",
+    "day": "Saturday",
+    "venue": "Oregon County Fair Site",
+    "city": "Veneta",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "It's All Over Now",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Day Job",
+            "Man Smart-Woman Smarter",
+            "West LA Fadeaway",
+            "Far From Me",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Truckin'",
+            "Black Peter",
+            "Playin' In The Band",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Dupree's Diamond Blues"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "November 10, 1968",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew"
+        ]
+    }
+}

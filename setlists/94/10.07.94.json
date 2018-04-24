@@ -1,0 +1,32 @@
+{
+    "date": "October 7, 1994",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "The Same Thing",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Samba In The Rain",
+            "Foolish Heart",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

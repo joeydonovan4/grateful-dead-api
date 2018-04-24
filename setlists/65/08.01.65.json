@@ -1,0 +1,13 @@
+{
+    "date": "August 1, 1965",
+    "day": "Sunday",
+    "venue": "Fireside Club",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

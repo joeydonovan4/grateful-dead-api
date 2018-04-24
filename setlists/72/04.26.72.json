@@ -1,0 +1,46 @@
+{
+    "date": "April 26, 1972",
+    "day": "Wednesday",
+    "venue": "Jahrhundert Halle",
+    "city": "Frankfurt",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "He's Gone",
+            "Black Throated Wind",
+            "Next Time You See Me",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Chinatown Shuffle",
+            "Loser",
+            "Beat It On Down The Line",
+            "You Win Again",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Sugar Magnolia",
+            "El Paso",
+            "Tennessee Jed",
+            "Greatest Story Ever Told",
+            "Two Souls In Communion",
+            "Turn On Your Love Light",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

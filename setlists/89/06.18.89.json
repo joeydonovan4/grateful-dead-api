@@ -1,0 +1,35 @@
+{
+    "date": "June 18, 1989",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Foolish Heart",
+            "Jack Straw",
+            "Alabama Getaway",
+            "Queen Jane Approximately",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Hey Pocky Way",
+            "Iko Iko"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Cumberland Blues",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

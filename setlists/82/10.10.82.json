@@ -1,0 +1,39 @@
+{
+    "date": "October 10, 1982",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Cassidy",
+            "Loser",
+            "Far From Me",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Touch Of Grey",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Baby Blue"
+        ]
+    }
+}

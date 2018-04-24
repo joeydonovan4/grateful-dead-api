@@ -1,0 +1,40 @@
+{
+    "date": "March 27, 1972",
+    "day": "Monday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "Brown-Eyed Women",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And Bobby McGee",
+            "Mr. Charlie",
+            "Looks Like Rain",
+            "Deal",
+            "It Hurts Me Too",
+            "Cumberland Blues",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Big Boss Man",
+            "El Paso",
+            "Good Lovin'",
+            "Me And My Uncle",
+            "Two Souls In Communion",
+            "Sugar Magnolia",
+            "Loser",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

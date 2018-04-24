@@ -1,0 +1,36 @@
+{
+    "date": "March 9, 1981",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Althea",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "El Paso",
+            "Deep Elem Blues",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "New Minglewood Blues"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

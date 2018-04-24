@@ -1,0 +1,38 @@
+{
+    "date": "August 4, 1976",
+    "day": "Wednesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Big River",
+            "Loser",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "The Music Never Stopped",
+            "Scarlet Begonias"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Dancin' In The Streets",
+            "The Wheel",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Not Fade Away",
+            "Drums",
+            "The Other One",
+            "Ship Of Fools",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "September 6, 1991",
+    "day": "Friday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Bertha",
+            "Wang Dang Doodle",
+            "Peggy-O",
+            "Just Like Tom Thumb's Blues",
+            "Baby Blue",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

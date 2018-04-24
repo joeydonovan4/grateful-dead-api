@@ -1,0 +1,13 @@
+{
+    "date": "October 4, 1969",
+    "day": "Saturday",
+    "venue": "Boston Tea Party",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

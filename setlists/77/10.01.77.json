@@ -1,0 +1,37 @@
+{
+    "date": "October 1, 1977",
+    "day": "Saturday",
+    "venue": "Paramount Theatre",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Deal",
+            "Passenger",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

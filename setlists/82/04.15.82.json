@@ -1,0 +1,36 @@
+{
+    "date": "April 15, 1982",
+    "day": "Thursday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Cassidy",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Morning Dew",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

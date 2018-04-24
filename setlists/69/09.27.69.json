@@ -1,0 +1,21 @@
+{
+    "date": "September 27, 1969",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Mama Tried",
+            "Next Time You See Me",
+            "Casey Jones",
+            "China Cat Sunflower",
+            "High Time",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Uncle John's Band Jam"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "October 17, 1990",
+    "day": "Wednesday",
+    "venue": "Grugahalle",
+    "city": "Essen",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "High Time",
+            "Cassidy",
+            "Tennessee Jed",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

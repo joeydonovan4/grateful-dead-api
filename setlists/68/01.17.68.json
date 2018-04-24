@@ -1,0 +1,27 @@
+{
+    "date": "January 17, 1968",
+    "day": "Wednesday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Spanish Jam"
+        ],
+        "setTwo": [
+            "Beat It On Down The Line",
+            "Morning Dew",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Good Morning Little School Girl"
+        ]
+    }
+}

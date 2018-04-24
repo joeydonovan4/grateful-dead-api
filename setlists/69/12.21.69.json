@@ -1,0 +1,33 @@
+{
+    "date": "December 21, 1969",
+    "day": "Sunday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Smokestack Lightning",
+            "New Speedway Boogie",
+            "Mama Tried",
+            "Dire Wolf",
+            "Mason's Children"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Peter",
+            "Not Fade Away",
+            "Uncle John's Band",
+            "High Time",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cumberland Blues"
+        ]
+    }
+}

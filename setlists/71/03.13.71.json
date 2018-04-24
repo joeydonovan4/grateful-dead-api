@@ -1,0 +1,15 @@
+{
+    "date": "March 13, 1971",
+    "day": "Saturday",
+    "venue": "Jenison Field House",
+    "city": "Lansing",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Me And Bobby McGee",
+            "Johnny B. Goode"
+        ]
+    }
+}

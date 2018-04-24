@@ -1,0 +1,13 @@
+{
+    "date": "September 3, 1967",
+    "day": "Sunday",
+    "venue": "Dance Hall",
+    "city": "Rio Nido",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Midnight Hour"
+        ]
+    }
+}

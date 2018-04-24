@@ -1,0 +1,37 @@
+{
+    "date": "October 7, 1977",
+    "day": "Friday",
+    "venue": "University Arena",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Jack Straw",
+            "Peggy-O",
+            "El Paso",
+            "They Love Each Other",
+            "Big River",
+            "Dupree's Diamond Blues",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sunrise",
+            "Ramble On Rose",
+            "Passenger",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Iko Iko",
+            "The Wheel",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

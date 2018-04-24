@@ -1,0 +1,35 @@
+{
+    "date": "April 28, 1985",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Gimme Some Lovin'",
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Tons Of Steel",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "China Doll",
+            "Playin' In The Band",
+            "Drums",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "She Belongs To Me"
+        ]
+    }
+}

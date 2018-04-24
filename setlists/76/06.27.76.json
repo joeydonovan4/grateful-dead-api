@@ -1,0 +1,36 @@
+{
+    "date": "June 27, 1976",
+    "day": "Sunday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Big River",
+            "Ship Of Fools",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Wharf Rat",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

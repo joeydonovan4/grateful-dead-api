@@ -1,0 +1,35 @@
+{
+    "date": "June 13, 1993",
+    "day": "Sunday",
+    "venue": "Rich Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Loser",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Broken Arrow",
+            "Tennessee Jed",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Lazy River Road",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "The Days Between",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

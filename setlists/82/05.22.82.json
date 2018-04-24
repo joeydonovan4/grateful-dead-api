@@ -1,0 +1,38 @@
+{
+    "date": "May 22, 1982",
+    "day": "Saturday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Cassidy",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Cumberland Blues",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Good Time Blues",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

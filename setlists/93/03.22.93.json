@@ -1,0 +1,35 @@
+{
+    "date": "March 22, 1993",
+    "day": "Monday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Althea",
+            "Beat It On Down The Line",
+            "Just Like Tom Thumb's Blues",
+            "Lazy River Road",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Wave To The Wind",
+            "Iko Iko",
+            "Corrina",
+            "Uncle John's Band",
+            "China Doll",
+            "Drums",
+            "The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

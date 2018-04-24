@@ -1,0 +1,41 @@
+{
+    "date": "November 6, 1971",
+    "day": "Saturday",
+    "venue": "Harding Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Loser",
+            "Playin' In The Band",
+            "Cumberland Blues",
+            "Black Peter",
+            "Beat It On Down The Line",
+            "Deal",
+            "Mexicali Blues",
+            "Sing Me Back Home",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Comes A Time",
+            "Sugar Magnolia",
+            "Brown-Eyed Women",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

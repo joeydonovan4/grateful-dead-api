@@ -1,0 +1,18 @@
+{
+    "date": "May 19, 1970",
+    "day": "Tuesday",
+    "venue": "Washington University",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "High Time",
+            "Turn On Your Love Light"
+        ]
+    }
+}

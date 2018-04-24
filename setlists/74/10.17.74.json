@@ -1,0 +1,43 @@
+{
+    "date": "October 17, 1974",
+    "day": "Thursday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Black Throated Wind",
+            "Friend Of The Devil",
+            "Jack Straw",
+            "Loser",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "It Must Have Been The Roses",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Big River",
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "He's Gone",
+            "The Other One",
+            "Spanish Jam",
+            "Heaven Help Jam",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones",
+            "U.S. Blues"
+        ]
+    }
+}

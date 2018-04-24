@@ -1,0 +1,52 @@
+{
+    "date": "July 24, 1987",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Funiculi Funicula",
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "My Brother Esau",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "When Push Comes To Shove",
+            "Far From Me",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Playin' In The Band",
+            "Drums",
+            "Uncle John's Band",
+            "Dear Mr. Fantasy",
+            "I Need A Miracle",
+            "Bertha",
+            "Sugar Magnolia"
+        ],
+        "setThree": [
+            "Times They Are A-Changin'",
+            "Man Of Peace",
+            "Maggie's Farm",
+            "I'll Be Your Baby Tonight",
+            "I Want You",
+            "Highway 61",
+            "Baby Blue",
+            "Stuck Inside Of Mobile",
+            "Ballad Of A Thin Man",
+            "Shelter From The Storm",
+            "Slow Train",
+            "Knockin' On Heaven's Door"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "All Along The Watchtower"
+        ]
+    }
+}

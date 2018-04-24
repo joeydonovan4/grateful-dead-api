@@ -1,0 +1,30 @@
+{
+    "date": "November 1, 1969",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Dire Wolf",
+            "Cold Rain And Snow",
+            "Hard To Handle",
+            "Mama Tried",
+            "High Time",
+            "Next Time You See Me",
+            "Casey Jones",
+            "He Was A Friend Of Mine",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Easy Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Alligator",
+            "Drums",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "April 28, 1991",
+    "day": "Sunday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "Wang Dang Doodle",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Truckin'",
+            "Deal",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

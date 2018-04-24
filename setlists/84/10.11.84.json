@@ -1,0 +1,34 @@
+{
+    "date": "October 11, 1984",
+    "day": "Thursday",
+    "venue": "Augusta Civic Center",
+    "city": "Augusta",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Mama Tried",
+            "Big River",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

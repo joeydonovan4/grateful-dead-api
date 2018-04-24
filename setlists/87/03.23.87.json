@@ -1,0 +1,35 @@
+{
+    "date": "March 23, 1987",
+    "day": "Monday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Iko Iko",
+            "Tons Of Steel",
+            "Feel Like A Stranger",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

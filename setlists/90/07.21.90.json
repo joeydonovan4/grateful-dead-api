@@ -1,0 +1,34 @@
+{
+    "date": "July 21, 1990",
+    "day": "Saturday",
+    "venue": "World Amphitheatre",
+    "city": "Tinley Park",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Jack-A-Roe",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Just A Little Light",
+            "Queen Jane Approximately",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Crazy Fingers",
+            "Dear Mr. Fantasy",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

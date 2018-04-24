@@ -1,0 +1,28 @@
+{
+    "date": "August 21, 1968",
+    "day": "Wednesday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Good Morning Little School Girl",
+            "Alligator"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

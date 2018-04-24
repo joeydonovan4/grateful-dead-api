@@ -1,0 +1,23 @@
+{
+    "date": "February 11, 1970",
+    "day": "Wednesday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Not Fade Away",
+            "Cumberland Blues",
+            "Cold Rain And Snow",
+            "High Time",
+            "Me And My Uncle",
+            "Dark Star",
+            "Spanish Jam",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

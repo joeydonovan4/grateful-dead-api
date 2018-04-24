@@ -1,0 +1,33 @@
+{
+    "date": "December 28, 1980",
+    "day": "Sunday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Little Red Rooster",
+            "Althea",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

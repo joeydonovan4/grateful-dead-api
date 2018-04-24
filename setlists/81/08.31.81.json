@@ -1,0 +1,38 @@
+{
+    "date": "August 31, 1981",
+    "day": "Monday",
+    "venue": "Aladdin Theater",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Jack-A-Roe",
+            "El Paso",
+            "Candyman",
+            "Little Red Rooster",
+            "Loser",
+            "Cassidy",
+            "Althea",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "Good Time Blues",
+            "Morning Dew",
+            "Playin' In The Band",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

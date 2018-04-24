@@ -1,0 +1,33 @@
+{
+    "date": "March 19, 1995",
+    "day": "Sunday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Walkin' Blues",
+            "So Many Roads",
+            "Easy Answers",
+            "Don't Ease Me In",
+            "Unbroken Chain"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Crazy Fingers",
+            "Corrina",
+            "Matilda Matilda",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "date": "April 2, 1973",
+    "day": "Monday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Wave That Flag",
+            "Box Of Rain",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "You Ain't Woman Enough",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "Loose Lucy",
+            "El Paso",
+            "Stella Blue",
+            "Around And Around",
+            "Here Comes Sunshine",
+            "Jam",
+            "Space",
+            "Me And Bobby McGee",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Eyes Of The World",
+            "China Doll",
+            "Sugar Magnolia",
+            "Casey Jones",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

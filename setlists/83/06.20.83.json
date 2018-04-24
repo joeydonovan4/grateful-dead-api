@@ -1,0 +1,35 @@
+{
+    "date": "June 20, 1983",
+    "day": "Monday",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Hell In A Bucket",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "West LA Fadeaway",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

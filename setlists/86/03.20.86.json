@@ -1,0 +1,33 @@
+{
+    "date": "March 20, 1986",
+    "day": "Thursday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

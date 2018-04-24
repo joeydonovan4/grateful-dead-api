@@ -1,0 +1,32 @@
+{
+    "date": "March 24, 1971",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Sugar Magnolia",
+            "I'm A King Bee",
+            "Beat It On Down The Line",
+            "Casey Jones",
+            "Hard To Handle",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Next Time You See Me",
+            "Loser",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Playin' In The Band",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "setTwo": [
+            "Uncle John's Band"
+        ]
+    }
+}

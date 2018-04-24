@@ -1,0 +1,43 @@
+{
+    "date": "May 7, 1970",
+    "day": "Thursday",
+    "venue": "Dupont Gymnasium",
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "I Know You Rider",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Deep Elem Blues",
+            "Candyman",
+            "Cumberland Blues",
+            "New Speedway Boogie",
+            "Black Peter",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cold Rain And Snow",
+            "Dire Wolf",
+            "Easy Wind",
+            "Beat It On Down The Line",
+            "High Time",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Casey Jones",
+            "I'm A King Bee",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Darkness Jam",
+            "Turn On Your Love Light"
+        ]
+    }
+}

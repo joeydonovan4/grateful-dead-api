@@ -1,0 +1,37 @@
+{
+    "date": "July 8, 1981",
+    "day": "Wednesday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Don't Ease Me In",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Franklin's Tower",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "April 12, 1983",
+    "day": "Tuesday",
+    "venue": "Broome County Arena",
+    "city": "Binghamton",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Bird Song",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Cassidy",
+            "Loser",
+            "It's All Over Now",
+            "Dupree's Diamond Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Baby Blue"
+        ]
+    }
+}

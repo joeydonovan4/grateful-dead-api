@@ -1,0 +1,47 @@
+{
+    "date": "July 10, 1987",
+    "day": "Friday",
+    "venue": "JFK Stadium",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Jack Straw",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Althea",
+            "My Brother Esau",
+            "When Push Comes To Shove",
+            "Cassidy",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Tangled Up In Blue",
+            "I'll Be Your Baby Tonight",
+            "Man Of Peace",
+            "Frankie Lee And Judas Priest",
+            "John Brown",
+            "Simple Twist Of Fate",
+            "Ballad Of A Thin Man",
+            "Stuck Inside Of Mobile",
+            "Chimes Of Freedom",
+            "Queen Jane Approximately",
+            "Gotta Serve Somebody",
+            "Joey",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

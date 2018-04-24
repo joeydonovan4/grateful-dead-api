@@ -1,0 +1,36 @@
+{
+    "date": "June 28, 1991",
+    "day": "Friday",
+    "venue": "Mile High Stadium",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Wang Dang Doodle",
+            "Peggy-O",
+            "Black Throated Wind",
+            "Iko Iko",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Picasso Moon",
+            "Crazy Fingers",
+            "Saint Of Circumstance",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

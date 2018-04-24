@@ -1,0 +1,35 @@
+{
+    "date": "June 20, 1974",
+    "day": "Thursday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "U.S. Blues",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "Me And My Uncle",
+            "To Lay Me Down",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Big River",
+            "Ship Of Fools",
+            "Truckin'",
+            "Eyes Of The World",
+            "Slipknot!",
+            "China Doll"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

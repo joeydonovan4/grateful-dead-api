@@ -1,0 +1,35 @@
+{
+    "date": "May 7, 1980",
+    "day": "Wednesday",
+    "venue": "Barton Hall",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "Cassidy",
+            "Row Jimmy",
+            "El Paso",
+            "Easy To Love You",
+            "Althea",
+            "Feel Like A Stranger",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Bertha",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Saint Of Circumstance",
+            "Black Peter",
+            "Playin' In The Band",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "October 2, 1994",
+    "day": "Sunday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Loser",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Broken Arrow",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Samba In The Rain",
+            "If The Shoe Fits",
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Truckin'",
+            "That Would Be Something",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

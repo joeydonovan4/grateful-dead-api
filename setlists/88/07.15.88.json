@@ -1,0 +1,36 @@
+{
+    "date": "July 15, 1988",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Dire Wolf",
+            "Good Time Blues",
+            "Turn On Your Love Light",
+            "Cassidy",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Drums",
+            "I Need A Miracle",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

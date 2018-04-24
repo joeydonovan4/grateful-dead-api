@@ -1,0 +1,36 @@
+{
+    "date": "August 18, 1991",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Jack-A-Roe",
+            "C.C. Rider",
+            "It Takes A Train To Cry",
+            "Beat It On Down The Line",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Stagger Lee",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Deal",
+            "Samson And Delilah",
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Drums",
+            "Space",
+            "China Doll",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

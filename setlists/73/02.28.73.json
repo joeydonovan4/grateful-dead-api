@@ -1,0 +1,36 @@
+{
+    "date": "February 28, 1973",
+    "day": "Wednesday",
+    "venue": "Salt Palace",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Sugaree",
+            "Box Of Rain",
+            "El Paso",
+            "He's Gone",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Row Jimmy",
+            "Promised Land",
+            "Truckin'",
+            "The Other One",
+            "Eyes Of The World",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

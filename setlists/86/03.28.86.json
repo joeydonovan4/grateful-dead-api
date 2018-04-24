@@ -1,0 +1,35 @@
+{
+    "date": "March 28, 1986",
+    "day": "Friday",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Beat It On Down The Line",
+            "Loser",
+            "Good Time Blues",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Franklin's Tower",
+            "I Need A Miracle",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Dear Mr. Fantasy",
+            "Playin' In The Band",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

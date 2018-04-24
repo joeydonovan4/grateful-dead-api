@@ -1,0 +1,32 @@
+{
+    "date": "January 8, 1978",
+    "day": "Sunday",
+    "venue": "Golden Hall",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Mama Tried",
+            "Big River",
+            "Sunrise",
+            "It's All Over Now",
+            "Looks Like Rain",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Good Lovin'",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Truckin'",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

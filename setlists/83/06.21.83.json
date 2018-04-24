@@ -1,0 +1,38 @@
+{
+    "date": "June 21, 1983",
+    "day": "Tuesday",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Cassidy",
+            "Big Railroad Blues",
+            "It's All Over Now",
+            "Loser",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Throwin' Stones",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

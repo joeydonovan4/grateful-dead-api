@@ -1,0 +1,35 @@
+{
+    "date": "May 12, 1980",
+    "day": "Monday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Alabama Getaway",
+            "El Paso",
+            "Althea",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Far From Me",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

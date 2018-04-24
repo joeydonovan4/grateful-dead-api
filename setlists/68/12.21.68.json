@@ -1,0 +1,23 @@
+{
+    "date": "December 21, 1968",
+    "day": "Saturday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "It Hurts Me Too",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Feedback",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

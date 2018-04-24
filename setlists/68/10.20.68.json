@@ -1,0 +1,19 @@
+{
+    "date": "October 20, 1968",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Turn On Your Love Light",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ]
+    }
+}

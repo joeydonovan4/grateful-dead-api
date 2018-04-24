@@ -1,0 +1,33 @@
+{
+    "date": "June 20, 1987",
+    "day": "Saturday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Loser",
+            "My Brother Esau",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Deal",
+            "Drums",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "October 17, 1970",
+    "day": "Saturday",
+    "venue": "Cleveland Music Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

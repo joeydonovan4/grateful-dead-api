@@ -1,0 +1,36 @@
+{
+    "date": "May 2, 1987",
+    "day": "Saturday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "Far From Me",
+            "Jack Straw",
+            "When Push Comes To Shove",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Morning Dew",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "September 8, 1993",
+    "day": "Wednesday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Wang Dang Doodle",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Liberty",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

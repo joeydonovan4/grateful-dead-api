@@ -1,0 +1,38 @@
+{
+    "date": "February 14, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Mama Tried",
+            "Hard To Handle"
+        ],
+        "setTwo": [
+            "Monkey And The Engineer",
+            "Dark Hollow",
+            "I've Been All Around This World",
+            "Wake Up Little Susie",
+            "Black Peter",
+            "Uncle John's Band",
+            "Katie Mae"
+        ],
+        "setThree": [
+            "Dancin' In The Streets",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Dire Wolf",
+            "Alligator",
+            "Drums",
+            "Me And My Uncle",
+            "Not Fade Away",
+            "Mason's Children",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

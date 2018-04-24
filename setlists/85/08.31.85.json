@@ -1,0 +1,34 @@
+{
+    "date": "August 31, 1985",
+    "day": "Saturday",
+    "venue": "Manor Downs",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "El Paso",
+            "Dupree's Diamond Blues",
+            "Mexicali Blues",
+            "Big River",
+            "Althea",
+            "My Brother Esau",
+            "Jack-A-Roe",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Estimated Prophet",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "She Belongs To Me",
+            "One More Saturday Night"
+        ]
+    }
+}

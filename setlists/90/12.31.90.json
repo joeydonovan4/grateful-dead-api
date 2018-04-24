@@ -1,0 +1,33 @@
+{
+    "date": "December 31, 1990",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Jack-A-Roe",
+            "Wang Dang Doodle",
+            "Row Jimmy",
+            "Mexicali Blues",
+            "Big River",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Not Fade Away",
+            "Eyes Of The World",
+            "Dark Star",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Weight",
+            "Johnny B. Goode"
+        ]
+    }
+}

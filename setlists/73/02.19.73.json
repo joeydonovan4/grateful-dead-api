@@ -1,0 +1,25 @@
+{
+    "date": "February 19, 1973",
+    "day": "Monday",
+    "venue": "International Amphitheatre",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Box Of Rain",
+            "Brown-Eyed Women",
+            "El Paso"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Eyes Of The World",
+            "China Doll",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ]
+    }
+}

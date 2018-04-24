@@ -1,0 +1,32 @@
+{
+    "date": "February 6, 1970",
+    "day": "Friday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cumberland Blues",
+            "Cold Rain And Snow",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Uncle John's Band",
+            "Dancin' In The Streets",
+            "Casey Jones",
+            "Mama Tried",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "High Time",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "The Eleven",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ]
+    }
+}

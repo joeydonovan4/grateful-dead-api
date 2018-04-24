@@ -1,0 +1,37 @@
+{
+    "date": "September 24, 1991",
+    "day": "Tuesday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Althea",
+            "It's All Over Now",
+            "High Time",
+            "Beat It On Down The Line",
+            "Big Railroad Blues",
+            "Desolation Row",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "Foolish Heart",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

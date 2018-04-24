@@ -1,0 +1,48 @@
+{
+    "date": "June 10, 1973",
+    "day": "Sunday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "Ramble On Rose",
+            "Jack Straw",
+            "Wave That Flag",
+            "Looks Like Rain",
+            "Box Of Rain",
+            "They Love Each Other",
+            "The Race Is On",
+            "Row Jimmy",
+            "El Paso",
+            "Bird Song",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Stella Blue",
+            "Big River",
+            "Here Comes Sunshine",
+            "Around And Around",
+            "Dark Star",
+            "He's Gone",
+            "Wharf Rat",
+            "Truckin'",
+            "Sugar Magnolia"
+        ],
+        "setThree": [
+            "It Takes A Train To Cry",
+            "That's Alright Mama",
+            "Promised Land",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "December 26, 1980",
+    "day": "Friday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Althea",
+            "Cassidy",
+            "Peggy-O",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

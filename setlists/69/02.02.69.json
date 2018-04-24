@@ -1,0 +1,22 @@
+{
+    "date": "February 2, 1969",
+    "day": "Sunday",
+    "venue": "Labor Temple",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Turn On Your Love Light"
+        ]
+    }
+}

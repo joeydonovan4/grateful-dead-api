@@ -1,0 +1,35 @@
+{
+    "date": "October 24, 1979",
+    "day": "Wednesday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Loser",
+            "Mama Tried",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Easy To Love You",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

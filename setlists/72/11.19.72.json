@@ -1,0 +1,43 @@
+{
+    "date": "November 19, 1972",
+    "day": "Sunday",
+    "venue": "Hofheinz Pavilion",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Black Throated Wind",
+            "Don't Ease Me In",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Tomorrow Is Forever",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Ramble On Rose",
+            "El Paso",
+            "Stella Blue",
+            "Jack Straw",
+            "Dark Star",
+            "WRS Prelude",
+            "Mississippi Half-Step",
+            "Around And Around",
+            "Big Railroad Blues",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Goin' Down The Road Feeling Bad"
+        ]
+    }
+}

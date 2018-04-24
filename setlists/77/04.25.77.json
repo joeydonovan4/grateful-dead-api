@@ -1,0 +1,37 @@
+{
+    "date": "April 25, 1977",
+    "day": "Monday",
+    "venue": "Capitol Theater",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Deal",
+            "Mama Tried",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Peggy-O",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Ship Of Fools",
+            "El Paso",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

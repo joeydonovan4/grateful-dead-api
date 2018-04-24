@@ -1,0 +1,13 @@
+{
+    "date": "May 10, 1970",
+    "day": "Sunday",
+    "venue": "Sports Arena",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

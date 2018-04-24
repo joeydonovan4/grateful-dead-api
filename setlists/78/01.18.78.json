@@ -1,0 +1,33 @@
+{
+    "date": "January 18, 1978",
+    "day": "Wednesday",
+    "venue": "Stockton Civic Auditorium",
+    "city": "Stockton",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Peggy-O",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Passenger",
+            "Estimated Prophet",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

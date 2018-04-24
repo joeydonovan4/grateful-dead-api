@@ -1,0 +1,33 @@
+{
+    "date": "March 18, 1995",
+    "day": "Saturday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "El Paso",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "Jack-A-Roe",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "It's All Too Much",
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Visions Of Johanna",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

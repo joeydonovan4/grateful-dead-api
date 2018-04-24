@@ -1,0 +1,33 @@
+{
+    "date": "June 25, 1978",
+    "day": "Sunday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Passenger",
+            "Peggy-O",
+            "New Minglewood Blues"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "March 17, 1988",
+    "day": "Thursday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

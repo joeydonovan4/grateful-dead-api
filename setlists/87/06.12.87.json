@@ -1,0 +1,37 @@
+{
+    "date": "June 12, 1987",
+    "day": "Friday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Big River",
+            "Candyman",
+            "My Brother Esau",
+            "Bird Song",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Far From Me",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

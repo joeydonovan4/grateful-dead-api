@@ -1,0 +1,33 @@
+{
+    "date": "October 12, 1984",
+    "day": "Friday",
+    "venue": "Augusta Civic Center",
+    "city": "Augusta",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "It Must Have Been The Roses",
+            "On The Road Again",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "Cumberland Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Don't Need Love",
+            "Uncle John's Band",
+            "Drums",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Good Lovin'"
+        ]
+    }
+}

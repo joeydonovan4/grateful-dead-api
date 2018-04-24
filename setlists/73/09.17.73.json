@@ -1,0 +1,38 @@
+{
+    "date": "September 17, 1973",
+    "day": "Monday",
+    "venue": "Onondadga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Mexicali Blues",
+            "Loser",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Jack Straw",
+            "Loose Lucy",
+            "You Ain't Woman Enough",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Let Me Sing Your Blues Away",
+            "Truckin'",
+            "Eyes Of The World",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Stella Blue"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

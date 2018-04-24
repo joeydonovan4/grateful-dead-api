@@ -1,0 +1,13 @@
+{
+    "date": "December 28, 1968",
+    "day": "Saturday",
+    "venue": "Unknown Venue",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "January 5, 1969",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

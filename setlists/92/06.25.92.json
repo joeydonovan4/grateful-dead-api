@@ -1,0 +1,37 @@
+{
+    "date": "June 25, 1992",
+    "day": "Thursday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Good Morning Little School Girl",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "So Many Roads",
+            "All Along The Watchtower",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

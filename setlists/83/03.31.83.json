@@ -1,0 +1,36 @@
+{
+    "date": "March 31, 1983",
+    "day": "Thursday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Big River",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Far From Me",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Throwin' Stones",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "August 24, 1980",
+    "day": "Sunday",
+    "venue": "Grand Center",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Passenger",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Althea",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Feel Like A Stranger",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

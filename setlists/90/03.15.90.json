@@ -1,0 +1,35 @@
+{
+    "date": "March 15, 1990",
+    "day": "Thursday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Easy To Love You",
+            "Walkin' Blues",
+            "Althea",
+            "Just Like Tom Thumb's Blues",
+            "Tennessee Jed",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Revolution"
+        ]
+    }
+}

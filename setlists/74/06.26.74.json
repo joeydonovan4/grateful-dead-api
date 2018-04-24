@@ -1,0 +1,43 @@
+{
+    "date": "June 26, 1974",
+    "day": "Wednesday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big River",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Scarlet Begonias",
+            "Black Throated Wind",
+            "Row Jimmy",
+            "Mexicali Blues",
+            "Deal",
+            "The Race Is On",
+            "Mississippi Half-Step",
+            "El Paso",
+            "Ship Of Fools",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "It Must Have Been The Roses"
+        ],
+        "setTwo": [
+            "U.S. Blues",
+            "Me And My Uncle",
+            "Jam",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "The Other One Jam",
+            "Spanish Jam",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Eyes Of The World"
+        ]
+    }
+}

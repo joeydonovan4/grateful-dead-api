@@ -1,0 +1,33 @@
+{
+    "date": "November 11, 1971",
+    "day": "Thursday",
+    "venue": "Atlanta Municipal Auditorium",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Me And Bobby McGee",
+            "Big Railroad Blues",
+            "Mexicali Blues",
+            "One More Saturday Night",
+            "Truckin'",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "September 11, 1973",
+    "day": "Tuesday",
+    "venue": "William and Mary Hall",
+    "city": "Williamsburg",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "The Race Is On",
+            "Loser",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "Mississippi Half-Step",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Let Me Sing Your Blues Away",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Row Jimmy",
+            "Big River",
+            "Deal",
+            "Beat It On Down The Line",
+            "Dark Star",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

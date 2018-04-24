@@ -1,0 +1,34 @@
+{
+    "date": "March 16, 1988",
+    "day": "Wednesday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Stagger Lee",
+            "Walkin' Blues",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Big Boss Man",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "February 19, 1971",
+    "day": "Friday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Cumberland Blues",
+            "It Hurts Me Too",
+            "Bertha",
+            "Playin' In The Band",
+            "Dark Hollow",
+            "Smokestack Lightning",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Bird Song",
+            "Easy Wind",
+            "Deal"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'",
+            "Casey Jones"
+        ]
+    }
+}

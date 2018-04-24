@@ -1,0 +1,37 @@
+{
+    "date": "May 15, 1981",
+    "day": "Friday",
+    "venue": "Athletic Center",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Candyman",
+            "Little Red Rooster",
+            "Jack-A-Roe",
+            "El Paso",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

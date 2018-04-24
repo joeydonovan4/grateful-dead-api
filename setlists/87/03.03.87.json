@@ -1,0 +1,33 @@
+{
+    "date": "March 3, 1987",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Mighty Quinn",
+            "Greatest Story Ever Told",
+            "Loser",
+            "New Minglewood Blues",
+            "Tons Of Steel",
+            "Cassidy",
+            "Mississippi Half-Step",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

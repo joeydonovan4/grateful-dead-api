@@ -1,0 +1,37 @@
+{
+    "date": "March 28, 1994",
+    "day": "Monday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "It Must Have Been The Roses",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Rain",
+            "Victim Or The Crime",
+            "Box Of Rain",
+            "He's Gone",
+            "That Would Be Something",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "The Days Between",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

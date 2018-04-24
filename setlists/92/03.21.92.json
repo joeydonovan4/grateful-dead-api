@@ -1,0 +1,32 @@
+{
+    "date": "March 21, 1992",
+    "day": "Saturday",
+    "venue": "Copps Coliseum",
+    "city": "Hamilton",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "So Many Roads"
+        ],
+        "setTwo": [
+            "Long Way To Go Home",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

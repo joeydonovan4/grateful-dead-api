@@ -1,0 +1,35 @@
+{
+    "date": "April 30, 1988",
+    "day": "Saturday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Row Jimmy",
+            "Walkin' Blues",
+            "Hey Pocky Way",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "February 9, 1979",
+    "day": "Friday",
+    "venue": "Soldiers' and Sailors' Memorial Hall",
+    "city": "Kansas City",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Candyman",
+            "Cassidy",
+            "Tennessee Jed",
+            "El Paso",
+            "Jack-A-Roe",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Passenger",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Not Fade Away",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Comes A Time",
+            "Around And Around"
+        ],
+        "encore": [
+            "Shakedown Street"
+        ]
+    }
+}

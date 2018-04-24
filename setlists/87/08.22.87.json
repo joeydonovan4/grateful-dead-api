@@ -1,0 +1,36 @@
+{
+    "date": "August 22, 1987",
+    "day": "Saturday",
+    "venue": "Calaveras County Fairgrounds",
+    "city": "Angels Camp",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Tons Of Steel",
+            "Friend Of The Devil",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Good Morning Little School Girl",
+            "In The Midnight Hour"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "When Push Comes To Shove",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

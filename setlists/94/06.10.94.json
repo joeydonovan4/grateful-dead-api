@@ -1,0 +1,34 @@
+{
+    "date": "June 10, 1994",
+    "day": "Friday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "The Same Thing",
+            "Lazy River Road",
+            "El Paso",
+            "Loser",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

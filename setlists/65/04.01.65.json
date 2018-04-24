@@ -1,0 +1,13 @@
+{
+    "date": "April 1, 1965",
+    "day": "Thursday",
+    "venue": "Menlo College",
+    "city": "Menlo Park",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

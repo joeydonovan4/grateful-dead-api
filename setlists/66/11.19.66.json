@@ -1,0 +1,25 @@
+{
+    "date": "November 19, 1966",
+    "day": "Saturday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hi Heeled Sneakers",
+            "Pain In My Heart",
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Cream Puff War",
+            "The Same Thing",
+            "He Was A Friend Of Mine",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Smokestack Lightning",
+            "I'm A King Bee",
+            "Midnight Hour"
+        ]
+    }
+}

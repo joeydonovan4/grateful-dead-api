@@ -1,0 +1,35 @@
+{
+    "date": "May 13, 1983",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Hell In A Bucket",
+            "Loser",
+            "Little Red Rooster",
+            "Bird Song",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "Throwin' Stones",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Good Lovin'"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "June 18, 1992",
+    "day": "Thursday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Althea",
+            "Just Like Tom Thumb's Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "Dark Star Jam",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

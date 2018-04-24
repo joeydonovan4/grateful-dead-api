@@ -1,0 +1,33 @@
+{
+    "date": "July 13, 1989",
+    "day": "Thursday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Stuck Inside Of Mobile",
+            "To Lay Me Down",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

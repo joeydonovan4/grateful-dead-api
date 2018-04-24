@@ -1,0 +1,38 @@
+{
+    "date": "December 15, 1986",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "C.C. Rider",
+            "When Push Comes To Shove",
+            "Beat It On Down The Line",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Cassidy",
+            "Althea",
+            "My Brother Esau",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Black Muddy River",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

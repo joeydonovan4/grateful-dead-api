@@ -1,0 +1,34 @@
+{
+    "date": "August 30, 1983",
+    "day": "Tuesday",
+    "venue": "Silva Hall (Hult Center)",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Candyman",
+            "My Brother Esau",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

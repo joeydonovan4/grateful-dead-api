@@ -1,0 +1,37 @@
+{
+    "date": "September 11, 1982",
+    "day": "Saturday",
+    "venue": "West Palm Beach Auditorium",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Dupree's Diamond Blues",
+            "C.C. Rider",
+            "Loser",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

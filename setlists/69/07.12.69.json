@@ -1,0 +1,23 @@
+{
+    "date": "July 12, 1969",
+    "day": "Saturday",
+    "venue": "New York State Pavilion",
+    "city": "Queens",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Dark Star Jam",
+            "The Other One",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light",
+            "Mountains Of The Moon",
+            "Green Green Grass Of Home",
+            "Slewfoot"
+        ]
+    }
+}

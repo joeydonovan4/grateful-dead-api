@@ -1,0 +1,35 @@
+{
+    "date": "June 14, 1991",
+    "day": "Friday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Jack-A-Roe",
+            "Big River",
+            "Maggie's Farm",
+            "Row Jimmy",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "May 27, 1993",
+    "day": "Thursday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "The Same Thing",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "High Time",
+            "When I Paint My Masterpiece",
+            "Cumberland Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "Fire On The Mountain",
+            "Wave To The Wind",
+            "Cassidy",
+            "Uncle John's Band",
+            "Cassidy",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

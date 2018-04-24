@@ -1,0 +1,40 @@
+{
+    "date": "May 25, 1974",
+    "day": "Saturday",
+    "venue": "Campus Stadium",
+    "city": "Goleta",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "U.S. Blues",
+            "Mexicali Blues",
+            "Deal",
+            "Jack Straw",
+            "Scarlet Begonias",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Sugaree",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Ship Of Fools",
+            "Big River",
+            "Tennessee Jed",
+            "Truckin'",
+            "Let It Grow",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

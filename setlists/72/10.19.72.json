@@ -1,0 +1,45 @@
+{
+    "date": "October 19, 1972",
+    "day": "Thursday",
+    "venue": "Fox Theater",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Sugaree",
+            "Mexicali Blues",
+            "Bertha",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "Around And Around",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Big River",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Bird Song",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "He's Gone",
+            "The Other One",
+            "Greatest Story Ever Told",
+            "Comes A Time",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

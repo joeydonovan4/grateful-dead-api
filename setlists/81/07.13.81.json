@@ -1,0 +1,36 @@
+{
+    "date": "July 13, 1981",
+    "day": "Monday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "El Paso",
+            "Jack-A-Roe",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "C.C. Rider",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

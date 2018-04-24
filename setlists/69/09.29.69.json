@@ -1,0 +1,19 @@
+{
+    "date": "September 29, 1969",
+    "day": "Monday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Doin' That Rag",
+            "The Seven",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "St. Stephen",
+            "The Eleven"
+        ]
+    }
+}

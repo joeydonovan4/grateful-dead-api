@@ -1,0 +1,36 @@
+{
+    "date": "August 13, 1987",
+    "day": "Thursday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "Jack Straw",
+            "Row Jimmy",
+            "It's All Over Now",
+            "Loser",
+            "Cassidy",
+            "Far From Me",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Touch Of Grey",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

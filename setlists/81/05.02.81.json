@@ -1,0 +1,35 @@
+{
+    "date": "May 2, 1981",
+    "day": "Saturday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "El Paso",
+            "Bird Song",
+            "Cassidy",
+            "Candyman",
+            "New Minglewood Blues",
+            "Althea",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

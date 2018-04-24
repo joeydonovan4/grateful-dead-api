@@ -1,0 +1,34 @@
+{
+    "date": "March 12, 1981",
+    "day": "Thursday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Bird Song",
+            "C.C. Rider",
+            "Althea",
+            "Let It Grow",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Playin' In The Band",
+            "He's Gone",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

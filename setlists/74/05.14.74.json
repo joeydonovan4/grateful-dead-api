@@ -1,0 +1,39 @@
+{
+    "date": "May 14, 1974",
+    "day": "Tuesday",
+    "venue": "Adams Field House",
+    "city": "Missoula",
+    "state": "MT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Loser",
+            "Black Throated Wind",
+            "Scarlet Begonias",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Deal",
+            "Big River",
+            "Brown-Eyed Women",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "U.S. Blues",
+            "El Paso",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Dark Star",
+            "China Doll",
+            "Promised Land",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ]
+    }
+}

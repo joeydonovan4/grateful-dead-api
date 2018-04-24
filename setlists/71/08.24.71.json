@@ -1,0 +1,37 @@
+{
+    "date": "August 24, 1971",
+    "day": "Tuesday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Sugaree",
+            "El Paso",
+            "Next Time You See Me",
+            "Bertha",
+            "Me And Bobby McGee"
+        ],
+        "setTwo": [
+            "Big Boss Man",
+            "Loser",
+            "Bird Song",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Wharf Rat",
+            "Cold Rain And Snow",
+            "Deal",
+            "Brokedown Palace",
+            "Empty Pages",
+            "Brown-Eyed Women",
+            "Good Lovin'"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 30, 1989",
+    "day": "Sunday",
+    "venue": "Irvine Meadows",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Wang Dang Doodle",
+            "Stagger Lee",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "We Can Run",
+            "Picasso Moon",
+            "Deal"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "September 18, 1983",
+    "day": "Sunday",
+    "venue": "Nevada County Fairgrounds",
+    "city": "Grass Valley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Hell In A Bucket",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

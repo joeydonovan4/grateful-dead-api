@@ -1,0 +1,35 @@
+{
+    "date": "April 6, 1987",
+    "day": "Monday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "When Push Comes To Shove",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Cumberland Blues",
+            "Tons Of Steel",
+            "Saint Of Circumstance",
+            "Drums",
+            "Terrapin Station",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

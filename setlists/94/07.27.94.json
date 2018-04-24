@@ -1,0 +1,33 @@
+{
+    "date": "July 27, 1994",
+    "day": "Wednesday",
+    "venue": "Riverport Amphitheatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "Black Throated Wind",
+            "Just Like Tom Thumb's Blues",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "The Days Between",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

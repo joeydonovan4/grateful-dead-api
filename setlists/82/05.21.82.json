@@ -1,0 +1,34 @@
+{
+    "date": "May 21, 1982",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "C.C. Rider",
+            "Althea",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

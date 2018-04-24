@@ -1,0 +1,37 @@
+{
+    "date": "October 14, 1976",
+    "day": "Thursday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Peggy-O",
+            "Big River",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal",
+            "El Paso",
+            "Tennessee Jed",
+            "The Music Never Stopped",
+            "Scarlet Begonias"
+        ],
+        "setTwo": [
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Dancin' In The Streets",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

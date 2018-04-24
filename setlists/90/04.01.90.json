@@ -1,0 +1,38 @@
+{
+    "date": "April 1, 1990",
+    "day": "Sunday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Just A Little Light",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Victim Or The Crime",
+            "To Lay Me Down",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Truckin'",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

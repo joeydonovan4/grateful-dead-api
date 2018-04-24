@@ -1,0 +1,33 @@
+{
+    "date": "September 26, 1993",
+    "day": "Sunday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Walkin' Blues",
+            "High Time",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Lazy River Road",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "I Need A Miracle",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

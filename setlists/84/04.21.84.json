@@ -1,0 +1,37 @@
+{
+    "date": "April 21, 1984",
+    "day": "Saturday",
+    "venue": "Philadelphia Civic Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Playin' In The Band",
+            "China Doll",
+            "Don't Need Love",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

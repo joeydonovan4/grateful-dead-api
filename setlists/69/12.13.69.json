@@ -1,0 +1,25 @@
+{
+    "date": "December 13, 1969",
+    "day": "Saturday",
+    "venue": "Swing Auditorium",
+    "city": "San Bernardino",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Hard To Handle",
+            "Black Peter",
+            "Mama Tried",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cumberland Blues",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ]
+    }
+}

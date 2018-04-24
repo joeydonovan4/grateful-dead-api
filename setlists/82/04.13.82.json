@@ -1,0 +1,14 @@
+{
+    "date": "April 13, 1982",
+    "day": "Tuesday",
+    "venue": "NBC Studios",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Monkey And The Engineer"
+        ]
+    }
+}

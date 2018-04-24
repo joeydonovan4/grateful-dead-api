@@ -1,0 +1,41 @@
+{
+    "date": "September 25, 1981",
+    "day": "Friday",
+    "venue": "Stabler Arena",
+    "city": "Bethlehem",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "El Paso",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Passenger",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Time Blues",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Wheel",
+            "Sugar Magnolia",
+            "Black Peter",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

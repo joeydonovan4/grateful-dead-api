@@ -1,0 +1,35 @@
+{
+    "date": "June 26, 1988",
+    "day": "Sunday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "When Push Comes To Shove",
+            "Mama Tried",
+            "Big River",
+            "Cumberland Blues",
+            "Gentlemen Start Your Engines",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

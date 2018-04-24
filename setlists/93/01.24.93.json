@@ -1,0 +1,31 @@
+{
+    "date": "January 24, 1993",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Walkin' Blues",
+            "Loser",
+            "Queen Jane Approximately",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "The Last Time",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

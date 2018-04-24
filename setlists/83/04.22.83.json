@@ -1,0 +1,39 @@
+{
+    "date": "April 22, 1983",
+    "day": "Friday",
+    "venue": "New Haven Coliseum",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Funiculi Funicula",
+            "Feel Like A Stranger",
+            "Bird Song",
+            "C.C. Rider",
+            "Row Jimmy",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Cold Rain And Snow",
+            "My Brother Esau",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

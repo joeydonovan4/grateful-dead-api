@@ -1,0 +1,44 @@
+{
+    "date": "February 15, 1973",
+    "day": "Thursday",
+    "venue": "Dane County Coliseum",
+    "city": "Madison",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Loose Lucy",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Box Of Rain",
+            "Row Jimmy",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Bertha",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "El Paso",
+            "You Ain't Woman Enough",
+            "They Love Each Other",
+            "Big River",
+            "Dark Star",
+            "Eyes Of The World",
+            "China Doll",
+            "Promised Land",
+            "Sugaree",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "One More Saturday Night"
+        ]
+    }
+}

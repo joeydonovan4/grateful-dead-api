@@ -1,0 +1,30 @@
+{
+    "date": "January 31, 1978",
+    "day": "Tuesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Passenger",
+            "Tennessee Jed",
+            "El Paso",
+            "Candyman",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Black Peter",
+            "Truckin'",
+            "Good Lovin'"
+        ]
+    }
+}

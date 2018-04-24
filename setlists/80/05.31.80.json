@@ -1,0 +1,38 @@
+{
+    "date": "May 31, 1980",
+    "day": "Saturday",
+    "venue": "Metropolitan Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Peggy-O",
+            "Cassidy",
+            "Loser",
+            "New Minglewood Blues",
+            "Far From Me",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "The Other One",
+            "Drums",
+            "I Need A Miracle",
+            "Bertha",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Brokedown Palace"
+        ]
+    }
+}

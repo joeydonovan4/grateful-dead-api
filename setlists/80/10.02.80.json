@@ -1,0 +1,46 @@
+{
+    "date": "October 2, 1980",
+    "day": "Thursday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Hollow",
+            "Iko Iko",
+            "The Race Is On",
+            "To Lay Me Down",
+            "Cassidy",
+            "Jack-A-Roe",
+            "On The Road Again",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "It's All Over Now",
+            "Loser",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Drums",
+            "Comes A Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

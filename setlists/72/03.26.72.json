@@ -1,0 +1,37 @@
+{
+    "date": "March 26, 1972",
+    "day": "Sunday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Cold Rain And Snow",
+            "Chinatown Shuffle",
+            "Black Throated Wind",
+            "You Win Again",
+            "Mr. Charlie",
+            "Jack Straw",
+            "Loser",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Big Boss Man",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

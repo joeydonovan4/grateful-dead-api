@@ -1,0 +1,39 @@
+{
+    "date": "August 4, 1989",
+    "day": "Friday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Good Time Blues",
+            "Built To Last",
+            "Queen Jane Approximately",
+            "Jack-A-Roe",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Wang Dang Doodle",
+            "Crazy Fingers",
+            "Cumberland Blues",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

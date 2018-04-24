@@ -1,0 +1,35 @@
+{
+    "date": "August 26, 1983",
+    "day": "Friday",
+    "venue": "Portland Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "West LA Fadeaway",
+            "New Minglewood Blues",
+            "Loser",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Wang Dang Doodle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

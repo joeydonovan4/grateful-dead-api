@@ -1,0 +1,14 @@
+{
+    "date": "November 27, 1970",
+    "day": "Friday",
+    "venue": "The Syndrome",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Turn On Your Love Light"
+        ]
+    }
+}

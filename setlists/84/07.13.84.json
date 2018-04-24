@@ -1,0 +1,35 @@
+{
+    "date": "July 13, 1984",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "C.C. Rider",
+            "Loser",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "Hell In A Bucket",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Dark Star"
+        ]
+    }
+}

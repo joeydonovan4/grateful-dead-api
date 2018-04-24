@@ -1,0 +1,39 @@
+{
+    "date": "June 10, 1976",
+    "day": "Thursday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Cassidy",
+            "They Love Each Other",
+            "The Music Never Stopped",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Row Jimmy",
+            "Big River",
+            "Mission In The Rain",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Let It Grow",
+            "Drums",
+            "Friend Of The Devil",
+            "Playin' In The Band",
+            "Dancin' In The Streets"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

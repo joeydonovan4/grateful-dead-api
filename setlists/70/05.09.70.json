@@ -1,0 +1,16 @@
+{
+    "date": "May 9, 1970",
+    "day": "Saturday",
+    "venue": "Worcester Polytechnic Institute",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Friend Of The Devil",
+            "Silver Threads",
+            "Black Peter"
+        ]
+    }
+}

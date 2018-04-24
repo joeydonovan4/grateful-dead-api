@@ -1,0 +1,34 @@
+{
+    "date": "December 14, 1990",
+    "day": "Friday",
+    "venue": "McNichols Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Picasso Moon",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "When I Paint My Masterpiece",
+            "To Lay Me Down",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Dark Star",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

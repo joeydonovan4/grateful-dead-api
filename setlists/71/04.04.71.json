@@ -1,0 +1,34 @@
+{
+    "date": "April 4, 1971",
+    "day": "Sunday",
+    "venue": "Manhattan Center",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "Morning Dew",
+            "Playin' In The Band",
+            "Loser",
+            "Easy Wind",
+            "Me And Bobby McGee",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Hard To Handle",
+            "Deal",
+            "Sugar Magnolia",
+            "Casey Jones",
+            "Good Lovin'",
+            "Goin' Down The Road Feeling Bad",
+            "St. Stephen",
+            "Not Fade Away",
+            "Uncle John's Band"
+        ]
+    }
+}

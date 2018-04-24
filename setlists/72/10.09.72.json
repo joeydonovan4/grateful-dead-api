@@ -1,0 +1,43 @@
+{
+    "date": "October 9, 1972",
+    "day": "Monday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Beat It On Down The Line",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Black Throated Wind",
+            "Loser",
+            "El Paso",
+            "Box Of Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Sugaree",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Jam",
+            "He's Gone",
+            "Big River",
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "Brokedown Palace",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

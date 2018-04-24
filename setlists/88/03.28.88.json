@@ -1,0 +1,35 @@
+{
+    "date": "March 28, 1988",
+    "day": "Monday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Box Of Rain",
+            "When Push Comes To Shove",
+            "Walkin' Blues",
+            "It Must Have Been The Roses",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

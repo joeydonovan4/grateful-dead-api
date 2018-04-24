@@ -1,0 +1,34 @@
+{
+    "date": "March 11, 1993",
+    "day": "Thursday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "So Many Roads",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Wave To The Wind",
+            "Truckin'",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "The Days Between",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

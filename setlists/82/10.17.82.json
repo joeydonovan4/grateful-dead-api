@@ -1,0 +1,40 @@
+{
+    "date": "October 17, 1982",
+    "day": "Sunday",
+    "venue": "Santa Fe Downs",
+    "city": "Santa Fe",
+    "state": "NM",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Man Smart-Woman Smarter",
+            "Ramble On Rose",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Good Time Blues",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Throwin' Stones",
+            "Goin' Down The Road Feeling Bad",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

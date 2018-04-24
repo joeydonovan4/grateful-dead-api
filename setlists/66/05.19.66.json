@@ -1,0 +1,33 @@
+{
+    "date": "May 19, 1966",
+    "day": "Thursday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Beat It On Down The Line",
+            "Standing On The Corner",
+            "Mindbender",
+            "It Hurts Me Too",
+            "Viola Lee Blues",
+            "I Know You Rider",
+            "It's A Sin",
+            "Sick And Tired",
+            "Cream Puff War"
+        ],
+        "setTwo": [
+            "Sitting On Top Of The World",
+            "New Minglewood Blues",
+            "Cold Rain And Snow",
+            "Come Back Baby(Tastebud)",
+            "Silver Threads And Golden Needles",
+            "It's All Over Now Baby Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "You Don't Have To Ask"
+        ]
+    }
+}

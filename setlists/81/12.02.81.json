@@ -1,0 +1,39 @@
+{
+    "date": "December 2, 1981",
+    "day": "Wednesday",
+    "venue": "Assembly Hall",
+    "city": "Champlain",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Passenger",
+            "Good Time Blues",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "date": "February 24, 1968",
+    "day": "Saturday",
+    "venue": "King's Beach Bowl",
+    "city": "Lake Tahoe",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "China Cat Sunflower",
+            "Turn On Your Love Light"
+        ]
+    }
+}

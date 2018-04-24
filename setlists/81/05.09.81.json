@@ -1,0 +1,39 @@
+{
+    "date": "May 9, 1981",
+    "day": "Saturday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Feel Like A Stranger",
+            "Bird Song",
+            "Little Red Rooster",
+            "Candyman",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Nobody's Jam",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

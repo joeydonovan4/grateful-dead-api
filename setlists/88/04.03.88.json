@@ -1,0 +1,33 @@
+{
+    "date": "April 3, 1988",
+    "day": "Sunday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Little Red Rooster",
+            "Cold Rain And Snow",
+            "Stuck Inside Of Mobile",
+            "Box Of Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

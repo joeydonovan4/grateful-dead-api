@@ -1,0 +1,33 @@
+{
+    "date": "August 21, 1993",
+    "day": "Saturday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Walkin' Blues",
+            "Lazy River Road",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Good Morning Little School Girl",
+            "Smokestack Lightning",
+            "Drums",
+            "The Last Time",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

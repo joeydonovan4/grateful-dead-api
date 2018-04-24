@@ -1,0 +1,34 @@
+{
+    "date": "September 10, 1990",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Stuck Inside Of Mobile",
+            "Foolish Heart",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

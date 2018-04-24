@@ -1,0 +1,39 @@
+{
+    "date": "April 18, 1982",
+    "day": "Sunday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia",
+            "Playin' In The Band",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

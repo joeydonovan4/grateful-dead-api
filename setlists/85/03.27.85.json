@@ -1,0 +1,32 @@
+{
+    "date": "March 27, 1985",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Big River",
+            "Just Like Tom Thumb's Blues",
+            "Brown-Eyed Women",
+            "Tons Of Steel",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

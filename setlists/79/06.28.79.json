@@ -1,0 +1,38 @@
+{
+    "date": "June 28, 1979",
+    "day": "Thursday",
+    "venue": "Sacramento Memorial Auditorium",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "It's All Over Now",
+            "Stagger Lee",
+            "Passenger",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

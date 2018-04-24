@@ -1,0 +1,37 @@
+{
+    "date": "June 15, 1976",
+    "day": "Tuesday",
+    "venue": "Beacon Theatre",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Cassidy",
+            "Candyman",
+            "The Music Never Stopped",
+            "It Must Have Been The Roses",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Let It Grow",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Not Fade Away",
+            "Stella Blue",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Dancin' In The Streets",
+            "The Wheel",
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "May 11, 1986",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Gimme Some Lovin'",
+            "Dancin' In The Streets",
+            "Good Time Blues",
+            "Iko Iko",
+            "My Brother Esau",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "He's Gone",
+            "Smokestack Lightning",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Around And Around",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "I Need A Miracle",
+            "U.S. Blues"
+        ]
+    }
+}

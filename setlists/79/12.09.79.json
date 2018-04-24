@@ -1,0 +1,39 @@
+{
+    "date": "December 9, 1979",
+    "day": "Sunday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "High Time",
+            "Easy To Love You",
+            "Terrapin Station",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Black Peter",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

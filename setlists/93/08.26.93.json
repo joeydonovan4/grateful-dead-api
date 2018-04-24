@@ -1,0 +1,32 @@
+{
+    "date": "August 26, 1993",
+    "day": "Thursday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "Wang Dang Doodle",
+            "Candyman",
+            "Just Like Tom Thumb's Blues",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Saint Of Circumstance",
+            "Long Way To Go Home",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

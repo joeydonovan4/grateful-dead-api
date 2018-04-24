@@ -1,0 +1,36 @@
+{
+    "date": "December 27, 1991",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loose Lucy",
+            "Stuck Inside Of Mobile",
+            "Stagger Lee",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "It's All Over Now"
+        ]
+    }
+}

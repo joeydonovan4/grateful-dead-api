@@ -1,0 +1,34 @@
+{
+    "date": "June 25, 1988",
+    "day": "Saturday",
+    "venue": "Buckeye Lake Music Center",
+    "city": "Hebron",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Box Of Rain",
+            "Sugaree",
+            "Stuck Inside Of Mobile",
+            "West LA Fadeaway",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Blow Away",
+            "Foolish Heart",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

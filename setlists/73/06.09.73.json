@@ -1,0 +1,42 @@
+{
+    "date": "June 9, 1973",
+    "day": "Saturday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Jack Straw",
+            "Loose Lucy",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "El Paso",
+            "Box Of Rain",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Greatest Story Ever Told",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Truckin'",
+            "Playin' In The Band",
+            "Loser",
+            "Me And My Uncle",
+            "Mississippi Half-Step",
+            "Big River",
+            "Eyes Of The World",
+            "China Doll"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

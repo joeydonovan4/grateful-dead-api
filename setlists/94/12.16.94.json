@@ -1,0 +1,33 @@
+{
+    "date": "December 16, 1994",
+    "day": "Friday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "So Many Roads",
+            "Childhood's End",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Samba In The Rain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

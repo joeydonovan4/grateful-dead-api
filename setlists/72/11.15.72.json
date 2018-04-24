@@ -1,0 +1,25 @@
+{
+    "date": "November 15, 1972",
+    "day": "Wednesday",
+    "venue": "Oklahoma City Music Hall",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Brokedown Palace",
+            "Candyman",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

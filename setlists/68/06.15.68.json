@@ -1,0 +1,19 @@
+{
+    "date": "June 15, 1968",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feedback",
+            "The Eleven",
+            "St. Stephen",
+            "Alligator",
+            "Turn On Your Love Light",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ]
+    }
+}

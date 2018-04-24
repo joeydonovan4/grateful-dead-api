@@ -1,0 +1,31 @@
+{
+    "date": "June 21, 1971",
+    "day": "Monday",
+    "venue": "Chateau d'Herouville",
+    "city": "Herouville",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Hard To Handle",
+            "Deal",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Morning Dew",
+            "Long Black Limousine",
+            "Playin' In The Band",
+            "Big Boss Man",
+            "Black Peter",
+            "Bertha",
+            "Casey Jones",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Johnny B. Goode"
+        ]
+    }
+}

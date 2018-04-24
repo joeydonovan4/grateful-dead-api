@@ -1,0 +1,38 @@
+{
+    "date": "June 7, 1977",
+    "day": "Tuesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Peggy-O",
+            "Funiculi Funicula",
+            "El Paso",
+            "Friend Of The Devil",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "Candyman",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Morning Dew",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "U.S. Blues"
+        ]
+    }
+}

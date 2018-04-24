@@ -1,0 +1,13 @@
+{
+    "date": "April 1, 1967",
+    "day": "Saturday",
+    "venue": "The Rock Garden",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

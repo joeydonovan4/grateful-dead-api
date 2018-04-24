@@ -1,0 +1,33 @@
+{
+    "date": "October 30, 1991",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Brown-Eyed Women",
+            "Baby Blue",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

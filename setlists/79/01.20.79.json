@@ -1,0 +1,37 @@
+{
+    "date": "January 20, 1979",
+    "day": "Saturday",
+    "venue": "Shea's Theater",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "El Paso",
+            "Peggy-O",
+            "It's All Over Now",
+            "Jack-A-Roe",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Loser",
+            "Estimated Prophet",
+            "The Other One",
+            "Drums",
+            "The Other One",
+            "Dark Star",
+            "Not Fade Away",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "date": "September 6, 1969",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Jam",
+            "Casey Jones",
+            "Good Morning Little School Girl",
+            "Doin' That Rag",
+            "He Was A Friend Of Mine",
+            "Big Boy Pete",
+            "Good Lovin'",
+            "It's All Over Now"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 24, 1971",
+    "day": "Saturday",
+    "venue": "Wallace Wade Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Deal",
+            "Hard To Handle",
+            "Me And Bobby McGee",
+            "Bertha",
+            "Playin' In The Band",
+            "Cumberland Blues",
+            "Next Time You See Me",
+            "Loser",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Me And My Uncle",
+            "Sing Me Back Home",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Uncle John's Band"
+        ]
+    }
+}

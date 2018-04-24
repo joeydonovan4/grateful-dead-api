@@ -1,0 +1,35 @@
+{
+    "date": "April 6, 1978",
+    "day": "Thursday",
+    "venue": "Curtis Hixon Convention Hall",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Passenger",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

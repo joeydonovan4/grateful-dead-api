@@ -1,0 +1,33 @@
+{
+    "date": "April 1, 1995",
+    "day": "Saturday",
+    "venue": "The Pyramid",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Candyman",
+            "Take Me To The River",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Childhood's End",
+            "Deal"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

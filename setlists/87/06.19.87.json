@@ -1,0 +1,36 @@
+{
+    "date": "June 19, 1987",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Big River",
+            "Brown-Eyed Women",
+            "Desolation Row",
+            "When Push Comes To Shove",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "It Must Have Been The Roses",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

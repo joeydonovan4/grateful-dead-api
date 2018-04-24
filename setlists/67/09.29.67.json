@@ -1,0 +1,14 @@
+{
+    "date": "September 29, 1967",
+    "day": "Friday",
+    "venue": "Straight Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums"
+        ]
+    }
+}

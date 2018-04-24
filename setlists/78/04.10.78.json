@@ -1,0 +1,35 @@
+{
+    "date": "April 10, 1978",
+    "day": "Monday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Peggy-O",
+            "Cassidy",
+            "Dire Wolf",
+            "El Paso",
+            "Row Jimmy",
+            "Passenger",
+            "Candyman",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Ship Of Fools",
+            "Dancin' In The Streets",
+            "Drums",
+            "Franklin's Tower",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

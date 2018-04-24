@@ -1,0 +1,34 @@
+{
+    "date": "March 21, 1994",
+    "day": "Monday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Bertha",
+            "The Same Thing",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "West LA Fadeaway",
+            "Eternity",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "New Speedway Boogie",
+            "Victim Or The Crime",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Turn On Your Love Light",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

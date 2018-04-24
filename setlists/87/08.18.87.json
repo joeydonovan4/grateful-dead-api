@@ -1,0 +1,33 @@
+{
+    "date": "August 18, 1987",
+    "day": "Tuesday",
+    "venue": "Compton Terrace Amphitheatre",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "My Brother Esau",
+            "Peggy-O",
+            "Greatest Story Ever Told",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

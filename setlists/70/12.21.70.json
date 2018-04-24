@@ -1,0 +1,13 @@
+{
+    "date": "December 21, 1970",
+    "day": "Monday",
+    "venue": "Pepperland",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "date": "June 27, 1969",
+    "day": "Friday",
+    "venue": "Veterans Auditorium",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Slewfoot",
+            "Mama Tried",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Casey Jones",
+            "Dire Wolf",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Green Green Grass Of Home",
+            "It's All Over Now Baby Blue",
+            "Drums"
+        ]
+    }
+}

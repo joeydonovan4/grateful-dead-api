@@ -1,0 +1,39 @@
+{
+    "date": "November 25, 1973",
+    "day": "Sunday",
+    "venue": "Feyline Field",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Casey Jones",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

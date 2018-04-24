@@ -1,0 +1,17 @@
+{
+    "date": "September 30, 1969",
+    "day": "Tuesday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums",
+            "The Other One",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ]
+    }
+}

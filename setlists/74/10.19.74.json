@@ -1,0 +1,46 @@
+{
+    "date": "October 19, 1974",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Friend Of The Devil",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "El Paso",
+            "Loose Lucy",
+            "Black Throated Wind",
+            "Scarlet Begonias",
+            "To Lay Me Down",
+            "Mama Tried",
+            "Eyes Of The World",
+            "China Doll",
+            "Big River"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Big Railroad Blues",
+            "The Race Is On",
+            "Tomorrow Is Forever",
+            "Mexicali Blues",
+            "Dire Wolf",
+            "Sugar Magnolia",
+            "He's Gone",
+            "Truckin'",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "U.S. Blues"
+        ]
+    }
+}

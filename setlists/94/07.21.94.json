@@ -1,0 +1,37 @@
+{
+    "date": "July 21, 1994",
+    "day": "Thursday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Jack-A-Roe",
+            "The Same Thing",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "If The Shoe Fits",
+            "Long Way To Go Home",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "The Days Between",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

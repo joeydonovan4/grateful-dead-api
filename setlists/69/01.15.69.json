@@ -1,0 +1,14 @@
+{
+    "date": "January 15, 1969",
+    "day": "Wednesday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Doin' That Rag",
+            "Mountains Of The Moon"
+        ]
+    }
+}

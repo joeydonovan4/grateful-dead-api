@@ -1,0 +1,31 @@
+{
+    "date": "April 19, 1986",
+    "day": "Saturday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Big Railroad Blues",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "China Doll",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

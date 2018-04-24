@@ -1,0 +1,36 @@
+{
+    "date": "December 15, 1978",
+    "day": "Friday",
+    "venue": "Boutwell Auditorium",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "El Paso",
+            "From The Heart Of Me",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Truckin'",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

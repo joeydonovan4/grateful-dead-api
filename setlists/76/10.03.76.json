@@ -1,0 +1,34 @@
+{
+    "date": "October 3, 1976",
+    "day": "Sunday",
+    "venue": "COBO Arena",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Loser",
+            "El Paso",
+            "Scarlet Begonias",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Playin' In The Band",
+            "The Wheel",
+            "Good Lovin'",
+            "Comes A Time",
+            "Dancin' In The Streets",
+            "Not Fade Away",
+            "Dancin' In The Streets"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

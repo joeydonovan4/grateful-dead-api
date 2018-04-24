@@ -1,0 +1,36 @@
+{
+    "date": "November 17, 1985",
+    "day": "Sunday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "It's All Over Now",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "Spoonful",
+            "Good Time Blues",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

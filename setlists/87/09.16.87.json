@@ -1,0 +1,36 @@
+{
+    "date": "September 16, 1987",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Scarlet Begonias",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "My Brother Esau",
+            "High Time",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Devil With A Blue Dress",
+            "Good Golly Miss Molly",
+            "Devil With A Blue Dress",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

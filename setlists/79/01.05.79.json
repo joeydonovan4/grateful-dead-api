@@ -1,0 +1,37 @@
+{
+    "date": "January 5, 1979",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Candyman",
+            "Mama Tried",
+            "Mexicali Blues",
+            "From The Heart Of Me",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Stagger Lee",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

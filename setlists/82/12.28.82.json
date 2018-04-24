@@ -1,0 +1,37 @@
+{
+    "date": "December 28, 1982",
+    "day": "Tuesday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Friend Of The Devil",
+            "On The Road Again",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Dire Wolf",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Good Time Blues",
+            "Terrapin Station",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Baby Blue"
+        ]
+    }
+}

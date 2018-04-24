@@ -1,0 +1,34 @@
+{
+    "date": "February 20, 1982",
+    "day": "Saturday",
+    "venue": "Golden Hall",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "To Lay Me Down",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

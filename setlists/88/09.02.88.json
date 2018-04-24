@@ -1,0 +1,33 @@
+{
+    "date": "September 2, 1988",
+    "day": "Friday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Queen Jane Approximately",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "date": "March 26, 1968",
+    "day": "Tuesday",
+    "venue": "Melodyland Theater",
+    "city": "Anaheim",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Death Don't Have No Mercy",
+            "Sitting On Top Of The World",
+            "Dark Star"
+        ]
+    }
+}

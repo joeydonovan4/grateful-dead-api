@@ -1,0 +1,35 @@
+{
+    "date": "September 28, 1994",
+    "day": "Wednesday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "El Paso",
+            "Lazy River Road",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Samba In The Rain",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

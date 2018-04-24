@@ -1,0 +1,38 @@
+{
+    "date": "October 10, 1976",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "Mama Tried",
+            "Ramble On Rose",
+            "Cassidy",
+            "Deal",
+            "El Paso",
+            "Loser",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Stella Blue",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

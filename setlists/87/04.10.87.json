@@ -1,0 +1,34 @@
+{
+    "date": "April 10, 1987",
+    "day": "Friday",
+    "venue": "UIC Pavilion",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Box Of Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

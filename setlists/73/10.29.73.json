@@ -1,0 +1,40 @@
+{
+    "date": "October 29, 1973",
+    "day": "Monday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "The Race Is On",
+            "Row Jimmy",
+            "El Paso",
+            "Eyes Of The World",
+            "China Doll",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Big River",
+            "Brokedown Palace",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

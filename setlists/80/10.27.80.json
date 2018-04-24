@@ -1,0 +1,46 @@
+{
+    "date": "October 27, 1980",
+    "day": "Monday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Race Is On",
+            "Been All Around This World",
+            "Monkey And The Engineer",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Rosalie McFall",
+            "On The Road Again",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Passenger",
+            "Row Jimmy",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setThree": [
+            "Truckin'",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Bertha",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

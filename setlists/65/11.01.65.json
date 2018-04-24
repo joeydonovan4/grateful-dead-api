@@ -1,0 +1,13 @@
+{
+    "date": "November 1, 1965",
+    "day": "Monday",
+    "venue": "Pierre's",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "October 6, 1981",
+    "day": "Tuesday",
+    "venue": "Rainbow Theater",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Little Red Rooster",
+            "Althea",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Good Time Blues",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "High Time",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Blues For Allah Jam",
+            "The Wheel",
+            "Sugar Magnolia",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Sunshine Daydream",
+            "Brokedown Palace"
+        ]
+    }
+}

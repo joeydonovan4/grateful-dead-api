@@ -1,0 +1,35 @@
+{
+    "date": "August 23, 1980",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

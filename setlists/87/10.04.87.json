@@ -1,0 +1,35 @@
+{
+    "date": "October 4, 1987",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "When Push Comes To Shove",
+            "Walkin' Blues",
+            "High Time",
+            "Desolation Row",
+            "Iko Iko"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Devil With A Blue Dress",
+            "Good Golly Miss Molly",
+            "Devil With A Blue Dress",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "Brokedown Palace"
+        ]
+    }
+}

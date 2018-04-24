@@ -1,0 +1,39 @@
+{
+    "date": "July 12, 1976",
+    "day": "Monday",
+    "venue": "Orpheum Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Candyman",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Drums",
+            "The Wheel",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

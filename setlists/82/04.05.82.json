@@ -1,0 +1,34 @@
+{
+    "date": "April 5, 1982",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "El Paso",
+            "Deep Elem Blues",
+            "Cassidy",
+            "Tennessee Jed",
+            "Little Red Rooster",
+            "Althea",
+            "Man Smart-Woman Smarter"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Playin' In The Band",
+            "Ship Of Fools",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "June 5, 1980",
+    "day": "Thursday",
+    "venue": "Compton Terrace Amphitheatre",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "El Paso",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "Easy To Love You",
+            "Althea",
+            "Feel Like A Stranger"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

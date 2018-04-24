@@ -1,0 +1,36 @@
+{
+    "date": "August 31, 1983",
+    "day": "Wednesday",
+    "venue": "Silva Hall (Hult Center)",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Hell In A Bucket",
+            "Althea",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Satisfaction"
+        ]
+    }
+}

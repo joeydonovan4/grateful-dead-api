@@ -1,0 +1,32 @@
+{
+    "date": "February 14, 1968",
+    "day": "Wednesday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Spanish Jam",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

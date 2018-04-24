@@ -1,0 +1,35 @@
+{
+    "date": "October 3, 1994",
+    "day": "Monday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Beat It On Down The Line",
+            "Loose Lucy",
+            "Little Red Rooster",
+            "Childhood's End",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Shakedown Street",
+            "Cassidy",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Attics Of My Life",
+            "Around And Around"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

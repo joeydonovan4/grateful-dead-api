@@ -1,0 +1,38 @@
+{
+    "date": "August 27, 1972",
+    "day": "Sunday",
+    "venue": "Old Renaissance Faire Grounds",
+    "city": "Veneta",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Me And My Uncle",
+            "Deal",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "He's Gone",
+            "Jack Straw",
+            "Bird Song",
+            "Greatest Story Ever Told"
+        ],
+        "setThree": [
+            "Dark Star",
+            "El Paso",
+            "Sing Me Back Home",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones",
+            "One More Saturday Night"
+        ]
+    }
+}

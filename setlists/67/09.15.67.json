@@ -1,0 +1,19 @@
+{
+    "date": "September 15, 1967",
+    "day": "Friday",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Good Morning Little School Girl",
+            "Morning Dew",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

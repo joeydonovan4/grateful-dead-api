@@ -1,0 +1,22 @@
+{
+    "date": "June 13, 1969",
+    "day": "Friday",
+    "venue": "Fresno Convention Center",
+    "city": "Fresno",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Me And My Uncle",
+            "Sitting On Top Of The World",
+            "Beat It On Down The Line",
+            "Good Morning Little School Girl",
+            "China Cat Sunflower",
+            "Morning Dew",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

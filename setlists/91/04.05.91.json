@@ -1,0 +1,35 @@
+{
+    "date": "April 5, 1991",
+    "day": "Friday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Deal"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Stir It Up Jam",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

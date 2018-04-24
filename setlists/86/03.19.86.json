@@ -1,0 +1,36 @@
+{
+    "date": "March 19, 1986",
+    "day": "Wednesday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Stagger Lee",
+            "C.C. Rider",
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Visions Of Johanna",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

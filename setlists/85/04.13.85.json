@@ -1,0 +1,33 @@
+{
+    "date": "April 13, 1985",
+    "day": "Saturday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Why Don't We Do It In The Road",
+            "Bertha",
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Truckin'",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "March 5, 1981",
+    "day": "Thursday",
+    "venue": "Stanley Theater",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Althea",
+            "Mama Tried",
+            "Mexicali Blues",
+            "To Lay Me Down",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jam",
+            "Passenger",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

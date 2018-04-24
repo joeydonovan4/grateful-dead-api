@@ -1,0 +1,36 @@
+{
+    "date": "June 15, 1995",
+    "day": "Thursday",
+    "venue": "Franklin Field",
+    "city": "Highgate",
+    "state": "VT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Peggy-O",
+            "El Paso",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Loose Lucy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Samba In The Rain",
+            "Truckin'",
+            "Rollin' And Tumblin'",
+            "That Would Be Something",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Box Of Rain",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

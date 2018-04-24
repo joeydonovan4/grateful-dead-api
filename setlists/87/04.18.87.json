@@ -1,0 +1,34 @@
+{
+    "date": "April 18, 1987",
+    "day": "Saturday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Far From Me",
+            "Row Jimmy",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

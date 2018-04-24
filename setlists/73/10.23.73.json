@@ -1,0 +1,44 @@
+{
+    "date": "October 23, 1973",
+    "day": "Tuesday",
+    "venue": "Metropolitan Sports Center",
+    "city": "Bloomington",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Me And Bobby McGee",
+            "Deal",
+            "Black Throated Wind",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Brokedown Palace",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Big River",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "El Paso",
+            "Loose Lucy",
+            "Truckin'",
+            "The Other One",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

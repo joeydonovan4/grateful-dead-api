@@ -1,0 +1,35 @@
+{
+    "date": "August 5, 1971",
+    "day": "Thursday",
+    "venue": "Hollywood Palladium",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "Sugaree",
+            "El Paso",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Me And Bobby McGee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Loser",
+            "Sugar Magnolia",
+            "Bird Song",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

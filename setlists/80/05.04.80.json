@@ -1,0 +1,35 @@
+{
+    "date": "May 4, 1980",
+    "day": "Sunday",
+    "venue": "Baltimore Civic Center",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Feel Like A Stranger",
+            "Althea",
+            "El Paso",
+            "Easy To Love You",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Don't Ease Me In",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

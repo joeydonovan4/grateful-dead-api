@@ -1,0 +1,34 @@
+{
+    "date": "May 6, 1978",
+    "day": "Saturday",
+    "venue": "Patrick Field House",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Loser",
+            "Looks Like Rain",
+            "It Must Have Been The Roses",
+            "Me And My Uncle",
+            "Big River",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sunrise",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

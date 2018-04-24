@@ -1,0 +1,13 @@
+{
+    "date": "November 10, 1970",
+    "day": "Tuesday",
+    "venue": "Action House",
+    "city": "Island Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "date": "September 17, 1970",
+    "day": "Thursday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Truckin'",
+            "To Lay Me Down"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "St. Stephen",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ]
+    }
+}

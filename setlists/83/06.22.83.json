@@ -1,0 +1,33 @@
+{
+    "date": "June 22, 1983",
+    "day": "Wednesday",
+    "venue": "City Island",
+    "city": "Harrisburg",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "My Brother Esau",
+            "Deal"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "Spanish Jam",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

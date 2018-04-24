@@ -1,0 +1,35 @@
+{
+    "date": "December 8, 1994",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Spoonful",
+            "Jack-A-Roe",
+            "It's All Over Now",
+            "So Many Roads",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Cumberland Blues",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Lucy In The Sky With Diamonds",
+            "Around And Around"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

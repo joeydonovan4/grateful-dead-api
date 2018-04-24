@@ -1,0 +1,35 @@
+{
+    "date": "December 31, 1977",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Tennessee Jed",
+            "Funiculi Funicula",
+            "Me And My Uncle",
+            "Loser",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Wharf Rat",
+            "Drums",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Casey Jones"
+        ]
+    }
+}

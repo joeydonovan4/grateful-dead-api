@@ -1,0 +1,36 @@
+{
+    "date": "March 21, 1985",
+    "day": "Thursday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "El Paso",
+            "Tennessee Jed",
+            "Ain't Superstitious",
+            "Down In The Bottom",
+            "Dupree's Diamond Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

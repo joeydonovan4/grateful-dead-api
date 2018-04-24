@@ -1,0 +1,38 @@
+{
+    "date": "June 19, 1980",
+    "day": "Thursday",
+    "venue": "West High Auditorium",
+    "city": "Anchorage",
+    "state": "AK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "El Paso",
+            "Tennessee Jed",
+            "Cassidy",
+            "Althea",
+            "Looks Like Rain",
+            "Far From Me",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "C.C. Rider",
+            "Peggy-O",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

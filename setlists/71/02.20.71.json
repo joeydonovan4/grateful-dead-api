@@ -1,0 +1,36 @@
+{
+    "date": "February 20, 1971",
+    "day": "Saturday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Bertha",
+            "Playin' In The Band",
+            "Bird Song",
+            "Big Boss Man",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Loser",
+            "Next Time You See Me",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Ripple",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

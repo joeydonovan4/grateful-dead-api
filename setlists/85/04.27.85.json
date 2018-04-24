@@ -1,0 +1,37 @@
+{
+    "date": "April 27, 1985",
+    "day": "Saturday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Bertha",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "Cold Rain And Snow",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Eyes Of The World",
+            "Goin' Down The Road Feeling Bad",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

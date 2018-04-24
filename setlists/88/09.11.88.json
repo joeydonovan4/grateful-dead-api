@@ -1,0 +1,34 @@
+{
+    "date": "September 11, 1988",
+    "day": "Sunday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "Peggy-O",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Victim Or The Crime",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "The Wheel",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

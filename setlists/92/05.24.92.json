@@ -1,0 +1,33 @@
+{
+    "date": "May 24, 1992",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "The Same Thing",
+            "Dire Wolf",
+            "When I Paint My Masterpiece",
+            "Loser",
+            "Baby Blue",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "So Many Roads",
+            "Long Way To Go Home",
+            "Corrina",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

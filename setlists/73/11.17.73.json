@@ -1,0 +1,41 @@
+{
+    "date": "November 17, 1973",
+    "day": "Saturday",
+    "venue": "Pauley Pavilion",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Here Comes Sunshine",
+            "Looks Like Rain",
+            "Deal",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "The Race Is On",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Brown-Eyed Women",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Row Jimmy",
+            "Jack Straw",
+            "Ramble On Rose",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Morning Dew",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Stella Blue",
+            "El Paso",
+            "Eyes Of The World",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "October 15, 1977",
+    "day": "Saturday",
+    "venue": "Moody Coliseum",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "They Love Each Other",
+            "Mama Tried",
+            "Big River",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Peggy-O",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sunrise",
+            "Terrapin Station",
+            "St. Stephen",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Truckin'",
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "April 2, 1995",
+    "day": "Sunday",
+    "venue": "The Pyramid",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "The Same Thing",
+            "Althea",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Eternity",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Unbroken Chain"
+        ]
+    }
+}

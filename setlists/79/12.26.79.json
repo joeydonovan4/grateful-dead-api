@@ -1,0 +1,38 @@
+{
+    "date": "December 26, 1979",
+    "day": "Wednesday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "C.C. Rider",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Alabama Getaway",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Estimated Prophet",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Not Fade Away",
+            "Brokedown Palace",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Shakedown Street",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "October 1, 1988",
+    "day": "Saturday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "The Other One",
+            "I Need A Miracle",
+            "Uncle John's Band",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

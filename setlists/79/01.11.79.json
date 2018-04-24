@@ -1,0 +1,37 @@
+{
+    "date": "January 11, 1979",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "Cassidy",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "From The Heart Of Me",
+            "Ramble On Rose",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

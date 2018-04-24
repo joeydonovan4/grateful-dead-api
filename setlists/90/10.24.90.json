@@ -1,0 +1,36 @@
+{
+    "date": "October 24, 1990",
+    "day": "Wednesday",
+    "venue": "Sporthalle Hamburg",
+    "city": "Hamburg",
+    "state": "N/A",
+    "country": "GER",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Iko Iko"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "The Wheel",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "August 6, 1971",
+    "day": "Friday",
+    "venue": "Hollywood Palladium",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Loser",
+            "Mr. Charlie",
+            "Cumberland Blues",
+            "Brokedown Palace",
+            "Me And Bobby McGee",
+            "Hard To Handle",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Deal",
+            "Sugar Magnolia",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ]
+    }
+}

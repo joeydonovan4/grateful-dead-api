@@ -1,0 +1,35 @@
+{
+    "date": "June 27, 1995",
+    "day": "Tuesday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Bertha",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Queen Jane Approximately",
+            "Lazy River Road",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "It's All Too Much",
+            "Corrina",
+            "Jam",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

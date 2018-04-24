@@ -1,0 +1,44 @@
+{
+    "date": "October 18, 1974",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Around And Around",
+            "Sugaree",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Cumberland Blues",
+            "El Paso",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Morning Dew"
+        ],
+        "setThree": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "June 22, 1976",
+    "day": "Tuesday",
+    "venue": "Tower Theater",
+    "city": "Upper Darby",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "U.S. Blues",
+            "The Music Never Stopped",
+            "Crazy Fingers",
+            "Comes A Time",
+            "Big River",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Cassidy",
+            "Ship Of Fools",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Dancin' In The Streets",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

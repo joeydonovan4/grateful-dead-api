@@ -1,0 +1,38 @@
+{
+    "date": "December 30, 1981",
+    "day": "Wednesday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "On The Road Again",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Cumberland Blues",
+            "It's All Over Now",
+            "Althea",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Me And Bobby McGee",
+            "Lady Di",
+            "Barbry Allen",
+            "Feel Like A Stranger",
+            "Ramble On Rose",
+            "Estimated Prophet",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "October 5, 1984",
+    "day": "Friday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Feel Like A Stranger",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

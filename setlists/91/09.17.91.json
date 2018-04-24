@@ -1,0 +1,35 @@
+{
+    "date": "September 17, 1991",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Little Red Rooster",
+            "Loser",
+            "Baby Blue",
+            "Brown-Eyed Women",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "April 9, 1989",
+    "day": "Sunday",
+    "venue": "Freedom Hall",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "It Must Have Been The Roses",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Desolation Row",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "Louie Louie",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "May 28, 1977",
+    "day": "Saturday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Sugaree",
+            "Jack Straw",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Candyman",
+            "Passenger",
+            "Brown-Eyed Women",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Tennessee Jed",
+            "Estimated Prophet",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

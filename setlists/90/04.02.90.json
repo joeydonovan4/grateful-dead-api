@@ -1,0 +1,33 @@
+{
+    "date": "April 2, 1990",
+    "day": "Monday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Mississippi Half-Step",
+            "The Weight",
+            "Queen Jane Approximately",
+            "Easy To Love You",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "He's Gone",
+            "This Could Be The Last Time",
+            "Drums",
+            "The Other One",
+            "Death Don't Have No Mercy",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

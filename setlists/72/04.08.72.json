@@ -1,0 +1,37 @@
+{
+    "date": "April 8, 1972",
+    "day": "Saturday",
+    "venue": "Empire Pool",
+    "city": "Wembley",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "Deal",
+            "Black Throated Wind",
+            "Next Time You See Me",
+            "Cumberland Blues",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Good Lovin'",
+            "Looks Like Rain",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Big Railroad Blues",
+            "It Hurts Me Too",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Caution (Do Not Stop On Tracks)"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

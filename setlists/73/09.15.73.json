@@ -1,0 +1,42 @@
+{
+    "date": "September 15, 1973",
+    "day": "Saturday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Greatest Story Ever Told",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal",
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Bird Song",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Big River",
+            "Row Jimmy",
+            "Truckin'",
+            "Drums",
+            "Eyes Of The World",
+            "Let Me Sing Your Blues Away",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

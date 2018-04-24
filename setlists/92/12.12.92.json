@@ -1,0 +1,32 @@
+{
+    "date": "December 12, 1992",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "Desolation Row",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "Crazy Fingers",
+            "Man Smart-Woman Smarter",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "December 28, 1989",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Queen Jane Approximately",
+            "Just A Little Light",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Drums",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

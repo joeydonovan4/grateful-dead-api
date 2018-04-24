@@ -1,0 +1,48 @@
+{
+    "date": "May 11, 1972",
+    "day": "Thursday",
+    "venue": "Civic Hall",
+    "city": "Rotterdam",
+    "state": "N/A",
+    "country": "NED",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Sugaree",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "Deal",
+            "Chinatown Shuffle",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It Hurts Me Too",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Two Souls In Communion",
+            "El Paso",
+            "Tennessee Jed",
+            "Next Time You See Me",
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Caution (Do Not Stop On Tracks)",
+            "Who Do You Love",
+            "Caution (Do Not Stop On Tracks)",
+            "Truckin'",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "May 25, 1992",
+    "day": "Monday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Mexicali Blues",
+            "Big River",
+            "Just Like Tom Thumb's Blues",
+            "Tennessee Jed",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Iko Iko",
+            "Spoonful",
+            "New Speedway Boogie",
+            "Drums",
+            "Space",
+            "Throwin' Stones",
+            "Attics Of My Life",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

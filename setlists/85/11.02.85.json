@@ -1,0 +1,33 @@
+{
+    "date": "November 2, 1985",
+    "day": "Saturday",
+    "venue": "Richmond Coliseum",
+    "city": "Richmond",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Dupree's Diamond Blues",
+            "C.C. Rider",
+            "Althea",
+            "My Brother Esau",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "China Doll",
+            "Drums",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "April 28, 1971",
+    "day": "Wednesday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Beat It On Down The Line",
+            "Loser",
+            "El Paso",
+            "The Rub",
+            "Bird Song",
+            "Playin' In The Band",
+            "Cumberland Blues",
+            "Ripple",
+            "Me And Bobby McGee",
+            "I'm A King Bee",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Deal",
+            "Hard To Handle",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "September 10, 1983",
+    "day": "Saturday",
+    "venue": "Santa Fe Downs",
+    "city": "Santa Fe",
+    "state": "NM",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "They Love Each Other",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Cold Rain And Snow"
+        ]
+    }
+}

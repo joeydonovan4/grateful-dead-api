@@ -1,0 +1,24 @@
+{
+    "date": "November 6, 1970",
+    "day": "Friday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "I'm A King Bee",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "Candyman",
+            "Sugar Magnolia",
+            "Good Lovin'",
+            "Drums",
+            "The Main Ten",
+            "Good Lovin'"
+        ]
+    }
+}

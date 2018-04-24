@@ -1,0 +1,37 @@
+{
+    "date": "September 24, 1982",
+    "day": "Friday",
+    "venue": "Carrier Dome",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Far From Me",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Throwin' Stones",
+            "Drums",
+            "Iko Iko",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Black Peter",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

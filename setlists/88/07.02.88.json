@@ -1,0 +1,35 @@
+{
+    "date": "July 2, 1988",
+    "day": "Saturday",
+    "venue": "Oxford Plains Speedway",
+    "city": "Oxford",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "Blow Away",
+            "Victim Or The Crime",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

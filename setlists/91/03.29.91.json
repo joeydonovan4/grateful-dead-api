@@ -1,0 +1,35 @@
+{
+    "date": "March 29, 1991",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "Walkin' Blues",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "When I Paint My Masterpiece"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "New Speedway Boogie",
+            "Truckin'",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

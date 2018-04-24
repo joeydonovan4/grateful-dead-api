@@ -1,0 +1,46 @@
+{
+    "date": "March 21, 1973",
+    "day": "Wednesday",
+    "venue": "Utica Memorial Auditorium",
+    "city": "Utica",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Wave That Flag",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Box Of Rain",
+            "Jack Straw",
+            "You Ain't Woman Enough",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Here Comes Sunshine",
+            "The Race Is On",
+            "Loser",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Big River",
+            "Brokedown Palace",
+            "Me And Bobby McGee",
+            "WRS Prelude",
+            "Dark Star",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

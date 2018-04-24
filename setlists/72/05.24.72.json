@@ -1,0 +1,41 @@
+{
+    "date": "May 24, 1972",
+    "day": "Wednesday",
+    "venue": "The Strand Lyceum",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Mr. Charlie",
+            "Deal",
+            "Me And My Uncle",
+            "It Hurts Me Too",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "You Win Again",
+            "Jack Straw",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Rockin' Pneumonia & The Boogie Woogie Flu",
+            "Mexicali Blues",
+            "Black Peter",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Sing Me Back Home",
+            "Sugar Magnolia",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "date": "October 17, 1972",
+    "day": "Tuesday",
+    "venue": "Fox Theater",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Bird Song",
+            "El Paso",
+            "Sugaree",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Deal",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Don't Ease Me In",
+            "Mexicali Blues",
+            "Black Peter",
+            "Me And Bobby McGee",
+            "Bertha",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Beat It On Down The Line",
+            "Ramble On Rose",
+            "Mississippi Half-Step",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "Johnny B. Goode"
+        ]
+    }
+}

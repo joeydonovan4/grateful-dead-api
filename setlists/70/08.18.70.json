@@ -1,0 +1,38 @@
+{
+    "date": "August 18, 1970",
+    "day": "Tuesday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Dire Wolf",
+            "Friend Of The Devil",
+            "Dark Hollow",
+            "Ripple",
+            "Brokedown Palace",
+            "Operator",
+            "Rosalie McFall",
+            "New Speedway Boogie",
+            "Cold Jordan",
+            "Swing Low Sweet Chariot"
+        ],
+        "setTwo": [
+            "Dancin' In The Streets",
+            "Next Time You See Me",
+            "Mama Tried",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Sugar Magnolia",
+            "Attics Of My Life",
+            "It's A Man's World",
+            "Not Fade Away",
+            "Casey Jones",
+            "Uncle John's Band"
+        ]
+    }
+}

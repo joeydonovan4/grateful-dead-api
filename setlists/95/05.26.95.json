@@ -1,0 +1,33 @@
+{
+    "date": "May 26, 1995",
+    "day": "Friday",
+    "venue": "Memorial Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Same Thing",
+            "Loose Lucy",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Easy Answers",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

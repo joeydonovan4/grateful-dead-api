@@ -1,0 +1,25 @@
+{
+    "date": "October 9, 1968",
+    "day": "Wednesday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jam",
+            "It's A Sin",
+            "Next Time You See Me",
+            "The Rub",
+            "Look Over Yonder's Wall",
+            "New Potato Caboose",
+            "Turn On Your Love Light",
+            "Caution (Do Not Stop On Tracks)",
+            "The Other One",
+            "Death Don't Have No Mercy",
+            "Dark Star Jam",
+            "The Eleven",
+            "The Seven"
+        ]
+    }
+}

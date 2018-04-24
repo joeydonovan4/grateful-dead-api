@@ -1,0 +1,44 @@
+{
+    "date": "May 7, 1972",
+    "day": "Sunday",
+    "venue": "Bickershaw Festival",
+    "city": "Wigan",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Deal",
+            "Beat It On Down The Line",
+            "He's Gone",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Big Boss Man",
+            "Ramble On Rose",
+            "Jack Straw",
+            "Dark Star",
+            "Drums",
+            "The Other One",
+            "Sing Me Back Home",
+            "Sugar Magnolia",
+            "Turn On Your Love Light",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

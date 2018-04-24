@@ -1,0 +1,36 @@
+{
+    "date": "April 6, 1989",
+    "day": "Thursday",
+    "venue": "Chrysler Arena",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Built To Last",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Playin' Reprise"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

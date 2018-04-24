@@ -1,0 +1,35 @@
+{
+    "date": "December 16, 1986",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "When Push Comes To Shove",
+            "Sugaree",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Willie And The Hand Jive",
+            "Iko Iko",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 3, 1989",
+    "day": "Monday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Bertha",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "El Paso",
+            "Built To Last",
+            "Victim Or The Crime",
+            "Just Like Tom Thumb's Blues",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Blow Away",
+            "Estimated Prophet",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "Gimme Some Lovin'",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Black Muddy River"
+        ]
+    }
+}

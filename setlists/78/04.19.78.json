@@ -1,0 +1,35 @@
+{
+    "date": "April 19, 1978",
+    "day": "Wednesday",
+    "venue": "Veterans' Memorial Auditorium",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Passenger",
+            "Candyman",
+            "Cassidy",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "date": "October 10, 1980",
+    "day": "Friday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "It Must Have Been The Roses",
+            "Monkey And The Engineer",
+            "Jack-A-Roe",
+            "Dark Hollow",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Althea",
+            "Jack Straw"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Big Railroad Blues",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Nobody's Jam",
+            "Black Peter",
+            "Around And Around",
+            "Promised Land"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

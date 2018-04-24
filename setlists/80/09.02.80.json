@@ -1,0 +1,37 @@
+{
+    "date": "September 2, 1980",
+    "day": "Tuesday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "El Paso",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Althea",
+            "C.C. Rider",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Iko Iko",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

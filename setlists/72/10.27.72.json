@@ -1,0 +1,43 @@
+{
+    "date": "October 27, 1972",
+    "day": "Friday",
+    "venue": "Veterans' Memorial Auditorium",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Loser",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "El Paso",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Box Of Rain",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Me And Bobby McGee",
+            "Bird Song",
+            "Big River",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Truckin'",
+            "The Other One",
+            "Mississippi Half-Step",
+            "Morning Dew",
+            "Tomorrow Is Forever",
+            "Promised Land",
+            "Deal",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

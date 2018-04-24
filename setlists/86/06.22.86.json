@@ -1,0 +1,38 @@
+{
+    "date": "June 22, 1986",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Big Railroad Blues",
+            "Mama Tried",
+            "Big River",
+            "Stagger Lee",
+            "Hell In A Bucket",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Box Of Rain"
+        ]
+    }
+}

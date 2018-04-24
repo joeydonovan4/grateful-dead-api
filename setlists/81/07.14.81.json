@@ -1,0 +1,39 @@
+{
+    "date": "July 14, 1981",
+    "day": "Tuesday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "To Lay Me Down",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Little Red Rooster",
+            "Bird Song",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "High Time",
+            "Truckin'",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

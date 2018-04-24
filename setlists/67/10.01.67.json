@@ -1,0 +1,13 @@
+{
+    "date": "October 1, 1967",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

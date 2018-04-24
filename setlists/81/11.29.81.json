@@ -1,0 +1,36 @@
+{
+    "date": "November 29, 1981",
+    "day": "Sunday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Satisfaction"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

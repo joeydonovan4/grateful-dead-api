@@ -1,0 +1,38 @@
+{
+    "date": "August 5, 1979",
+    "day": "Sunday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Lost Sailor",
+            "Althea",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Ollin Arrageed",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Bertha",
+            "Good Lovin'",
+            "Johnny B. Goode"
+        ]
+    }
+}

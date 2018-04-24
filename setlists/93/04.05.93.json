@@ -1,0 +1,33 @@
+{
+    "date": "April 5, 1993",
+    "day": "Monday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Lazy River Road",
+            "Just Like Tom Thumb's Blues",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "The Music Never Stopped",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Fought The Law",
+            "Long Way To Go Home",
+            "Corrina",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Gloria"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

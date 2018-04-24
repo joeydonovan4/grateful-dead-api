@@ -1,0 +1,35 @@
+{
+    "date": "November 1, 1990",
+    "day": "Thursday",
+    "venue": "Wembley Arena",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Friend Of The Devil",
+            "Walkin' Blues",
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Maggie's Farm",
+            "Cassidy",
+            "Stander On The Mountain"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Playin' Reprise",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

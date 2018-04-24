@@ -1,0 +1,35 @@
+{
+    "date": "August 26, 1980",
+    "day": "Tuesday",
+    "venue": "Cleveland Public Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "El Paso",
+            "Loser",
+            "Beat It On Down The Line",
+            "Althea",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Little Red Rooster",
+            "Far From Me",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Comes A Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

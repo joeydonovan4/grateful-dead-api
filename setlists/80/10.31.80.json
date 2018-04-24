@@ -1,0 +1,46 @@
+{
+    "date": "October 31, 1980",
+    "day": "Friday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Heaven Help The Fool",
+            "Sage And Spirit",
+            "Little Sadie",
+            "Monkey And The Engineer",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setThree": [
+            "Don't Ease Me In",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Franklin's Tower",
+            "Drums",
+            "Fire On The Mountain",
+            "Not Fade Away",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "July 10, 1981",
+    "day": "Friday",
+    "venue": "St. Paul Civic Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Althea",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "China Doll",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

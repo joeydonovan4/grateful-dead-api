@@ -1,0 +1,35 @@
+{
+    "date": "June 27, 1983",
+    "day": "Monday",
+    "venue": "Poplar Creek Pavilion",
+    "city": "Poplar Creek",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Dupree's Diamond Blues",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Cold Rain And Snow",
+            "Hell In A Bucket",
+            "Sugaree"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "The Wheel",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

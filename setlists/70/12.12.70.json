@@ -1,0 +1,38 @@
+{
+    "date": "December 12, 1970",
+    "day": "Saturday",
+    "venue": "Santa Rosa Fairgrounds",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Truckin'",
+            "Brokedown Palace",
+            "Hard To Handle",
+            "Mama Tried",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big Railroad Blues",
+            "I'm A King Bee",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Dire Wolf",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Darkness Jam",
+            "Not Fade Away",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Uncle John's Band"
+        ]
+    }
+}

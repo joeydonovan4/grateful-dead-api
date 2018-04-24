@@ -1,0 +1,38 @@
+{
+    "date": "May 6, 1980",
+    "day": "Tuesday",
+    "venue": "Recreation Hall",
+    "city": "State College",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "Far From Me",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Feel Like A Stranger",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

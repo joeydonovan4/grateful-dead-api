@@ -1,0 +1,34 @@
+{
+    "date": "March 28, 1990",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Easy To Love You",
+            "High Time",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Cumberland Blues",
+            "The Weight",
+            "Hey Pocky Way",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Revolution"
+        ]
+    }
+}

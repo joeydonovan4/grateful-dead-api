@@ -1,0 +1,25 @@
+{
+    "date": "February 7, 1969",
+    "day": "Friday",
+    "venue": "Stanley Theater",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "George Washington Story",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy",
+            "Alligator",
+            "Drums",
+            "Jam",
+            "China Cat Sunflower Jam",
+            "Primal Alligator Jam",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

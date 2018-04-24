@@ -1,0 +1,35 @@
+{
+    "date": "February 18, 1985",
+    "day": "Monday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "C.C. Rider",
+            "Dire Wolf",
+            "Cassidy",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "He's Gone",
+            "Spoonful",
+            "Eyes Of The World",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "China Doll",
+            "Baby What You Want Me To Do",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

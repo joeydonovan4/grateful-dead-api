@@ -1,0 +1,34 @@
+{
+    "date": "December 12, 1994",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Candyman",
+            "Easy Answers",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Childhood's End",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

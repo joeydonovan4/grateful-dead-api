@@ -1,0 +1,41 @@
+{
+    "date": "March 30, 1973",
+    "day": "Friday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Cumberland Blues",
+            "Candyman",
+            "Beat It On Down The Line",
+            "Don't Ease Me In",
+            "El Paso",
+            "Row Jimmy",
+            "The Race Is On",
+            "Bird Song",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Wave That Flag",
+            "Greatest Story Ever Told",
+            "Truckin'",
+            "Eyes Of The World",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

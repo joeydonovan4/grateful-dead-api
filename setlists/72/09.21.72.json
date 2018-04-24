@@ -1,0 +1,43 @@
+{
+    "date": "September 21, 1972",
+    "day": "Thursday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Bird Song",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Jack Straw",
+            "Loser",
+            "Big River",
+            "Ramble On Rose",
+            "Cumberland Blues",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Truckin'",
+            "Black Peter",
+            "Mexicali Blues",
+            "Dark Star",
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "Mississippi Half-Step",
+            "Sugar Magnolia",
+            "Friend Of The Devil",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

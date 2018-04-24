@@ -1,0 +1,34 @@
+{
+    "date": "September 17, 1993",
+    "day": "Friday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "Easy Answers",
+            "Lazy River Road",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Saint Of Circumstance",
+            "Drums",
+            "I Need A Miracle",
+            "That Would Be Something",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

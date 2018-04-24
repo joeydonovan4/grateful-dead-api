@@ -1,0 +1,13 @@
+{
+    "date": "October 17, 1969",
+    "day": "Friday",
+    "venue": "Unknown Venue",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

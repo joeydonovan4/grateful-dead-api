@@ -1,0 +1,39 @@
+{
+    "date": "September 30, 1972",
+    "day": "Saturday",
+    "venue": "American University",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deal",
+            "Mexicali Blues",
+            "Sugaree",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "Bird Song",
+            "Big River",
+            "Loser",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Me And My Uncle",
+            "Brokedown Palace",
+            "Truckin'",
+            "The Other One",
+            "Sing Me Back Home",
+            "Sugar Magnolia",
+            "Mississippi Half-Step",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

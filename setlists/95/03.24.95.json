@@ -1,0 +1,34 @@
+{
+    "date": "March 24, 1995",
+    "day": "Friday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "High Time",
+            "If The Shoe Fits",
+            "Black Throated Wind",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Samba In The Rain",
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

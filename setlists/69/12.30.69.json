@@ -1,0 +1,39 @@
+{
+    "date": "December 30, 1969",
+    "day": "Tuesday",
+    "venue": "Boston Tea Party",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Mama Tried",
+            "New Speedway Boogie",
+            "Casey Jones",
+            "Black Peter",
+            "Me And My Uncle",
+            "Midnight Hour",
+            "Cumberland Blues",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Mason's Children",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Dark Star",
+            "Alligator",
+            "Drums",
+            "The Eleven",
+            "Alligator",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

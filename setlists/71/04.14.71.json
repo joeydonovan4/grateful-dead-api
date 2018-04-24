@@ -1,0 +1,24 @@
+{
+    "date": "April 14, 1971",
+    "day": "Wednesday",
+    "venue": "Bucknell University",
+    "city": "Lewisburg",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Second That Emotion",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Greatest Story Ever Told"
+        ],
+        "setTwo": [
+            "The Other One",
+            "Dark Star",
+            "St. Stephen",
+            "Me And Bobby McGee"
+        ]
+    }
+}

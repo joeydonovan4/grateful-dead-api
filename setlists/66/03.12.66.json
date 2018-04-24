@@ -1,0 +1,21 @@
+{
+    "date": "March 12, 1966",
+    "day": "Saturday",
+    "venue": "Danish Center",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "One Kind Favor",
+            "I Know You Rider",
+            "You See A Broken Heart",
+            "It's A Sin",
+            "Beat It On Down The Line",
+            "Next Time You See Me",
+            "Death Don't Have No Mercy",
+            "Midnight Hour"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "June 4, 1977",
+    "day": "Saturday",
+    "venue": "The Fabulous Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Tennessee Jed",
+            "El Paso",
+            "Peggy-O",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Candyman",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Good Lovin'",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Franklin's Tower",
+            "China Doll",
+            "Not Fade Away",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

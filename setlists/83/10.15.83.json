@@ -1,0 +1,33 @@
+{
+    "date": "October 15, 1983",
+    "day": "Saturday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Dire Wolf",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "Wang Dang Doodle",
+            "Big Railroad Blues",
+            "Let It Grow",
+            "Day Job"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "St. Stephen",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

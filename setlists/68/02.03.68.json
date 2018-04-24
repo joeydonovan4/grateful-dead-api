@@ -1,0 +1,19 @@
+{
+    "date": "February 3, 1968",
+    "day": "Saturday",
+    "venue": "Crystal Ballroom",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose"
+        ]
+    }
+}

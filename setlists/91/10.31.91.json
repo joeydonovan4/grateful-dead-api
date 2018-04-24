@@ -1,0 +1,36 @@
+{
+    "date": "October 31, 1991",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Loser",
+            "Just Like Tom Thumb's Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Spoonful",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "Dark Star Reprise",
+            "This Could Be The Last Time",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

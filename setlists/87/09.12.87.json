@@ -1,0 +1,36 @@
+{
+    "date": "September 12, 1987",
+    "day": "Saturday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Loser",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "Hey Pocky Way",
+            "Cassidy",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Cumberland Blues",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Truckin'",
+            "I Need A Miracle",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Black Muddy River"
+        ]
+    }
+}

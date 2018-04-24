@@ -1,0 +1,35 @@
+{
+    "date": "October 6, 1994",
+    "day": "Thursday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "If The Shoe Fits",
+            "When I Paint My Masterpiece",
+            "Ramble On Rose",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "New Speedway Boogie",
+            "Truckin'",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

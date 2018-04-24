@@ -1,0 +1,35 @@
+{
+    "date": "April 5, 1988",
+    "day": "Tuesday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Bird Song",
+            "When I Paint My Masterpiece",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Louie Louie",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Smokestack Lightning",
+            "Drums",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

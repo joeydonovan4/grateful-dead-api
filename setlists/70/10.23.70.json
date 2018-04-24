@@ -1,0 +1,32 @@
+{
+    "date": "October 23, 1970",
+    "day": "Friday",
+    "venue": "McDonough Arena",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Mama Tried",
+            "Hard To Handle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Sugar Magnolia",
+            "Candyman",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Me And My Uncle",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

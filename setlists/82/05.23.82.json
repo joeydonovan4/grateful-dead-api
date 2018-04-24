@@ -1,0 +1,38 @@
+{
+    "date": "May 23, 1982",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

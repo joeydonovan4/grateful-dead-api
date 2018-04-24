@@ -1,0 +1,14 @@
+{
+    "date": "March 11, 1969",
+    "day": "Tuesday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cosmic Charlie",
+            "Mountains Of The Moon"
+        ]
+    }
+}

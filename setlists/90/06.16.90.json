@@ -1,0 +1,35 @@
+{
+    "date": "June 16, 1990",
+    "day": "Saturday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Truckin'",
+            "Touch Of Grey",
+            "Mama Tried",
+            "Big River",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Big Boss Man",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "We Can Run",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

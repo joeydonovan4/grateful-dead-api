@@ -1,0 +1,45 @@
+{
+    "date": "July 4, 1987",
+    "day": "Saturday",
+    "venue": "Sullivan Stadium",
+    "city": "Foxboro",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Tons Of Steel",
+            "Little Red Rooster",
+            "Box Of Rain",
+            "Althea"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones"
+        ],
+        "setThree": [
+            "Times They Are A-Changin'",
+            "Man Of Peace",
+            "I'll Be Your Baby Tonight",
+            "John Brown",
+            "I Want You",
+            "Ballad Of A Thin Man",
+            "Stuck Inside Of Mobile",
+            "Queen Jane Approximately",
+            "Chimes Of Freedom",
+            "Slow Train",
+            "Joey",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

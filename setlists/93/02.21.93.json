@@ -1,0 +1,34 @@
+{
+    "date": "February 21, 1993",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Lazy River Road",
+            "Eternity",
+            "Ramble On Rose",
+            "Queen Jane Approximately",
+            "Row Jimmy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Liberty",
+            "Corrina",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Samson And Delilah",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

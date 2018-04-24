@@ -1,0 +1,33 @@
+{
+    "date": "June 14, 1994",
+    "day": "Tuesday",
+    "venue": "Memorial Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Loose Lucy",
+            "When I Paint My Masterpiece",
+            "Althea",
+            "Eternity"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Lazy River Road",
+            "Samba In The Rain",
+            "Truckin'",
+            "That Would Be Something",
+            "Drums",
+            "Space",
+            "Long Way To Go Home",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

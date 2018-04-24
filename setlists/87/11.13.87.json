@@ -1,0 +1,33 @@
+{
+    "date": "November 13, 1987",
+    "day": "Friday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Far From Me",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "February 17, 1982",
+    "day": "Wednesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "On The Road Again",
+            "Bird Song",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Loser",
+            "Man Smart-Woman Smarter"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

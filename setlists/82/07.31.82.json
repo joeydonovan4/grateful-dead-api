@@ -1,0 +1,37 @@
+{
+    "date": "July 31, 1982",
+    "day": "Saturday",
+    "venue": "Manor Downs",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "El Paso",
+            "Bird Song",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "The Music Never Stopped",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Uncle John's Band",
+            "Truckin'",
+            "Morning Dew",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

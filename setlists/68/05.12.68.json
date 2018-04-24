@@ -1,0 +1,13 @@
+{
+    "date": "May 12, 1968",
+    "day": "Sunday",
+    "venue": "The Dome",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

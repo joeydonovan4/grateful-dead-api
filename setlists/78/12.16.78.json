@@ -1,0 +1,36 @@
+{
+    "date": "December 16, 1978",
+    "day": "Saturday",
+    "venue": "Nashville Municipal Auditorium",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "From The Heart Of Me",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

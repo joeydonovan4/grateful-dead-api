@@ -1,0 +1,37 @@
+{
+    "date": "April 19, 1983",
+    "day": "Tuesday",
+    "venue": "Alfond Arena",
+    "city": "Orono",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Dire Wolf",
+            "Big River",
+            "Dupree's Diamond Blues",
+            "On The Road Again",
+            "West LA Fadeaway",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

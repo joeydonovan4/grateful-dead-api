@@ -1,0 +1,41 @@
+{
+    "date": "February 17, 1979",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Don't Ease Me In",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Passenger",
+            "High Time",
+            "Looks Like Rain",
+            "Jack-A-Roe",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "Big Railroad Blues",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Shakedown Street",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "date": "October 31, 1970",
+    "day": "Saturday",
+    "venue": "University Gymnasium",
+    "city": "Stony Brook",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Till The Morning Comes",
+            "Hard To Handle",
+            "Mama Tried",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Dire Wolf",
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Dark Hollow",
+            "Brokedown Palace",
+            "Viola Lee Blues",
+            "Cumberland Blues",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "date": "October 26, 1969",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "Dire Wolf",
+            "Casey Jones",
+            "I'm A King Bee",
+            "Beat It On Down The Line",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Doin' That Rag",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "date": "January 3, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Cumberland Blues",
+            "Cold Rain And Snow",
+            "Alligator",
+            "Drums",
+            "Jam",
+            "And We Bid You Goodnight Jam",
+            "Jam",
+            "Alligator Reprise",
+            "Caution (Do Not Stop On Tracks)",
+            "Jam",
+            "Feedback"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Mama Tried",
+            "Big Boss Man",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Uncle John's Band",
+            "Mason's Children",
+            "Black Peter",
+            "Dire Wolf",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Dancin' In The Streets",
+            "St. Stephen",
+            "Midnight Hour"
+        ]
+    }
+}

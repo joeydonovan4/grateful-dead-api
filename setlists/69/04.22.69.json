@@ -1,0 +1,32 @@
+{
+    "date": "April 22, 1969",
+    "day": "Tuesday",
+    "venue": "The Ark",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sitting On Top Of The World",
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "Good Morning Little School Girl",
+            "Doin' That Rag",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy"
+        ],
+        "setTwo": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Turn On Your Love Light"
+        ]
+    }
+}

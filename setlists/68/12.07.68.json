@@ -1,0 +1,25 @@
+{
+    "date": "December 7, 1968",
+    "day": "Saturday",
+    "venue": "Bellarmine College",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven Jam",
+            "Death Don't Have No Mercy",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Rosemary",
+            "He Was A Friend Of Mine",
+            "It Hurts Me Too",
+            "Morning Dew",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

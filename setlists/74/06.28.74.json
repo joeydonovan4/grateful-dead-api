@@ -1,0 +1,43 @@
+{
+    "date": "June 28, 1974",
+    "day": "Friday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "Beat It On Down The Line",
+            "Deal",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Me And Bobby McGee",
+            "Loose Lucy",
+            "El Paso",
+            "Sugaree",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Big River",
+            "To Lay Me Down",
+            "Me And My Uncle",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Heaven Help Jam",
+            "U.S. Blues",
+            "Promised Land",
+            "Goin' Down The Road Feeling Bad",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Ship Of Fools"
+        ]
+    }
+}

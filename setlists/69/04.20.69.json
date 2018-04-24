@@ -1,0 +1,24 @@
+{
+    "date": "April 20, 1969",
+    "day": "Sunday",
+    "venue": "Clark University",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Good Morning Little School Girl",
+            "Doin' That Rag",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon"
+        ]
+    }
+}

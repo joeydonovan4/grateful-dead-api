@@ -1,0 +1,36 @@
+{
+    "date": "June 15, 1985",
+    "day": "Saturday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Big River",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "She Belongs To Me",
+            "U.S. Blues"
+        ]
+    }
+}

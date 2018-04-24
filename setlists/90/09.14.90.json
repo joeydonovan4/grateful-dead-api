@@ -1,0 +1,33 @@
+{
+    "date": "September 14, 1990",
+    "day": "Friday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Jack-A-Roe",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

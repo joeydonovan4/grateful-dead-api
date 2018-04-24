@@ -1,0 +1,35 @@
+{
+    "date": "March 27, 1993",
+    "day": "Saturday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "The Same Thing",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "Broken Arrow",
+            "Loose Lucy",
+            "Cassidy",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Comes A Time",
+            "Corrina",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "The Days Between",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

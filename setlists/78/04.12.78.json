@@ -1,0 +1,38 @@
+{
+    "date": "April 12, 1978",
+    "day": "Wednesday",
+    "venue": "Cameron Indoor Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Funiculi Funicula",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

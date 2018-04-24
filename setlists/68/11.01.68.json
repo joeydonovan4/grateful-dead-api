@@ -1,0 +1,23 @@
+{
+    "date": "November 1, 1968",
+    "day": "Friday",
+    "venue": "The Silver Dollar Fair",
+    "city": "Chico",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "Dark Star",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

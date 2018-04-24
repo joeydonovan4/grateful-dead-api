@@ -1,0 +1,47 @@
+{
+    "date": "September 23, 1972",
+    "day": "Saturday",
+    "venue": "The Palace Theater",
+    "city": "Waterbury",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big River",
+            "Sugaree",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Bird Song",
+            "El Paso",
+            "Deal",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Brown-Eyed Women",
+            "Around And Around",
+            "It's All Over Now",
+            "Baby Blue",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Beat It On Down The Line",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

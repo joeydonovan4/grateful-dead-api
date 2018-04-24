@@ -1,0 +1,40 @@
+{
+    "date": "June 23, 1976",
+    "day": "Wednesday",
+    "venue": "Tower Theater",
+    "city": "Upper Darby",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "Mama Tried",
+            "Row Jimmy",
+            "Big River",
+            "High Time",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Friend Of The Devil",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Might As Well",
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Cosmic Charlie",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Dancin' In The Streets",
+            "The Wheel"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

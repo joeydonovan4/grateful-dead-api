@@ -1,0 +1,39 @@
+{
+    "date": "June 30, 1974",
+    "day": "Sunday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Peggy-O",
+            "Jack Straw",
+            "Loser",
+            "Greatest Story Ever Told",
+            "Cumberland Blues",
+            "Dire Wolf",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Scarlet Begonias",
+            "El Paso",
+            "U.S. Blues",
+            "Truckin'",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

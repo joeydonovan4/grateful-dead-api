@@ -1,0 +1,14 @@
+{
+    "date": "January 20, 1969",
+    "day": "Monday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dupree's Diamond Blues",
+            "China Cat Sunflower"
+        ]
+    }
+}

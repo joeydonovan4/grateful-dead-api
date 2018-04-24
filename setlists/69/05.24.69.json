@@ -1,0 +1,23 @@
+{
+    "date": "May 24, 1969",
+    "day": "Saturday",
+    "venue": "Seminole Indian Village",
+    "city": "Hollywood",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Doin' That Rag",
+            "He Was A Friend Of Mine",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Alligator",
+            "Drums",
+            "St. Stephen",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

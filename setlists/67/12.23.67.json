@@ -1,0 +1,13 @@
+{
+    "date": "December 23, 1967",
+    "day": "Saturday",
+    "venue": "Palm Gardens",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "May 21, 1974",
+    "day": "Tuesday",
+    "venue": "Edmundson Pavilion",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Deal",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "The Race Is On",
+            "Scarlet Begonias",
+            "El Paso",
+            "Row Jimmy",
+            "Money Money",
+            "Ship Of Fools",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "China Doll"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "U.S. Blues",
+            "Big River",
+            "Stella Blue",
+            "Around And Around",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

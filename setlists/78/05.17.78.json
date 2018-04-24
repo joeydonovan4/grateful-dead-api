@@ -1,0 +1,33 @@
+{
+    "date": "May 17, 1978",
+    "day": "Wednesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Dancin' In The Streets",
+            "Drums",
+            "Terrapin Station",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

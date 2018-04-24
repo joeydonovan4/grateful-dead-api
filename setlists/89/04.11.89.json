@@ -1,0 +1,34 @@
+{
+    "date": "April 11, 1989",
+    "day": "Tuesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "Victim Or The Crime",
+            "Built To Last",
+            "We Can Run",
+            "Stuck Inside Of Mobile",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

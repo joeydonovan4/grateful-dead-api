@@ -1,0 +1,32 @@
+{
+    "date": "September 22, 1993",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Easy Answers",
+            "Lazy River Road",
+            "Estimated Prophet",
+            "Dark Star",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

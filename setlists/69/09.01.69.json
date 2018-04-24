@@ -1,0 +1,21 @@
+{
+    "date": "September 1, 1969",
+    "day": "Monday",
+    "venue": "Baton Rouge International Speedway",
+    "city": "Prairieville",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Morning Dew",
+            "Mama Tried",
+            "High Time",
+            "Easy Wind",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

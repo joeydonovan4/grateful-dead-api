@@ -1,0 +1,37 @@
+{
+    "date": "June 18, 1976",
+    "day": "Friday",
+    "venue": "Capitol Theatre",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "Mama Tried",
+            "Crazy Fingers",
+            "Big River",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Cassidy",
+            "Mission In The Rain",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Tennessee Jed",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

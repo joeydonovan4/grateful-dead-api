@@ -1,0 +1,47 @@
+{
+    "date": "April 29, 1971",
+    "day": "Thursday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Bertha",
+            "It Hurts Me Too",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "Bird Song",
+            "Playin' In The Band",
+            "Loser",
+            "Dark Hollow",
+            "Hard To Handle",
+            "Ripple",
+            "Me And Bobby McGee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Minglewood Blues",
+            "Sugar Magnolia",
+            "Black Peter",
+            "Beat It On Down The Line",
+            "Second That Emotion",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Goin' Down The Road Feeling Bad",
+            "Cold Rain And Snow",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "Midnight Hour",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

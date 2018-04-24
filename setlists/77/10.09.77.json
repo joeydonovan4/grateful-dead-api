@@ -1,0 +1,36 @@
+{
+    "date": "October 9, 1977",
+    "day": "Sunday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Sugaree",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Terrapin Station",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

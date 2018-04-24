@@ -1,0 +1,47 @@
+{
+    "date": "July 18, 1972",
+    "day": "Tuesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Bird Song",
+            "Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Loser",
+            "Beat It On Down The Line",
+            "Stella Blue",
+            "El Paso",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Brown-Eyed Women",
+            "Tennessee Jed",
+            "Truckin'",
+            "Dark Star",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "setThree": [
+            "Ramble On Rose",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Sing Me Back Home",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

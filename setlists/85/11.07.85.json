@@ -1,0 +1,35 @@
+{
+    "date": "November 7, 1985",
+    "day": "Thursday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Dire Wolf",
+            "C.C. Rider",
+            "Loser",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Cumberland Blues",
+            "Beat It On Down The Line",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "High Time",
+            "Let It Grow",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

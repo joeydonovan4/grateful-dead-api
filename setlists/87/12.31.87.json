@@ -1,0 +1,36 @@
+{
+    "date": "December 31, 1987",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "When Push Comes To Shove",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Man Smart-Woman Smarter",
+            "Iko Iko",
+            "Banana Boat Song",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

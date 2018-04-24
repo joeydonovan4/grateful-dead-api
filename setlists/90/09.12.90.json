@@ -1,0 +1,33 @@
+{
+    "date": "September 12, 1990",
+    "day": "Wednesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "High Time",
+            "When I Paint My Masterpiece",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

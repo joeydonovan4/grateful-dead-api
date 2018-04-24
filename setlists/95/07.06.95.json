@@ -1,0 +1,34 @@
+{
+    "date": "July 6, 1995",
+    "day": "Thursday",
+    "venue": "Riverport Amphitheatre",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Take Me To The River",
+            "Big Boss Man",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Unbroken Chain",
+            "Samba In The Rain",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

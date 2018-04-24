@@ -1,0 +1,35 @@
+{
+    "date": "February 3, 1978",
+    "day": "Friday",
+    "venue": "Dane County Coliseum",
+    "city": "Madison",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mexicali Blues",
+            "Big River",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Loser",
+            "Passenger",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Playin' In The Band",
+            "The Wheel",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

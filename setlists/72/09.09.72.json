@@ -1,0 +1,39 @@
+{
+    "date": "September 9, 1972",
+    "day": "Saturday",
+    "venue": "Hollywood Paladium",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Me And My Uncle",
+            "Bird Song",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Deal",
+            "Playin' In The Band",
+            "Loser",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Friend Of The Devil",
+            "Jack Straw",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Stella Blue",
+            "El Paso",
+            "Casey Jones",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

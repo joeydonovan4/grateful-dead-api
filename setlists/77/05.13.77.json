@@ -1,0 +1,36 @@
+{
+    "date": "May 13, 1977",
+    "day": "Friday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Ramble On Rose",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "El Paso",
+            "Jack-A-Roe",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "Fire On The Mountain"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Bertha",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

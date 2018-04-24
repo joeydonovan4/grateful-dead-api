@@ -1,0 +1,40 @@
+{
+    "date": "April 17, 1972",
+    "day": "Monday",
+    "venue": "Tivolis Koncertsal",
+    "city": "Copenhagen",
+    "state": "N/A",
+    "country": "DNK",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Me And Bobby McGee",
+            "Chinatown Shuffle",
+            "Sugaree",
+            "Black Throated Wind",
+            "Mr. Charlie",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "He's Gone",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "One More Saturday Night",
+            "It Hurts Me Too",
+            "Ramble On Rose",
+            "El Paso",
+            "Big Railroad Blues",
+            "Truckin'",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Caution (Do Not Stop On Tracks)",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

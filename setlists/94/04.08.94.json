@@ -1,0 +1,33 @@
+{
+    "date": "April 8, 1994",
+    "day": "Friday",
+    "venue": "Miami Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Peggy-O",
+            "It's All Over Now",
+            "So Many Roads",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Saint Of Circumstance",
+            "Lazy River Road",
+            "Corrina",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "The Days Between",
+            "Around And Around"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

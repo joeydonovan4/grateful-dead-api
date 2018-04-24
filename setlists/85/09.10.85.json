@@ -1,0 +1,36 @@
+{
+    "date": "September 10, 1985",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Good Time Blues",
+            "Drums",
+            "China Doll",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

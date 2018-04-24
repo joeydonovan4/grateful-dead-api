@@ -1,0 +1,13 @@
+{
+    "date": "May 17, 1970",
+    "day": "Sunday",
+    "venue": "Fairfield University",
+    "city": "Fairfield",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

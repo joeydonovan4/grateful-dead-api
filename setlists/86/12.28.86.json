@@ -1,0 +1,33 @@
+{
+    "date": "December 28, 1986",
+    "day": "Sunday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "El Paso",
+            "Stagger Lee",
+            "Box Of Rain",
+            "Big Railroad Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

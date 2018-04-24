@@ -1,0 +1,44 @@
+{
+    "date": "October 21, 1971",
+    "day": "Thursday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Big Railroad Blues",
+            "Jack Straw",
+            "Cumberland Blues",
+            "Comes A Time",
+            "Mexicali Blues",
+            "The Frozen Logger",
+            "Cold Rain And Snow",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "El Paso",
+            "Dark Star",
+            "Sitting On Top Of The World",
+            "Dark Star",
+            "Me And Bobby McGee",
+            "Brown-Eyed Women",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "St. Stephen",
+            "Johnny B. Goode"
+        ]
+    }
+}

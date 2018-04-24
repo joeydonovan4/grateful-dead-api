@@ -1,0 +1,33 @@
+{
+    "date": "March 24, 1987",
+    "day": "Tuesday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "New Minglewood Blues",
+            "Loser",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Gimme Some Lovin'",
+            "Black Muddy River",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

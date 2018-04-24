@@ -1,0 +1,36 @@
+{
+    "date": "November 12, 1971",
+    "day": "Friday",
+    "venue": "San Antonio Civic Auditorium",
+    "city": "San Antonio",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Big Railroad Blues",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

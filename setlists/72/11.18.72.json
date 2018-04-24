@@ -1,0 +1,41 @@
+{
+    "date": "November 18, 1972",
+    "day": "Saturday",
+    "venue": "Hofheinz Pavilion",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Loser",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "El Paso",
+            "Big Railroad Blues",
+            "Box Of Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Around And Around",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Jack Straw",
+            "Deal",
+            "Playin' In The Band",
+            "Mississippi Half-Step",
+            "Sugar Magnolia",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

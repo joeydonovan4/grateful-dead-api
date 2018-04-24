@@ -1,0 +1,37 @@
+{
+    "date": "December 12, 1981",
+    "day": "Saturday",
+    "venue": "Fiesta Hall (County Fairgrounds)",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And Bobby McGee",
+            "Children Of The Eighties",
+            "Lucifer's Eyes",
+            "Warriors Of The Sun",
+            "Bye Bye Love",
+            "Barbry Allen",
+            "You Won't Find Me",
+            "Where Have The Heroes Gone",
+            "Oh Boy",
+            "Lady Di",
+            "The Boxer"
+        ],
+        "setTwo": [
+            "New Minglewood Blues",
+            "Little Red Rooster",
+            "Deep Elem Blues",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Dire Wolf",
+            "Cold Rain And Snow",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "July 23, 1994",
+    "day": "Saturday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Lucy In The Sky With Diamonds",
+            "Samba In The Rain",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "June 18, 1974",
+    "day": "Tuesday",
+    "venue": "Freedom Hall",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "It Must Have Been The Roses",
+            "Black Throated Wind",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "Loser",
+            "Mexicali Blues",
+            "Eyes Of The World",
+            "China Doll",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Loose Lucy",
+            "El Paso",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "The Other One",
+            "It's A Sin",
+            "Stella Blue",
+            "Big River",
+            "Tennessee Jed",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "June 14, 1976",
+    "day": "Monday",
+    "venue": "Beacon Theatre",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Row Jimmy",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Big River",
+            "Might As Well",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "The Wheel",
+            "Samson And Delilah",
+            "High Time",
+            "The Music Never Stopped",
+            "Crazy Fingers",
+            "Dancin' In The Streets",
+            "Cosmic Charlie",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

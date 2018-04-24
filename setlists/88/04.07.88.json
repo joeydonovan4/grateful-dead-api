@@ -1,0 +1,35 @@
+{
+    "date": "April 7, 1988",
+    "day": "Thursday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Stuck Inside Of Mobile",
+            "Big Railroad Blues",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

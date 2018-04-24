@@ -1,0 +1,36 @@
+{
+    "date": "December 30, 1987",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "Big Boss Man",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Gimme Some Lovin'",
+            "Morning Dew",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

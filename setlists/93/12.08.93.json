@@ -1,0 +1,35 @@
+{
+    "date": "December 8, 1993",
+    "day": "Wednesday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Rain",
+            "Let The Good Times Roll",
+            "King Bee",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Row Jimmy",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "The Last Time",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

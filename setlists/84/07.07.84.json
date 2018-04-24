@@ -1,0 +1,35 @@
+{
+    "date": "July 7, 1984",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Dire Wolf",
+            "New Minglewood Blues",
+            "Dupree's Diamond Blues",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Cold Rain And Snow",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Terrapin Station",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

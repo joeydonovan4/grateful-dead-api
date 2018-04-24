@@ -1,0 +1,34 @@
+{
+    "date": "March 28, 1989",
+    "day": "Tuesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Franklin's Tower",
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "Stuck Inside Of Mobile",
+            "Ramble On Rose",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Foolish Heart",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "July 3, 1978",
+    "day": "Monday",
+    "venue": "St. Paul Civic Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Loser",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Mama Tried",
+            "Peggy-O",
+            "Cassidy",
+            "Deal",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

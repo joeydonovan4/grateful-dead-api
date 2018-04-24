@@ -1,0 +1,37 @@
+{
+    "date": "June 4, 1978",
+    "day": "Sunday",
+    "venue": "Campus Stadium",
+    "city": "Goleta",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Nobody's Jam",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Sugar Magnolia"
+        ]
+    }
+}

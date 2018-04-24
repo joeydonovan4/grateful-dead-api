@@ -1,0 +1,39 @@
+{
+    "date": "June 17, 1976",
+    "day": "Thursday",
+    "venue": "Capitol Theatre",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Big River",
+            "They Love Each Other",
+            "Cassidy",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "The Music Never Stopped",
+            "Scarlet Begonias",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Dancin' In The Streets",
+            "Samson And Delilah",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Friend Of The Devil",
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Wharf Rat"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

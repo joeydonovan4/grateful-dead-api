@@ -1,0 +1,37 @@
+{
+    "date": "April 30, 1977",
+    "day": "Saturday",
+    "venue": "The Palladium",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Bertha",
+            "It's All Over Now",
+            "Deal",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Mississippi Half-Step",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "St. Stephen",
+            "Not Fade Away",
+            "Stella Blue",
+            "St. Stephen",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Terrapin Station"
+        ]
+    }
+}

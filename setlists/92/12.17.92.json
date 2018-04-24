@@ -1,0 +1,36 @@
+{
+    "date": "December 17, 1992",
+    "day": "Thursday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Loser",
+            "Queen Jane Approximately",
+            "So Many Roads",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Corrina",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Here Comes Sunshine",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

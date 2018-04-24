@@ -1,0 +1,23 @@
+{
+    "date": "June 22, 1969",
+    "day": "Sunday",
+    "venue": "Central Park",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Silver Threads",
+            "Me And My Uncle",
+            "Sitting On Top Of The World",
+            "Casey Jones",
+            "Hard To Handle",
+            "Turn On Your Love Light",
+            "Dancin' In The Streets",
+            "Dark Star",
+            "The Other One",
+            "St. Stephen",
+            "It's A Sin"
+        ]
+    }
+}

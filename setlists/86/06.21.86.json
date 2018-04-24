@@ -1,0 +1,35 @@
+{
+    "date": "June 21, 1986",
+    "day": "Saturday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Loser",
+            "Desolation Row",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Gimme Some Lovin'",
+            "He's Gone",
+            "Smokestack Lightning",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Brokedown Palace"
+        ]
+    }
+}

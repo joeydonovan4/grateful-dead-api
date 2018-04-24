@@ -1,0 +1,33 @@
+{
+    "date": "October 8, 1984",
+    "day": "Monday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Beat It On Down The Line",
+            "Candyman",
+            "C.C. Rider",
+            "Bird Song",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Samson And Delilah",
+            "I Just Wanna Make Love To You",
+            "I Need A Miracle",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

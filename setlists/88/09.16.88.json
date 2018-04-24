@@ -1,0 +1,35 @@
+{
+    "date": "September 16, 1988",
+    "day": "Friday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "To Lay Me Down",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

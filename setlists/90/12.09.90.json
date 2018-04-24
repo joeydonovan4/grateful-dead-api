@@ -1,0 +1,36 @@
+{
+    "date": "December 9, 1990",
+    "day": "Sunday",
+    "venue": "Compton Terrace",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "Little Red Rooster",
+            "Jack-A-Roe",
+            "Maggie's Farm",
+            "Black Throated Wind",
+            "Bird Song",
+            "Valley Road"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "Playin' Reprise",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

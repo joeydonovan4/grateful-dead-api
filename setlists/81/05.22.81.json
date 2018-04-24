@@ -1,0 +1,24 @@
+{
+    "date": "May 22, 1981",
+    "day": "Friday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "The Race Is On",
+            "Friend Of The Devil",
+            "Cassidy",
+            "To Lay Me Down",
+            "Monkey And The Engineer",
+            "Oh Babe It Ain't No Lie",
+            "On The Road Again",
+            "Bird Song",
+            "Ripple",
+            "Drums",
+            "Oh Boy"
+        ]
+    }
+}

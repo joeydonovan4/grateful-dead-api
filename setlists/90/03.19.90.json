@@ -1,0 +1,35 @@
+{
+    "date": "March 19, 1990",
+    "day": "Monday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "We Can Run",
+            "Jack-A-Roe",
+            "Picasso Moon",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Deal"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Foolish Heart",
+            "Playin' In The Band",
+            "Jam",
+            "Eyes Of The World",
+            "Drums",
+            "China Doll",
+            "Gimme Some Lovin'",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "November 8, 1987",
+    "day": "Sunday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Mexicali Blues",
+            "Big River",
+            "West LA Fadeaway",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Just Like Tom Thumb's Blues",
+            "Touch Of Grey"
+        ]
+    }
+}

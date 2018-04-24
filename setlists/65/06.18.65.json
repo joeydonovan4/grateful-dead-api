@@ -1,0 +1,13 @@
+{
+    "date": "June 18, 1965",
+    "day": "Friday",
+    "venue": "Frenchy's",
+    "city": "Hayward",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

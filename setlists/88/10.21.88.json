@@ -1,0 +1,36 @@
+{
+    "date": "October 21, 1988",
+    "day": "Friday",
+    "venue": "Reunion Arena",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Believe It Or Not",
+            "Stuck Inside Of Mobile",
+            "Dupree's Diamond Blues",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Happy Birthday",
+            "Wang Dang Doodle",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "I Will Take You Home",
+            "Goin' Down The Road Feeling Bad",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

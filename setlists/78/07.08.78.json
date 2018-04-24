@@ -1,0 +1,37 @@
+{
+    "date": "July 8, 1978",
+    "day": "Saturday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Dire Wolf",
+            "El Paso",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Promised Land",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "The Other One",
+            "Eyes Of The World",
+            "Drums",
+            "Wharf Rat",
+            "Franklin's Tower",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Terrapin Station",
+            "One More Saturday Night",
+            "Werewolves Of London"
+        ]
+    }
+}

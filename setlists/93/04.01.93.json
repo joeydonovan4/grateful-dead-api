@@ -1,0 +1,33 @@
+{
+    "date": "April 1, 1993",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Candyman",
+            "Desolation Row",
+            "Stagger Lee",
+            "Eternity",
+            "Liberty"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Wave To The Wind",
+            "Drums",
+            "Long Way To Go Home",
+            "The Days Between",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

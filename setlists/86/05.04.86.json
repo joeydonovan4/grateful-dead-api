@@ -1,0 +1,34 @@
+{
+    "date": "May 4, 1986",
+    "day": "Sunday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Gimme Some Lovin'",
+            "Playin' In The Band",
+            "Drums",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

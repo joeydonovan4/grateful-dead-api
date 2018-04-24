@@ -1,0 +1,34 @@
+{
+    "date": "March 14, 1993",
+    "day": "Sunday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Brown-Eyed Women",
+            "Just Like Tom Thumb's Blues",
+            "Lazy River Road",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

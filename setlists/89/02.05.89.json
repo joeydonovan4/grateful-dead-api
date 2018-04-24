@@ -1,0 +1,34 @@
+{
+    "date": "February 5, 1989",
+    "day": "Sunday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Althea",
+            "We Can Run",
+            "Desolation Row",
+            "Don't Ease Me In",
+            "Morning Dew"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Man Smart-Woman Smarter",
+            "Standing On The Moon",
+            "Playin' In The Band",
+            "Drums",
+            "I Will Take You Home",
+            "He's Gone",
+            "I Need A Miracle"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

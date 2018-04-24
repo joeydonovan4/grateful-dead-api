@@ -1,0 +1,34 @@
+{
+    "date": "July 7, 1989",
+    "day": "Friday",
+    "venue": "JFK Stadium",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Iko Iko",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Stuck Inside Of Mobile",
+            "Loser",
+            "Let It Grow",
+            "Blow Away"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Standing On The Moon",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

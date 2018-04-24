@@ -1,0 +1,43 @@
+{
+    "date": "September 28, 1972",
+    "day": "Thursday",
+    "venue": "Stanley Theater",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Mississippi Half-Step",
+            "Black Throated Wind",
+            "Don't Ease Me In",
+            "Big River",
+            "Tennessee Jed",
+            "Promised Land",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Brokedown Palace",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "El Paso",
+            "He's Gone",
+            "The Other One",
+            "Me And Bobby McGee",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

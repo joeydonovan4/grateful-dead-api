@@ -1,0 +1,36 @@
+{
+    "date": "July 22, 1990",
+    "day": "Sunday",
+    "venue": "World Amphitheatre",
+    "city": "Tinley Park",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "Feel Like A Stranger",
+            "Loser",
+            "Beat It On Down The Line",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Far From Me",
+            "Tennessee Jed",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Hey Pocky Way",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

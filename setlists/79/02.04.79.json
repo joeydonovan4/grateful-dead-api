@@ -1,0 +1,37 @@
+{
+    "date": "February 4, 1979",
+    "day": "Sunday",
+    "venue": "Dane County Coliseum",
+    "city": "Madison",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "Cassidy",
+            "Friend Of The Devil",
+            "El Paso",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "From The Heart Of Me",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Iko Iko",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

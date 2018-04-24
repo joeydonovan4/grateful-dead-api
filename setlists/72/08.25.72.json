@@ -1,0 +1,19 @@
+{
+    "date": "August 25, 1972",
+    "day": "Friday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Black Throated Wind",
+            "He's Gone",
+            "Beat It On Down The Line",
+            "Loser",
+            "Frozen Logger",
+            "El Paso"
+        ]
+    }
+}

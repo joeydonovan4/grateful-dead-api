@@ -1,0 +1,34 @@
+{
+    "date": "March 5, 1992",
+    "day": "Thursday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Same Thing",
+            "Jack-A-Roe",
+            "Just Like Tom Thumb's Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Long Way To Go Home",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "I Need A Miracle",
+            "So Many Roads",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "March 21, 1993",
+    "day": "Sunday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Black Throated Wind",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Brown-Eyed Women",
+            "Eternity",
+            "Liberty"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Broken Arrow",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "The Days Between",
+            "Around And Around"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

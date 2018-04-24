@@ -1,0 +1,35 @@
+{
+    "date": "February 10, 1979",
+    "day": "Saturday",
+    "venue": "Soldiers' and Sailors' Memorial Hall",
+    "city": "Kansas City",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Me And My Uncle",
+            "Big River",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Deal",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "From The Heart Of Me",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

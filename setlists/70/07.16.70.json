@@ -1,0 +1,27 @@
+{
+    "date": "July 16, 1970",
+    "day": "Thursday",
+    "venue": "Euphoria Ballroom",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Me And My Uncle",
+            "Cold Rain And Snow",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Candyman",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Attics Of My Life",
+            "Cumberland Blues",
+            "Not Fade Away",
+            "St. Stephen",
+            "Uncle John's Band"
+        ]
+    }
+}

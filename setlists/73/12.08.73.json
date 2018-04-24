@@ -1,0 +1,48 @@
+{
+    "date": "December 8, 1973",
+    "day": "Saturday",
+    "venue": "Cameron Indoor Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Sugaree",
+            "Mexicali Blues",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "They Love Each Other",
+            "Me And Bobby McGee",
+            "Don't Ease Me In",
+            "The Race Is On",
+            "Brown-Eyed Women",
+            "Big River",
+            "Candyman",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Around And Around",
+            "Ramble On Rose",
+            "El Paso",
+            "Row Jimmy",
+            "Greatest Story Ever Told",
+            "Bertha",
+            "He's Gone",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "The Other One",
+            "Wharf Rat",
+            "Stella Blue",
+            "Johnny B. Goode",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

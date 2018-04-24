@@ -1,0 +1,36 @@
+{
+    "date": "April 30, 1981",
+    "day": "Thursday",
+    "venue": "Greensboro Coliseum",
+    "city": "Greensboro",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "C.C. Rider",
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

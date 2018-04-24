@@ -1,0 +1,35 @@
+{
+    "date": "June 4, 1995",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Wang Dang Doodle",
+            "Fennario",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Lazy River Road",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Victim Or The Crime",
+            "Unbroken Chain",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "The Days Between",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

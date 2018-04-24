@@ -1,0 +1,39 @@
+{
+    "date": "June 30, 1987",
+    "day": "Tuesday",
+    "venue": "Kingswood Music Theatre",
+    "city": "Vaughan",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Loser",
+            "New Minglewood Blues",
+            "Candyman",
+            "Far From Me",
+            "Mama Tried",
+            "Big River",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "The Other One",
+            "China Doll",
+            "Dear Mr. Fantasy",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

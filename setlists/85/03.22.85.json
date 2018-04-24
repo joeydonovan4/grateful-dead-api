@@ -1,0 +1,35 @@
+{
+    "date": "March 22, 1985",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Cold Rain And Snow",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Big Railroad Blues",
+            "My Brother Esau",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Hell In A Bucket",
+            "Ship Of Fools",
+            "Terrapin Station",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

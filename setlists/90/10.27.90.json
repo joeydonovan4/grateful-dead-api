@@ -1,0 +1,36 @@
+{
+    "date": "October 27, 1990",
+    "day": "Saturday",
+    "venue": "The Zenith",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Jack-A-Roe",
+            "Black Throated Wind",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "Playin' Reprise",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

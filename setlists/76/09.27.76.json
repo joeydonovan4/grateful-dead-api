@@ -1,0 +1,39 @@
+{
+    "date": "September 27, 1976",
+    "day": "Monday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "El Paso",
+            "Deal",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "It's All Over Now",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

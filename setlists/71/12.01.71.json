@@ -1,0 +1,37 @@
+{
+    "date": "December 1, 1971",
+    "day": "Wednesday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Comes A Time",
+            "Jack Straw",
+            "The Rub",
+            "Tennessee Jed",
+            "El Paso",
+            "Big Railroad Blues",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Big Boss Man",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

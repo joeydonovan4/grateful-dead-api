@@ -1,0 +1,15 @@
+{
+    "date": "June 13, 1970",
+    "day": "Saturday",
+    "venue": "Red Vest",
+    "city": "Oahu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Lovin'",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ]
+    }
+}

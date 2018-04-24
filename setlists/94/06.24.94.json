@@ -1,0 +1,34 @@
+{
+    "date": "June 24, 1994",
+    "day": "Friday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Althea",
+            "The Same Thing",
+            "Broken Arrow",
+            "Cumberland Blues",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Samba In The Rain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

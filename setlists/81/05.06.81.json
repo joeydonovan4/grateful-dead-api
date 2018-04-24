@@ -1,0 +1,40 @@
+{
+    "date": "May 6, 1981",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Cassidy",
+            "Jack-A-Roe",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "New Minglewood Blues",
+            "High Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Spanish Jam",
+            "Drums",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "date": "December 31, 1972",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Around And Around",
+            "Deal",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Box Of Rain",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Beat It On Down The Line",
+            "Candyman",
+            "El Paso",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Big River",
+            "Sugaree",
+            "Truckin'",
+            "The Other One",
+            "Drums",
+            "The Other One",
+            "Morning Dew",
+            "Sugar Magnolia",
+            "Sing Me Back Home",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "One More Saturday Night"
+        ]
+    }
+}

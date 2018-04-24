@@ -1,0 +1,13 @@
+{
+    "date": "February 9, 1971",
+    "day": "Tuesday",
+    "venue": "Fox Theatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

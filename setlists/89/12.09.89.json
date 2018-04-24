@@ -1,0 +1,33 @@
+{
+    "date": "December 9, 1989",
+    "day": "Saturday",
+    "venue": "Great Western Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Mexicali Blues",
+            "Cumberland Blues",
+            "Bird Song",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

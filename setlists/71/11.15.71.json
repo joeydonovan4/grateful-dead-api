@@ -1,0 +1,41 @@
+{
+    "date": "November 15, 1971",
+    "day": "Monday",
+    "venue": "Austin Municipal Auditorium",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Bertha",
+            "Playin' In The Band",
+            "Deal",
+            "Jack Straw",
+            "Loser",
+            "Beat It On Down The Line",
+            "Dark Star",
+            "El Paso",
+            "Dark Star",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Brokedown Palace",
+            "Me And Bobby McGee",
+            "Cumberland Blues",
+            "Sugar Magnolia",
+            "You Win Again",
+            "Not Fade Away",
+            "China Cat Sunflower Jam",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "March 20, 1981",
+    "day": "Friday",
+    "venue": "Rainbow Theater",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Althea",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "New Minglewood Blues",
+            "Candyman",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "September 10, 1972",
+    "day": "Sunday",
+    "venue": "Hollywood Paladium",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Black Throated Wind",
+            "Bird Song",
+            "Promised Land",
+            "Deal",
+            "El Paso",
+            "Sugaree",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Truckin'",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "Dark Star",
+            "Drums",
+            "Jack Straw",
+            "Sing Me Back Home",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

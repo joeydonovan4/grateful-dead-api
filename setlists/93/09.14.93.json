@@ -1,0 +1,34 @@
+{
+    "date": "September 14, 1993",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Broken Arrow",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "The Last Time",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

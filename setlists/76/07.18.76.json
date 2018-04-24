@@ -1,0 +1,44 @@
+{
+    "date": "July 18, 1976",
+    "day": "Sunday",
+    "venue": "Orpheum Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Cassidy",
+            "Row Jimmy",
+            "Mama Tried",
+            "Scarlet Begonias",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Wharf Rat",
+            "The Other One",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "The Wheel",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "date": "December 31, 1978",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Stagger Lee",
+            "From The Heart Of Me",
+            "Sunshine Daydream"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ramble On Rose",
+            "I Need A Miracle",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "setThree": [
+            "Dark Star",
+            "The Other One",
+            "Dark Star",
+            "Wharf Rat",
+            "St. Stephen",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones",
+            "Johnny B. Goode",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

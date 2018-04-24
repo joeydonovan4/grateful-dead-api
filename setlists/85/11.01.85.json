@@ -1,0 +1,37 @@
+{
+    "date": "November 1, 1985",
+    "day": "Friday",
+    "venue": "Richmond Coliseum",
+    "city": "Richmond",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "High Time",
+            "He's Gone",
+            "Spoonful",
+            "Comes A Time",
+            "Lost Sailor",
+            "Drums",
+            "Saint Of Circumstance",
+            "Gimme Some Lovin'",
+            "She Belongs To Me",
+            "Gloria"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

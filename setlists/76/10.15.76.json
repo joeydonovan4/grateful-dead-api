@@ -1,0 +1,35 @@
+{
+    "date": "October 15, 1976",
+    "day": "Friday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "Mama Tried",
+            "Row Jimmy",
+            "It's All Over Now",
+            "Loser",
+            "New Minglewood Blues",
+            "Bertha",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Sugaree",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "The Music Never Stopped",
+            "It Must Have Been The Roses",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Franklin's Tower",
+            "Sugar Magnolia"
+        ]
+    }
+}

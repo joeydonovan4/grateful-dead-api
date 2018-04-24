@@ -1,0 +1,38 @@
+{
+    "date": "August 1, 1973",
+    "day": "Wednesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "The Race Is On",
+            "You Ain't Woman Enough",
+            "Bird Song",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Jack Straw",
+            "Stella Blue",
+            "Big River",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Around And Around",
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Row Jimmy",
+            "Dark Star",
+            "El Paso",
+            "Eyes Of The World",
+            "Morning Dew",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

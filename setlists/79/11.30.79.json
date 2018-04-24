@@ -1,0 +1,37 @@
+{
+    "date": "November 30, 1979",
+    "day": "Friday",
+    "venue": "Stanley Theater",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Cassidy",
+            "Friend Of The Devil",
+            "Easy To Love You",
+            "El Paso",
+            "Tennessee Jed",
+            "Dancin' In The Streets",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Passenger",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

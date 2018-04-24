@@ -1,0 +1,39 @@
+{
+    "date": "April 29, 1972",
+    "day": "Saturday",
+    "venue": "Musikhalle",
+    "city": "Hamburg",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Sugaree",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big Boss Man",
+            "Jack Straw",
+            "Loser",
+            "Chinatown Shuffle",
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Next Time You See Me",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Caution (Do Not Stop On Tracks)",
+            "Who Do You Love",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

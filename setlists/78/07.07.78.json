@@ -1,0 +1,39 @@
+{
+    "date": "July 7, 1978",
+    "day": "Friday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Tennessee Jed",
+            "Passenger",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Nobody's Jam",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Johnny B. Goode"
+        ]
+    }
+}

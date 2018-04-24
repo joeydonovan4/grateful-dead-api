@@ -1,0 +1,38 @@
+{
+    "date": "December 3, 1981",
+    "day": "Thursday",
+    "venue": "Dane County Coliseum",
+    "city": "Madison",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "C.C. Rider",
+            "Althea",
+            "Beat It On Down The Line",
+            "Cassidy",
+            "Deep Elem Blues",
+            "I Need A Miracle",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

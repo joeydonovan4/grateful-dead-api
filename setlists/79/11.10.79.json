@@ -1,0 +1,39 @@
+{
+    "date": "November 10, 1979",
+    "day": "Saturday",
+    "venue": "Crisler Arena",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "El Paso",
+            "High Time",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

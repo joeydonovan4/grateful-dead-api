@@ -1,0 +1,37 @@
+{
+    "date": "August 28, 1981",
+    "day": "Friday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Let It Grow",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "The Wheel",
+            "Good Time Blues",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "August 10, 1982",
+    "day": "Tuesday",
+    "venue": "University of Iowa",
+    "city": "Iowa City",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "On The Road Again",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "I Need A Miracle",
+            "Bertha"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Eyes Of The World",
+            "Drums",
+            "Iko Iko",
+            "Truckin'",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue",
+            "Johnny B. Goode"
+        ]
+    }
+}

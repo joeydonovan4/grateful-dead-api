@@ -1,0 +1,18 @@
+{
+    "date": "January 20, 1968",
+    "day": "Saturday",
+    "venue": "Eureka Municipal Auditorium",
+    "city": "Eureka",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jam",
+            "Clementine",
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Caution (Do Not Stop On Tracks)",
+            "Dark Star"
+        ]
+    }
+}

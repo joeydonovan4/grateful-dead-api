@@ -1,0 +1,48 @@
+{
+    "date": "May 23, 1972",
+    "day": "Tuesday",
+    "venue": "The Strand Lyceum",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Next Time You See Me",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Chinatown Shuffle",
+            "Big Railroad Blues",
+            "Two Souls In Communion",
+            "Playin' In The Band",
+            "Sitting On Top Of The World",
+            "Rockin' Pneumonia & The Boogie Woogie Flu",
+            "Mexicali Blues",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Morning Dew",
+            "He's Gone",
+            "Sugar Magnolia",
+            "Comes A Time",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Hey Bo Diddley",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

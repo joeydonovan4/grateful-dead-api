@@ -1,0 +1,38 @@
+{
+    "date": "September 24, 1976",
+    "day": "Friday",
+    "venue": "William and Mary College",
+    "city": "Williamsburg",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Cassidy",
+            "Sugaree",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Big River",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Supplication",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Loser",
+            "New Minglewood Blues",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Music Never Stopped",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

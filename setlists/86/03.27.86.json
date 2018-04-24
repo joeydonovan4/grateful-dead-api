@@ -1,0 +1,35 @@
+{
+    "date": "March 27, 1986",
+    "day": "Thursday",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Revolutionary Hamstrung Blues",
+            "Bertha",
+            "Wang Dang Doodle",
+            "Big Railroad Blues",
+            "Supplication",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

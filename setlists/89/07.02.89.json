@@ -1,0 +1,35 @@
+{
+    "date": "July 2, 1989",
+    "day": "Sunday",
+    "venue": "Sullivan Stadium",
+    "city": "Foxboro",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Wang Dang Doodle",
+            "We Can Run",
+            "Tennessee Jed",
+            "Queen Jane Approximately",
+            "To Lay Me Down",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setThree": [
+            "Friend Of The Devil",
+            "Truckin'",
+            "He's Gone",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "May 7, 1984",
+    "day": "Monday",
+    "venue": "Silva Hall (Hult Center)",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "C.C. Rider",
+            "Loser",
+            "Mama Tried",
+            "Big River",
+            "Bird Song",
+            "My Brother Esau",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

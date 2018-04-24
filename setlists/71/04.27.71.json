@@ -1,0 +1,39 @@
+{
+    "date": "April 27, 1971",
+    "day": "Tuesday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Mama Tried",
+            "Bertha",
+            "Next Time You See Me",
+            "Cumberland Blues",
+            "Me And Bobby McGee",
+            "Loser",
+            "Hard To Handle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Deal",
+            "Me And My Uncle",
+            "Bird Song",
+            "Playin' In The Band",
+            "Dire Wolf",
+            "Searchin'",
+            "Riot In Ceil Block #9",
+            "Help Me Rhonda",
+            "Okie From Muskogee",
+            "Johnny B. Goode",
+            "Sing Me Back Home",
+            "Uncle John's Band",
+            "Turn On Your Love Light"
+        ]
+    }
+}

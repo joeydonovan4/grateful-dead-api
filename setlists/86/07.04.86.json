@@ -1,0 +1,33 @@
+{
+    "date": "July 4, 1986",
+    "day": "Friday",
+    "venue": "Rich Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dupree's Diamond Blues",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "The Wheel",
+            "I Need A Miracle",
+            "Uncle John's Band",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

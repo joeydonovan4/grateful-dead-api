@@ -1,0 +1,36 @@
+{
+    "date": "April 8, 1989",
+    "day": "Saturday",
+    "venue": "Riverfront Coliseum",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Wang Dang Doodle",
+            "West LA Fadeaway",
+            "Blow Away",
+            "Queen Jane Approximately",
+            "Loser",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "I Need A Miracle",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

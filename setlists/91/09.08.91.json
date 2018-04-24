@@ -1,0 +1,34 @@
+{
+    "date": "September 8, 1991",
+    "day": "Sunday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Loser",
+            "New Minglewood Blues",
+            "Candyman",
+            "Big River",
+            "Maggie's Farm",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Saint Of Circumstance",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Attics Of My Life"
+        ]
+    }
+}

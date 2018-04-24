@@ -1,0 +1,38 @@
+{
+    "date": "February 21, 1973",
+    "day": "Wednesday",
+    "venue": "Assembly Hall",
+    "city": "Champaign",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Wave That Flag",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Loser",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "You Ain't Woman Enough",
+            "Box Of Rain",
+            "Big Railroad Blues",
+            "Sugaree",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "Truckin'",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

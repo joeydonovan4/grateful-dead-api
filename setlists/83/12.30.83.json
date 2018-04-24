@@ -1,0 +1,35 @@
+{
+    "date": "December 30, 1983",
+    "day": "Friday",
+    "venue": "San Francisco Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Heaven Help Jam",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

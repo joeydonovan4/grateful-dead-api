@@ -1,0 +1,42 @@
+{
+    "date": "September 11, 1974",
+    "day": "Wednesday",
+    "venue": "Alexandra Palace",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Scarlet Begonias",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Jack Straw",
+            "Row Jimmy",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "It Must Have Been The Roses",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Seastones",
+            "Jam",
+            "Eyes Of The World",
+            "Jam",
+            "Space",
+            "Jam",
+            "Wharf Rat",
+            "Space"
+        ],
+        "setThree": [
+            "Around And Around",
+            "Ship Of Fools",
+            "Goin' Down The Road Feeling Bad",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

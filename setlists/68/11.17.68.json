@@ -1,0 +1,13 @@
+{
+    "date": "November 17, 1968",
+    "day": "Sunday",
+    "venue": "Eagle's Auditorium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

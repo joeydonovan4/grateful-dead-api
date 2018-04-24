@@ -1,0 +1,29 @@
+{
+    "date": "October 11, 1970",
+    "day": "Sunday",
+    "venue": "Marion Shea Auditorium",
+    "city": "Wayne",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Mama Tried",
+            "Till The Morning Comes",
+            "Dancin' In The Streets",
+            "Candyman",
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

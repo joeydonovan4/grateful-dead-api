@@ -1,0 +1,37 @@
+{
+    "date": "December 17, 1978",
+    "day": "Sunday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Passenger",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Ramble On Rose",
+            "From The Heart Of Me",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Shakedown Street",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

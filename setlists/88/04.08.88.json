@@ -1,0 +1,31 @@
+{
+    "date": "April 8, 1988",
+    "day": "Friday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Loser",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

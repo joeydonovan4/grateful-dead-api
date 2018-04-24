@@ -1,0 +1,14 @@
+{
+    "date": "November 14, 1967",
+    "day": "Tuesday",
+    "venue": "American Studios",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Born Cross-Eyed",
+            "Dark Star"
+        ]
+    }
+}

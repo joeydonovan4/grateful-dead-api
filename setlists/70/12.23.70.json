@@ -1,0 +1,20 @@
+{
+    "date": "December 23, 1970",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Me And Bobby McGee",
+            "Hard To Handle",
+            "Candyman",
+            "Me And My Uncle",
+            "Cold Rain And Snow",
+            "Dancin' In The Streets",
+            "Uncle John's Band"
+        ]
+    }
+}

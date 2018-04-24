@@ -1,0 +1,21 @@
+{
+    "date": "September 7, 1969",
+    "day": "Sunday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Peggy Sue",
+            "That'll Be The Day",
+            "Johnny B. Goode",
+            "Baby What You Want Me To Do",
+            "Wipe Out",
+            "Big Railroad Blues",
+            "Louie Louie",
+            "Twist & Shout",
+            "Blue Moon"
+        ]
+    }
+}

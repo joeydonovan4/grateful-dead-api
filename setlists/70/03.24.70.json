@@ -1,0 +1,26 @@
+{
+    "date": "March 24, 1970",
+    "day": "Tuesday",
+    "venue": "Pirates World",
+    "city": "Dania",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Mama Tried",
+            "Drums",
+            "Good Lovin'",
+            "Don't Ease Me In",
+            "Cold Rain And Snow",
+            "High Time",
+            "Dark Star",
+            "The Other One",
+            "St. Stephen",
+            "Drums",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Me And My Uncle"
+        ]
+    }
+}

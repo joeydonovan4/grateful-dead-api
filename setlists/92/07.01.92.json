@@ -1,0 +1,36 @@
+{
+    "date": "July 1, 1992",
+    "day": "Wednesday",
+    "venue": "Buckeye Lake Music Center",
+    "city": "Hebron",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Stagger Lee",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "Picasso Moon",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "In The Midnight Hour",
+            "West LA Fadeaway",
+            "Truckin'",
+            "Spoonful",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

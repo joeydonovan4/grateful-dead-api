@@ -1,0 +1,35 @@
+{
+    "date": "June 17, 1994",
+    "day": "Friday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Lazy River Road",
+            "Wang Dang Doodle",
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Just Like Tom Thumb's Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "Rain",
+            "Eyes Of The World",
+            "Samba In The Rain",
+            "Saint Of Circumstance",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Attics Of My Life",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "June 14, 1992",
+    "day": "Sunday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Walkin' Blues",
+            "Candyman",
+            "Desolation Row",
+            "Jack-A-Roe",
+            "Picasso Moon",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Long Way To Go Home",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Spoonful",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

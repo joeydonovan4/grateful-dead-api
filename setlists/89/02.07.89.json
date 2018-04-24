@@ -1,0 +1,35 @@
+{
+    "date": "February 7, 1989",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "Jack Straw",
+            "Loser",
+            "Walkin' Blues",
+            "Just A Little Light",
+            "Standing On The Moon",
+            "Stuck Inside Of Mobile",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Chinese Parade",
+            "Iko Iko",
+            "Victim Or The Crime",
+            "We Can Run",
+            "Uncle John's Band",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Foolish Heart",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

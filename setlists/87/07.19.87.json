@@ -1,0 +1,51 @@
+{
+    "date": "July 19, 1987",
+    "day": "Sunday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Addams Family",
+            "When I Paint My Masterpiece",
+            "West LA Fadeaway",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Gimme Some Lovin'",
+            "Playin' In The Band",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "setThree": [
+            "Maggie's Farm",
+            "Dead Man Dead Man",
+            "Watching The River Flow",
+            "Simple Twist Of Fate",
+            "Frankie Lee And Judas Priest",
+            "Stuck Inside Of Mobile",
+            "Heart Of Mine",
+            "Baby Blue",
+            "Rainy Day Woman",
+            "Queen Jane Approximately",
+            "Ballad Of A Thin Man",
+            "Highway 61",
+            "Tangled Up In Blue"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "All Along The Watchtower"
+        ]
+    }
+}

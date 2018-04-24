@@ -1,0 +1,41 @@
+{
+    "date": "September 16, 1972",
+    "day": "Saturday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Deal",
+            "Black Throated Wind",
+            "You Win Again",
+            "Big River",
+            "Bird Song",
+            "Mexicali Blues",
+            "Stella Blue",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "El Paso",
+            "Don't Ease Me In",
+            "Dark Star",
+            "Brokedown Palace",
+            "Promised Land",
+            "Ramble On Rose",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

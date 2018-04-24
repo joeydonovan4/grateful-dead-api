@@ -1,0 +1,39 @@
+{
+    "date": "July 19, 1974",
+    "day": "Friday",
+    "venue": "Selland Arena",
+    "city": "Fresno",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Deal",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "Me And Bobby McGee",
+            "Scarlet Begonias",
+            "El Paso",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "He's Gone",
+            "U.S. Blues",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Spanish Jam",
+            "Eyes Of The World",
+            "China Doll"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

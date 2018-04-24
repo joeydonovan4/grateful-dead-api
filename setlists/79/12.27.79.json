@@ -1,0 +1,35 @@
+{
+    "date": "December 27, 1979",
+    "day": "Thursday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Cassidy",
+            "Peggy-O",
+            "El Paso",
+            "Don't Ease Me In",
+            "Beat It On Down The Line",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Brokedown Palace"
+        ]
+    }
+}

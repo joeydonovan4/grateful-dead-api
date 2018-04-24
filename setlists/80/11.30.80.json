@@ -1,0 +1,39 @@
+{
+    "date": "November 30, 1980",
+    "day": "Sunday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Loser",
+            "Cassidy",
+            "Ramble On Rose",
+            "Little Red Rooster",
+            "Bird Song",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "China Doll",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

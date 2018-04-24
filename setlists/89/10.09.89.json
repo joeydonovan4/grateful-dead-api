@@ -1,0 +1,36 @@
+{
+    "date": "October 9, 1989",
+    "day": "Monday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Built To Last",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "We Can Run",
+            "Jack-A-Roe",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Dark Star",
+            "Drums",
+            "Death Don't Have No Mercy",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Throwin' Stones",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Attics Of My Life"
+        ]
+    }
+}

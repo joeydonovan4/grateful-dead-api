@@ -1,0 +1,36 @@
+{
+    "date": "July 17, 1988",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Foolish Heart",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "All Along The Watchtower",
+            "Believe It Or Not",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Blackbird",
+            "Brokedown Palace"
+        ]
+    }
+}

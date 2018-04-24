@@ -1,0 +1,48 @@
+{
+    "date": "December 5, 1971",
+    "day": "Sunday",
+    "venue": "Felt Forum",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "Big Boss Man",
+            "Brown-Eyed Women",
+            "Muddy Water",
+            "Jack Straw",
+            "Mr. Charlie",
+            "Tennessee Jed",
+            "El Paso",
+            "Deal",
+            "Playin' In The Band",
+            "Next Time You See Me",
+            "Comes A Time",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Ramble On Rose",
+            "It Hurts Me Too",
+            "Sugaree",
+            "Sugar Magnolia",
+            "Dark Star Jam",
+            "Me And My Uncle",
+            "Dark Star Jam",
+            "Sitting On Top Of The World",
+            "Me And Bobby McGee",
+            "Big Railroad Blues",
+            "Mexicali Blues",
+            "You Win Again",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "March 26, 1990",
+    "day": "Monday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Dupree's Diamond Blues",
+            "Just A Little Light",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Picasso Moon",
+            "Row Jimmy",
+            "Blow Away"
+        ],
+        "setTwo": [
+            "Built To Last",
+            "Victim Or The Crime",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Gimme Some Lovin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "November 21, 1985",
+    "day": "Thursday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boy Pete",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "She Belongs To Me",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "Gimme Some Lovin'",
+            "In The Midnight Hour"
+        ],
+        "encore": [
+            "Walkin' The Dog"
+        ]
+    }
+}

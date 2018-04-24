@@ -1,0 +1,36 @@
+{
+    "date": "June 20, 1992",
+    "day": "Saturday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Friend Of The Devil",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Row Jimmy",
+            "Picasso Moon",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Corrina",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Casey Jones",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

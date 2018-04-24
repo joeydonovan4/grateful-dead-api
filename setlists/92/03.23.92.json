@@ -1,0 +1,35 @@
+{
+    "date": "March 23, 1992",
+    "day": "Monday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Loose Lucy",
+            "When I Paint My Masterpiece",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Wave To The Wind",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

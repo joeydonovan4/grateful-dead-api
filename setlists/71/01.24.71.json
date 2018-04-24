@@ -1,0 +1,28 @@
+{
+    "date": "January 24, 1971",
+    "day": "Sunday",
+    "venue": "Seattle Center Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It Hurts Me Too",
+            "Cumberland Blues",
+            "Casey Jones",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "Hard To Handle",
+            "Turn On Your Love Light",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light",
+            "Drums",
+            "Good Lovin'"
+        ]
+    }
+}

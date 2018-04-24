@@ -1,0 +1,36 @@
+{
+    "date": "April 1, 1984",
+    "day": "Sunday",
+    "venue": "Marin County Veteran's Memorial Auditorium",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Cassidy",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "Morning Dew",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

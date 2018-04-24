@@ -1,0 +1,34 @@
+{
+    "date": "July 9, 1995",
+    "day": "Sunday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Childhood's End",
+            "Cumberland Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "So Many Roads",
+            "Samba In The Rain",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Unbroken Chain",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River",
+            "Box Of Rain"
+        ]
+    }
+}

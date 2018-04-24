@@ -1,0 +1,25 @@
+{
+    "date": "March 28, 1972",
+    "day": "Tuesday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Sugaree",
+            "Two Souls In Communion",
+            "Sugar Magnolia",
+            "The Other One",
+            "It Hurts Me Too",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Sidewalks Of New York"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

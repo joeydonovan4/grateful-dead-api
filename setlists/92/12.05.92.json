@@ -1,0 +1,34 @@
+{
+    "date": "December 5, 1992",
+    "day": "Saturday",
+    "venue": "Compton Terrace",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Just Like Tom Thumb's Blues",
+            "Candyman",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

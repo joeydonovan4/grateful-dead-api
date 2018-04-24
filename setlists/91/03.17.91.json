@@ -1,0 +1,36 @@
+{
+    "date": "March 17, 1991",
+    "day": "Sunday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "Rubin And Cherise",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Crazy Fingers",
+            "Truckin'",
+            "New Speedway Boogie",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

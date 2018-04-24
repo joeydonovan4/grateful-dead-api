@@ -1,0 +1,38 @@
+{
+    "date": "December 12, 1980",
+    "day": "Friday",
+    "venue": "Swing Auditorium",
+    "city": "San Bernardino",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "He's Gone",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

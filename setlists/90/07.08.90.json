@@ -1,0 +1,36 @@
+{
+    "date": "July 8, 1990",
+    "day": "Sunday",
+    "venue": "Three Rivers Stadium",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Jack-A-Roe",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Just Like Tom Thumb's Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Wang Dang Doodle",
+            "Black Peter",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

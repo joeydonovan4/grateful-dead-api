@@ -1,0 +1,33 @@
+{
+    "date": "November 3, 1984",
+    "day": "Saturday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Down In The Bottom",
+            "It Must Have Been The Roses",
+            "The Music Never Stopped",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Cumberland Blues",
+            "Gloria",
+            "Why Don't We Do It In The Road",
+            "Drums",
+            "Uncle John's Band",
+            "Dear Mr. Fantasy",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

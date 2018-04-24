@@ -1,0 +1,37 @@
+{
+    "date": "August 27, 1981",
+    "day": "Thursday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Peggy-O",
+            "El Paso",
+            "Bird Song",
+            "Passenger",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

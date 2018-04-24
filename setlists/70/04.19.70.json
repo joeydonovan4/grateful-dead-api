@@ -1,0 +1,28 @@
+{
+    "date": "April 19, 1970",
+    "day": "Sunday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I Know You Rider",
+            "Friend Of The Devil",
+            "Candyman",
+            "Saw Mill",
+            "Deep Elem Blues",
+            "The Rub",
+            "Katie Mae",
+            "Roberta",
+            "Big Breasa",
+            "She's Mine",
+            "Cumberland Blues",
+            "Wake Up Little Susie",
+            "Mama Tried",
+            "Me And My Uncle",
+            "The Race Is On",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "October 9, 1976",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Cassidy",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Scarlet Begonias",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Sugaree"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Help On The Way",
+            "Slipknot!",
+            "Drums",
+            "Samson And Delilah",
+            "Slipknot!",
+            "Franklin's Tower",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

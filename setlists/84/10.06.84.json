@@ -1,0 +1,33 @@
+{
+    "date": "October 6, 1984",
+    "day": "Saturday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Dire Wolf",
+            "Cassidy",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Throwin' Stones",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

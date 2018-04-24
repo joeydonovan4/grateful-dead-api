@@ -1,0 +1,35 @@
+{
+    "date": "May 12, 1991",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Althea",
+            "C.C. Rider",
+            "It Takes A Train To Cry",
+            "El Paso",
+            "High Time",
+            "Black Throated Wind",
+            "Deal"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

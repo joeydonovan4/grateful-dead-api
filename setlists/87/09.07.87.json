@@ -1,0 +1,38 @@
+{
+    "date": "September 7, 1987",
+    "day": "Monday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "When Push Comes To Shove",
+            "My Brother Esau",
+            "It Must Have Been The Roses",
+            "Frere Jacques",
+            "Far From Me",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Uncle John's Band",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'",
+            "La Bamba",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

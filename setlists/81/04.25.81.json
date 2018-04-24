@@ -1,0 +1,26 @@
+{
+    "date": "April 25, 1981",
+    "day": "Saturday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Dark Hollow",
+            "Jack-A-Roe",
+            "Monkey And The Engineer",
+            "Friend Of The Devil",
+            "El Paso",
+            "Oh Babe It Ain't No Lie",
+            "On The Road Again"
+        ],
+        "setTwo": [
+            "Oh Boy"
+        ],
+        "encore": [
+            "Drums"
+        ]
+    }
+}

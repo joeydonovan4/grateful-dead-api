@@ -1,0 +1,38 @@
+{
+    "date": "June 21, 1976",
+    "day": "Monday",
+    "venue": "Tower Theater",
+    "city": "Upper Darby",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "Mama Tried",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Candyman",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "The Wheel",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "It Must Have Been The Roses",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

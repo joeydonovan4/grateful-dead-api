@@ -1,0 +1,33 @@
+{
+    "date": "January 6, 1978",
+    "day": "Friday",
+    "venue": "Swing Auditorium",
+    "city": "San Bernardino",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Mama Tried",
+            "Big River",
+            "Loser",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Deal",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Truckin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

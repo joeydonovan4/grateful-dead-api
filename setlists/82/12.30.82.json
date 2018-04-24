@@ -1,0 +1,38 @@
+{
+    "date": "December 30, 1982",
+    "day": "Thursday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Loser",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "Feel Like A Stranger",
+            "Dupree's Diamond Blues",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Throwin' Stones",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Hard To Handle",
+            "Tell Mama"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 25, 1971",
+    "day": "Sunday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Loser",
+            "Hard To Handle",
+            "Me And Bobby McGee",
+            "Cold Rain And Snow",
+            "The Rub",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "Next Time You See Me",
+            "Bertha",
+            "Sugar Magnolia",
+            "Second That Emotion",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Sing Me Back Home",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

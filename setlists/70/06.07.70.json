@@ -1,0 +1,39 @@
+{
+    "date": "June 7, 1970",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Silver Threads",
+            "Friend Of The Devil",
+            "Candyman",
+            "Cold Jordan",
+            "Swing Low Sweet Chariot",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "The Eleven",
+            "Drums",
+            "Sugar Magnolia",
+            "Louie Louie Jam",
+            "It's A Man's World",
+            "Mama Tried",
+            "Sitting On Top Of The World",
+            "Cosmic Charlie",
+            "Casey Jones",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "The Frozen Logger"
+        ]
+    }
+}

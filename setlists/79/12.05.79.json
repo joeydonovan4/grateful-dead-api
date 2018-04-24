@@ -1,0 +1,38 @@
+{
+    "date": "December 5, 1979",
+    "day": "Wednesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Cold Rain And Snow",
+            "Easy To Love You",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Black Peter",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Don't Ease Me In"
+        ]
+    }
+}

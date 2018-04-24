@@ -1,0 +1,36 @@
+{
+    "date": "March 16, 1994",
+    "day": "Wednesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "So Many Roads",
+            "Just Like Tom Thumb's Blues",
+            "Beat It On Down The Line",
+            "High Time",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "December 26, 1981",
+    "day": "Saturday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Little Red Rooster",
+            "Big Boss Man",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "It's All Over Now",
+            "Big Railroad Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Eleven Jam",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

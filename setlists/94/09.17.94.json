@@ -1,0 +1,35 @@
+{
+    "date": "September 17, 1994",
+    "day": "Saturday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "The Same Thing",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

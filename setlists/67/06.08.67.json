@@ -1,0 +1,23 @@
+{
+    "date": "June 8, 1967",
+    "day": "Thursday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Beat It On Down The Line",
+            "Golden Road To Unlimited Devotion",
+            "New Minglewood Blues",
+            "Cream Puff War",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Born Cross-Eyed"
+        ],
+        "setTwo": [
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

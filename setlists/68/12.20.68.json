@@ -1,0 +1,15 @@
+{
+    "date": "December 20, 1968",
+    "day": "Friday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Eleven",
+            "Mountains Of The Moon",
+            "Turn On Your Love Light"
+        ]
+    }
+}

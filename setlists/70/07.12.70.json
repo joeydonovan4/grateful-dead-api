@@ -1,0 +1,41 @@
+{
+    "date": "July 12, 1970",
+    "day": "Sunday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "The Rub",
+            "How Long Blues",
+            "Dark Hollow",
+            "Friend Of The Devil",
+            "Any Wonder",
+            "Candyman",
+            "Katie Mae",
+            "She's Mine",
+            "Rosalie McFall",
+            "Cocaine Blues",
+            "Wake Up Little Susie"
+        ],
+        "setTwo": [
+            "Easy Wind",
+            "Mama Tried",
+            "Attics Of My Life",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It's A Man's World",
+            "Cold Rain And Snow",
+            "High Time",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Dancin' In The Streets",
+            "Turn On Your Love Light"
+        ]
+    }
+}

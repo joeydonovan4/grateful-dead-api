@@ -1,0 +1,36 @@
+{
+    "date": "March 22, 1990",
+    "day": "Thursday",
+    "venue": "Copps Coliseum",
+    "city": "Hamilton",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Easy To Love You",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "This Could Be The Last Time",
+            "Picasso Moon",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Believe It Or Not",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Hey Jude",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "September 15, 1988",
+    "day": "Thursday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Desolation Row",
+            "Row Jimmy",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "June 22, 1974",
+    "day": "Saturday",
+    "venue": "Jai-Alai Fronton",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Deal",
+            "Me And Bobby McGee",
+            "Scarlet Begonias",
+            "Jack Straw",
+            "Loose Lucy",
+            "Mexicali Blues",
+            "Sugaree",
+            "The Race Is On",
+            "It Must Have Been The Roses",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Ship Of Fools",
+            "El Paso",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

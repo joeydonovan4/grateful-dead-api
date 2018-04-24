@@ -1,0 +1,19 @@
+{
+    "date": "June 20, 1969",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I'm A King Bee",
+            "Cold Jordan",
+            "Dire Wolf",
+            "Casey Jones",
+            "Mama Tried",
+            "Turn On Your Love Light",
+            "Alligator"
+        ]
+    }
+}

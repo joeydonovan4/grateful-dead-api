@@ -1,0 +1,13 @@
+{
+    "date": "March 16, 1967",
+    "day": "Thursday",
+    "venue": "Whiskey-A-Go-Go",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

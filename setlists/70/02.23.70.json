@@ -1,0 +1,24 @@
+{
+    "date": "February 23, 1970",
+    "day": "Monday",
+    "venue": "Austin Municipal Auditorium",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I Know You Rider",
+            "High Time",
+            "Dire Wolf",
+            "Yellow Dog Story",
+            "Monkey And The Engineer",
+            "Little Sadie",
+            "Me And My Uncle",
+            "Black Peter",
+            "Seasons",
+            "Uncle John's Band",
+            "Not Fade Away",
+            "Mason's Children"
+        ]
+    }
+}

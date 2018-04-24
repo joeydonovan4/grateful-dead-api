@@ -1,0 +1,35 @@
+{
+    "date": "April 14, 1988",
+    "day": "Thursday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Big River",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

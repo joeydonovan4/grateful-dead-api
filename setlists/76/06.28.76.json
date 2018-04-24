@@ -1,0 +1,32 @@
+{
+    "date": "June 28, 1976",
+    "day": "Monday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "Lazy Lightnin'",
+            "Supplication",
+            "High Time",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Drums",
+            "Wharf Rat",
+            "Dancin' In The Streets",
+            "The Wheel"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

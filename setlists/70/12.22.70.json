@@ -1,0 +1,13 @@
+{
+    "date": "December 22, 1970",
+    "day": "Tuesday",
+    "venue": "Sacramento Memorial Auditorium",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

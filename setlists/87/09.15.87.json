@@ -1,0 +1,35 @@
+{
+    "date": "September 15, 1987",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "New Minglewood Blues",
+            "When Push Comes To Shove",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

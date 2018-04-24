@@ -1,0 +1,48 @@
+{
+    "date": "March 23, 1974",
+    "day": "Saturday",
+    "venue": "Cow Palace",
+    "city": "Daly City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "U.S. Blues",
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Black Throated Wind",
+            "Scarlet Begonias",
+            "Beat It On Down The Line",
+            "It Must Have Been The Roses",
+            "El Paso",
+            "Deal",
+            "Cassidy",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Morning Dew",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Ship Of Fools",
+            "Big River",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Bertha",
+            "Around And Around",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

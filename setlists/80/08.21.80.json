@@ -1,0 +1,35 @@
+{
+    "date": "August 21, 1980",
+    "day": "Thursday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "High Time",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "It's All Over Now",
+            "Easy To Love You",
+            "Shakedown Street",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Drums",
+            "Uncle John's Band",
+            "Truckin'",
+            "The Other One",
+            "Drums",
+            "The Wheel",
+            "Uncle John's Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

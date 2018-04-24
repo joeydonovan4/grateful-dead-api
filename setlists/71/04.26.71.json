@@ -1,0 +1,37 @@
+{
+    "date": "April 26, 1971",
+    "day": "Monday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Big Boss Man",
+            "Loser",
+            "Playin' In The Band",
+            "Hard To Handle",
+            "Dark Star",
+            "Wharf Rat",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "It Hurts Me Too",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Deal",
+            "Mama Tried",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Sing Me Back Home",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

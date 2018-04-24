@@ -1,0 +1,33 @@
+{
+    "date": "September 25, 1993",
+    "day": "Saturday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Loser",
+            "It's All Over Now",
+            "Just Like Tom Thumb's Blues",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Box Of Rain",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

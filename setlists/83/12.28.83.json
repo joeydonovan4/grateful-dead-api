@@ -1,0 +1,33 @@
+{
+    "date": "December 28, 1983",
+    "day": "Wednesday",
+    "venue": "San Francisco Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Dire Wolf",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "New Minglewood Blues",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

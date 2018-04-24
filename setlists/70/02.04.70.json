@@ -1,0 +1,18 @@
+{
+    "date": "February 4, 1970",
+    "day": "Wednesday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Hard To Handle",
+            "Black Peter",
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "March 25, 1991",
+    "day": "Monday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "High Time",
+            "It's All Over Now",
+            "Tennessee Jed",
+            "Promised Land",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Crazy Fingers",
+            "Truckin'",
+            "Spoonful",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Black Peter",
+            "Throwin' Stones",
+            "Playin' Reprise"
+        ],
+        "encore": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

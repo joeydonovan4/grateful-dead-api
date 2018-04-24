@@ -1,0 +1,36 @@
+{
+    "date": "June 19, 1989",
+    "day": "Monday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Candyman",
+            "We Can Run",
+            "When Push Comes To Shove",
+            "Stuck Inside Of Mobile",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Playin' Reprise",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

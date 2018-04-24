@@ -1,0 +1,37 @@
+{
+    "date": "June 13, 1980",
+    "day": "Friday",
+    "venue": "Seattle Center Coliseum",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Passenger",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Let It Grow",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "C.C. Rider",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

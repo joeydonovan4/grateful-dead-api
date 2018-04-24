@@ -1,0 +1,36 @@
+{
+    "date": "December 27, 1980",
+    "day": "Saturday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Loser",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Passenger",
+            "It Must Have Been The Roses",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

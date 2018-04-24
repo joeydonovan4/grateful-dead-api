@@ -1,0 +1,34 @@
+{
+    "date": "March 29, 1985",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Down In The Bottom",
+            "Ain't Superstitious",
+            "Friend Of The Devil",
+            "Supplication",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Man Smart-Woman Smarter",
+            "Goin' Down The Road Feeling Bad",
+            "Baby What You Want Me To Do",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

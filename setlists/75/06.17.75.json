@@ -1,0 +1,31 @@
+{
+    "date": "June 17, 1975",
+    "day": "Tuesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Crazy Fingers",
+            "Beat It On Down The Line",
+            "Deal",
+            "Big River",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Blues For Allah",
+            "Drums",
+            "Stronger Than Dirt",
+            "Blues For Allah",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

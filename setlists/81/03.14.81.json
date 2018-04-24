@@ -1,0 +1,38 @@
+{
+    "date": "March 14, 1981",
+    "day": "Saturday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "C.C. Rider",
+            "Althea",
+            "Passenger",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "September 18, 1994",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Jack-A-Roe",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "El Paso",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Samba In The Rain",
+            "So Many Roads",
+            "Samson And Delilah",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

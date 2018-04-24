@@ -1,0 +1,13 @@
+{
+    "date": "May 30, 1968",
+    "day": "Thursday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

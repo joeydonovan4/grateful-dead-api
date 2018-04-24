@@ -1,0 +1,33 @@
+{
+    "date": "March 28, 1985",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Smokestack Lightning",
+            "High Time",
+            "El Paso",
+            "Peggy-O",
+            "Cassidy",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Drums",
+            "Gimme Some Lovin'",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

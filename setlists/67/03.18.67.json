@@ -1,0 +1,28 @@
+{
+    "date": "March 18, 1967",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "He Was A Friend Of Mine",
+            "Smokestack Lightning",
+            "Morning Dew",
+            "It Hurts Me Too",
+            "Beat It On Down The Line",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Golden Road To Unlimited Devotion",
+            "Cream Puff War",
+            "The Same Thing",
+            "Cold Rain And Snow",
+            "Viola Lee Blues",
+            "Death Don't Have No Mercy"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "May 5, 1977",
+    "day": "Thursday",
+    "venue": "New Haven Coliseum",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mama Tried",
+            "El Paso",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "St. Stephen",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

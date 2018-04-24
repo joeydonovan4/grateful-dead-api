@@ -1,0 +1,36 @@
+{
+    "date": "November 5, 1977",
+    "day": "Saturday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Mama Tried",
+            "Big River",
+            "Candyman",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "Jam",
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

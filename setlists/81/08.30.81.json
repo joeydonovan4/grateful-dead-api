@@ -1,0 +1,37 @@
+{
+    "date": "August 30, 1981",
+    "day": "Sunday",
+    "venue": "Compton Terrace Amphitheatre",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

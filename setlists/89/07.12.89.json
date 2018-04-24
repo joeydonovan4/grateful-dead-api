@@ -1,0 +1,35 @@
+{
+    "date": "July 12, 1989",
+    "day": "Wednesday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Just Like Tom Thumb's Blues",
+            "Far From Me",
+            "Cassidy",
+            "Friend Of The Devil",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

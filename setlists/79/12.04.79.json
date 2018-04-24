@@ -1,0 +1,35 @@
+{
+    "date": "December 4, 1979",
+    "day": "Tuesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Estimated Prophet",
+            "Franklin's Tower",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "August 15, 1987",
+    "day": "Saturday",
+    "venue": "Town Park",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Desolation Row",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Bertha",
+            "Morning Dew",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

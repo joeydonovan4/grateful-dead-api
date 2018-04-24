@@ -1,0 +1,21 @@
+{
+    "date": "January 24, 1969",
+    "day": "Friday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Dupree's Diamond Blues",
+            "Doin' That Rag",
+            "Dark Star",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "December 10, 1993",
+    "day": "Friday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Loser",
+            "Little Red Rooster",
+            "So Many Roads",
+            "Just Like Tom Thumb's Blues",
+            "Eternity",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "August 13, 1975",
+    "day": "Wednesday",
+    "venue": "Great American Music Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Music Never Stopped",
+            "It Must Have Been The Roses",
+            "Eyes Of The World",
+            "Drums",
+            "Stronger Than Dirt"
+        ],
+        "setTwo": [
+            "Around And Around",
+            "Sugaree",
+            "Big River",
+            "Crazy Fingers",
+            "Drums",
+            "The Other One",
+            "Sage And Spirit",
+            "Goin' Down The Road Feeling Bad",
+            "U.S. Blues"
+        ],
+        "encore": [
+            "Blues For Allah"
+        ]
+    }
+}

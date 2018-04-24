@@ -1,0 +1,13 @@
+{
+    "date": "September 9, 1967",
+    "day": "Saturday",
+    "venue": "Eagle's Auditorium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "June 6, 1992",
+    "day": "Saturday",
+    "venue": "Rich Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Althea",
+            "It's All Over Now",
+            "Friend Of The Devil",
+            "When I Paint My Masterpiece",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Estimated Prophet",
+            "The Same Thing",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Other One",
+            "The Wheel",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "September 26, 1981",
+    "day": "Saturday",
+    "venue": "Buffalo Memorial Auditorium",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "C.C. Rider",
+            "They Love Each Other",
+            "Cassidy",
+            "Jack-A-Roe",
+            "On The Road Again",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Bertha",
+            "Estimated Prophet",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "Not Fade Away",
+            "Morning Dew",
+            "Playin' In The Band",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "October 10, 1994",
+    "day": "Monday",
+    "venue": "USAir Arena",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Walkin' Blues",
+            "Althea",
+            "Desolation Row",
+            "Loose Lucy",
+            "Eternity"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "December 31, 1988",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Franklin's Tower",
+            "Wang Dang Doodle",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Cold Rain And Snow",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Morning Dew",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ]
+    }
+}

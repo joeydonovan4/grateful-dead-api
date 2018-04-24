@@ -1,0 +1,32 @@
+{
+    "date": "August 27, 1983",
+    "day": "Saturday",
+    "venue": "Seattle Center Coliseum",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Deep Elem Blues",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Throwin' Stones",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

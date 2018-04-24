@@ -1,0 +1,37 @@
+{
+    "date": "July 29, 1994",
+    "day": "Friday",
+    "venue": "Buckeye Lake Music Center",
+    "city": "Hebron",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Rain",
+            "Feel Like A Stranger",
+            "Bertha",
+            "Wang Dang Doodle",
+            "Loser",
+            "El Paso",
+            "Althea",
+            "Eternity",
+            "Deal"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "I Want To Tell You",
+            "Looks Like Rain",
+            "Samba In The Rain",
+            "Uncle John's Band",
+            "Saint Of Circumstance",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

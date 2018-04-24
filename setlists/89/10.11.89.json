@@ -1,0 +1,35 @@
+{
+    "date": "October 11, 1989",
+    "day": "Wednesday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Loser",
+            "When I Paint My Masterpiece",
+            "Althea",
+            "Cassidy",
+            "Just A Little Light",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

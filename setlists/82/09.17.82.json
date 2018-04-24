@@ -1,0 +1,40 @@
+{
+    "date": "September 17, 1982",
+    "day": "Friday",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Candyman",
+            "C.C. Rider",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Dupree's Diamond Blues",
+            "It's All Over Now",
+            "West LA Fadeaway",
+            "Throwin' Stones",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "High Time",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

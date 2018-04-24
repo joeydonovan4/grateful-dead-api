@@ -1,0 +1,38 @@
+{
+    "date": "October 27, 1971",
+    "day": "Wednesday",
+    "venue": "Onondaga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Deal",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Mexicali Blues",
+            "The Frozen Logger",
+            "Big Railroad Blues",
+            "Cumberland Blues",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Me And Bobby McGee",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

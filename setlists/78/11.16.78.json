@@ -1,0 +1,35 @@
+{
+    "date": "November 16, 1978",
+    "day": "Thursday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "Dancin' In The Streets",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "Black Peter",
+            "Truckin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "date": "October 6, 1980",
+    "day": "Monday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Cassidy",
+            "Jack-A-Roe",
+            "Monkey And The Engineer",
+            "Been All Around This World",
+            "Heaven Help The Fool",
+            "China Doll",
+            "On The Road Again",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setThree": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

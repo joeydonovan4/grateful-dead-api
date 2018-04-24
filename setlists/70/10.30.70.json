@@ -1,0 +1,23 @@
+{
+    "date": "October 30, 1970",
+    "day": "Friday",
+    "venue": "University Gymnasium",
+    "city": "Stony Brook",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Truckin'",
+            "Sugar Magnolia",
+            "Next Time You See Me",
+            "Me And My Uncle",
+            "Drums",
+            "Good Lovin'",
+            "Drums",
+            "Cumberland Blues",
+            "Good Lovin'",
+            "Casey Jones"
+        ]
+    }
+}

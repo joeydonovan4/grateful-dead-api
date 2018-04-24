@@ -1,0 +1,38 @@
+{
+    "date": "December 19, 1978",
+    "day": "Tuesday",
+    "venue": "Memorial Coliseum",
+    "city": "Jackson",
+    "state": "MS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "El Paso",
+            "Row Jimmy",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Promised Land",
+            "Stagger Lee",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

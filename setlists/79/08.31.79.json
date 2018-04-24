@@ -1,0 +1,37 @@
+{
+    "date": "August 31, 1979",
+    "day": "Friday",
+    "venue": "Glens Falls Civic Center",
+    "city": "Glens Falls",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Cassidy",
+            "Loser",
+            "El Paso",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Easy To Love You",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

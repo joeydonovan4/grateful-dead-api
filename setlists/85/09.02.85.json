@@ -1,0 +1,37 @@
+{
+    "date": "September 2, 1985",
+    "day": "Monday",
+    "venue": "Zoo Amphitheatre",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Stagger Lee",
+            "Iko Iko",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "China Doll",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

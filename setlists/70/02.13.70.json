@@ -1,0 +1,36 @@
+{
+    "date": "February 13, 1970",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Dire Wolf",
+            "Smokestack Lightning"
+        ],
+        "setTwo": [
+            "Monkey And The Engineer",
+            "Little Sadie",
+            "Wake Up Little Susie",
+            "Black Peter",
+            "Uncle John's Band",
+            "Katie Mae"
+        ],
+        "setThree": [
+            "Dark Star",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

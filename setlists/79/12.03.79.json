@@ -1,0 +1,38 @@
+{
+    "date": "December 3, 1979",
+    "day": "Monday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Ramble On Rose",
+            "It's All Over Now",
+            "Jack-A-Roe",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Truckin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

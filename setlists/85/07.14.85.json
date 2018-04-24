@@ -1,0 +1,37 @@
+{
+    "date": "July 14, 1985",
+    "day": "Sunday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "They Love Each Other",
+            "My Brother Esau",
+            "Althea",
+            "Cassidy",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

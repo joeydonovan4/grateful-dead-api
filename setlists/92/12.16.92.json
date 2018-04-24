@@ -1,0 +1,34 @@
+{
+    "date": "December 16, 1992",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Brown-Eyed Women",
+            "The Same Thing",
+            "Loose Lucy",
+            "Stuck Inside Of Mobile",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "Dark Star",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

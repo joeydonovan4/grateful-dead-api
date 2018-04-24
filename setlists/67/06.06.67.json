@@ -1,0 +1,25 @@
+{
+    "date": "June 6, 1967",
+    "day": "Tuesday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I'm A King Bee",
+            "It Hurts Me Too",
+            "The Same Thing",
+            "Big Boss Man",
+            "Alligator",
+            "Midnight Hour",
+            "Beat It On Down The Line",
+            "Me And My Uncle",
+            "Minglewood Blues",
+            "Don't Ease Me In",
+            "Cold Rain And Snow",
+            "Viola Lee Blues",
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

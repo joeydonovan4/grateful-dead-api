@@ -1,0 +1,23 @@
+{
+    "date": "June 7, 1969",
+    "day": "Saturday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Sitting On Top Of The World",
+            "Cold Rain And Snow",
+            "Doin' That Rag",
+            "Me And My Uncle",
+            "Turn On Your Love Light"
+        ]
+    }
+}

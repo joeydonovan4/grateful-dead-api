@@ -1,0 +1,35 @@
+{
+    "date": "April 16, 1984",
+    "day": "Monday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Dupree's Diamond Blues",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Ship Of Fools",
+            "Far From Me",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

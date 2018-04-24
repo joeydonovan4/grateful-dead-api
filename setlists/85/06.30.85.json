@@ -1,0 +1,36 @@
+{
+    "date": "June 30, 1985",
+    "day": "Sunday",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Keep On Growing",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Gimme Some Lovin'",
+            "He's Gone",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

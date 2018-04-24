@@ -1,0 +1,27 @@
+{
+    "date": "July 11, 1969",
+    "day": "Friday",
+    "venue": "New York State Pavilion",
+    "city": "Queens",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dupree's Diamond Blues",
+            "Dire Wolf",
+            "Hard To Handle",
+            "Silver Threads",
+            "Casey Jones",
+            "Sitting On Top Of The World",
+            "Big Boss Man",
+            "Mama Tried",
+            "High Time",
+            "Drums",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ]
+    }
+}

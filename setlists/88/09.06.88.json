@@ -1,0 +1,35 @@
+{
+    "date": "September 6, 1988",
+    "day": "Tuesday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Desolation Row",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Stagger Lee",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

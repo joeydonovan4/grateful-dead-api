@@ -1,0 +1,39 @@
+{
+    "date": "February 21, 1971",
+    "day": "Sunday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Me And Bobby McGee",
+            "Loser",
+            "Easy Wind",
+            "Playin' In The Band",
+            "Bertha",
+            "Me And My Uncle",
+            "Ripple",
+            "Next Time You See Me",
+            "Sugar Magnolia",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Bird Song",
+            "Cumberland Blues",
+            "I'm A King Bee",
+            "Beat It On Down The Line",
+            "Wharf Rat",
+            "Truckin'",
+            "Casey Jones",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "September 12, 1973",
+    "day": "Wednesday",
+    "venue": "William and Mary Hall",
+    "city": "Williamsburg",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "Here Comes Sunshine",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Bird Song",
+            "Jack Straw",
+            "Loser",
+            "Big River"
+        ],
+        "setTwo": [
+            "Loose Lucy",
+            "Row Jimmy",
+            "Let Me Sing Your Blues Away",
+            "Around And Around",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Beat It On Down The Line",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

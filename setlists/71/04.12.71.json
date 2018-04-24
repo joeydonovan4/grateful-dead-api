@@ -1,0 +1,35 @@
+{
+    "date": "April 12, 1971",
+    "day": "Monday",
+    "venue": "Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Bertha",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Loser",
+            "Cumberland Blues",
+            "Hard To Handle",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Me And Bobby McGee",
+            "Casey Jones",
+            "Sugar Magnolia",
+            "Deal",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ]
+    }
+}

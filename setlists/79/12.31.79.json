@@ -1,0 +1,42 @@
+{
+    "date": "December 31, 1979",
+    "day": "Monday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Alabama Getaway",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setThree": [
+            "Althea",
+            "New Minglewood Blues",
+            "Uncle John's Band",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Good Lovin'"
+        ]
+    }
+}

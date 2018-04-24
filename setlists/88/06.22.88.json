@@ -1,0 +1,33 @@
+{
+    "date": "June 22, 1988",
+    "day": "Wednesday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Hell In A Bucket",
+            "Candyman",
+            "Walkin' Blues",
+            "When Push Comes To Shove",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "I Will Take You Home",
+            "Drums",
+            "The Wheel",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

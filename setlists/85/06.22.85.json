@@ -1,0 +1,36 @@
+{
+    "date": "June 22, 1985",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Candyman",
+            "It's All Over Now",
+            "Althea",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Keep On Growing",
+            "Mississippi Half-Step",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

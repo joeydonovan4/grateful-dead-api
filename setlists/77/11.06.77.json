@@ -1,0 +1,39 @@
+{
+    "date": "November 6, 1977",
+    "day": "Sunday",
+    "venue": "Broome County Arena",
+    "city": "Binghamton",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Me And My Uncle",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Dupree's Diamond Blues",
+            "Passenger",
+            "Dire Wolf",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Sunrise",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "St. Stephen",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "St. Stephen",
+            "Truckin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

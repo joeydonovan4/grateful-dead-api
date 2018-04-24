@@ -1,0 +1,31 @@
+{
+    "date": "September 25, 1970",
+    "day": "Friday",
+    "venue": "Pasadena Civic Auditorium",
+    "city": "Pasadena",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "I'm A King Bee",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "High Time"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Cosmic Charlie",
+            "Alligator",
+            "Drums",
+            "Turn On Your Love Light",
+            "Morning Dew"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "date": "July 16, 1966",
+    "day": "Saturday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Don't Ease Me In",
+            "Pain In My Heart",
+            "Minglewood Blues",
+            "Sitting On Top Of The World",
+            "You Don't Have To Ask",
+            "Cold Rain And Snow",
+            "Good Morning Little School Girl",
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

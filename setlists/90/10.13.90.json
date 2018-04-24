@@ -1,0 +1,34 @@
+{
+    "date": "October 13, 1990",
+    "day": "Saturday",
+    "venue": "Ice Stadium",
+    "city": "Stockholm",
+    "state": "N/A",
+    "country": "SWE",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Feel Like A Stranger",
+            "Candyman",
+            "Walkin' Blues",
+            "Loser",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

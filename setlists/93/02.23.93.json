@@ -1,0 +1,32 @@
+{
+    "date": "February 23, 1993",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Loser",
+            "Stuck Inside Of Mobile",
+            "Broken Arrow",
+            "Long Way To Go Home",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Corrina",
+            "Lazy River Road",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

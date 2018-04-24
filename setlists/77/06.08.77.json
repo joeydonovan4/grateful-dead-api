@@ -1,0 +1,39 @@
+{
+    "date": "June 8, 1977",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Passenger",
+            "Sunrise",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Jack-A-Roe",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ramble On Rose",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

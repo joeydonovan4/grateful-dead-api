@@ -1,0 +1,23 @@
+{
+    "date": "August 30, 1969",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "Jam",
+            "Doin' That Rag",
+            "Morning Dew",
+            "Easy Wind",
+            "Me And My Uncle",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Drums",
+            "High Time"
+        ]
+    }
+}

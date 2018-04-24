@@ -1,0 +1,31 @@
+{
+    "date": "March 2, 1969",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Doin' That Rag",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy",
+            "Morning Dew",
+            "Alligator",
+            "Drums",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

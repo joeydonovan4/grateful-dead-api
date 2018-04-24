@@ -1,0 +1,41 @@
+{
+    "date": "May 18, 1972",
+    "day": "Thursday",
+    "venue": "Deutsches Museum Halle",
+    "city": "Munich",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Chinatown Shuffle",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "It Hurts Me Too",
+            "You Win Again",
+            "Playin' In The Band",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Sitting On Top Of The World",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "Dark Star",
+            "Morning Dew",
+            "Drums",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Sing Me Back Home",
+            "One More Saturday Night"
+        ]
+    }
+}

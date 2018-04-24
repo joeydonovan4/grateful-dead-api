@@ -1,0 +1,35 @@
+{
+    "date": "March 6, 1981",
+    "day": "Friday",
+    "venue": "Stanley Theater",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Cassidy",
+            "They Love Each Other",
+            "El Paso",
+            "Row Jimmy",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Franklin's Tower",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

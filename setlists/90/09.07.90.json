@@ -1,0 +1,36 @@
+{
+    "date": "September 7, 1990",
+    "day": "Friday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Picasso Moon",
+            "U.S. Blues"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

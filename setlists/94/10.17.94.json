@@ -1,0 +1,33 @@
+{
+    "date": "October 17, 1994",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "In The Midnight Hour",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Eternity",
+            "Friend Of The Devil",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Man Smart-Woman Smarter",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Rainy Day Woman"
+        ]
+    }
+}

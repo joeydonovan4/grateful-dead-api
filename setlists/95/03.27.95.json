@@ -1,0 +1,30 @@
+{
+    "date": "March 27, 1995",
+    "day": "Monday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Sugaree",
+            "It's All Over Now",
+            "So Many Roads",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

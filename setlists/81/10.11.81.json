@@ -1,0 +1,21 @@
+{
+    "date": "October 11, 1981",
+    "day": "Sunday",
+    "venue": "Club Melkweg",
+    "city": "Amsterdam",
+    "state": "N/A",
+    "country": "NLD",
+    "setlist": {
+        "setOne": [
+            "Monkey And The Engineer",
+            "Been All Around This World",
+            "Cassidy",
+            "Jack-A-Roe",
+            "On The Road Again",
+            "Bird Song"
+        ],
+        "encore": [
+            "Oh Babe It Ain't No Lie"
+        ]
+    }
+}

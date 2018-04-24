@@ -1,0 +1,49 @@
+{
+    "date": "October 18, 1980",
+    "day": "Saturday",
+    "venue": "Saenger Performing Arts Center",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "It Must Have Been The Roses",
+            "Monkey And The Engineer",
+            "Been All Around This World",
+            "Heaven Help The Fool",
+            "To Lay Me Down",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "New Minglewood Blues",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setThree": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Feel Like A Stranger",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

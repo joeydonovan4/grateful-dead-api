@@ -1,0 +1,39 @@
+{
+    "date": "January 14, 1979",
+    "day": "Sunday",
+    "venue": "Utica Memorial Auditorium",
+    "city": "Utica",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Jack-A-Roe",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Stagger Lee",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Iko Iko",
+            "The Other One",
+            "Black Peter"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

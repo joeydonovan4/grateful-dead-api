@@ -1,0 +1,31 @@
+{
+    "date": "August 30, 1985",
+    "day": "Friday",
+    "venue": "Southern Star Amphitheatre",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Row Jimmy",
+            "C.C. Rider",
+            "Bird Song",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Drums",
+            "Gimme Some Lovin'",
+            "The Wheel",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

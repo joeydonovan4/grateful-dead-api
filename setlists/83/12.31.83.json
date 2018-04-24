@@ -1,0 +1,35 @@
+{
+    "date": "December 31, 1983",
+    "day": "Saturday",
+    "venue": "San Francisco Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Candyman",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace",
+            "Big Boss Man",
+            "Iko Iko",
+            "In The Midnight Hour"
+        ]
+    }
+}

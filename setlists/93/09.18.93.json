@@ -1,0 +1,33 @@
+{
+    "date": "September 18, 1993",
+    "day": "Saturday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Loose Lucy"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Victim Or The Crime",
+            "Uncle John's Band",
+            "Corrina",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "China Doll",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

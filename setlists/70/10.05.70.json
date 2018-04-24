@@ -1,0 +1,14 @@
+{
+    "date": "October 5, 1970",
+    "day": "Monday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Turn On Your Love Light"
+        ]
+    }
+}

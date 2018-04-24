@@ -1,0 +1,35 @@
+{
+    "date": "April 23, 1969",
+    "day": "Wednesday",
+    "venue": "The Ark",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "He Was A Friend Of Mine",
+            "Dark Star",
+            "St. Stephen",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Sitting On Top Of The World",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Hard To Handle",
+            "Doin' That Rag",
+            "Alligator",
+            "Drums",
+            "The Eleven",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ],
+        "encore": [
+            "It's All Over Now Baby Blue"
+        ]
+    }
+}

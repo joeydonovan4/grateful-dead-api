@@ -1,0 +1,38 @@
+{
+    "date": "October 4, 1981",
+    "day": "Sunday",
+    "venue": "Rainbow Theater",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Jam",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "El Paso",
+            "Jack-A-Roe",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

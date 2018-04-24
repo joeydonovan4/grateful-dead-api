@@ -1,0 +1,23 @@
+{
+    "date": "November 11, 1970",
+    "day": "Wednesday",
+    "venue": "46th Street Rock Palace",
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Truckin'",
+            "Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Sugar Magnolia",
+            "Candyman",
+            "New Orleans",
+            "Cumberland Blues",
+            "Brokedown Palace",
+            "Not Fade Away"
+        ]
+    }
+}

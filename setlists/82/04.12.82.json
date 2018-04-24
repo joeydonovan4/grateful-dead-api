@@ -1,0 +1,35 @@
+{
+    "date": "April 12, 1982",
+    "day": "Monday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Bird Song",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Sugaree",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

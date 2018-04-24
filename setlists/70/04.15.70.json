@@ -1,0 +1,19 @@
+{
+    "date": "April 15, 1970",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mama Tried",
+            "It's A Man's World",
+            "Candyman",
+            "Hard To Handle"
+        ]
+    }
+}

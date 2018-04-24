@@ -1,0 +1,31 @@
+{
+    "date": "January 30, 1970",
+    "day": "Friday",
+    "venue": "The Wharehouse",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Black Peter",
+            "Hard To Handle",
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "High Time",
+            "Cumberland Blues",
+            "Easy Wind",
+            "Mama Tried",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ]
+    }
+}

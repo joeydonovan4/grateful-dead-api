@@ -1,0 +1,35 @@
+{
+    "date": "October 16, 1989",
+    "day": "Monday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Good Time Blues",
+            "Built To Last",
+            "Stuck Inside Of Mobile",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "I Will Take You Home",
+            "I Need A Miracle",
+            "Dark Star",
+            "Attics Of My Life",
+            "Playin' Reprise"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "date": "September 19, 1972",
+    "day": "Tuesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Bird Song",
+            "Black Throated Wind",
+            "Big Railroad Blues",
+            "Me And My Uncle",
+            "Sugaree",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "Brokedown Palace",
+            "Beat It On Down The Line",
+            "Deal",
+            "Big River",
+            "He's Gone",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "December 15, 1972",
+    "day": "Friday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "El Paso",
+            "Candyman",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Box Of Rain",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Loser",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Deal",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "Dark Star",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

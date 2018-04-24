@@ -1,0 +1,38 @@
+{
+    "date": "June 26, 1976",
+    "day": "Saturday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Cassidy",
+            "Row Jimmy",
+            "Mama Tried",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "St. Stephen",
+            "The Wheel",
+            "Playin' In The Band",
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Stella Blue",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

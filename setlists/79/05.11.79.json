@@ -1,0 +1,33 @@
+{
+    "date": "May 11, 1979",
+    "day": "Friday",
+    "venue": "Billerica Forum",
+    "city": "Billerica",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Passenger",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Black Peter",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ]
+    }
+}

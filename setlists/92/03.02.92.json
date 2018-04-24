@@ -1,0 +1,33 @@
+{
+    "date": "March 2, 1992",
+    "day": "Monday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Loser",
+            "When I Paint My Masterpiece",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

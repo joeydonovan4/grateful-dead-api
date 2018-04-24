@@ -1,0 +1,34 @@
+{
+    "date": "June 14, 1985",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "West LA Fadeaway",
+            "C.C. Rider",
+            "Peggy-O",
+            "Hell In A Bucket",
+            "Keep On Growing",
+            "Stagger Lee",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "April 16, 1983",
+    "day": "Saturday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "Maybe You Know How I Feel",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Looks Like Rain",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Uncle John's Band",
+            "Truckin'",
+            "Drums",
+            "Black Queen",
+            "Iko Iko",
+            "The Other One",
+            "Black Peter",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

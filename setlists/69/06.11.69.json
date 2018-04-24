@@ -1,0 +1,29 @@
+{
+    "date": "June 11, 1969",
+    "day": "Wednesday",
+    "venue": "California Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let It Be Me",
+            "Silver Threads",
+            "Mama Tried",
+            "Cathy's Clown",
+            "Me And My Uncle",
+            "Slewfoot",
+            "Dire Wolf",
+            "Games People Play",
+            "The Race Is On",
+            "Green Green Grass Of Home"
+        ],
+        "setTwo": [
+            "Tiger By The Tail",
+            "I've Just Seen A Face",
+            "All I Have To Do Is Dream",
+            "Wabash Cannonball",
+            "Railroading Across The Great Divide"
+        ]
+    }
+}

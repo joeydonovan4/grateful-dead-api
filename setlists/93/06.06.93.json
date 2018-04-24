@@ -1,0 +1,33 @@
+{
+    "date": "June 6, 1993",
+    "day": "Sunday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Broken Arrow",
+            "When I Paint My Masterpiece",
+            "Lazy River Road",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Corrina",
+            "Attics Of My Life",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

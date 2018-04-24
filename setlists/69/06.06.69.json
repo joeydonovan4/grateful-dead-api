@@ -1,0 +1,18 @@
+{
+    "date": "June 6, 1969",
+    "day": "Friday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Smokestack Lightning",
+            "Green Green Grass Of Home",
+            "Me And My Uncle",
+            "Checkin Up On My Baby",
+            "Beat It On Down The Line",
+            "Turn On Your Love Light"
+        ]
+    }
+}

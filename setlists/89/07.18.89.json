@@ -1,0 +1,35 @@
+{
+    "date": "July 18, 1989",
+    "day": "Tuesday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Jack Straw",
+            "Jack-A-Roe",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Stuck Inside Of Mobile",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Drums",
+            "China Doll",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Throwin' Stones",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

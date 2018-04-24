@@ -1,0 +1,35 @@
+{
+    "date": "May 9, 1987",
+    "day": "Saturday",
+    "venue": "Laguna Seca Raceway",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "When Push Comes To Shove",
+            "Tons Of Steel",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Iko Iko"
+        ]
+    }
+}

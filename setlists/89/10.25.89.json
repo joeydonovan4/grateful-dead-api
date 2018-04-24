@@ -1,0 +1,34 @@
+{
+    "date": "October 25, 1989",
+    "day": "Wednesday",
+    "venue": "Miami Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Just A Little Light",
+            "Friend Of The Devil",
+            "Stuck Inside Of Mobile",
+            "Cold Rain And Snow",
+            "Picasso Moon",
+            "Deal"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Standing On The Moon",
+            "Truckin'",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "October 6, 1966",
+    "day": "Thursday",
+    "venue": "Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

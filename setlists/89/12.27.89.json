@@ -1,0 +1,35 @@
+{
+    "date": "December 27, 1989",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Greatest Story Ever Told",
+            "Good Time Blues",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Just Like Tom Thumb's Blues",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Black Muddy River"
+        ]
+    }
+}

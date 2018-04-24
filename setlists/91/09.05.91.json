@@ -1,0 +1,35 @@
+{
+    "date": "September 5, 1991",
+    "day": "Thursday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

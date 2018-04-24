@@ -1,0 +1,37 @@
+{
+    "date": "November 21, 1978",
+    "day": "Tuesday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Loser",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Stagger Lee",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Truckin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

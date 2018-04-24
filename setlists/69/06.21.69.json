@@ -1,0 +1,25 @@
+{
+    "date": "June 21, 1969",
+    "day": "Saturday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Old",
+            "Old House",
+            "Sitting On Top Of The World",
+            "King Bee",
+            "Dire Wolf",
+            "Mama Tried",
+            "High Time",
+            "Dupree's Diamond Blues",
+            "Yellow Dog Story",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "August 28, 1988",
+    "day": "Sunday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "Stuck Inside Of Mobile",
+            "Foolish Heart",
+            "Victim Or The Crime",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Bertha",
+            "Truckin'",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

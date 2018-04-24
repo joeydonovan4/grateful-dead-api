@@ -1,0 +1,33 @@
+{
+    "date": "March 24, 1993",
+    "day": "Wednesday",
+    "venue": "The Dean Dome",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Stagger Lee",
+            "Wang Dang Doodle",
+            "It Must Have Been The Roses",
+            "Stuck Inside Of Mobile",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Playin' In The Band",
+            "Box Of Rain",
+            "Crazy Fingers",
+            "Drums",
+            "Spanish Jam",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

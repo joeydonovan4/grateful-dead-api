@@ -1,0 +1,42 @@
+{
+    "date": "November 22, 1972",
+    "day": "Wednesday",
+    "venue": "Municipal Auditorium",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Loser",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "Candyman",
+            "El Paso",
+            "Bird Song",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Big River",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Brokedown Palace",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

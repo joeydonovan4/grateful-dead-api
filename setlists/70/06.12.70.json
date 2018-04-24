@@ -1,0 +1,13 @@
+{
+    "date": "June 12, 1970",
+    "day": "Friday",
+    "venue": "Red Vest",
+    "city": "Oahu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

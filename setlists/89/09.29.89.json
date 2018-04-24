@@ -1,0 +1,35 @@
+{
+    "date": "September 29, 1989",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Wang Dang Doodle",
+            "Jack-A-Roe",
+            "We Can Run",
+            "Stuck Inside Of Mobile",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Blow Away",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Death Don't Have No Mercy",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

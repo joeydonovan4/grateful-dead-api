@@ -1,0 +1,15 @@
+{
+    "date": "July 10, 1969",
+    "day": "Thursday",
+    "venue": "CBS Television City",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "St. Stephen",
+            "Mountains Of The Moon",
+            "Turn On Your Love Light"
+        ]
+    }
+}

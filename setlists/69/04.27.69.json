@@ -1,0 +1,22 @@
+{
+    "date": "April 27, 1969",
+    "day": "Sunday",
+    "venue": "Labor Temple",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Me And My Uncle",
+            "Sitting On Top Of The World",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

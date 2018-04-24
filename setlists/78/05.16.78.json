@@ -1,0 +1,36 @@
+{
+    "date": "May 16, 1978",
+    "day": "Tuesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "Mexicali Blues",
+            "Mama Tried",
+            "Peggy-O",
+            "Cassidy",
+            "Row Jimmy",
+            "Passenger",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "El Paso",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

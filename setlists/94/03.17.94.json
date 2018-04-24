@@ -1,0 +1,33 @@
+{
+    "date": "March 17, 1994",
+    "day": "Thursday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Althea",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Lazy River Road",
+            "Eternity"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

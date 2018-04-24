@@ -1,0 +1,36 @@
+{
+    "date": "July 4, 1989",
+    "day": "Tuesday",
+    "venue": "Rich Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Row Jimmy",
+            "When I Paint My Masterpiece",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Morning Dew",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

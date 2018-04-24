@@ -1,0 +1,33 @@
+{
+    "date": "April 13, 1988",
+    "day": "Wednesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "When Push Comes To Shove",
+            "Queen Jane Approximately",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Bertha",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Playin' Reprise",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

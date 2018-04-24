@@ -1,0 +1,40 @@
+{
+    "date": "September 17, 1972",
+    "day": "Sunday",
+    "venue": "Baltimore Civic Center",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Black Throated Wind",
+            "Friend Of The Devil",
+            "El Paso",
+            "Bird Song",
+            "Big River",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Loser",
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "He's Gone",
+            "The Other One",
+            "Sing Me Back Home",
+            "Sugar Magnolia",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

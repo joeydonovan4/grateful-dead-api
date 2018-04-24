@@ -1,0 +1,33 @@
+{
+    "date": "May 24, 1995",
+    "day": "Wednesday",
+    "venue": "Memorial Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Lazy River Road",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Saint Of Circumstance",
+            "Long Way To Go Home",
+            "I Want To Tell You",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

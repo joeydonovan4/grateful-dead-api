@@ -1,0 +1,32 @@
+{
+    "date": "June 18, 1993",
+    "day": "Friday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Row Jimmy",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "All Along The Watchtower",
+            "China Doll",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

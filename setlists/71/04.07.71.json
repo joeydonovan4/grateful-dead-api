@@ -1,0 +1,30 @@
+{
+    "date": "April 7, 1971",
+    "day": "Wednesday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "Casey Jones",
+            "Playin' In The Band",
+            "Loser",
+            "Me And Bobby McGee",
+            "Hard To Handle",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "St. Stephen",
+            "Drums",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Johnny B. Goode"
+        ]
+    }
+}

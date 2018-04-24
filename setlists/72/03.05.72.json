@@ -1,0 +1,35 @@
+{
+    "date": "March 5, 1972",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Black Throated Wind",
+            "Mr. Charlie",
+            "Sugaree",
+            "Greatest Story Ever Told",
+            "Next Time You See Me",
+            "Tennessee Jed",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "You Win Again",
+            "El Paso",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "date": "December 10, 1972",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Bird Song",
+            "El Paso",
+            "Around And Around",
+            "Tennessee Jed",
+            "Big River",
+            "Box Of Rain",
+            "Candyman",
+            "Bertha",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Stella Blue",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "The Other One",
+            "Deal",
+            "Jack Straw",
+            "Sugar Magnolia",
+            "Ramble On Rose",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

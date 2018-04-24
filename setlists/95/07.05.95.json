@@ -1,0 +1,33 @@
+{
+    "date": "July 5, 1995",
+    "day": "Wednesday",
+    "venue": "Riverport Amphitheatre",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "The Same Thing",
+            "Loose Lucy",
+            "Childhood's End",
+            "El Paso",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Corrina",
+            "Rhythm Devils",
+            "Space",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

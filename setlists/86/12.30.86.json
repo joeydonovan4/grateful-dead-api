@@ -1,0 +1,39 @@
+{
+    "date": "December 30, 1986",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Althea",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "My Brother Esau",
+            "When Push Comes To Shove",
+            "Beat It On Down The Line",
+            "Greatest Story Ever Told",
+            "Don't Ease Me In",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Iko Iko",
+            "Man Smart-Woman Smarter",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

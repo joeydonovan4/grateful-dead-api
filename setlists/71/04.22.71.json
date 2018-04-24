@@ -1,0 +1,33 @@
+{
+    "date": "April 22, 1971",
+    "day": "Thursday",
+    "venue": "Bangor Municipal Auditorium",
+    "city": "Bangor",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "Loser",
+            "Playin' In The Band",
+            "Cumberland Blues",
+            "Hard To Handle",
+            "Deal",
+            "Me And Bobby McGee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Greatest Story Ever Told",
+            "Beat It On Down The Line",
+            "Sing Me Back Home",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Johnny B. Goode"
+        ]
+    }
+}

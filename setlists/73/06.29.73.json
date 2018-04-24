@@ -1,0 +1,40 @@
+{
+    "date": "June 29, 1973",
+    "day": "Friday",
+    "venue": "Universal Amphitheatre",
+    "city": "Universal City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "The Race Is On",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Big River",
+            "Row Jimmy",
+            "Loose Lucy",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Deal",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Promised Land",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Morning Dew",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "date": "August 3, 1969",
+    "day": "Sunday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Beat It On Down The Line",
+            "Hi Heeled Sneakers",
+            "High Time",
+            "Mama Tried",
+            "Dark Star",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

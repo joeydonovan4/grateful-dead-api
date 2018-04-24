@@ -1,0 +1,34 @@
+{
+    "date": "June 16, 1993",
+    "day": "Wednesday",
+    "venue": "Freedom Hall",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "The Same Thing",
+            "Peggy-O",
+            "Just Like Tom Thumb's Blues",
+            "Ramble On Rose",
+            "Eternity",
+            "Brown-Eyed Women",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Saint Of Circumstance",
+            "Lazy River Road",
+            "Corrina",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "March 25, 1994",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Wang Dang Doodle",
+            "Althea",
+            "Black Throated Wind",
+            "Ramble On Rose",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Picasso Moon",
+            "Lazy River Road",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Attics Of My Life",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

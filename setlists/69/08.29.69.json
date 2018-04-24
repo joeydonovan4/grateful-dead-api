@@ -1,0 +1,20 @@
+{
+    "date": "August 29, 1969",
+    "day": "Friday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "Sitting On Top Of The World",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Drums",
+            "High Time",
+            "Cold Rain And Snow"
+        ]
+    }
+}

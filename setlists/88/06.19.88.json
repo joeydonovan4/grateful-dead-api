@@ -1,0 +1,33 @@
+{
+    "date": "June 19, 1988",
+    "day": "Sunday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Good Time Blues",
+            "Ramble On Rose",
+            "Little Red Rooster",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

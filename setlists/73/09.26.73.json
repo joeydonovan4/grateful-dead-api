@@ -1,0 +1,42 @@
+{
+    "date": "September 26, 1973",
+    "day": "Wednesday",
+    "venue": "War Memorial Auditorium",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Beat It On Down The Line",
+            "Deal",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Loser",
+            "Big River",
+            "Brown-Eyed Women",
+            "The Race Is On",
+            "Row Jimmy",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Sing Me Back Home",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "Eyes Of The World",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

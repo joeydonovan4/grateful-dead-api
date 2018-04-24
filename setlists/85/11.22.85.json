@@ -1,0 +1,31 @@
+{
+    "date": "November 22, 1985",
+    "day": "Friday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Althea",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "date": "March 26, 1973",
+    "day": "Monday",
+    "venue": "Baltimore Civic Center",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "The Race Is On",
+            "Wave That Flag",
+            "Jack Straw",
+            "Sugaree",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Big River",
+            "Here Comes Sunshine",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "WRS Prelude",
+            "Wharf Rat",
+            "Me And Bobby McGee",
+            "Eyes Of The World",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

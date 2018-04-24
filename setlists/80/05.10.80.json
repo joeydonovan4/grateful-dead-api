@@ -1,0 +1,38 @@
+{
+    "date": "May 10, 1980",
+    "day": "Saturday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Mexicali Blues",
+            "El Paso",
+            "Althea",
+            "Passenger",
+            "Far From Me",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Feel Like A Stranger",
+            "Comes A Time",
+            "Estimated Prophet",
+            "He's Gone",
+            "Uncle John's Band",
+            "Drums",
+            "Not Fade Away",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway",
+            "One More Saturday Night"
+        ]
+    }
+}

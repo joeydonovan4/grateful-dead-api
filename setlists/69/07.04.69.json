@@ -1,0 +1,29 @@
+{
+    "date": "July 4, 1969",
+    "day": "Friday",
+    "venue": "Electric Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Mama Tried",
+            "Slewfoot",
+            "Silver Threads And Golden Needles",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "High Time",
+            "Casey Jones",
+            "King Bee",
+            "Sitting On Top Of The World",
+            "Me And My Uncle",
+            "Doin' That Rag",
+            "Let Me In",
+            "Dire Wolf",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ]
+    }
+}

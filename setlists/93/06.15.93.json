@@ -1,0 +1,31 @@
+{
+    "date": "June 15, 1993",
+    "day": "Tuesday",
+    "venue": "Freedom Hall",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Althea",
+            "Wang Dang Doodle",
+            "Friend Of The Devil",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Spoonful",
+            "He's Gone",
+            "Drums",
+            "The Last Time",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

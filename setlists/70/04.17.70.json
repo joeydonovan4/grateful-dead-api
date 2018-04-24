@@ -1,0 +1,26 @@
+{
+    "date": "April 17, 1970",
+    "day": "Friday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Long Black Limousine",
+            "Monkey And The Engineer",
+            "Deep Elem Blues",
+            "Candyman",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "Mama Tried",
+            "Cathy's Clown",
+            "Wake Up Little Susie",
+            "New Speedway Boogie",
+            "Friend Of The Devil",
+            "Black Peter",
+            "Uncle John's Band"
+        ]
+    }
+}

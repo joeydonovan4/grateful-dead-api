@@ -1,0 +1,26 @@
+{
+    "date": "December 20, 1969",
+    "day": "Saturday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mason's Children",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Cumberland Blues",
+            "Black Peter"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "New Speedway Boogie"
+        ]
+    }
+}

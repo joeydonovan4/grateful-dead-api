@@ -1,0 +1,36 @@
+{
+    "date": "April 14, 1982",
+    "day": "Wednesday",
+    "venue": "Glens Falls Civic Center",
+    "city": "Glens Falls",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Deep Elem Blues",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Bertha"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Playin' In The Band",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

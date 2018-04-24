@@ -1,0 +1,35 @@
+{
+    "date": "July 29, 1982",
+    "day": "Thursday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Loser",
+            "Feel Like A Stranger",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "I Need A Miracle",
+            "Drums",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

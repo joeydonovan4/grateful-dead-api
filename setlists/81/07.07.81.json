@@ -1,0 +1,38 @@
+{
+    "date": "July 7, 1981",
+    "day": "Tuesday",
+    "venue": "Kansas City Municipal Auditorium",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Bertha",
+            "Dancin' In The Streets",
+            "Big Railroad Blues",
+            "El Paso",
+            "To Lay Me Down",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Bird Song",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Candyman",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Black Peter",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

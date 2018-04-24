@@ -1,0 +1,13 @@
+{
+    "date": "June 10, 1970",
+    "day": "Wednesday",
+    "venue": "Diamond Head Crater",
+    "city": "Oahu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

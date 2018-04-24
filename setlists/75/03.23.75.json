@@ -1,0 +1,20 @@
+{
+    "date": "March 23, 1975",
+    "day": "Sunday",
+    "venue": "Kezar Stadium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Blues For Allah",
+            "Stronger Than Dirt",
+            "Drums",
+            "Stronger Than Dirt",
+            "Blues For Allah"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

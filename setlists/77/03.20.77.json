@@ -1,0 +1,35 @@
+{
+    "date": "March 20, 1977",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "El Paso",
+            "Deal",
+            "Cassidy",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "Scarlet Begonias"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Row Jimmy",
+            "Promised Land",
+            "St. Stephen",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Terrapin Station"
+        ]
+    }
+}

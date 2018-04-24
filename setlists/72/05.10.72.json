@@ -1,0 +1,46 @@
+{
+    "date": "May 10, 1972",
+    "day": "Wednesday",
+    "venue": "Concertgebouw",
+    "city": "Amsterdam",
+    "state": "N/A",
+    "country": "NED",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Next Time You See Me",
+            "Loser",
+            "Jack Straw",
+            "He's Gone",
+            "Chinatown Shuffle",
+            "Playin' In The Band",
+            "Big Railroad Blues",
+            "Big Boss Man",
+            "Greatest Story Ever Told",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Bobby McGee",
+            "The Other One",
+            "Wharf Rat",
+            "Beat It On Down The Line",
+            "Two Souls In Communion",
+            "Ramble On Rose",
+            "Sing Me Back Home",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

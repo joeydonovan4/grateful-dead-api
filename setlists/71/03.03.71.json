@@ -1,0 +1,34 @@
+{
+    "date": "March 3, 1971",
+    "day": "Wednesday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Hard To Handle",
+            "Playin' In The Band",
+            "Loser",
+            "Me And Bobby McGee",
+            "Next Time You See Me",
+            "Beat It On Down The Line",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "I'm A King Bee",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Good Lovin'"
+        ]
+    }
+}

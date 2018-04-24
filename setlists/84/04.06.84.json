@@ -1,0 +1,35 @@
+{
+    "date": "April 6, 1984",
+    "day": "Friday",
+    "venue": "Aladdin Theater",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Hell In A Bucket",
+            "Ramble On Rose",
+            "The Music Never Stopped",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Eyes Of The World",
+            "Truckin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

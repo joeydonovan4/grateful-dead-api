@@ -1,0 +1,35 @@
+{
+    "date": "March 27, 1991",
+    "day": "Wednesday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Mama Tried",
+            "Maggie's Farm",
+            "Loose Lucy",
+            "Picasso Moon",
+            "Rubin And Cherise"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

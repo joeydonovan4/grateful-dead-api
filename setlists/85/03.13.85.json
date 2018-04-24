@@ -1,0 +1,33 @@
+{
+    "date": "March 13, 1985",
+    "day": "Wednesday",
+    "venue": "Berkeley Community Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "The Music Never Stopped",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Spoonful",
+            "Drums",
+            "Ollin Arrageed",
+            "Man Smart-Woman Smarter",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

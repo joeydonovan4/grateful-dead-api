@@ -1,0 +1,37 @@
+{
+    "date": "March 26, 1983",
+    "day": "Saturday",
+    "venue": "Aladdin Theater",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "My Brother Esau",
+            "Deal",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "The Other One",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

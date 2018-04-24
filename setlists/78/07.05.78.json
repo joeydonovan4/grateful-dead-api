@@ -1,0 +1,38 @@
+{
+    "date": "July 5, 1978",
+    "day": "Wednesday",
+    "venue": "Omaha Auditorium",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Beat It On Down The Line",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Deal",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Jam",
+            "Drums",
+            "Space",
+            "Wharf Rat",
+            "Truckin'",
+            "Iko Iko",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Promised Land"
+        ]
+    }
+}

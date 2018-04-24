@@ -1,0 +1,46 @@
+{
+    "date": "February 23, 1974",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Around And Around",
+            "Dire Wolf",
+            "Me And Bobby McGee",
+            "Sugaree",
+            "Mexicali Blues",
+            "Here Comes Sunshine",
+            "Beat It On Down The Line",
+            "Ship Of Fools",
+            "Jack Straw",
+            "Deal",
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told"
+        ],
+        "setTwo": [
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Stella Blue",
+            "Big River",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Eyes Of The World",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones",
+            "Johnny B. Goode",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

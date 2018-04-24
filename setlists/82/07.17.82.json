@@ -1,0 +1,35 @@
+{
+    "date": "July 17, 1982",
+    "day": "Saturday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Truckin'"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

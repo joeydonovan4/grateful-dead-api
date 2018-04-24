@@ -1,0 +1,32 @@
+{
+    "date": "June 28, 1986",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Ramble On Rose",
+            "C.C. Rider",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "China Doll",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Baby Blue"
+        ]
+    }
+}

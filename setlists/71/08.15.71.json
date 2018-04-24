@@ -1,0 +1,36 @@
+{
+    "date": "August 15, 1971",
+    "day": "Sunday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Cumberland Blues",
+            "Sugaree",
+            "Promised Land",
+            "Big Boss Man",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And Bobby McGee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

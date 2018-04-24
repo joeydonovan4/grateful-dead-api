@@ -1,0 +1,33 @@
+{
+    "date": "October 19, 1994",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Bertha",
+            "Spoonful",
+            "Jack-A-Roe",
+            "El Paso",
+            "If The Shoe Fits",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "So Many Roads",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Long Way To Go Home",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

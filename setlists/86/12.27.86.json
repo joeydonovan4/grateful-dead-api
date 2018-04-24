@@ -1,0 +1,35 @@
+{
+    "date": "December 27, 1986",
+    "day": "Saturday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Playin' In The Band",
+            "Bertha",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Little Red Rooster",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "The Mighty Quinn",
+            "Dancin' In The Streets",
+            "Black Muddy River",
+            "Playin' In The Band",
+            "I Need A Miracle",
+            "Drums",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Comes A Time",
+            "Around And Around",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "When Push Comes To Shove"
+        ]
+    }
+}

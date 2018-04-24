@@ -1,0 +1,32 @@
+{
+    "date": "January 12, 1979",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "El Paso",
+            "Tennessee Jed",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

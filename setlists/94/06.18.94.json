@@ -1,0 +1,35 @@
+{
+    "date": "June 18, 1994",
+    "day": "Saturday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "It's All Over Now",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Candyman",
+            "Easy Answers"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "The Days Between",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

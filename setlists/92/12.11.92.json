@@ -1,0 +1,33 @@
+{
+    "date": "December 11, 1992",
+    "day": "Friday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Stagger Lee",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Eyes Of The World",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

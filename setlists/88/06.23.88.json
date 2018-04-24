@@ -1,0 +1,36 @@
+{
+    "date": "June 23, 1988",
+    "day": "Thursday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Stagger Lee",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Hey Pocky Way",
+            "Believe It Or Not",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Blackbird",
+            "Brokedown Palace"
+        ]
+    }
+}

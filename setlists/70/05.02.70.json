@@ -1,0 +1,44 @@
+{
+    "date": "May 2, 1970",
+    "day": "Saturday",
+    "venue": "Harpur College",
+    "city": "Binghamton",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "I Know You Rider",
+            "Friend Of The Devil",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "Black Peter",
+            "Candyman",
+            "Cumberland Blues",
+            "Deep Elem Blues",
+            "Cold Jordan",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Casey Jones",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cold Rain And Snow",
+            "It's A Man's World",
+            "Dancin' In The Streets"
+        ],
+        "setThree": [
+            "Morning Dew",
+            "Viola Lee Blues",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

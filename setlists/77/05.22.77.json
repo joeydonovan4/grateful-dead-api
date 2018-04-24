@@ -1,0 +1,39 @@
+{
+    "date": "May 22, 1977",
+    "day": "Sunday",
+    "venue": "The Sportatorium",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "El Paso",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Ramble On Rose",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Good Lovin'",
+            "Sunrise",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Terrapin Station",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

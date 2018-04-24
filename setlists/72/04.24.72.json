@@ -1,0 +1,41 @@
+{
+    "date": "April 24, 1972",
+    "day": "Monday",
+    "venue": "Rheinhalle",
+    "city": "Dusseldorf",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Tennessee Jed",
+            "Chinatown Shuffle",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Loser",
+            "Playin' In The Band",
+            "Next Time You See Me",
+            "Me And Bobby McGee",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "It Hurts Me Too",
+            "El Paso",
+            "Dark Star",
+            "Me And My Uncle",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

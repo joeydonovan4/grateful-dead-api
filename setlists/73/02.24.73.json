@@ -1,0 +1,40 @@
+{
+    "date": "February 24, 1973",
+    "day": "Saturday",
+    "venue": "Fieldhouse",
+    "city": "Iowa City",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Loose Lucy",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Here Comes Sunshine",
+            "El Paso",
+            "Box Of Rain",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "They Love Each Other",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "Big River",
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Truckin'",
+            "Nobody's Jam",
+            "Eyes Of The World"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "October 30, 1977",
+    "day": "Sunday",
+    "venue": "Assembly Hall",
+    "city": "Bloomington",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Passenger",
+            "Candyman",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Peggy-O",
+            "Playin' In The Band",
+            "The Other One",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

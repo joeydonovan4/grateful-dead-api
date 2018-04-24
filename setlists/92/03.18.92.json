@@ -1,0 +1,34 @@
+{
+    "date": "March 18, 1992",
+    "day": "Wednesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Jack-A-Roe",
+            "Baby Blue",
+            "Row Jimmy",
+            "Picasso Moon",
+            "Deal"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Corrina",
+            "Playin' Reprise",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Wave To The Wind",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

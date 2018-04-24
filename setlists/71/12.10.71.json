@@ -1,0 +1,45 @@
+{
+    "date": "December 10, 1971",
+    "day": "Friday",
+    "venue": "Fox Theatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "Loser",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Jack Straw",
+            "Next Time You See Me",
+            "El Paso",
+            "Tennessee Jed",
+            "Big Railroad Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Brokedown Palace",
+            "Playin' In The Band",
+            "Run Rudolph Run",
+            "Deal",
+            "Sugar Magnolia",
+            "Comes A Time",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Sitting On Top Of The World",
+            "The Other One",
+            "Not Fade Away",
+            "China Cat Sunflower Jam",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

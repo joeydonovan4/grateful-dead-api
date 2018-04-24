@@ -1,0 +1,45 @@
+{
+    "date": "November 20, 1970",
+    "day": "Friday",
+    "venue": "The Palestra",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Next Time You See Me",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Sugar Magnolia",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Drums",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cumberland Blues",
+            "Candyman",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "I'm A King Bee",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "It's All Over Now",
+            "Jam",
+            "Around And Around",
+            "Jam",
+            "Darlin Corey",
+            "Jam",
+            "Jam",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "November 16, 1985",
+    "day": "Saturday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "El Paso",
+            "Dupree's Diamond Blues",
+            "Little Red Rooster",
+            "West LA Fadeaway",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Tennessee Jed",
+            "Cumberland Blues",
+            "I Need A Miracle",
+            "Crazy Fingers",
+            "Drums",
+            "Comes A Time",
+            "Gimme Some Lovin'",
+            "Truckin'",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

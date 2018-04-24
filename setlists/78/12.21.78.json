@@ -1,0 +1,38 @@
+{
+    "date": "December 21, 1978",
+    "day": "Thursday",
+    "venue": "The Summit",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "Cassidy",
+            "Stagger Lee",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Passenger",
+            "Peggy-O",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

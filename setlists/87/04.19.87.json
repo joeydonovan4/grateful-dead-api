@@ -1,0 +1,37 @@
+{
+    "date": "April 19, 1987",
+    "day": "Sunday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Tons Of Steel",
+            "Box Of Rain",
+            "Cassidy",
+            "Alabama Getaway",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Black Muddy River",
+            "I Need A Miracle",
+            "Cumberland Blues",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Brokedown Palace"
+        ]
+    }
+}

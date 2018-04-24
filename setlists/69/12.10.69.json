@@ -1,0 +1,26 @@
+{
+    "date": "December 10, 1969",
+    "day": "Wednesday",
+    "venue": "Thelma Theater",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Peter",
+            "Me And My Uncle",
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "High Time",
+            "Easy Wind",
+            "Dire Wolf",
+            "Casey Jones",
+            "Good Morning Little School Girl",
+            "Morning Dew",
+            "Black Queen",
+            "Turn On Your Love Light"
+        ]
+    }
+}

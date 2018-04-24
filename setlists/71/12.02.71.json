@@ -1,0 +1,40 @@
+{
+    "date": "December 2, 1971",
+    "day": "Thursday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Black Peter",
+            "Next Time You See Me",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Smokestack Lightning",
+            "Big Railroad Blues",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Deal",
+            "El Paso",
+            "Brokedown Palace",
+            "Uncle John's Band",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

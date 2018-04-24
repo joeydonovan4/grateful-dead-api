@@ -1,0 +1,35 @@
+{
+    "date": "April 21, 1986",
+    "day": "Monday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "El Paso",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Cumberland Blues",
+            "Desolation Row",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Maybe You Know How I Feel",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew",
+            "Around And Around",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Don't Ease Me In"
+        ]
+    }
+}

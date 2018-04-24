@@ -1,0 +1,35 @@
+{
+    "date": "October 26, 1971",
+    "day": "Tuesday",
+    "venue": "The Palestra",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Sugaree",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Big Railroad Blues",
+            "Me And Bobby McGee",
+            "Cumberland Blues",
+            "Cold Rain And Snow",
+            "Mexicali Blues",
+            "Loser",
+            "Beat It On Down The Line",
+            "El Paso",
+            "Comes A Time",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "date": "October 30, 1980",
+    "day": "Thursday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "Dark Hollow",
+            "Been All Around This World",
+            "On The Road Again",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "New Minglewood Blues",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setThree": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

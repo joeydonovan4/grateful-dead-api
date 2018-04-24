@@ -1,0 +1,48 @@
+{
+    "date": "May 19, 1974",
+    "day": "Sunday",
+    "venue": "Portland Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Black Throated Wind",
+            "Scarlet Begonias",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Me And Bobby McGee",
+            "Sugaree",
+            "Jack Straw",
+            "It Must Have Been The Roses",
+            "El Paso",
+            "Loose Lucy",
+            "Money Money",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Wharf Rat",
+            "Big River",
+            "Peggy-O",
+            "Truckin'",
+            "Heaven Help Jam",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

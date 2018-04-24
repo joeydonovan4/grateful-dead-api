@@ -1,0 +1,36 @@
+{
+    "date": "December 27, 1978",
+    "day": "Wednesday",
+    "venue": "Golden Hall",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

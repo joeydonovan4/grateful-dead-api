@@ -1,0 +1,36 @@
+{
+    "date": "February 5, 1978",
+    "day": "Sunday",
+    "venue": "UNI-Dome",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Jack Straw",
+            "Good Lovin'",
+            "El Paso",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

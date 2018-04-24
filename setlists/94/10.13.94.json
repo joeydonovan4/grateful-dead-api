@@ -1,0 +1,35 @@
+{
+    "date": "October 13, 1994",
+    "day": "Thursday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Loser",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Dupree's Diamond Blues",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

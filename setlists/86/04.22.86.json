@@ -1,0 +1,33 @@
+{
+    "date": "April 22, 1986",
+    "day": "Tuesday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Box Of Rain",
+            "Visions Of Johanna",
+            "Mama Tried",
+            "Big River",
+            "Bird Song",
+            "Little Red Rooster",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Spoonful",
+            "Throwin' Stones",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

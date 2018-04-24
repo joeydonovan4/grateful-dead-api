@@ -1,0 +1,35 @@
+{
+    "date": "March 27, 1988",
+    "day": "Sunday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Ballad Of A Thin Man",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "To Lay Me Down",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

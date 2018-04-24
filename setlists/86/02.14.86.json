@@ -1,0 +1,33 @@
+{
+    "date": "February 14, 1986",
+    "day": "Friday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Big River",
+            "West LA Fadeaway",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Keep On Growing",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

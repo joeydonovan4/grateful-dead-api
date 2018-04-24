@@ -1,0 +1,37 @@
+{
+    "date": "April 4, 1985",
+    "day": "Thursday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Jack Straw",
+            "Dire Wolf",
+            "El Paso",
+            "She Belongs To Me",
+            "My Brother Esau",
+            "Friend Of The Devil",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Crazy Fingers",
+            "Samson And Delilah",
+            "He's Gone",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "The Wheel",
+            "Black Peter",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "June 22, 1993",
+    "day": "Tuesday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Wang Dang Doodle",
+            "High Time",
+            "It's All Over Now",
+            "Just Like Tom Thumb's Blues",
+            "Tennessee Jed",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "The Days Between",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

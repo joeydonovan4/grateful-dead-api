@@ -1,0 +1,42 @@
+{
+    "date": "August 12, 1972",
+    "day": "Saturday",
+    "venue": "Sacramento Memorial Auditorium",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Me And My Uncle",
+            "Bird Song",
+            "Black Throated Wind",
+            "Deal",
+            "El Paso",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Big Railroad Blues",
+            "Cumberland Blues",
+            "Stella Blue",
+            "Jack Straw",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "The Other One",
+            "Truckin'",
+            "Mississippi Half-Step",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

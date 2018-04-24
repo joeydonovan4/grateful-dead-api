@@ -1,0 +1,13 @@
+{
+    "date": "April 12, 1967",
+    "day": "Wednesday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Golden Road To Unlimited Devotion"
+        ]
+    }
+}

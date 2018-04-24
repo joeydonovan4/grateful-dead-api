@@ -1,0 +1,20 @@
+{
+    "date": "December 15, 1970",
+    "day": "Tuesday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Drop Down Mama",
+            "Cowboy Movie",
+            "Triad",
+            "Wall Song",
+            "Bertha",
+            "Deep Elem Blues",
+            "Motherless Children",
+            "Laughing"
+        ]
+    }
+}

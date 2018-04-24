@@ -1,0 +1,35 @@
+{
+    "date": "August 4, 1982",
+    "day": "Wednesday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Good Time Blues",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

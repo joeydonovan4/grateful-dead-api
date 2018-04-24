@@ -1,0 +1,13 @@
+{
+    "date": "September 10, 1968",
+    "day": "Tuesday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "St. Stephen"
+        ]
+    }
+}

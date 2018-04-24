@@ -1,0 +1,37 @@
+{
+    "date": "September 4, 1983",
+    "day": "Sunday",
+    "venue": "Park West Ski Resort",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Althea",
+            "Hell In A Bucket",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Spanish Jam",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

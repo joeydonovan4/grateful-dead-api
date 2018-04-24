@@ -1,0 +1,33 @@
+{
+    "date": "November 28, 1980",
+    "day": "Friday",
+    "venue": "Lakeland Civic Center",
+    "city": "Lakeland",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Passenger",
+            "Deep Elem Blues",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "To Lay Me Down",
+            "Let It Grow",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

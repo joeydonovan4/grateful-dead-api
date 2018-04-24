@@ -1,0 +1,29 @@
+{
+    "date": "February 8, 1970",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Smokestack Lightning",
+            "Morning Dew",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Sitting On Top Of The World",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "It Hurts Me Too",
+            "Seasons",
+            "The Race Is On",
+            "Big Boss Man",
+            "Black Peter",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ]
+    }
+}

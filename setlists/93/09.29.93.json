@@ -1,0 +1,33 @@
+{
+    "date": "September 29, 1993",
+    "day": "Wednesday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "The Same Thing",
+            "Loose Lucy",
+            "Black Throated Wind",
+            "Dire Wolf",
+            "Eternity",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Long Way To Go Home",
+            "Terrapin Station",
+            "Drums",
+            "Playin' Reprise",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

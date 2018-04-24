@@ -1,0 +1,41 @@
+{
+    "date": "July 25, 1974",
+    "day": "Thursday",
+    "venue": "International Amphitheatre",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Loose Lucy",
+            "Black Throated Wind",
+            "Loser",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Jack Straw",
+            "Dark Star",
+            "Stella Blue",
+            "Johnny B. Goode",
+            "Uncle John's Band",
+            "U.S. Blues",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Ship Of Fools"
+        ]
+    }
+}

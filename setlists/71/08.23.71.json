@@ -1,0 +1,37 @@
+{
+    "date": "August 23, 1971",
+    "day": "Monday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Uncle John's Band",
+            "Sugaree",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Loser",
+            "El Paso",
+            "It Hurts Me Too",
+            "Cumberland Blues",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Sing Me Back Home",
+            "Truckin'",
+            "Big Railroad Blues",
+            "Me And Bobby McGee",
+            "Brokedown Palace",
+            "Big Boss Man",
+            "Sugar Magnolia"
+        ]
+    }
+}

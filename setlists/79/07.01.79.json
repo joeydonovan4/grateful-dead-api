@@ -1,0 +1,36 @@
+{
+    "date": "July 1, 1979",
+    "day": "Sunday",
+    "venue": "Seattle Center Coliseum",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Passenger"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Samson And Delilah",
+            "Sugaree",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "Shakedown Street"
+        ]
+    }
+}

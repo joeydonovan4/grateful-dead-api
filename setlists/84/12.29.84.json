@@ -1,0 +1,31 @@
+{
+    "date": "December 29, 1984",
+    "day": "Saturday",
+    "venue": "San Francisco Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Friend Of The Devil",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Cassidy",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

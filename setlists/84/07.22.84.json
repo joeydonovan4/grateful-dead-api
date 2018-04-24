@@ -1,0 +1,35 @@
+{
+    "date": "July 22, 1984",
+    "day": "Sunday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Bertha",
+            "My Brother Esau",
+            "Loser",
+            "Cassidy",
+            "Ramble On Rose",
+            "Hell In A Bucket",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "I Just Wanna Make Love To You",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "In The Midnight Hour"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

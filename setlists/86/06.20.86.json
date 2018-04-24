@@ -1,0 +1,33 @@
+{
+    "date": "June 20, 1986",
+    "day": "Friday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Midnight Hour",
+            "Mississippi Half-Step",
+            "El Paso",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

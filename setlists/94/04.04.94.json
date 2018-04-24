@@ -1,0 +1,35 @@
+{
+    "date": "April 4, 1994",
+    "day": "Monday",
+    "venue": "Orlando Arena",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Truckin'",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

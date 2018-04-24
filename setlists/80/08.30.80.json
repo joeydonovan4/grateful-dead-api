@@ -1,0 +1,37 @@
+{
+    "date": "August 30, 1980",
+    "day": "Saturday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Cassidy",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Cold Rain And Snow",
+            "Looks Like Rain",
+            "Easy To Love You",
+            "Althea",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

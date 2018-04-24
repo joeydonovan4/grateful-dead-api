@@ -1,0 +1,25 @@
+{
+    "date": "November 2, 1969",
+    "day": "Sunday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "In The Midnight Hour",
+            "Seasons",
+            "Mama Tried",
+            "Next Time You See Me",
+            "Good Lovin'",
+            "Big Boss Man",
+            "Casey Jones",
+            "Dancin' In The Streets",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy"
+        ]
+    }
+}

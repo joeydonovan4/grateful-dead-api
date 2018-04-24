@@ -1,0 +1,33 @@
+{
+    "date": "September 24, 1993",
+    "day": "Friday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Jack-A-Roe",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Long Way To Go Home",
+            "He's Gone",
+            "Drums",
+            "The Last Time",
+            "The Days Between",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

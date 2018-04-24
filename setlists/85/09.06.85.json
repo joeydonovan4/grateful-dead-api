@@ -1,0 +1,32 @@
+{
+    "date": "September 6, 1985",
+    "day": "Friday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "It's All Over Now",
+            "Bird Song",
+            "El Paso",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "The Wheel",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "date": "February 12, 1967",
+    "day": "Sunday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Hi Heeled Sneakers"
+        ]
+    }
+}

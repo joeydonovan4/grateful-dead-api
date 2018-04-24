@@ -1,0 +1,42 @@
+{
+    "date": "December 19, 1973",
+    "day": "Wednesday",
+    "venue": "Curtis Hixon Convention Hall",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Sugar Shack",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "Candyman",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Big River",
+            "Here Comes Sunshine",
+            "El Paso",
+            "Ramble On Rose",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Me And Bobby McGee",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "He's Gone",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

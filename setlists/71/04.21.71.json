@@ -1,0 +1,36 @@
+{
+    "date": "April 21, 1971",
+    "day": "Wednesday",
+    "venue": "Rhode Island Auditorium",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Mama Tried",
+            "Big Boss Man",
+            "Loser",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Hard To Handle",
+            "Cumberland Blues",
+            "Bird Song",
+            "Me And Bobby McGee"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Sugar Magnolia",
+            "Good Lovin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "Johnny B. Goode"
+        ]
+    }
+}

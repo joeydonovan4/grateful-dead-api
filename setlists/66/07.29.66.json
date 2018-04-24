@@ -1,0 +1,21 @@
+{
+    "date": "July 29, 1966",
+    "day": "Friday",
+    "venue": "PNE Garden Auditorium",
+    "city": "Vancouver",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Cold Rain And Snow",
+            "King Bee",
+            "One Kind Favor",
+            "You Don't Have To Ask",
+            "Hey Little One",
+            "Bring It On Down The Line",
+            "Good Morning Little School Girl",
+            "New Minglewood Blues"
+        ]
+    }
+}

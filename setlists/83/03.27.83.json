@@ -1,0 +1,34 @@
+{
+    "date": "March 27, 1983",
+    "day": "Sunday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Cassidy",
+            "Loser",
+            "My Brother Esau",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

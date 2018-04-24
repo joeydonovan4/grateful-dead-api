@@ -1,0 +1,34 @@
+{
+    "date": "September 8, 1988",
+    "day": "Thursday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Shakedown Street",
+            "Walkin' Blues",
+            "To Lay Me Down",
+            "It's All Over Now",
+            "Loser",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Crazy Fingers",
+            "Truckin'",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

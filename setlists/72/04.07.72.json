@@ -1,0 +1,41 @@
+{
+    "date": "April 7, 1972",
+    "day": "Friday",
+    "venue": "Empire Pool",
+    "city": "Wembley",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Sugaree",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big Boss Man",
+            "Black Throated Wind",
+            "Loser",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "El Paso",
+            "The Other One",
+            "Wharf Rat",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

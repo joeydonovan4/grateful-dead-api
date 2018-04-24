@@ -1,0 +1,30 @@
+{
+    "date": "December 15, 1971",
+    "day": "Wednesday",
+    "venue": "Hill Auditorium",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And Bobby McGee",
+            "Mr. Charlie",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "It Hurts Me Too",
+            "Cumberland Blues",
+            "Jack Straw",
+            "You Win Again",
+            "Run Rudolph Run",
+            "Playin' In The Band",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Brokedown Palace",
+            "El Paso",
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "June 25, 1995",
+    "day": "Sunday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Wang Dang Doodle",
+            "Jack-A-Roe",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loose Lucy",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Rain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Truckin'",
+            "Rollin' And Tumblin'",
+            "Samba In The Rain",
+            "Drums",
+            "Space",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

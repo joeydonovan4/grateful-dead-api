@@ -1,0 +1,35 @@
+{
+    "date": "November 4, 1985",
+    "day": "Monday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "It Must Have Been The Roses",
+            "El Paso",
+            "West LA Fadeaway",
+            "New Minglewood Blues",
+            "Big Railroad Blues",
+            "The Music Never Stopped",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

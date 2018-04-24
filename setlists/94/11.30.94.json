@@ -1,0 +1,36 @@
+{
+    "date": "November 30, 1994",
+    "day": "Wednesday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Lazy River Road",
+            "Me And My Uncle",
+            "Big River",
+            "Loose Lucy",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Samba In The Rain",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

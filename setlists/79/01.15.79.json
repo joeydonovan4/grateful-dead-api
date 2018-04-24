@@ -1,0 +1,34 @@
+{
+    "date": "January 15, 1979",
+    "day": "Monday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Cassidy",
+            "Row Jimmy",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Stagger Lee",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Shakedown Street",
+            "From The Heart Of Me",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

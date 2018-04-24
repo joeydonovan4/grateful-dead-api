@@ -1,0 +1,13 @@
+{
+    "date": "August 29, 1970",
+    "day": "Saturday",
+    "venue": "The Club",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

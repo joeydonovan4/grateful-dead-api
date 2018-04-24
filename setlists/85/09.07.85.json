@@ -1,0 +1,38 @@
+{
+    "date": "September 7, 1985",
+    "day": "Saturday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Frozen Logger",
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Loser",
+            "Dupree's Diamond Blues",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Crazy Fingers",
+            "Samson And Delilah",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Dear Mr. Fantasy",
+            "Truckin'",
+            "Comes A Time",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Baby Blue"
+        ]
+    }
+}

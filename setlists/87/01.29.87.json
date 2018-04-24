@@ -1,0 +1,35 @@
+{
+    "date": "January 29, 1987",
+    "day": "Thursday",
+    "venue": "San Francisco Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Funiculi Funicula",
+            "Hell In A Bucket",
+            "Sugaree",
+            "El Paso",
+            "Loser",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

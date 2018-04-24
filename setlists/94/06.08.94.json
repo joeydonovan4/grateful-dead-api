@@ -1,0 +1,35 @@
+{
+    "date": "June 8, 1994",
+    "day": "Wednesday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Samba In The Rain",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

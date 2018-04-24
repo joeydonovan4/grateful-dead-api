@@ -1,0 +1,37 @@
+{
+    "date": "April 9, 1988",
+    "day": "Saturday",
+    "venue": "Worcester Centrum",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "Walkin' Blues",
+            "Far From Me",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "When I Paint My Masterpiece",
+            "Deal"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Iko Iko",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

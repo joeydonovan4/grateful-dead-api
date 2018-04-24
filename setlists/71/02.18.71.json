@@ -1,0 +1,37 @@
+{
+    "date": "February 18, 1971",
+    "day": "Thursday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Truckin'",
+            "It Hurts Me Too",
+            "Loser",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Mama Tried",
+            "Hard To Handle",
+            "Dark Star",
+            "Wharf Rat",
+            "Dark Star",
+            "Me And My Uncle"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Playin' In The Band",
+            "Me And Bobby McGee",
+            "Candyman",
+            "Big Boss Man",
+            "Sugar Magnolia",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Uncle John's Band"
+        ]
+    }
+}

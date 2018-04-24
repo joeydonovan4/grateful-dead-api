@@ -1,0 +1,39 @@
+{
+    "date": "May 11, 1977",
+    "day": "Wednesday",
+    "venue": "St. Paul Civic Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Big River",
+            "Loser",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "Jack Straw",
+            "Peggy-O",
+            "El Paso",
+            "Deal",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Sugaree"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "Uncle John's Band",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

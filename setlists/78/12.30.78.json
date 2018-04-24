@@ -1,0 +1,42 @@
+{
+    "date": "December 30, 1978",
+    "day": "Saturday",
+    "venue": "Pauley Pavilion",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Passenger",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Sugaree",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Shakedown Street",
+            "Drums",
+            "Ollin Arrageed",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

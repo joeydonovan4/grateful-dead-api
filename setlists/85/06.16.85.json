@@ -1,0 +1,36 @@
+{
+    "date": "June 16, 1985",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "In The Midnight Hour",
+            "Bertha",
+            "Walkin' Blues",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Mississippi Half-Step",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

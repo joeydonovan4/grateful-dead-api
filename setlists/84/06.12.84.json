@@ -1,0 +1,36 @@
+{
+    "date": "June 12, 1984",
+    "day": "Tuesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

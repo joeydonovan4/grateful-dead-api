@@ -1,0 +1,37 @@
+{
+    "date": "December 11, 1979",
+    "day": "Tuesday",
+    "venue": "Soldiers' and Sailors' Memorial Hall",
+    "city": "Kansas City",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Loser",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Easy To Love You",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Terrapin Station",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Alabama Getaway",
+            "Promised Land"
+        ]
+    }
+}

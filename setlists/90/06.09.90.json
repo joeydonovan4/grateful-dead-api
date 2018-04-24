@@ -1,0 +1,37 @@
+{
+    "date": "June 9, 1990",
+    "day": "Saturday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Loser",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

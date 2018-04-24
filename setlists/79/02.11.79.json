@@ -1,0 +1,37 @@
+{
+    "date": "February 11, 1979",
+    "day": "Sunday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "From The Heart Of Me",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

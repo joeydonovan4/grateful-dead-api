@@ -1,0 +1,35 @@
+{
+    "date": "June 20, 1991",
+    "day": "Thursday",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Throwin' Stones",
+            "Iko Iko",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Throwin' Stones Reprise",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

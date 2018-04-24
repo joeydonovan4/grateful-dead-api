@@ -1,0 +1,36 @@
+{
+    "date": "June 18, 1983",
+    "day": "Saturday",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Bird Song",
+            "Mexicali Blues",
+            "Big River",
+            "Althea",
+            "Hell In A Bucket",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Don't Ease Me In",
+            "One More Saturday Night"
+        ]
+    }
+}

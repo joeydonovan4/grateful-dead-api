@@ -1,0 +1,35 @@
+{
+    "date": "June 19, 1995",
+    "day": "Monday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Good Morning Little School Girl",
+            "Ramble On Rose",
+            "It's All Over Now",
+            "Lazy River Road",
+            "Me And My Uncle",
+            "Big River",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Unbroken Chain",
+            "Samba In The Rain",
+            "Corrina",
+            "Matilda Matilda",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

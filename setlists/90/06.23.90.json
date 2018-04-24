@@ -1,0 +1,36 @@
+{
+    "date": "June 23, 1990",
+    "day": "Saturday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Far From Me",
+            "They Love Each Other",
+            "Cassidy",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "November 2, 1984",
+    "day": "Friday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "El Paso",
+            "Loser",
+            "Smokestack Lightning",
+            "Spoonful",
+            "Smokestack Lightning",
+            "Iko Iko"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Wharf Rat",
+            "Gimme Some Lovin'",
+            "Drums",
+            "Playin' In The Band",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

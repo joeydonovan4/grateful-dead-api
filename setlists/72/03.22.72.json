@@ -1,0 +1,45 @@
+{
+    "date": "March 22, 1972",
+    "day": "Wednesday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Deal",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Two Souls In Communion",
+            "Me And Bobby McGee",
+            "Loser",
+            "Big Boss Man",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Looks Like Rain",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Sugaree",
+            "Chinatown Shuffle",
+            "Playin' In The Band",
+            "It Hurts Me Too",
+            "Brown-Eyed Women",
+            "El Paso",
+            "Brokedown Palace",
+            "Sugar Magnolia",
+            "Caution (Do Not Stop On Tracks)",
+            "Jam",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "date": "October 7, 1966",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Stealin",
+            "Don't Ease Me In",
+            "Cold Rain And Snow",
+            "Cream Puff War",
+            "Walkin' Blues"
+        ]
+    }
+}

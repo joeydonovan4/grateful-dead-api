@@ -1,0 +1,37 @@
+{
+    "date": "June 24, 1970",
+    "day": "Wednesday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Don't Ease Me In",
+            "Attics Of My Life",
+            "Friend Of The Devil",
+            "Let Me In",
+            "Candyman",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Black Peter",
+            "Drums",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Mama Tried",
+            "High Time",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ],
+        "encore": [
+            "New Minglewood Blues"
+        ]
+    }
+}

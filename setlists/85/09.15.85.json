@@ -1,0 +1,35 @@
+{
+    "date": "September 15, 1985",
+    "day": "Sunday",
+    "venue": "Devore Field",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Big River",
+            "Dupree's Diamond Blues",
+            "Smokestack Lightning",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "She Belongs To Me",
+            "Truckin'",
+            "Comes A Time",
+            "Around And Around",
+            "Drums",
+            "U.S. Blues",
+            "Satisfaction"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "December 13, 1992",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Baby Blue",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Long Way To Go Home",
+            "Victim Or The Crime",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

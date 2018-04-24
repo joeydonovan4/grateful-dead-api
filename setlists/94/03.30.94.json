@@ -1,0 +1,34 @@
+{
+    "date": "March 30, 1994",
+    "day": "Wednesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Feel Like A Stranger",
+            "Jack-A-Roe",
+            "El Paso",
+            "Lazy River Road",
+            "The Same Thing",
+            "New Speedway Boogie",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Dark Star",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

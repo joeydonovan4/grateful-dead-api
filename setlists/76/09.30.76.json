@@ -1,0 +1,38 @@
+{
+    "date": "September 30, 1976",
+    "day": "Thursday",
+    "venue": "St. John's Arena",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Peggy-O",
+            "El Paso",
+            "Crazy Fingers",
+            "It's All Over Now",
+            "Scarlet Begonias"
+        ],
+        "setTwo": [
+            "Lazy Lightnin'",
+            "Supplication",
+            "It Must Have Been The Roses",
+            "Samson And Delilah",
+            "St. Stephen",
+            "Not Fade Away",
+            "Drums",
+            "Wharf Rat",
+            "Not Fade Away",
+            "St. Stephen",
+            "Around And Around"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

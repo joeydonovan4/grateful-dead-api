@@ -1,0 +1,42 @@
+{
+    "date": "October 29, 1971",
+    "day": "Friday",
+    "venue": "Allen Theater",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "El Paso",
+            "Loser",
+            "Playin' In The Band",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Brokedown Palace",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Deal",
+            "Sugar Magnolia",
+            "Ramble On Rose",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

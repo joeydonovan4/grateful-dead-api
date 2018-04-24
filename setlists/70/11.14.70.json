@@ -1,0 +1,13 @@
+{
+    "date": "November 14, 1970",
+    "day": "Saturday",
+    "venue": "46th Street Rock Palace",
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

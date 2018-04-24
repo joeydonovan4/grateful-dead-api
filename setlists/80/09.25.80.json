@@ -1,0 +1,47 @@
+{
+    "date": "September 25, 1980",
+    "day": "Thursday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bird Song",
+            "Been All Around This World",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "Monkey And The Engineer",
+            "It Must Have Been The Roses",
+            "Jack-A-Roe",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loser",
+            "Little Red Rooster",
+            "Althea",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setThree": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

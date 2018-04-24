@@ -1,0 +1,32 @@
+{
+    "date": "December 26, 1970",
+    "day": "Saturday",
+    "venue": "Legion Stadium",
+    "city": "El Monte",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "The Frozen Logger",
+            "Easy Wind",
+            "Till The Morning Comes",
+            "Truckin'",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Candyman",
+            "Big Railroad Blues",
+            "Minglewood Blues",
+            "Black Peter",
+            "Beat It On Down The Line",
+            "Morning Dew",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Dire Wolf",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ]
+    }
+}

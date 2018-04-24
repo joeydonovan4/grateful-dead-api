@@ -1,0 +1,39 @@
+{
+    "date": "September 15, 1972",
+    "day": "Friday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Greatest Story Ever Told",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "El Paso",
+            "Loser",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Playin' In The Band",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Me And My Uncle",
+            "Bird Song",
+            "Mexicali Blues",
+            "Ramble On Rose",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

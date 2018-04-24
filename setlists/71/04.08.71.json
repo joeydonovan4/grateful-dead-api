@@ -1,0 +1,37 @@
+{
+    "date": "April 8, 1971",
+    "day": "Thursday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Bertha",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Loser",
+            "Beat It On Down The Line",
+            "Second That Emotion",
+            "Sugar Magnolia",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Sing Me Back Home",
+            "Cumberland Blues",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ]
+    }
+}

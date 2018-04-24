@@ -1,0 +1,35 @@
+{
+    "date": "August 26, 1988",
+    "day": "Friday",
+    "venue": "Tacoma Dome",
+    "city": "Tacoma",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Good Time Blues",
+            "Iko Iko",
+            "Walkin' Blues",
+            "When Push Comes To Shove",
+            "When I Paint My Masterpiece",
+            "Row Jimmy",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Touch Of Grey",
+            "I Need A Miracle",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

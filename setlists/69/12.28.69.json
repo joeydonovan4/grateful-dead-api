@@ -1,0 +1,25 @@
+{
+    "date": "December 28, 1969",
+    "day": "Sunday",
+    "venue": "International Speedway",
+    "city": "Hollywood",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Black Peter",
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Cumberland Blues",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cold Rain And Snow",
+            "Hard To Handle",
+            "Mason's Children",
+            "Turn On Your Love Light"
+        ]
+    }
+}

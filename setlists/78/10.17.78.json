@@ -1,0 +1,32 @@
+{
+    "date": "October 17, 1978",
+    "day": "Tuesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "I Need A Miracle",
+            "Stagger Lee",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "If I Had The World To Give",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

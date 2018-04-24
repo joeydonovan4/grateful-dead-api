@@ -1,0 +1,47 @@
+{
+    "date": "September 29, 1980",
+    "day": "Monday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "Bird Song",
+            "Cassidy",
+            "Been All Around This World",
+            "Heaven Help The Fool",
+            "To Lay Me Down",
+            "Dark Hollow",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "They Love Each Other",
+            "El Paso",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Candyman",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setThree": [
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

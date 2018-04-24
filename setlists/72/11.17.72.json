@@ -1,0 +1,33 @@
+{
+    "date": "November 17, 1972",
+    "day": "Friday",
+    "venue": "Century II Convention Hall",
+    "city": "Wichita",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Cumberland Blues",
+            "El Paso",
+            "Uncle John's Band",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Brokedown Palace",
+            "Sugar Magnolia",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

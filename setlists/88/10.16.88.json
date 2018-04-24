@@ -1,0 +1,34 @@
+{
+    "date": "October 16, 1988",
+    "day": "Sunday",
+    "venue": "Bayfront Center",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Good Time Blues",
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Stuck Inside Of Mobile",
+            "To Lay Me Down",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

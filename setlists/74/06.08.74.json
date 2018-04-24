@@ -1,0 +1,38 @@
+{
+    "date": "June 8, 1974",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Me And Bobby McGee",
+            "Scarlet Begonias",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Greatest Story Ever Told",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "U.S. Blues",
+            "Big River",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones",
+            "One More Saturday Night"
+        ]
+    }
+}

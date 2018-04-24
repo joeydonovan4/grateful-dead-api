@@ -1,0 +1,15 @@
+{
+    "date": "March 17, 1970",
+    "day": "Tuesday",
+    "venue": "Kleinhans Music Hall",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "Drums",
+            "Turn On Your Love Light"
+        ]
+    }
+}

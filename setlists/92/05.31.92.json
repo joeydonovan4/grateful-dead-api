@@ -1,0 +1,38 @@
+{
+    "date": "May 31, 1992",
+    "day": "Sunday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "So Many Roads",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Attics Of My Life",
+            "Spoonful",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "March 3, 1992",
+    "day": "Tuesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Corrina"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Wave To The Wind",
+            "Drums",
+            "Space",
+            "China Doll",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "date": "January 2, 1972",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Loser",
+            "Jack Straw",
+            "Chinatown Shuffle",
+            "Your Love At Home",
+            "Tennessee Jed",
+            "El Paso",
+            "You Win Again",
+            "Big Railroad Blues",
+            "Mexicali Blues",
+            "Playin' In The Band",
+            "Next Time You See Me",
+            "Brown-Eyed Women",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "China Cat Sunflower",
+            "Good Lovin'",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

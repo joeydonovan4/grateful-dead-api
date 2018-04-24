@@ -1,0 +1,37 @@
+{
+    "date": "June 30, 1973",
+    "day": "Saturday",
+    "venue": "Universal Amphitheatre",
+    "city": "Universal City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Bird Song",
+            "Cumberland Blues",
+            "Row Jimmy",
+            "Jack Straw",
+            "Deal",
+            "Beat It On Down The Line",
+            "Black Peter",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "El Paso",
+            "Dark Star",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

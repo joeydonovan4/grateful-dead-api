@@ -1,0 +1,36 @@
+{
+    "date": "June 2, 1995",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "Good Morning Little School Girl",
+            "Ramble On Rose",
+            "El Paso",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "New Speedway Boogie",
+            "That Would Be Something",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Chanting by The Gyoto Monks",
+            "Space",
+            "Easy Answers",
+            "Standing On The Moon",
+            "Around And Around"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

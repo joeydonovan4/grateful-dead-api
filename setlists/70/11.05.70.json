@@ -1,0 +1,24 @@
+{
+    "date": "November 5, 1970",
+    "day": "Thursday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sitting On Top Of The World",
+            "Hard To Handle",
+            "Mama Tried",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Dark Star",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

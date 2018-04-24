@@ -1,0 +1,38 @@
+{
+    "date": "February 24, 1971",
+    "day": "Wednesday",
+    "venue": "Capitol Theatre",
+    "city": "Port Chester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Next Time You See Me",
+            "Bird Song",
+            "Me And Bobby McGee",
+            "Bertha",
+            "Hard To Handle",
+            "Loser",
+            "Playin' In The Band",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "I'm A King Bee",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Deal",
+            "Minglewood Blues",
+            "Truckin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

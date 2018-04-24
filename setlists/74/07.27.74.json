@@ -1,0 +1,37 @@
+{
+    "date": "July 27, 1974",
+    "day": "Saturday",
+    "venue": "Roanoke Civic Center",
+    "city": "Roanoke",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "It Must Have Been The Roses",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Big River",
+            "U.S. Blues",
+            "Promised Land",
+            "Brokedown Palace",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Eyes Of The World"
+        ]
+    }
+}

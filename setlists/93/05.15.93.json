@@ -1,0 +1,31 @@
+{
+    "date": "May 15, 1993",
+    "day": "Saturday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Peggy-O",
+            "The Same Thing",
+            "Tennessee Jed",
+            "Broken Arrow",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Playin' Reprise",
+            "Drums",
+            "All Along The Watchtower",
+            "The Days Between",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

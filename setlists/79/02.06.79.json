@@ -1,0 +1,37 @@
+{
+    "date": "February 6, 1979",
+    "day": "Tuesday",
+    "venue": "Tulsa Fairgrounds Pavilion",
+    "city": "Tulsa",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Loser",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "It's All Over Now",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "From The Heart Of Me",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

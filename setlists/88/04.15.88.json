@@ -1,0 +1,35 @@
+{
+    "date": "April 15, 1988",
+    "day": "Friday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Walkin' Blues",
+            "Candyman",
+            "Louie Louie",
+            "Cumberland Blues",
+            "Stuck Inside Of Mobile",
+            "Deal"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Crazy Fingers",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

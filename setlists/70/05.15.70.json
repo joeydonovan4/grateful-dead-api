@@ -1,0 +1,35 @@
+{
+    "date": "May 15, 1970",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "I Know You Rider",
+            "The Rub",
+            "Friend Of The Devil",
+            "Long Black Limousine",
+            "Candyman",
+            "Cumberland Blues",
+            "New Speedway Boogie",
+            "Cold Jordan"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Easy Wind",
+            "Attics Of My Life",
+            "St. Stephen",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ],
+        "encore": [
+            "Minglewood Blues"
+        ]
+    }
+}

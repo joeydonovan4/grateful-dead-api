@@ -1,0 +1,39 @@
+{
+    "date": "December 27, 1977",
+    "day": "Tuesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Passenger",
+            "Candyman",
+            "El Paso",
+            "Friend Of The Devil",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Samson And Delilah"
+        ]
+    }
+}

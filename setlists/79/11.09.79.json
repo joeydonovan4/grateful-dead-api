@@ -1,0 +1,36 @@
+{
+    "date": "November 9, 1979",
+    "day": "Friday",
+    "venue": "War Memorial Auditorium",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Cassidy",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Althea",
+            "Easy To Love You",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Dancin' In The Streets",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

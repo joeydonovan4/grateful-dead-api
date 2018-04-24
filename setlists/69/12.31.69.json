@@ -1,0 +1,38 @@
+{
+    "date": "December 31, 1969",
+    "day": "Wednesday",
+    "venue": "Boston Tea Party",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mama Tried",
+            "Next Time You See Me",
+            "Cold Rain And Snow",
+            "Black Peter",
+            "Hard To Handle",
+            "Me And My Uncle",
+            "Mason's Children",
+            "Dire Wolf",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Alligator",
+            "Drums",
+            "Good Lovin'",
+            "The Eleven",
+            "High Time",
+            "Cumberland Blues",
+            "Big Boy Pete",
+            "Not Fade Away",
+            "Seasons",
+            "The Race Is On",
+            "Silver Threads",
+            "Slewfoot",
+            "Dancin' In The Streets"
+        ]
+    }
+}

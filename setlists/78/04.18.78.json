@@ -1,0 +1,33 @@
+{
+    "date": "April 18, 1978",
+    "day": "Tuesday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "Loser",
+            "El Paso",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Dancin' In The Streets",
+            "Drums",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

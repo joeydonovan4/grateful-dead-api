@@ -1,0 +1,35 @@
+{
+    "date": "April 4, 1991",
+    "day": "Thursday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Stuck Inside Of Mobile",
+            "High Time",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

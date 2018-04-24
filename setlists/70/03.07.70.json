@@ -1,0 +1,27 @@
+{
+    "date": "March 7, 1970",
+    "day": "Saturday",
+    "venue": "Star Theatre",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Dire Wolf",
+            "Hard To Handle",
+            "Been All Around This World",
+            "Me And My Uncle"
+        ],
+        "setTwo": [
+            "Black Peter",
+            "Katie Mae",
+            "Wake Me Shake Me",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

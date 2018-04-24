@@ -1,0 +1,51 @@
+{
+    "date": "October 4, 1980",
+    "day": "Saturday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "The Race Is On",
+            "It Must Have Been The Roses",
+            "Monkey And The Engineer",
+            "Rosalie McFall",
+            "Dark Hollow",
+            "To Lay Me Down",
+            "On The Road Again",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "Mama Tried",
+            "Mexicali Blues",
+            "High Time",
+            "Passenger",
+            "Althea",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setThree": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band",
+            "One More Saturday Night"
+        ]
+    }
+}

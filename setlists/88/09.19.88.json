@@ -1,0 +1,34 @@
+{
+    "date": "September 19, 1988",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "Far From Me",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Playin' In The Band",
+            "China Doll",
+            "Playin' Reprise",
+            "Drums",
+            "The Wheel",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

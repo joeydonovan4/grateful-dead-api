@@ -1,0 +1,38 @@
+{
+    "date": "September 24, 1983",
+    "day": "Saturday",
+    "venue": "Santa Cruz County Fairgrounds",
+    "city": "Watsonville",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Deep Elem Blues",
+            "Looks Like Rain",
+            "Day Job"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "Uncle John's Band",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Brokedown Palace"
+        ],
+        "encore": [
+            "Funiculi Funicula",
+            "One More Saturday Night"
+        ]
+    }
+}

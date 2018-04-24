@@ -1,0 +1,41 @@
+{
+    "date": "June 6, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "The Frozen Logger",
+            "Friend Of The Devil",
+            "Candyman",
+            "Deep Elem Blues",
+            "Cumberland Blues",
+            "Wake Up Little Susie",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Me And My Uncle",
+            "Casey Jones",
+            "Dancin' In The Streets",
+            "Next Time You See Me",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Good Lovin'",
+            "Drums",
+            "New Orleans",
+            "Good Lovin'",
+            "Attics Of My Life",
+            "Dire Wolf",
+            "Alligator",
+            "Drums",
+            "Turn On Your Love Light",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Uncle John's Band"
+        ]
+    }
+}

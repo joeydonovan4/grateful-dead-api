@@ -1,0 +1,14 @@
+{
+    "date": "September 20, 1968",
+    "day": "Friday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums"
+        ]
+    }
+}

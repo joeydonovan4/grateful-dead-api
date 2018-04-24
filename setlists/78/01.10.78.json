@@ -1,0 +1,38 @@
+{
+    "date": "January 10, 1978",
+    "day": "Tuesday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Me And My Uncle",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Candyman",
+            "Passenger",
+            "Sunrise",
+            "Deal",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Franklin's Tower",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

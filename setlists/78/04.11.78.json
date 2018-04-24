@@ -1,0 +1,35 @@
+{
+    "date": "April 11, 1978",
+    "day": "Tuesday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Sunrise",
+            "Terrapin Station",
+            "Drums",
+            "Iko Iko",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

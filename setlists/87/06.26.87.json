@@ -1,0 +1,36 @@
+{
+    "date": "June 26, 1987",
+    "day": "Friday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Row Jimmy",
+            "Tons Of Steel",
+            "When Push Comes To Shove",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Gimme Some Lovin'",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

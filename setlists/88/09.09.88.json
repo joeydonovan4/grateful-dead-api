@@ -1,0 +1,35 @@
+{
+    "date": "September 9, 1988",
+    "day": "Friday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Believe It Or Not",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

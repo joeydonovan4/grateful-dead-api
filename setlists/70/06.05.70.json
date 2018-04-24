@@ -1,0 +1,36 @@
+{
+    "date": "June 5, 1970",
+    "day": "Friday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "I Know You Rider",
+            "Silver Threads",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Black Peter",
+            "New Speedway Boogie"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Easy Wind",
+            "Mama Tried",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Attics Of My Life",
+            "Hard To Handle",
+            "It's A Man's World",
+            "Uncle John's Band"
+        ],
+        "encore": [
+            "St. Stephen",
+            "Casey Jones"
+        ]
+    }
+}

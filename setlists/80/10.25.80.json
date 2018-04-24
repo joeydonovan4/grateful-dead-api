@@ -1,0 +1,48 @@
+{
+    "date": "October 25, 1980",
+    "day": "Saturday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Deep Elem Blues",
+            "The Race Is On",
+            "Been All Around This World",
+            "El Paso",
+            "To Lay Me Down",
+            "Monkey And The Engineer",
+            "Bird Song",
+            "Heaven Help The Fool",
+            "Dire Wolf",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "High Time",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setThree": [
+            "Cold Rain And Snow",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

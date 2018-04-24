@@ -1,0 +1,33 @@
+{
+    "date": "November 6, 1979",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Candyman",
+            "Easy To Love You",
+            "Looks Like Rain",
+            "Jack-A-Roe",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

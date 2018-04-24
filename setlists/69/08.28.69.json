@@ -1,0 +1,17 @@
+{
+    "date": "August 28, 1969",
+    "day": "Thursday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "It's A Sin",
+            "Hi Heeled Sneakers",
+            "Dark Star",
+            "The Eleven Jam",
+            "Dark Star"
+        ]
+    }
+}

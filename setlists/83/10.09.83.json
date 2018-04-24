@@ -1,0 +1,32 @@
+{
+    "date": "October 9, 1983",
+    "day": "Sunday",
+    "venue": "Greensboro",
+    "city": "Coliseum, Greensboro",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Candyman",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Not Fade Away",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

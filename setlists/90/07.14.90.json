@@ -1,0 +1,35 @@
+{
+    "date": "July 14, 1990",
+    "day": "Saturday",
+    "venue": "Sullivan Stadium",
+    "city": "Foxboro",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Walkin' Blues",
+            "Far From Me",
+            "Candyman",
+            "Stuck Inside Of Mobile",
+            "Ramble On Rose",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "I Will Take You Home",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "This Could Be The Last Time",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

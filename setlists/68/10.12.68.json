@@ -1,0 +1,24 @@
+{
+    "date": "October 12, 1968",
+    "day": "Saturday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "Thirteens Jam",
+            "Drums",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ]
+    }
+}

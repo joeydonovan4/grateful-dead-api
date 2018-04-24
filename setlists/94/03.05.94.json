@@ -1,0 +1,34 @@
+{
+    "date": "March 5, 1994",
+    "day": "Saturday",
+    "venue": "Blockbuster Desert Sky Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "El Paso",
+            "Loose Lucy",
+            "Broken Arrow",
+            "Eternity",
+            "Bertha"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

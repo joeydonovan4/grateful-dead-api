@@ -1,0 +1,37 @@
+{
+    "date": "May 1, 1981",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

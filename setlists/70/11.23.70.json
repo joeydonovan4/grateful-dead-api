@@ -1,0 +1,29 @@
+{
+    "date": "November 23, 1970",
+    "day": "Monday",
+    "venue": "Anderson Theater",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Friend Of The Devil",
+            "Cold Rain And Snow",
+            "I'm A King Bee",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mama Tried",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Hard To Handle",
+            "Big Railroad Blues",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Uncle John's Band",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "date": "September 20, 1970",
+    "day": "Sunday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Uncle John's Band",
+            "Deep Elem Blues",
+            "Friend Of The Devil",
+            "Big Railroad Blues",
+            "Dark Hollow",
+            "Ripple",
+            "To Lay Me Down",
+            "Truckin'",
+            "Rosalie McFall",
+            "Cumberland Blues",
+            "New Speedway Boogie",
+            "Brokedown Palace"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Candyman",
+            "Sitting On Top Of The World",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Big Boy Pete",
+            "Me And My Uncle",
+            "Easy Wind",
+            "Sugar Magnolia",
+            "Attics Of My Life",
+            "Mama Tried",
+            "Not Fade Away",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "date": "September 6, 1980",
+    "day": "Saturday",
+    "venue": "State Fairgrounds",
+    "city": "Lewiston",
+    "state": "ME",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Far From Me",
+            "Little Red Rooster",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Althea",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Not Fade Away",
+            "The Wheel",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Brokedown Palace"
+        ]
+    }
+}

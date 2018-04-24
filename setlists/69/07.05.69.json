@@ -1,0 +1,24 @@
+{
+    "date": "July 5, 1969",
+    "day": "Saturday",
+    "venue": "Electric Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "It's All Over Now Baby Blue",
+            "China Cat Sunflower",
+            "Jam",
+            "High Time",
+            "Mama Tried",
+            "Hard To Handle",
+            "Casey Jones",
+            "Turn On Your Love Light"
+        ]
+    }
+}

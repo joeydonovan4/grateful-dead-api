@@ -1,0 +1,35 @@
+{
+    "date": "March 21, 1990",
+    "day": "Wednesday",
+    "venue": "Copps Coliseum",
+    "city": "Hamilton",
+    "state": "ON",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Far From Me",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Victim Or The Crime",
+            "Standing On The Moon",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Hey Pocky Way",
+            "Crazy Fingers",
+            "Cumberland Blues",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

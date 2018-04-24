@@ -1,0 +1,36 @@
+{
+    "date": "September 11, 1990",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Candyman",
+            "Queen Jane Approximately",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Tennessee Jed",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "June 21, 1970",
+    "day": "Sunday",
+    "venue": "Pauley Ballroom",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

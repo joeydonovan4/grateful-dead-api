@@ -1,0 +1,21 @@
+{
+    "date": "April 11, 1969",
+    "day": "Friday",
+    "venue": "Centennial Hall",
+    "city": "Tucson",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "It's A Sin",
+            "Hard To Handle",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

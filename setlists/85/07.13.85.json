@@ -1,0 +1,35 @@
+{
+    "date": "July 13, 1985",
+    "day": "Saturday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Fire On The Mountain",
+            "Walkin' Blues",
+            "Dupree's Diamond Blues",
+            "Mama Tried",
+            "Big River",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Comes A Time",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

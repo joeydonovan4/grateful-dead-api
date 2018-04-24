@@ -1,0 +1,34 @@
+{
+    "date": "September 12, 1982",
+    "day": "Sunday",
+    "venue": "Lakeland Civic Center",
+    "city": "Lakeland",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Not Fade Away",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

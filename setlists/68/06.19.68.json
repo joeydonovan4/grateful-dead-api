@@ -1,0 +1,23 @@
+{
+    "date": "June 19, 1968",
+    "day": "Wednesday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Drums",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Jam"
+        ],
+        "setTwo": [
+            "The Main Ten",
+            "Jam",
+            "Dark Star Jam",
+            "The Other One Jam"
+        ]
+    }
+}

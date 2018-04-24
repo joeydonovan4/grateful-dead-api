@@ -1,0 +1,36 @@
+{
+    "date": "April 2, 1989",
+    "day": "Sunday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "It's All Over Now",
+            "We Can Run",
+            "Brown-Eyed Women",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "Foolish Heart",
+            "Drums",
+            "The Wheel",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

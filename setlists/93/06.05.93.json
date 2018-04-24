@@ -1,0 +1,35 @@
+{
+    "date": "June 5, 1993",
+    "day": "Saturday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Wang Dang Doodle",
+            "Peggy-O",
+            "Eternity",
+            "Candyman",
+            "The Music Never Stopped",
+            "Easy Answers",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "June 26, 1994",
+    "day": "Sunday",
+    "venue": "Sam Boyd Silver Bowl",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "El Paso",
+            "So Many Roads",
+            "Just Like Tom Thumb's Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Eyes Of The World",
+            "Box Of Rain",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

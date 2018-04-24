@@ -1,0 +1,13 @@
+{
+    "date": "September 24, 1967",
+    "day": "Sunday",
+    "venue": "City Park",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "June 24, 1985",
+    "day": "Monday",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Loser",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Samson And Delilah",
+            "He's Gone",
+            "Smokestack Lightning",
+            "Cryptical Envelopment",
+            "Drums",
+            "Comes A Time",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

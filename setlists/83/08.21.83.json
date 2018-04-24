@@ -1,0 +1,34 @@
+{
+    "date": "August 21, 1983",
+    "day": "Sunday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cassidy",
+            "Dire Wolf",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Baby Blue"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

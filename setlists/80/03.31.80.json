@@ -1,0 +1,34 @@
+{
+    "date": "March 31, 1980",
+    "day": "Monday",
+    "venue": "Capitol Theater",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Feel Like A Stranger",
+            "Far From Me",
+            "Brown-Eyed Women",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

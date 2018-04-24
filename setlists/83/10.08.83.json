@@ -1,0 +1,33 @@
+{
+    "date": "October 8, 1983",
+    "day": "Saturday",
+    "venue": "Richmond Coliseum",
+    "city": "Richmond",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Hell In A Bucket",
+            "Deal"
+        ],
+        "setTwo": [
+            "Day Job",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

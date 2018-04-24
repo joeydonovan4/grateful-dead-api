@@ -1,0 +1,39 @@
+{
+    "date": "November 30, 1973",
+    "day": "Friday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Mexicali Blues",
+            "Dire Wolf",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Black Throated Wind",
+            "Don't Ease Me In",
+            "El Paso",
+            "They Love Each Other",
+            "Big River",
+            "Loser",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Promised Land",
+            "Row Jimmy",
+            "Jack Straw",
+            "Here Comes Sunshine",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Dark Star",
+            "Eyes Of The World"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

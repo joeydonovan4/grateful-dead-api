@@ -1,0 +1,38 @@
+{
+    "date": "October 27, 1991",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugar Magnolia",
+            "Sugaree",
+            "Walkin' Blues",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Candyman",
+            "Cassidy",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Iko Iko",
+            "Hey Bo Diddley",
+            "Mona",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

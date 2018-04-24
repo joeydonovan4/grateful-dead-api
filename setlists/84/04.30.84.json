@@ -1,0 +1,33 @@
+{
+    "date": "April 30, 1984",
+    "day": "Monday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Greatest Story Ever Told",
+            "Althea",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "China Doll",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

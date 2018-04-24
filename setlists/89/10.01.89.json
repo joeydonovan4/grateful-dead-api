@@ -1,0 +1,33 @@
+{
+    "date": "October 1, 1989",
+    "day": "Sunday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Ramble On Rose",
+            "Walkin' Blues",
+            "Built To Last",
+            "When I Paint My Masterpiece",
+            "Just A Little Light",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

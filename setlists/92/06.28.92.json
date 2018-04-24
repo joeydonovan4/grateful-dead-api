@@ -1,0 +1,35 @@
+{
+    "date": "June 28, 1992",
+    "day": "Sunday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Wang Dang Doodle",
+            "Just Like Tom Thumb's Blues",
+            "To Lay Me Down",
+            "El Paso",
+            "New Speedway Boogie",
+            "Smokestack Lightning"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Long Way To Go Home",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "China Doll",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "date": "November 3, 1991",
+    "day": "Sunday",
+    "venue": "Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Wang Dang Doodle",
+            "Born On The Bayou",
+            "Green River",
+            "Bad Moon Rising",
+            "Proud Mary",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Forever Young",
+            "Touch Of Grey"
+        ]
+    }
+}

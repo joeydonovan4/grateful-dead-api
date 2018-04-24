@@ -1,0 +1,34 @@
+{
+    "date": "February 21, 1995",
+    "day": "Tuesday",
+    "venue": "Delta Center",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Salt Lake City",
+            "Friend Of The Devil",
+            "Wang Dang Doodle",
+            "Tennessee Jed",
+            "Broken Arrow",
+            "Black Throated Wind",
+            "So Many Roads",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Samba In The Rain",
+            "Truckin'",
+            "I Just Wanna Make Love To You",
+            "That Would Be Something",
+            "Drums",
+            "Space",
+            "Visions Of Johanna",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

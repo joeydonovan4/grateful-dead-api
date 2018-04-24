@@ -1,0 +1,32 @@
+{
+    "date": "December 15, 1994",
+    "day": "Thursday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Wang Dang Doodle",
+            "Lazy River Road",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Long Way To Go Home",
+            "Corrina",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

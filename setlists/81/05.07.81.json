@@ -1,0 +1,16 @@
+{
+    "date": "May 7, 1981",
+    "day": "Thursday",
+    "venue": "NBC Studios",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Dire Wolf",
+            "Deep Elem Blues",
+            "Cassidy"
+        ]
+    }
+}

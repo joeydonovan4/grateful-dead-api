@@ -1,0 +1,36 @@
+{
+    "date": "June 29, 1984",
+    "day": "Friday",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Bird Song",
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Dear Mr. Fantasy",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

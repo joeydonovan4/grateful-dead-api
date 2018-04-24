@@ -1,0 +1,34 @@
+{
+    "date": "August 3, 1994",
+    "day": "Wednesday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "Lazy River Road",
+            "El Paso",
+            "If The Shoe Fits",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Easy Answers",
+            "Samba In The Rain",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Attics Of My Life",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

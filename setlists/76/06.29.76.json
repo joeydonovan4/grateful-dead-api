@@ -1,0 +1,39 @@
+{
+    "date": "June 29, 1976",
+    "day": "Tuesday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Tennessee Jed",
+            "Cassidy",
+            "Peggy-O",
+            "Mama Tried",
+            "Mission In The Rain",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Row Jimmy",
+            "The Music Never Stopped",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Candyman",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

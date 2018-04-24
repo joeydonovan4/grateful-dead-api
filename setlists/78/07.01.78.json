@@ -1,0 +1,30 @@
+{
+    "date": "July 1, 1978",
+    "day": "Saturday",
+    "venue": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "Estimated Prophet",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

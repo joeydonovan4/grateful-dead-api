@@ -1,0 +1,43 @@
+{
+    "date": "February 17, 1973",
+    "day": "Saturday",
+    "venue": "St. Paul Auditorium",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "He's Gone",
+            "Looks Like Rain",
+            "Box Of Rain",
+            "Wave That Flag",
+            "Mexicali Blues",
+            "Bird Song",
+            "Beat It On Down The Line",
+            "Loose Lucy",
+            "Me And Bobby McGee",
+            "Stella Blue",
+            "El Paso",
+            "They Love Each Other",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Row Jimmy",
+            "Big River",
+            "You Ain't Woman Enough",
+            "Here Comes Sunshine",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "March 29, 1983",
+    "day": "Tuesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bird Song",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "It's All Over Now",
+            "Candyman",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Greatest Story Ever Told"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

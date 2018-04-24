@@ -1,0 +1,19 @@
+{
+    "date": "March 25, 1966",
+    "day": "Friday",
+    "venue": "Trouper's Club",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Stealin",
+            "Jam",
+            "Hey Little One",
+            "Hog For You Baby",
+            "You Don't Have To Ask",
+            "Cold Rain And Snow",
+            "Next Time You See Me"
+        ]
+    }
+}

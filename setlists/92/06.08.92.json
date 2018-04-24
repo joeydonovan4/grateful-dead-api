@@ -1,0 +1,34 @@
+{
+    "date": "June 8, 1992",
+    "day": "Monday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Loser",
+            "Little Red Rooster",
+            "So Many Roads",
+            "Just Like Tom Thumb's Blues",
+            "Black Throated Wind",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Dark Star",
+            "This Could Be The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "September 28, 1976",
+    "day": "Tuesday",
+    "venue": "Onondaga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Big River",
+            "Bertha",
+            "Cassidy",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Candyman",
+            "It's All Over Now",
+            "Friend Of The Devil",
+            "Let It Grow",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "The Wheel",
+            "Samson And Delilah",
+            "Comes A Time",
+            "Drums",
+            "Eyes Of The World",
+            "Dancin' In The Streets",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

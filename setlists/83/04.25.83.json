@@ -1,0 +1,34 @@
+{
+    "date": "April 25, 1983",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Loser",
+            "My Brother Esau",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Goin' Down The Road Feeling Bad",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

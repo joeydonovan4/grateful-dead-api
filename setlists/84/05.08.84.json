@@ -1,0 +1,36 @@
+{
+    "date": "May 8, 1984",
+    "day": "Tuesday",
+    "venue": "Silva Hall (Hult Center)",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia",
+            "Brokedown Palace"
+        ]
+    }
+}

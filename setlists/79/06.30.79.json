@@ -1,0 +1,34 @@
+{
+    "date": "June 30, 1979",
+    "day": "Saturday",
+    "venue": "Portland International Speedway",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

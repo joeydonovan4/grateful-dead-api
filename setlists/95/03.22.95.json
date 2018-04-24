@@ -1,0 +1,33 @@
+{
+    "date": "March 22, 1995",
+    "day": "Wednesday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "The Same Thing",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "I Want To Tell You",
+            "Attics Of My Life",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

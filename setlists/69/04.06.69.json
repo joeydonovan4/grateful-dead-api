@@ -1,0 +1,29 @@
+{
+    "date": "April 6, 1969",
+    "day": "Sunday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Beat It On Down The Line",
+            "It's All Over Now Baby Blue",
+            "I'm A King Bee"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Viola Lee Blues",
+            "What's Become of The Baby",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

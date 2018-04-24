@@ -1,0 +1,42 @@
+{
+    "date": "July 16, 1972",
+    "day": "Sunday",
+    "venue": "Dillon Stadium",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Cold Rain And Snow",
+            "Black Throated Wind",
+            "Sugaree",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Deal",
+            "Mexicali Blues",
+            "Stella Blue",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "Mississippi Half-Step",
+            "Sing Me Back Home"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "He's Gone",
+            "The Other One",
+            "Looks Like Rain",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Hey Bo Diddley"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

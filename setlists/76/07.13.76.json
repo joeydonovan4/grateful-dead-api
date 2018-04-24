@@ -1,0 +1,36 @@
+{
+    "date": "July 13, 1976",
+    "day": "Tuesday",
+    "venue": "Orpheum Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Big River",
+            "Peggy-O",
+            "Cassidy",
+            "Crazy Fingers",
+            "Let It Grow",
+            "Drums",
+            "Let It Grow",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "The Music Never Stopped",
+            "It Must Have Been The Roses",
+            "Samson And Delilah",
+            "High Time",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Sugar Magnolia",
+            "Stella Blue",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Dancin' In The Streets"
+        ]
+    }
+}

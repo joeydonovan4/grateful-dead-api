@@ -1,0 +1,43 @@
+{
+    "date": "May 12, 1974",
+    "day": "Sunday",
+    "venue": "University of Nevada",
+    "city": "Reno",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "El Paso",
+            "U.S. Blues",
+            "Greatest Story Ever Told",
+            "It Must Have Been The Roses",
+            "Me And Bobby McGee",
+            "Deal",
+            "Around And Around",
+            "Mississippi Half-Step"
+        ],
+        "setThree": [
+            "Truckin'",
+            "Nobody's Fault But Mine Jam",
+            "The Other One",
+            "Mind Left Body Jam",
+            "Row Jimmy",
+            "Big River",
+            "Ship Of Fools"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

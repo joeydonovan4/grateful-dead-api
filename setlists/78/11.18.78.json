@@ -1,0 +1,35 @@
+{
+    "date": "November 18, 1978",
+    "day": "Saturday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Sugaree",
+            "El Paso",
+            "Stagger Lee",
+            "It's All Over Now",
+            "From The Heart Of Me",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "I Need A Miracle",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

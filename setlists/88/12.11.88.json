@@ -1,0 +1,33 @@
+{
+    "date": "December 11, 1988",
+    "day": "Sunday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Jack Straw",
+            "Row Jimmy",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Black Muddy River",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

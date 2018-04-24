@@ -1,0 +1,30 @@
+{
+    "date": "February 27, 1969",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Doin' That Rag",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "It Hurts Me Too"
+        ],
+        "setTwo": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Cosmic Charlie"
+        ]
+    }
+}

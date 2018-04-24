@@ -1,0 +1,35 @@
+{
+    "date": "January 13, 1978",
+    "day": "Friday",
+    "venue": "Arlington Theater",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "Big River",
+            "Candyman",
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Sunrise",
+            "Dancin' In The Streets",
+            "Drums",
+            "Wharf Rat",
+            "Truckin'",
+            "Around And Around"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

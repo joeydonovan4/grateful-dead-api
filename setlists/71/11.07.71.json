@@ -1,0 +1,47 @@
+{
+    "date": "November 7, 1971",
+    "day": "Sunday",
+    "venue": "Harding Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Hideaway",
+            "Sugaree",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Cumberland Blues",
+            "El Paso",
+            "Big Railroad Blues",
+            "Comes A Time",
+            "Mexicali Blues",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Loser",
+            "Sugar Magnolia",
+            "Dark Star",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Deal",
+            "Brokedown Palace",
+            "Playin' In The Band",
+            "Casey Jones",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Uncle John's Band"
+        ]
+    }
+}

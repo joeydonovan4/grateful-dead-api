@@ -1,0 +1,13 @@
+{
+    "date": "June 12, 1967",
+    "day": "Monday",
+    "venue": "The Cheetah",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "September 6, 1979",
+    "day": "Thursday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "El Paso",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Don't Ease Me In",
+            "Looks Like Rain",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Easy To Love You",
+            "Ramble On Rose",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

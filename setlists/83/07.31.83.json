@@ -1,0 +1,35 @@
+{
+    "date": "July 31, 1983",
+    "day": "Sunday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "One More Saturday Night"
+        ]
+    }
+}

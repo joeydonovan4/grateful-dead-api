@@ -1,0 +1,35 @@
+{
+    "date": "September 16, 1991",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Bertha",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Dire Wolf",
+            "Queen Jane Approximately",
+            "West LA Fadeaway",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Saint Of Circumstance",
+            "Comes A Time",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "Goin' Down The Road Feeling Bad",
+            "Attics Of My Life",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

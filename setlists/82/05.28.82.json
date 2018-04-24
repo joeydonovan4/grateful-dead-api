@@ -1,0 +1,29 @@
+{
+    "date": "May 28, 1982",
+    "day": "Friday",
+    "venue": "Moscone Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Truckin'",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "setTwo": [
+            "Walkin' Blues",
+            "A Mind To Give Up Livin'",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

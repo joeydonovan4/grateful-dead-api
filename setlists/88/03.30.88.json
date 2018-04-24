@@ -1,0 +1,34 @@
+{
+    "date": "March 30, 1988",
+    "day": "Wednesday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Hey Pocky Way",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Big Railroad Blues",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Looks Like Rain",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

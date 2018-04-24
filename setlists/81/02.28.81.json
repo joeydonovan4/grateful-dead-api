@@ -1,0 +1,38 @@
+{
+    "date": "February 28, 1981",
+    "day": "Saturday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "Althea",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Greatest Story Ever Told",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

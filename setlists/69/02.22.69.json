@@ -1,0 +1,26 @@
+{
+    "date": "February 22, 1969",
+    "day": "Saturday",
+    "venue": "Dream Bowl",
+    "city": "Vallejo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Death Don't Have No Mercy"
+        ],
+        "setTwo": [
+            "Doin' That Rag",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

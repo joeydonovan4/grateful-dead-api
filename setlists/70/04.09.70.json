@@ -1,0 +1,38 @@
+{
+    "date": "April 9, 1970",
+    "day": "Thursday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Mama Tried",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Viola Lee Blues"
+        ],
+        "setTwo": [
+            "Candyman",
+            "Friend Of The Devil",
+            "Deep Elem Blues",
+            "Black Peter",
+            "Uncle John's Band"
+        ],
+        "setThree": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cowboy Song",
+            "It's A Man's World",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Me And My Uncle",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ]
+    }
+}

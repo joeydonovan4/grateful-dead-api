@@ -1,0 +1,33 @@
+{
+    "date": "June 28, 1995",
+    "day": "Wednesday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Good Morning Little School Girl",
+            "Loser",
+            "Black Throated Wind",
+            "Just Like Tom Thumb's Blues",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Estimated Prophet",
+            "Uncle John's Band",
+            "Drums",
+            "Easy Answers",
+            "Attics Of My Life",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

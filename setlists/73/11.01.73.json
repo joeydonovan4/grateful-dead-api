@@ -1,0 +1,39 @@
+{
+    "date": "November 1, 1973",
+    "day": "Thursday",
+    "venue": "McGaw Memorial Hall",
+    "city": "Evanston",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Promised Land",
+            "Sugaree",
+            "Me And Bobby McGee",
+            "Brown-Eyed Women",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Brokedown Palace",
+            "Beat It On Down The Line",
+            "Loose Lucy",
+            "El Paso",
+            "They Love Each Other",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Mississippi Half-Step",
+            "He's Gone",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ]
+    }
+}

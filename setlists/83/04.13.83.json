@@ -1,0 +1,36 @@
+{
+    "date": "April 13, 1983",
+    "day": "Wednesday",
+    "venue": "Patrick Field House",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Cumberland Blues",
+            "Ramble On Rose",
+            "Far From Me",
+            "My Brother Esau",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Maybe You Know How I Feel",
+            "Drums",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "December 26, 1967",
+    "day": "Tuesday",
+    "venue": "Village Theater",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

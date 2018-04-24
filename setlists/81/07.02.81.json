@@ -1,0 +1,40 @@
+{
+    "date": "July 2, 1981",
+    "day": "Thursday",
+    "venue": "The Summit",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Althea",
+            "El Paso",
+            "Jack-A-Roe",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

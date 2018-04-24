@@ -1,0 +1,36 @@
+{
+    "date": "March 18, 1993",
+    "day": "Thursday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Broken Arrow",
+            "Loose Lucy",
+            "When I Paint My Masterpiece",
+            "Friend Of The Devil",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Long Way To Go Home",
+            "Wave To The Wind",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Corrina",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

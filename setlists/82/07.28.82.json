@@ -1,0 +1,37 @@
+{
+    "date": "July 28, 1982",
+    "day": "Wednesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Beat It On Down The Line",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Big Railroad Blues",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Althea",
+            "Let It Grow",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Spanish Jam",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

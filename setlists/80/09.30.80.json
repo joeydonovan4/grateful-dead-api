@@ -1,0 +1,48 @@
+{
+    "date": "September 30, 1980",
+    "day": "Tuesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Jack-A-Roe",
+            "Monkey And The Engineer",
+            "Bird Song",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "Heaven Help The Fool",
+            "China Doll",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Loser",
+            "Little Red Rooster",
+            "Big Railroad Blues"
+        ],
+        "setThree": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "He's Gone",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

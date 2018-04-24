@@ -1,0 +1,36 @@
+{
+    "date": "March 30, 1986",
+    "day": "Sunday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "El Paso",
+            "Cumberland Blues",
+            "Tons Of Steel",
+            "C.C. Rider",
+            "Dupree's Diamond Blues",
+            "Just Like Tom Thumb's Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Why Don't We Do It In The Road",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "The Mighty Quinn"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "August 11, 1987",
+    "day": "Tuesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Tons Of Steel",
+            "High Time",
+            "When I Paint My Masterpiece",
+            "When Push Comes To Shove",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "All Along The Watchtower",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "July 16, 1990",
+    "day": "Monday",
+    "venue": "Rich Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Mississippi Half-Step",
+            "Blow Away",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Loose Lucy",
+            "It's All Over Now",
+            "High Time",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Mind Left Body Jam",
+            "Drums",
+            "Jam",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "June 23, 1974",
+    "day": "Sunday",
+    "venue": "Jai-Alai Fronton",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ramble On Rose",
+            "Black Throated Wind",
+            "Mississippi Half-Step",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "Jack Straw",
+            "Let It Rock",
+            "Cumberland Blues",
+            "El Paso",
+            "To Lay Me Down",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "China Doll"
+        ],
+        "setTwo": [
+            "Ship Of Fools",
+            "Big River",
+            "Black Peter",
+            "Around And Around",
+            "Dark Star",
+            "Spanish Jam",
+            "U.S. Blues",
+            "Uncle John's Band",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "date": "February 15, 1969",
+    "day": "Saturday",
+    "venue": "Electric Factory",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Doin' That Rag",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven"
+        ]
+    }
+}

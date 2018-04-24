@@ -1,0 +1,35 @@
+{
+    "date": "October 2, 1987",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Far From Me",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Don't Ease Me In"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "July 6, 1984",
+    "day": "Friday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Little Red Rooster",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "The Other One",
+            "Black Peter",
+            "Why Don't We Do It In The Road",
+            "Around Jam",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

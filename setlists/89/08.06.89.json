@@ -1,0 +1,35 @@
+{
+    "date": "August 6, 1989",
+    "day": "Sunday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

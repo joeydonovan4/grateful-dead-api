@@ -1,0 +1,33 @@
+{
+    "date": "July 17, 1994",
+    "day": "Sunday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "Wang Dang Doodle",
+            "So Many Roads",
+            "Just Like Tom Thumb's Blues",
+            "Black Throated Wind",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "Long Way To Go Home",
+            "Standing On The Moon",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

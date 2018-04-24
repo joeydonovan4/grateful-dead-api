@@ -1,0 +1,37 @@
+{
+    "date": "October 14, 1977",
+    "day": "Friday",
+    "venue": "Hofheinz Pavilion",
+    "city": "Houston",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "El Paso",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Loser",
+            "Passenger",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Candyman",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Brokedown Palace",
+            "Playin' In The Band"
+        ]
+    }
+}

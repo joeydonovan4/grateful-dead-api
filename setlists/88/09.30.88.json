@@ -1,0 +1,32 @@
+{
+    "date": "September 30, 1988",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Walkin' Blues",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Big River",
+            "When Push Comes To Shove",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

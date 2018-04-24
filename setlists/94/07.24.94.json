@@ -1,0 +1,35 @@
+{
+    "date": "July 24, 1994",
+    "day": "Sunday",
+    "venue": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "It's All Over Now",
+            "It Must Have Been The Roses",
+            "El Paso",
+            "Loose Lucy",
+            "If The Shoe Fits",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Eyes Of The World",
+            "Eternity",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

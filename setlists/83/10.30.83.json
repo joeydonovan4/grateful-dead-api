@@ -1,0 +1,35 @@
+{
+    "date": "October 30, 1983",
+    "day": "Sunday",
+    "venue": "Marin County Veteran's Memorial Auditorium",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Cassidy",
+            "West LA Fadeaway",
+            "Hell In A Bucket",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Spoonful",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

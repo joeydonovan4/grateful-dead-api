@@ -1,0 +1,32 @@
+{
+    "date": "January 14, 1978",
+    "day": "Saturday",
+    "venue": "Bakersfield Civic Auditorium",
+    "city": "Bakersfield",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dire Wolf",
+            "Cassidy",
+            "They Love Each Other",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Loser",
+            "Looks Like Rain",
+            "Deal",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Candyman",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

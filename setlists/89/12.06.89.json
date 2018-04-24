@@ -1,0 +1,35 @@
+{
+    "date": "December 6, 1989",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Jack-A-Roe",
+            "Just A Little Light",
+            "Victim Or The Crime",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Sugar Magnolia",
+            "Ship Of Fools",
+            "Terrapin Station",
+            "Jam",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

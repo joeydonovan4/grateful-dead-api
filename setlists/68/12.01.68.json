@@ -1,0 +1,13 @@
+{
+    "date": "December 1, 1968",
+    "day": "Sunday",
+    "venue": "Grande Ballroom",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

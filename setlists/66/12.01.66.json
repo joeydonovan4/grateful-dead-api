@@ -1,0 +1,41 @@
+{
+    "date": "December 1, 1966",
+    "day": "Thursday",
+    "venue": "The Matrix",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Minglewood Blues",
+            "Betty And Dupree",
+            "Next Time You See Me",
+            "I Know You Rider",
+            "Big Boss Man",
+            "One Kind Favor",
+            "Alice D. Millionaire",
+            "Me And My Uncle",
+            "Cream Puff War"
+        ],
+        "setTwo": [
+            "You Don't Love Me",
+            "Beat It On Down The Line",
+            "It Hurts Me Too",
+            "On The Road Again",
+            "Look Over Yonder's Wall",
+            "My Own Fault",
+            "Down So Long",
+            "Cold Rain And Snow",
+            "Viola Lee Blues"
+        ],
+        "setThree": [
+            "Deep Elem Blues",
+            "There's Something On Your Mind",
+            "Big Boy Pete",
+            "Death Don't Have No Mercy",
+            "Lindy",
+            "Dancin' In The Streets",
+            "Me And My Uncle"
+        ]
+    }
+}

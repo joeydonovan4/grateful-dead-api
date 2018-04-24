@@ -1,0 +1,24 @@
+{
+    "date": "October 25, 1969",
+    "day": "Saturday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Casey Jones",
+            "High Time",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

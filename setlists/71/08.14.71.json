@@ -1,0 +1,39 @@
+{
+    "date": "August 14, 1971",
+    "day": "Saturday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "Sugaree",
+            "El Paso",
+            "Big Railroad Blues",
+            "Big Boss Man",
+            "Brokedown Palace",
+            "Playin' In The Band",
+            "Hard To Handle",
+            "Cumberland Blues",
+            "Loser",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And Bobby McGee",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Uncle John's Band"
+        ]
+    }
+}

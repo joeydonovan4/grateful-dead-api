@@ -1,0 +1,37 @@
+{
+    "date": "September 28, 1977",
+    "day": "Wednesday",
+    "venue": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Cassidy",
+            "Loser",
+            "Jack Straw",
+            "Tennessee Jed",
+            "Passenger",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Friend Of The Devil",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

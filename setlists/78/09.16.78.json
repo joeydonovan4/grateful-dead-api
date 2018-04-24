@@ -1,0 +1,37 @@
+{
+    "date": "September 16, 1978",
+    "day": "Saturday",
+    "venue": "Son Et Lumiere Theater",
+    "city": "Giza",
+    "state": "N/A",
+    "country": "EGY",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Candyman",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "El Paso",
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "Ollin Arrageed",
+            "Fire On The Mountain",
+            "Iko Iko",
+            "I Need A Miracle",
+            "It's All Over Now",
+            "Sunrise",
+            "Shakedown Street",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "date": "July 17, 1966",
+    "day": "Sunday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "Standing On The Corner",
+            "Beat It On Down The Line",
+            "Nobody's Fault But Mine",
+            "Next Time You See Me"
+        ]
+    }
+}

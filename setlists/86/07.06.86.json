@@ -1,0 +1,33 @@
+{
+    "date": "July 6, 1986",
+    "day": "Sunday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Row Jimmy",
+            "Cassidy",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Iko Iko",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

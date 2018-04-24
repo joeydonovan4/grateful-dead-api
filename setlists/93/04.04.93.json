@@ -1,0 +1,34 @@
+{
+    "date": "April 4, 1993",
+    "day": "Sunday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Midnight Hour",
+            "Sugaree",
+            "Walkin' Blues",
+            "Dire Wolf",
+            "When I Paint My Masterpiece",
+            "So Many Roads",
+            "Eternity",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "Broken Arrow",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Attics Of My Life",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "September 19, 1987",
+    "day": "Saturday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "It's All Over Now",
+            "High Time",
+            "Mexicali Blues",
+            "Big River",
+            "When Push Comes To Shove",
+            "Box Of Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "Maggie's Farm",
+            "Black Peter",
+            "Around And Around",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

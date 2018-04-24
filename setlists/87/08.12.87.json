@@ -1,0 +1,35 @@
+{
+    "date": "August 12, 1987",
+    "day": "Wednesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Good Time Blues",
+            "Cumberland Blues",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "My Brother Esau",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Dear Mr. Fantasy",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

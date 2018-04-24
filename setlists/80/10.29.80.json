@@ -1,0 +1,46 @@
+{
+    "date": "October 29, 1980",
+    "day": "Wednesday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "It Must Have Been The Roses",
+            "The Race Is On",
+            "Bird Song",
+            "Heaven Help The Fool",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setThree": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Saint Of Circumstance",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

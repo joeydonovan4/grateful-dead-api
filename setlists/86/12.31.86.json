@@ -1,0 +1,39 @@
+{
+    "date": "December 31, 1986",
+    "day": "Wednesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Candyman",
+            "Desolation Row",
+            "U.S. Blues"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Let It Grow",
+            "Black Muddy River",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Drums",
+            "Wharf Rat",
+            "Goin' Down The Road Feeling Bad",
+            "Turn On Your Love Light"
+        ],
+        "setThree": [
+            "Gimme Some Lovin'",
+            "When Push Comes To Shove",
+            "Box Of Rain",
+            "In The Midnight Hour"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

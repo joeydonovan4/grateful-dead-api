@@ -1,0 +1,35 @@
+{
+    "date": "July 21, 1984",
+    "day": "Saturday",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Althea",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Far From Me",
+            "Truckin'",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

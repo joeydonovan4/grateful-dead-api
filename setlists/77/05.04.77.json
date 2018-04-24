@@ -1,0 +1,31 @@
+{
+    "date": "May 4, 1977",
+    "day": "Wednesday",
+    "venue": "The Palladium",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Big River",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Deal",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Playin' In The Band"
+        ]
+    }
+}

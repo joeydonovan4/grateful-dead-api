@@ -1,0 +1,32 @@
+{
+    "date": "November 14, 1987",
+    "day": "Saturday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Hey Pocky Way",
+            "Deal"
+        ],
+        "setTwo": [
+            "Maggie's Farm",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

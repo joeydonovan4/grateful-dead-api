@@ -1,0 +1,35 @@
+{
+    "date": "July 20, 1994",
+    "day": "Wednesday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "High Time",
+            "Memphis Blues",
+            "Childhood's End",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Samba In The Rain",
+            "Looks Like Rain",
+            "Here Comes Sunshine",
+            "Corrina",
+            "Matilda Matilda",
+            "Drums",
+            "Space",
+            "Uncle John's Band",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

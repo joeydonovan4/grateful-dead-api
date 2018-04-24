@@ -1,0 +1,31 @@
+{
+    "date": "February 19, 1985",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Dupree's Diamond Blues",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Terrapin Station",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Throwin' Stones",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

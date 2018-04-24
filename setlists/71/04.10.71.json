@@ -1,0 +1,22 @@
+{
+    "date": "April 10, 1971",
+    "day": "Saturday",
+    "venue": "East Hall",
+    "city": "Lancaster",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And Bobby McGee",
+            "Next Time You See Me",
+            "Beat It On Down The Line",
+            "Hard To Handle",
+            "Bertha",
+            "Playin' In The Band",
+            "Deal",
+            "Good Lovin'",
+            "Truckin'"
+        ]
+    }
+}

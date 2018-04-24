@@ -1,0 +1,46 @@
+{
+    "date": "October 27, 1973",
+    "day": "Saturday",
+    "venue": "State Fair Coliseum",
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mexicali Blues",
+            "Loser",
+            "Black Throated Wind",
+            "They Love Each Other",
+            "Jack Straw",
+            "Ramble On Rose",
+            "El Paso",
+            "Brown-Eyed Women",
+            "Greatest Story Ever Told",
+            "Loose Lucy",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Bertha",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "Mississippi Half-Step",
+            "Big River",
+            "Playin' In The Band",
+            "He's Gone",
+            "Truckin'",
+            "Nobody's Jam",
+            "Wharf Rat",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "April 22, 1979",
+    "day": "Sunday",
+    "venue": "Spartan Stadium",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Sugaree",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Shakedown Street"
+        ]
+    }
+}

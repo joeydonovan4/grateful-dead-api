@@ -1,0 +1,32 @@
+{
+    "date": "March 10, 1985",
+    "day": "Sunday",
+    "venue": "Berkeley Community Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "C.C. Rider",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Big Railroad Blues"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

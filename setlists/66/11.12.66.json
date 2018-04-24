@@ -1,0 +1,13 @@
+{
+    "date": "November 12, 1966",
+    "day": "Saturday",
+    "venue": "The Old Cheese Factory",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

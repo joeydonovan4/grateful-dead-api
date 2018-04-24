@@ -1,0 +1,38 @@
+{
+    "date": "May 25, 1977",
+    "day": "Wednesday",
+    "venue": "The Mosque",
+    "city": "Richmond",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Jack Straw",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Cassidy",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "The Other One",
+            "The Wheel",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "July 10, 1990",
+    "day": "Tuesday",
+    "venue": "Carter-Finley Stadium",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Loser",
+            "We Can Run",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

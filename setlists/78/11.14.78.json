@@ -1,0 +1,35 @@
+{
+    "date": "November 14, 1978",
+    "day": "Tuesday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "El Paso",
+            "Candyman",
+            "It's All Over Now",
+            "Loser",
+            "Passenger",
+            "Stagger Lee",
+            "I Need A Miracle"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Wharf Rat",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

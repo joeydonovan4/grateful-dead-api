@@ -1,0 +1,13 @@
+{
+    "date": "June 8, 1969",
+    "day": "Sunday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light"
+        ]
+    }
+}

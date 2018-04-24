@@ -1,0 +1,17 @@
+{
+    "date": "September 26, 1969",
+    "day": "Friday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "I'm A King Bee"
+        ]
+    }
+}

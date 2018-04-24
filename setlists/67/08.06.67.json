@@ -1,0 +1,15 @@
+{
+    "date": "August 6, 1967",
+    "day": "Sunday",
+    "venue": "Expo 67",
+    "city": "Montreal",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Alligator",
+            "Dancin' In The Streets"
+        ]
+    }
+}

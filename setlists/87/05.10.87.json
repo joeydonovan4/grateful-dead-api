@@ -1,0 +1,35 @@
+{
+    "date": "May 10, 1987",
+    "day": "Sunday",
+    "venue": "Laguna Seca Raceway",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Box Of Rain",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "China Doll",
+            "Playin' In The Band",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Black Muddy River"
+        ]
+    }
+}

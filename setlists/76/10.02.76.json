@@ -1,0 +1,32 @@
+{
+    "date": "October 2, 1976",
+    "day": "Saturday",
+    "venue": "River Front Coliseum",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "It's All Over Now",
+            "Brown-Eyed Women",
+            "Let It Grow",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "The Music Never Stopped",
+            "Candyman",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Big River",
+            "Friend Of The Devil",
+            "Dancin' In The Streets",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "The Other One"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

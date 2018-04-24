@@ -1,0 +1,49 @@
+{
+    "date": "September 27, 1980",
+    "day": "Saturday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "The Race Is On",
+            "Jack-A-Roe",
+            "Monkey And The Engineer",
+            "It Must Have Been The Roses",
+            "Dark Hollow",
+            "Bird Song",
+            "To Lay Me Down",
+            "On The Road Again",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Little Red Rooster",
+            "Althea",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setThree": [
+            "Cold Rain And Snow",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "He's Gone",
+            "The Other One",
+            "Drums",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

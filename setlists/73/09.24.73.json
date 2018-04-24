@@ -1,0 +1,40 @@
+{
+    "date": "September 24, 1973",
+    "day": "Monday",
+    "venue": "Pittsburgh Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Jack Straw",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Loose Lucy",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "El Paso",
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "China Doll",
+            "Truckin'",
+            "Nobody's Fault But Mine",
+            "Eyes Of The World",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

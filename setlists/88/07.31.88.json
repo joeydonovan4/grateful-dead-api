@@ -1,0 +1,35 @@
+{
+    "date": "July 31, 1988",
+    "day": "Sunday",
+    "venue": "Laguna Seca Raceway",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Little Red Rooster",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Gentlemen Start Your Engines",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "I Will Take You Home",
+            "Drums",
+            "The Other One",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

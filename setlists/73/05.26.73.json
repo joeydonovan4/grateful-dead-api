@@ -1,0 +1,49 @@
+{
+    "date": "May 26, 1973",
+    "day": "Saturday",
+    "venue": "Kezar Stadium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Jack Straw",
+            "Tennessee Jed",
+            "The Race Is On",
+            "Sugaree",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "El Paso",
+            "Loser",
+            "Beat It On Down The Line",
+            "You Ain't Woman Enough",
+            "Box Of Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Bertha",
+            "Around And Around"
+        ],
+        "setThree": [
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Eyes Of The World",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

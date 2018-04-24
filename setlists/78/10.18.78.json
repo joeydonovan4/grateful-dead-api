@@ -1,0 +1,36 @@
+{
+    "date": "October 18, 1978",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "Candyman",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "From The Heart Of Me",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Truckin'"
+        ],
+        "encore": [
+            "I Need A Miracle"
+        ]
+    }
+}

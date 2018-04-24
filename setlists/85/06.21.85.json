@@ -1,0 +1,35 @@
+{
+    "date": "June 21, 1985",
+    "day": "Friday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Down In The Bottom",
+            "Ain't Superstitious",
+            "Stagger Lee",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Bird Song",
+            "Looks Like Rain",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Goin' Down The Road Feeling Bad",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

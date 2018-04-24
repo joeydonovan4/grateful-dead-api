@@ -1,0 +1,36 @@
+{
+    "date": "June 21, 1987",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "West LA Fadeaway",
+            "Walkin' Blues",
+            "Far From Me",
+            "Cumberland Blues",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Crazy Fingers",
+            "Saint Of Circumstance",
+            "China Doll",
+            "Playin' In The Band",
+            "Drums",
+            "When I Paint My Masterpiece",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

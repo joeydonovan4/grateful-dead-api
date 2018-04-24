@@ -1,0 +1,33 @@
+{
+    "date": "May 9, 1978",
+    "day": "Tuesday",
+    "venue": "Onondaga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Looks Like Rain",
+            "Friend Of The Devil",
+            "El Paso",
+            "Candyman",
+            "Passenger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

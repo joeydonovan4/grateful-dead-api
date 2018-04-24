@@ -1,0 +1,36 @@
+{
+    "date": "December 10, 1979",
+    "day": "Monday",
+    "venue": "Soldiers' and Sailors' Memorial Hall",
+    "city": "Kansas City",
+    "state": "KS",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Dancin' In The Streets",
+            "Franklin's Tower",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Easy To Love You",
+            "Let It Grow",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Wharf Rat",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

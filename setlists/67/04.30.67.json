@@ -1,0 +1,13 @@
+{
+    "date": "April 30, 1967",
+    "day": "Sunday",
+    "venue": "The Cheetah",
+    "city": "Santa Monica",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

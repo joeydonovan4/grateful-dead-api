@@ -1,0 +1,33 @@
+{
+    "date": "May 25, 1995",
+    "day": "Thursday",
+    "venue": "Memorial Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Bertha",
+            "Good Morning Little School Girl",
+            "Fennario",
+            "El Paso",
+            "Tennessee Jed",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Victim Or The Crime",
+            "Samba In The Rain",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 29, 1989",
+    "day": "Saturday",
+    "venue": "Irvine Meadows",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Brown-Eyed Women",
+            "Blow Away",
+            "Stuck Inside Of Mobile",
+            "Built To Last",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

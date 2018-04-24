@@ -1,0 +1,34 @@
+{
+    "date": "September 20, 1993",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "The Race Is On",
+            "Dire Wolf",
+            "Stuck Inside Of Mobile",
+            "Lazy River Road",
+            "Johnny B. Goode"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "So Many Roads",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Baba O'Riley",
+            "Tomorrow Never Knows"
+        ]
+    }
+}

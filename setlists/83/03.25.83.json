@@ -1,0 +1,35 @@
+{
+    "date": "March 25, 1983",
+    "day": "Friday",
+    "venue": "Compton Terrace Amphitheatre",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "My Brother Esau",
+            "Big Railroad Blues",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Playin' In The Band",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

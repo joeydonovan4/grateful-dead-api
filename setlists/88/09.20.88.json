@@ -1,0 +1,33 @@
+{
+    "date": "September 20, 1988",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Mama Tried",
+            "Big River",
+            "Peggy-O",
+            "When I Paint My Masterpiece",
+            "Louie Louie",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

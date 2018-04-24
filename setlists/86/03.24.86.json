@@ -1,0 +1,33 @@
+{
+    "date": "March 24, 1986",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Dire Wolf",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Ramble On Rose",
+            "El Paso",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Man Smart-Woman Smarter",
+            "High Time",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

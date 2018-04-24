@@ -1,0 +1,25 @@
+{
+    "date": "January 18, 1970",
+    "day": "Sunday",
+    "venue": "Springer's Inn Portland",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mama Tried",
+            "Cold Rain And Snow",
+            "Big Boss Man",
+            "Mason's Children",
+            "Black Peter",
+            "Dancin' In The Streets",
+            "Me And My Uncle",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Turn On Your Love Light"
+        ]
+    }
+}

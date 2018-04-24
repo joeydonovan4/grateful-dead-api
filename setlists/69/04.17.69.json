@@ -1,0 +1,25 @@
+{
+    "date": "April 17, 1969",
+    "day": "Thursday",
+    "venue": "Washington University",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "It's A Sin",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

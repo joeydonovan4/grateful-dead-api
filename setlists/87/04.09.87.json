@@ -1,0 +1,34 @@
+{
+    "date": "April 9, 1987",
+    "day": "Thursday",
+    "venue": "UIC Pavilion",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Promised Land",
+            "When Push Comes To Shove",
+            "Good Time Blues",
+            "El Paso",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Far From Me",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "China Doll",
+            "Goin' Down The Road Feeling Bad",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

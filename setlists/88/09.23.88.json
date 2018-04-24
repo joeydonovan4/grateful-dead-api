@@ -1,0 +1,34 @@
+{
+    "date": "September 23, 1988",
+    "day": "Friday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "Walkin' Blues",
+            "Loser",
+            "Stuck Inside Of Mobile",
+            "Dupree's Diamond Blues",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

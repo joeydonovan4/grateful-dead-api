@@ -1,0 +1,35 @@
+{
+    "date": "April 28, 1989",
+    "day": "Friday",
+    "venue": "Irvine Meadows",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "Just A Little Light",
+            "Ramble On Rose",
+            "Picasso Moon",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Sugar Magnolia",
+            "Touch Of Grey"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

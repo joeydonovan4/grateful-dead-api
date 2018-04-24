@@ -1,0 +1,37 @@
+{
+    "date": "October 31, 1984",
+    "day": "Wednesday",
+    "venue": "Berkeley Community Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Mama Tried",
+            "Big River",
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "Big Railroad Blues",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "I Need A Miracle",
+            "Ain't Superstitious",
+            "He's Gone",
+            "Drums",
+            "Heaven Help Jam",
+            "Morning Dew",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

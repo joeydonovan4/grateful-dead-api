@@ -1,0 +1,35 @@
+{
+    "date": "December 28, 1987",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Far From Me",
+            "When I Paint My Masterpiece",
+            "Sugaree",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Cumberland Blues",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

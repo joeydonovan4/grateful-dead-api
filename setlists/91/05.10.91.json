@@ -1,0 +1,37 @@
+{
+    "date": "May 10, 1991",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Walkin' Blues",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Cold Rain And Snow",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Saint Of Circumstance",
+            "Crazy Fingers",
+            "Truckin'",
+            "New Speedway Boogie",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now"
+        ]
+    }
+}

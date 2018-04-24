@@ -1,0 +1,34 @@
+{
+    "date": "March 29, 1987",
+    "day": "Sunday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "Little Red Rooster",
+            "Far From Me",
+            "Friend Of The Devil",
+            "El Paso",
+            "When Push Comes To Shove",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Playin' In The Band",
+            "China Doll",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "The Wheel",
+            "Goin' Down The Road Feeling Bad",
+            "Black Muddy River",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

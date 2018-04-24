@@ -1,0 +1,36 @@
+{
+    "date": "December 30, 1989",
+    "day": "Saturday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Sugaree",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "When I Paint My Masterpiece",
+            "West LA Fadeaway",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "date": "April 14, 1972",
+    "day": "Friday",
+    "venue": "Tivolis Koncertsal",
+    "city": "Copenhagen",
+    "state": "N/A",
+    "country": "DNK",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "You Win Again",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "Loser",
+            "Me And Bobby McGee",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "El Paso",
+            "Big Boss Man",
+            "Beat It On Down The Line",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "It Hurts Me Too",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Good Lovin'",
+            "Caution (Do Not Stop On Tracks)",
+            "Who Do You Love",
+            "Caution (Do Not Stop On Tracks)",
+            "Good Lovin'",
+            "Ramble On Rose",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

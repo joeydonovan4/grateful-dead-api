@@ -1,0 +1,34 @@
+{
+    "date": "February 24, 1995",
+    "day": "Friday",
+    "venue": "Oakland-Alameda County Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "The Same Thing",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Visions Of Johanna",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

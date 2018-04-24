@@ -1,0 +1,20 @@
+{
+    "date": "May 10, 1969",
+    "day": "Saturday",
+    "venue": "Rose Palace",
+    "city": "Pasadena",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Me And My Uncle",
+            "Morning Dew",
+            "Doin' That Rag",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

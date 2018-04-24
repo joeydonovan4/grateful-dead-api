@@ -1,0 +1,36 @@
+{
+    "date": "November 13, 1978",
+    "day": "Monday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "Cassidy",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Playin' In The Band",
+            "Drums",
+            "Black Peter",
+            "Playin' In The Band",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

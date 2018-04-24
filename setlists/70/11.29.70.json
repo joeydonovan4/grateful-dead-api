@@ -1,0 +1,34 @@
+{
+    "date": "November 29, 1970",
+    "day": "Sunday",
+    "venue": "Club Agora",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Cumberland Blues",
+            "Beat It On Down The Line",
+            "Next Time You See Me",
+            "Morning Dew",
+            "Brokedown Palace",
+            "Me And Bobby McGee",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Dire Wolf",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

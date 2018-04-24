@@ -1,0 +1,36 @@
+{
+    "date": "September 23, 1987",
+    "day": "Wednesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Tons Of Steel",
+            "Desolation Row",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Cumberland Blues",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Around And Around",
+            "Good Lovin'",
+            "La Bamba",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

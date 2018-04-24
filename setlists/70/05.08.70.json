@@ -1,0 +1,16 @@
+{
+    "date": "May 8, 1970",
+    "day": "Friday",
+    "venue": "Farrell Hall",
+    "city": "Delhi",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "Dancin' In The Streets",
+            "Good Lovin'",
+            "Uncle John's Band"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "date": "December 31, 1981",
+    "day": "Thursday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And Bobby McGee",
+            "Bye Bye Love",
+            "Lucifer's Eyes",
+            "Children Of The Eighties",
+            "Banks Of Ohio"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Cold Rain And Snow",
+            "C.C. Rider",
+            "It Must Have Been The Roses",
+            "Beat It On Down The Line",
+            "Big Boss Man",
+            "New Minglewood Blues",
+            "Don't Ease Me In"
+        ],
+        "setThree": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Dark Star",
+            "Bertha",
+            "Good Lovin'",
+            "Baby Blue"
+        ]
+    }
+}

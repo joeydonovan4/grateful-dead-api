@@ -1,0 +1,13 @@
+{
+    "date": "May 27, 1965",
+    "day": "Thursday",
+    "venue": "Magoo's Pizza Parlor",
+    "city": "Menlo Park",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

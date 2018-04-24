@@ -1,0 +1,36 @@
+{
+    "date": "October 19, 1990",
+    "day": "Friday",
+    "venue": "ICC Berlin",
+    "city": "Berlin",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Shakedown Street",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Stuck Inside Of Mobile",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

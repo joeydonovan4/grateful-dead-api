@@ -1,0 +1,34 @@
+{
+    "date": "June 24, 1976",
+    "day": "Thursday",
+    "venue": "Tower Theater",
+    "city": "Upper Darby",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Big River",
+            "Friend Of The Devil",
+            "Cassidy",
+            "It Must Have Been The Roses",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Scarlet Begonias",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Wharf Rat",
+            "Dancin' In The Streets"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

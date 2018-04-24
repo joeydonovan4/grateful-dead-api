@@ -1,0 +1,31 @@
+{
+    "date": "November 7, 1969",
+    "day": "Friday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Hard To Handle",
+            "Casey Jones",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Cold Rain And Snow",
+            "Next Time You See Me",
+            "High Time",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Dark Star",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Turn On Your Love Light"
+        ]
+    }
+}

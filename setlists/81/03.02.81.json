@@ -1,0 +1,36 @@
+{
+    "date": "March 2, 1981",
+    "day": "Monday",
+    "venue": "Cleveland Music Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Althea",
+            "El Paso",
+            "Jack-A-Roe",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Don't Ease Me In",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Playin' In The Band",
+            "The Wheel",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "date": "December 31, 1976",
+    "day": "Friday",
+    "venue": "Cow Palace",
+    "city": "Daly City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Bertha",
+            "Mama Tried",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Deal",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Sugar Magnolia",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Drums",
+            "Good Lovin'",
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Around And Around",
+            "Help On The Way",
+            "Slipknot!",
+            "Not Fade Away",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Uncle John's Band",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

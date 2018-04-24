@@ -1,0 +1,33 @@
+{
+    "date": "June 9, 1993",
+    "day": "Wednesday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Loose Lucy",
+            "Easy Answers",
+            "Bertha"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Wave To The Wind",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "September 27, 1994",
+    "day": "Tuesday",
+    "venue": "Boston Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "So Many Roads",
+            "Maggie's Farm",
+            "Cumberland Blues",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Long Way To Go Home",
+            "Corrina",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Standing On The Moon"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

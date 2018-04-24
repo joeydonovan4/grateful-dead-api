@@ -1,0 +1,17 @@
+{
+    "date": "February 23, 1968",
+    "day": "Friday",
+    "venue": "King's Beach Bowl",
+    "city": "Lake Tahoe",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Good Morning Little School Girl",
+            "Alligator",
+            "China Cat Sunflower",
+            "Born Cross-Eyed"
+        ]
+    }
+}

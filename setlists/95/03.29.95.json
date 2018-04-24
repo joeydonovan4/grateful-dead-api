@@ -1,0 +1,36 @@
+{
+    "date": "March 29, 1995",
+    "day": "Wednesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Row Jimmy",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Man Smart-Woman Smarter",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Unbroken Chain",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Corrina",
+            "Matilda Matilda",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Standing On The Moon",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

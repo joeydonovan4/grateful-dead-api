@@ -1,0 +1,17 @@
+{
+    "date": "August 30, 1970",
+    "day": "Sunday",
+    "venue": "KQED Studios",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Easy Wind",
+            "Candyman",
+            "Casey Jones",
+            "Brokedown Palace",
+            "Uncle John's Band"
+        ]
+    }
+}

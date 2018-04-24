@@ -1,0 +1,50 @@
+{
+    "date": "December 31, 1980",
+    "day": "Wednesday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "On The Road Again",
+            "To Lay Me Down",
+            "Monkey And The Engineer",
+            "Jack-A-Roe",
+            "Cassidy",
+            "Been All Around This World",
+            "The Race Is On",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setThree": [
+            "Sugar Magnolia",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

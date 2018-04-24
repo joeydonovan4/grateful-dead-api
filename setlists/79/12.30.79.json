@@ -1,0 +1,34 @@
+{
+    "date": "December 30, 1979",
+    "day": "Sunday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Ramble On Rose",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Let It Grow",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Don't Ease Me In",
+            "Brokedown Palace"
+        ]
+    }
+}

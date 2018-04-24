@@ -1,0 +1,36 @@
+{
+    "date": "May 1, 1977",
+    "day": "Sunday",
+    "venue": "The Palladium",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "El Paso",
+            "Ramble On Rose",
+            "Cassidy",
+            "They Love Each Other",
+            "Lazy Lightnin'",
+            "Supplication",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Tennessee Jed",
+            "Sunrise",
+            "Samson And Delilah"
+        ],
+        "setTwo": [
+            "Dancin' In The Streets",
+            "Brown-Eyed Women",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

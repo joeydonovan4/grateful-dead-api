@@ -1,0 +1,40 @@
+{
+    "date": "August 7, 1982",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "The Music Never Stopped",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "C.C. Rider",
+            "Ramble On Rose",
+            "Beat It On Down The Line",
+            "On The Road Again",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Space",
+            "The Wheel",
+            "Playin' In The Band",
+            "Morning Dew",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

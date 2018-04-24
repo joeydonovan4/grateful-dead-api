@@ -1,0 +1,18 @@
+{
+    "date": "February 4, 1969",
+    "day": "Tuesday",
+    "venue": "The Music Box",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Morning Dew",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy"
+        ]
+    }
+}

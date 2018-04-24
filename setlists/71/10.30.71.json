@@ -1,0 +1,36 @@
+{
+    "date": "October 30, 1971",
+    "day": "Saturday",
+    "venue": "Taft Auditorium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Loser",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Me And Bobby McGee",
+            "Brown-Eyed Women",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Mexicali Blues",
+            "Comes A Time",
+            "El Paso",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Truckin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

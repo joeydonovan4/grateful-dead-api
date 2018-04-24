@@ -1,0 +1,13 @@
+{
+    "date": "January 31, 1969",
+    "day": "Friday",
+    "venue": "The Kinetic Playground",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

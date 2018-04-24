@@ -1,0 +1,46 @@
+{
+    "date": "June 26, 1973",
+    "day": "Tuesday",
+    "venue": "Seattle Center Coliseum",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Greatest Story Ever Told",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Box Of Rain",
+            "Deal",
+            "Mexicali Blues",
+            "You Ain't Woman Enough",
+            "Row Jimmy",
+            "The Race Is On",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "Loser",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Promised Land",
+            "They Love Each Other",
+            "El Paso",
+            "Black Peter",
+            "Big River",
+            "Here Comes Sunshine",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Me And Bobby McGee",
+            "The Other One",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

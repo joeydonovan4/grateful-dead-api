@@ -1,0 +1,29 @@
+{
+    "date": "September 28, 1975",
+    "day": "Sunday",
+    "venue": "Lindley Meadows at Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "The Music Never Stopped",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "Franklin's Tower",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Truckin'",
+            "Jam",
+            "Drums",
+            "Stronger Than Dirt",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "November 6, 1987",
+    "day": "Friday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "Feel Like A Stranger",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "When Push Comes To Shove",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Hell In A Bucket",
+            "He's Gone",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Morning Dew",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

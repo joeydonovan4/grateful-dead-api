@@ -1,0 +1,23 @@
+{
+    "date": "June 14, 1969",
+    "day": "Saturday",
+    "venue": "Monterey Performing Arts Center",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Me And My Uncle",
+            "Doin' That Rag",
+            "He Was A Friend Of Mine",
+            "Dire Wolf",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light",
+            "Drums",
+            "Turn On Your Love Light"
+        ]
+    }
+}

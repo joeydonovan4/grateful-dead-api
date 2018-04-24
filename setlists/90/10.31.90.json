@@ -1,0 +1,37 @@
+{
+    "date": "October 31, 1990",
+    "day": "Wednesday",
+    "venue": "Wembley Arena",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Loose Lucy",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

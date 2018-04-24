@@ -1,0 +1,34 @@
+{
+    "date": "June 28, 1987",
+    "day": "Sunday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Bird Song",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Saint Of Circumstance",
+            "Drums",
+            "I Need A Miracle",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

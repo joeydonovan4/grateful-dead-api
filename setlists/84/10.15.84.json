@@ -1,0 +1,33 @@
+{
+    "date": "October 15, 1984",
+    "day": "Monday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "El Paso",
+            "Bird Song",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Wharf Rat",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

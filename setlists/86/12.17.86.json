@@ -1,0 +1,38 @@
+{
+    "date": "December 17, 1986",
+    "day": "Wednesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "West LA Fadeaway",
+            "Tons Of Steel",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Desolation Row",
+            "When Push Comes To Shove",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Cumberland Blues",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "Brokedown Palace"
+        ]
+    }
+}

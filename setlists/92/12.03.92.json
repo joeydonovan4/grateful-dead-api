@@ -1,0 +1,32 @@
+{
+    "date": "December 3, 1992",
+    "day": "Thursday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

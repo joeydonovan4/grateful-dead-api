@@ -1,0 +1,45 @@
+{
+    "date": "September 8, 1973",
+    "day": "Saturday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Eyes Of The World",
+            "China Doll"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Big River",
+            "Let Me Sing Your Blues Away",
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "El Paso",
+            "He's Gone",
+            "Truckin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Stella Blue",
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "July 1, 1973",
+    "day": "Sunday",
+    "venue": "Universal Amphitheatre",
+    "city": "Universal City",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Sugaree",
+            "The Race Is On",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Row Jimmy",
+            "El Paso",
+            "Loose Lucy",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Me And Bobby McGee"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

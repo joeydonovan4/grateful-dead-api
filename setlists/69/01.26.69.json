@@ -1,0 +1,24 @@
+{
+    "date": "January 26, 1969",
+    "day": "Sunday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Clementine",
+            "Death Don't Have No Mercy"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

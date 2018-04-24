@@ -1,0 +1,33 @@
+{
+    "date": "June 9, 1984",
+    "day": "Saturday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Hell In A Bucket",
+            "Loser",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "C.C. Rider",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Bertha",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Playin' In The Band",
+            "Black Peter",
+            "Sugar Magnolia",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

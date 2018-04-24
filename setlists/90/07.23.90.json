@@ -1,0 +1,33 @@
+{
+    "date": "July 23, 1990",
+    "day": "Monday",
+    "venue": "World Amphitheatre",
+    "city": "Tinley Park",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Picasso Moon",
+            "Good Time Blues",
+            "Stagger Lee",
+            "Cassidy",
+            "Truckin'",
+            "Smokestack Lightning"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

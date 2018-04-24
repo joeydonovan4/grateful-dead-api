@@ -1,0 +1,36 @@
+{
+    "date": "August 4, 1979",
+    "day": "Saturday",
+    "venue": "Oakland Auditorium Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "El Paso",
+            "Althea",
+            "Lost Sailor",
+            "Deal"
+        ],
+        "setTwo": [
+            "Passenger",
+            "Friend Of The Devil",
+            "Samson And Delilah",
+            "Shakedown Street",
+            "Playin' In The Band",
+            "Drums",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

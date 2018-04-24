@@ -1,0 +1,36 @@
+{
+    "date": "December 13, 1978",
+    "day": "Wednesday",
+    "venue": "Curtis Hixon Convention Hall",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Passenger",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "El Paso",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Loser",
+            "Jack Straw",
+            "Deal"
+        ],
+        "setTwo": [
+            "I Need A Miracle",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "Shakedown Street",
+            "Black Peter",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

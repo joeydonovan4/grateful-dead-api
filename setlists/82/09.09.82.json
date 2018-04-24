@@ -1,0 +1,35 @@
+{
+    "date": "September 9, 1982",
+    "day": "Thursday",
+    "venue": "Saenger Performing Arts Center",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Samson And Delilah",
+            "Uncle John's Band",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job",
+            "Johnny B. Goode"
+        ]
+    }
+}

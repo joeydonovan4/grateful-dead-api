@@ -1,0 +1,19 @@
+{
+    "date": "March 29, 1969",
+    "day": "Saturday",
+    "venue": "Ice Palace",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Good Morning Little School Girl",
+            "Doin' That Rag",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "April 15, 1983",
+    "day": "Friday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Maybe You Know How I Feel",
+            "He's Gone",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

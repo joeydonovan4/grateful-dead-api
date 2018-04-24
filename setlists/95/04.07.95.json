@@ -1,0 +1,34 @@
+{
+    "date": "April 7, 1995",
+    "day": "Friday",
+    "venue": "Tampa Stadium",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Loose Lucy",
+            "When I Paint My Masterpiece",
+            "Visions Of Johanna",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Saint Of Circumstance",
+            "Samba In The Rain",
+            "Unbroken Chain",
+            "Corrina",
+            "Drums",
+            "Space",
+            "Easy Answers",
+            "The Days Between",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

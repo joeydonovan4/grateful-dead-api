@@ -1,0 +1,36 @@
+{
+    "date": "September 6, 1983",
+    "day": "Tuesday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Hell In A Bucket",
+            "Dupree's Diamond Blues",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Playin' In The Band",
+            "Drums",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

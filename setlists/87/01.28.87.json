@@ -1,0 +1,37 @@
+{
+    "date": "January 28, 1987",
+    "day": "Wednesday",
+    "venue": "San Francisco Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Get Back",
+            "Peggy-O",
+            "Walkin' Blues",
+            "It Must Have Been The Roses",
+            "It's All Over Now",
+            "Row Jimmy",
+            "My Brother Esau",
+            "Bird Song",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "When Push Comes To Shove",
+            "Samson And Delilah",
+            "Black Muddy River",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "Eyes Of The World",
+            "Black Peter",
+            "Around And Around",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "date": "January 27, 1967",
+    "day": "Friday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "New Potato Caboose",
+            "Viola Lee Blues",
+            "Cold Rain And Snow",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "Good Morning Little School Girl"
+        ]
+    }
+}

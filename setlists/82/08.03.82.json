@@ -1,0 +1,37 @@
+{
+    "date": "August 3, 1982",
+    "day": "Tuesday",
+    "venue": "Starlight Theatre",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "El Paso",
+            "Cumberland Blues",
+            "Althea",
+            "Cassidy",
+            "Big Railroad Blues",
+            "Man Smart-Woman Smarter",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "To Lay Me Down",
+            "Let It Grow",
+            "Drums",
+            "He's Gone",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

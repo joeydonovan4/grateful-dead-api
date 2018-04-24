@@ -1,0 +1,36 @@
+{
+    "date": "July 16, 1994",
+    "day": "Saturday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Picasso Moon",
+            "Lazy River Road",
+            "El Paso",
+            "If The Shoe Fits",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samba In The Rain",
+            "Estimated Prophet",
+            "Crazy Fingers",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

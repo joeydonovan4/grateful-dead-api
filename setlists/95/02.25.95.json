@@ -1,0 +1,33 @@
+{
+    "date": "February 25, 1995",
+    "day": "Saturday",
+    "venue": "Oakland-Alameda County Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Row Jimmy",
+            "Just Like Tom Thumb's Blues",
+            "Easy Answers",
+            "Deal"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "New Speedway Boogie",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Wharf Rat",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

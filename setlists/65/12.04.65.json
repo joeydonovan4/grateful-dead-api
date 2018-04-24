@@ -1,0 +1,13 @@
+{
+    "date": "December 4, 1965",
+    "day": "Saturday",
+    "venue": "Big Nig's House",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

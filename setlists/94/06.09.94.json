@@ -1,0 +1,33 @@
+{
+    "date": "June 9, 1994",
+    "day": "Thursday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Wang Dang Doodle",
+            "Ramble On Rose",
+            "If The Shoe Fits",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

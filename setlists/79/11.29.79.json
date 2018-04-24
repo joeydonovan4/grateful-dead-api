@@ -1,0 +1,38 @@
+{
+    "date": "November 29, 1979",
+    "day": "Thursday",
+    "venue": "Cleveland Public Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Easy To Love You",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "High Time",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

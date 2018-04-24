@@ -1,0 +1,28 @@
+{
+    "date": "July 9, 1970",
+    "day": "Thursday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Silver Threads",
+            "Cumberland Blues",
+            "Dire Wolf",
+            "Swing Low Sweet Chariot"
+        ],
+        "setTwo": [
+            "Easy Wind",
+            "Casey Jones",
+            "Not Fade Away",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Viola Lee Blues",
+            "Morning Dew",
+            "Sitting On Top Of The World",
+            "Uncle John's Band"
+        ]
+    }
+}

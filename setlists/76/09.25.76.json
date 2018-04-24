@@ -1,0 +1,38 @@
+{
+    "date": "September 25, 1976",
+    "day": "Saturday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Peggy-O",
+            "It's All Over Now",
+            "Loser",
+            "Let It Grow",
+            "Sugaree"
+        ],
+        "setTwo": [
+            "Lazy Lightnin'",
+            "Supplication",
+            "Mississippi Half-Step",
+            "Dancin' In The Streets",
+            "Cosmic Charlie",
+            "Scarlet Begonias",
+            "St. Stephen",
+            "Not Fade Away",
+            "Drums",
+            "St. Stephen"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "June 28, 1985",
+    "day": "Friday",
+    "venue": "Hershey Park Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Promised Land",
+            "Ramble On Rose",
+            "Down In The Bottom",
+            "Ain't Superstitious",
+            "Bird Song",
+            "Comes A Time",
+            "Deal"
+        ],
+        "setTwo": [
+            "The Music Never Stopped",
+            "Just Like Tom Thumb's Blues",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

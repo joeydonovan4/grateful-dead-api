@@ -1,0 +1,35 @@
+{
+    "date": "July 15, 1984",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Bird Song",
+            "New Minglewood Blues",
+            "Cumberland Blues",
+            "My Brother Esau",
+            "Ramble On Rose",
+            "Hell In A Bucket"
+        ],
+        "setTwo": [
+            "Why Don't We Do It In The Road",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Don't Need Love",
+            "Drums",
+            "China Doll",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace",
+            "Johnny B. Goode"
+        ]
+    }
+}

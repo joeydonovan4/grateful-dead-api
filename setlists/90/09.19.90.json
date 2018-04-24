@@ -1,0 +1,34 @@
+{
+    "date": "September 19, 1990",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Me And My Uncle",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Stuck Inside Of Mobile",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Ship Of Fools",
+            "Uncle John's Band",
+            "Let It Grow",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Stella Blue",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "April 14, 1978",
+    "day": "Friday",
+    "venue": "Cassell Coliseum",
+    "city": "Blacksburg",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Dupree's Diamond Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Dancin' In The Streets",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

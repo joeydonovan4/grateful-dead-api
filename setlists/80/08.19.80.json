@@ -1,0 +1,39 @@
+{
+    "date": "August 19, 1980",
+    "day": "Tuesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Dire Wolf",
+            "Cassidy",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "Easy To Love You",
+            "Feel Like A Stranger"
+        ],
+        "setTwo": [
+            "Little Red Rooster",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Playin' In The Band",
+            "Comes A Time",
+            "Playin' In The Band",
+            "Around And Around",
+            "Alabama Getaway"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

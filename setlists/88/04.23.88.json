@@ -1,0 +1,37 @@
+{
+    "date": "April 23, 1988",
+    "day": "Saturday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Cold Rain And Snow",
+            "Hey Pocky Way",
+            "West LA Fadeaway",
+            "Funiculi Funicula",
+            "Me And My Uncle",
+            "Big River",
+            "To Lay Me Down",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

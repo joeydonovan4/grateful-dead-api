@@ -1,0 +1,34 @@
+{
+    "date": "March 28, 1993",
+    "day": "Sunday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "So Many Roads",
+            "When I Paint My Masterpiece",
+            "High Time",
+            "Eternity",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Wave To The Wind",
+            "Truckin'",
+            "Drums",
+            "Long Way To Go Home",
+            "Attics Of My Life",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

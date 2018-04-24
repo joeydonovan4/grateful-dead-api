@@ -1,0 +1,35 @@
+{
+    "date": "November 10, 1985",
+    "day": "Sunday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Hell In A Bucket",
+            "Sugaree",
+            "Cassidy",
+            "Stagger Lee",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Feel Like A Stranger"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Supplication",
+            "Drums",
+            "Truckin'",
+            "Comes A Time",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

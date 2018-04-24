@@ -1,0 +1,27 @@
+{
+    "date": "November 21, 1969",
+    "day": "Friday",
+    "venue": "Cal Expo Building A",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Good Morning Little School Girl",
+            "Cold Rain And Snow",
+            "Cumberland Blues",
+            "Easy Wind"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Me And My Uncle",
+            "Turn On Your Love Light"
+        ]
+    }
+}

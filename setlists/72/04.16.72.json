@@ -1,0 +1,40 @@
+{
+    "date": "April 16, 1972",
+    "day": "Sunday",
+    "venue": "Aarhus University",
+    "city": "Aarhus",
+    "state": "N/A",
+    "country": "DNK",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Sugaree",
+            "Chinatown Shuffle",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Loser",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Dire Wolf"
+        ],
+        "setTwo": [
+            "Good Lovin'",
+            "Cumberland Blues",
+            "El Paso",
+            "Deal",
+            "Truckin'",
+            "Jam",
+            "The Other One Jam",
+            "Me And My Uncle",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

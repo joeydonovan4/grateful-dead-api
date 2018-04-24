@@ -1,0 +1,35 @@
+{
+    "date": "April 11, 1988",
+    "day": "Monday",
+    "venue": "Joe Louis Arena",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Stuck Inside Of Mobile",
+            "To Lay Me Down",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Truckin'",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Happy Birthday",
+            "Brokedown Palace"
+        ]
+    }
+}

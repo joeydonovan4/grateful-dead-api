@@ -1,0 +1,33 @@
+{
+    "date": "September 18, 1987",
+    "day": "Friday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Candyman",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "All Along The Watchtower",
+            "Morning Dew",
+            "Good Lovin'",
+            "La Bamba",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

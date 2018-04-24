@@ -1,0 +1,34 @@
+{
+    "date": "October 20, 1990",
+    "day": "Saturday",
+    "venue": "ICC Berlin",
+    "city": "Berlin",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Jack-A-Roe",
+            "When I Paint My Masterpiece",
+            "Let It Grow",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Dark Star",
+            "Drums",
+            "Dark Star",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

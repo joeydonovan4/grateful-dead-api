@@ -1,0 +1,36 @@
+{
+    "date": "December 30, 1985",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Gimme Some Lovin'",
+            "Greatest Story Ever Told",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "The Mighty Quinn",
+            "Samson And Delilah",
+            "He's Gone",
+            "I Need A Miracle",
+            "Crazy Fingers",
+            "Jam",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

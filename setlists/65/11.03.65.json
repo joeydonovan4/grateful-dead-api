@@ -1,0 +1,18 @@
+{
+    "date": "November 3, 1965",
+    "day": "Wednesday",
+    "venue": "Golden Gate Studios",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Can't Come Down",
+            "Mindbender",
+            "The Only Time Is Now",
+            "Caution (Do Not Stop On Tracks)",
+            "I Know You Rider",
+            "Early Morning Rain"
+        ]
+    }
+}

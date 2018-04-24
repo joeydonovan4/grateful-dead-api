@@ -1,0 +1,21 @@
+{
+    "date": "September 16, 1966",
+    "day": "Friday",
+    "venue": "Avalon Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I Know You Rider",
+            "It Hurts Me Too",
+            "It's All Over Now Baby Blue",
+            "Good Morning Little School Girl",
+            "Lindy",
+            "Dancin' In The Streets"
+        ],
+        "encore": [
+            "Midnight Hour"
+        ]
+    }
+}

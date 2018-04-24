@@ -1,0 +1,34 @@
+{
+    "date": "July 1, 1985",
+    "day": "Monday",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Dupree's Diamond Blues",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "My Brother Esau",
+            "Stagger Lee",
+            "Let It Grow",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Baby Blue"
+        ]
+    }
+}

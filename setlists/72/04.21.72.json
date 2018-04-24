@@ -1,0 +1,19 @@
+{
+    "date": "April 21, 1972",
+    "day": "Friday",
+    "venue": "Beat Club",
+    "city": "Bremen",
+    "state": "N/A",
+    "country": "WGER",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Sugaree",
+            "Truckin'",
+            "The Other One",
+            "One More Saturday Night"
+        ]
+    }
+}

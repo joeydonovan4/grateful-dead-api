@@ -1,0 +1,36 @@
+{
+    "date": "April 7, 1984",
+    "day": "Saturday",
+    "venue": "Irvine Meadows Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "C.C. Rider",
+            "Big Railroad Blues",
+            "My Brother Esau",
+            "Touch Of Grey"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Spanish Jam",
+            "The Other One",
+            "Throwin' Stones",
+            "Wharf Rat",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "One More Saturday Night"
+        ]
+    }
+}

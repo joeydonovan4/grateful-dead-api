@@ -1,0 +1,36 @@
+{
+    "date": "August 14, 1979",
+    "day": "Tuesday",
+    "venue": "McNichols Sports Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Easy To Love You",
+            "Passenger",
+            "Stagger Lee",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Johnny B. Goode"
+        ]
+    }
+}

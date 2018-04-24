@@ -1,0 +1,47 @@
+{
+    "date": "November 9, 1973",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "To Lay Me Down",
+            "The Race Is On",
+            "They Love Each Other",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Big River",
+            "Row Jimmy",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Me And My Uncle",
+            "Mississippi Half-Step",
+            "Greatest Story Ever Told",
+            "Bertha",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Eyes Of The World",
+            "China Doll",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

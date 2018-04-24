@@ -1,0 +1,36 @@
+{
+    "date": "October 8, 1989",
+    "day": "Sunday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Foolish Heart",
+            "Walkin' Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Victim Or The Crime",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

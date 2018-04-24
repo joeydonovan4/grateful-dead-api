@@ -1,0 +1,35 @@
+{
+    "date": "October 20, 1978",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Cassidy",
+            "Dire Wolf",
+            "El Paso",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Dancin' In The Streets",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Shakedown Street"
+        ]
+    }
+}

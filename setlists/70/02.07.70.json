@@ -1,0 +1,26 @@
+{
+    "date": "February 7, 1970",
+    "day": "Saturday",
+    "venue": "Fillmore West",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Green Green Grass Of Home",
+            "Saw Mill",
+            "Seasons"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "High Time",
+            "Big Boss Man",
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Cold Rain And Snow",
+            "Uncle John's Band",
+            "Black Peter"
+        ]
+    }
+}

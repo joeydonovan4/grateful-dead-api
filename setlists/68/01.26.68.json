@@ -1,0 +1,15 @@
+{
+    "date": "January 26, 1968",
+    "day": "Friday",
+    "venue": "Eagle's Auditorium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Potato Caboose",
+            "Born Cross-Eyed",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

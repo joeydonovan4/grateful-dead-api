@@ -1,0 +1,35 @@
+{
+    "date": "December 6, 1992",
+    "day": "Sunday",
+    "venue": "Compton Terrace",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Playin' Reprise",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "China Doll",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "date": "December 31, 1971",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dancin' In The Streets",
+            "Mr. Charlie",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "You Win Again",
+            "Jack Straw",
+            "Sugaree",
+            "El Paso",
+            "Chinatown Shuffle",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Loser",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Jam",
+            "Black Peter",
+            "Big River",
+            "The Same Thing",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

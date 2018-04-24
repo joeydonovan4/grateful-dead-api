@@ -1,0 +1,39 @@
+{
+    "date": "July 1, 1980",
+    "day": "Tuesday",
+    "venue": "San Diego Sports Arena",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "El Paso",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "C.C. Rider",
+            "Peggy-O",
+            "Far From Me",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway",
+            "Johnny B. Goode"
+        ]
+    }
+}

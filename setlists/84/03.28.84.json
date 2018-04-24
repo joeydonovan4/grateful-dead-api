@@ -1,0 +1,37 @@
+{
+    "date": "March 28, 1984",
+    "day": "Wednesday",
+    "venue": "Marin County Veteran's Memorial Auditorium",
+    "city": "San Rafael",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "C.C. Rider",
+            "Loser",
+            "El Paso",
+            "West LA Fadeaway",
+            "Beat It On Down The Line",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Oh Babe It Ain't No Lie",
+            "Hell In A Bucket",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Don't Need Love",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Spoonful",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

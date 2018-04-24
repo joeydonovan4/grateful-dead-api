@@ -1,0 +1,33 @@
+{
+    "date": "April 15, 1989",
+    "day": "Saturday",
+    "venue": "MECCA Arena",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "When Push Comes To Shove",
+            "Queen Jane Approximately",
+            "Blow Away",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Will Take You Home",
+            "All Along The Watchtower",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "July 4, 1984",
+    "day": "Wednesday",
+    "venue": "Five Seasons Center",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "C.C. Rider",
+            "Cumberland Blues",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Far From Me",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

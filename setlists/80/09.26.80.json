@@ -1,0 +1,47 @@
+{
+    "date": "September 26, 1980",
+    "day": "Friday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "To Lay Me Down",
+            "On The Road Again",
+            "Been All Around This World",
+            "Dark Hollow",
+            "Rosalie McFall",
+            "Bird Song",
+            "Cassidy",
+            "China Doll",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Candyman",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "date": "March 20, 1993",
+    "day": "Saturday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "It's All Over Now",
+            "So Many Roads",
+            "Me And My Uncle",
+            "Maggie's Farm",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Lazy River Road",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

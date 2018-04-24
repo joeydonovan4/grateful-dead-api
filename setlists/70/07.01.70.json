@@ -1,0 +1,15 @@
+{
+    "date": "July 1, 1970",
+    "day": "Wednesday",
+    "venue": "Winnipeg Fairgrounds",
+    "city": "Winnipeg",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Easy Wind",
+            "Candyman"
+        ]
+    }
+}

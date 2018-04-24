@@ -1,0 +1,38 @@
+{
+    "date": "May 3, 1977",
+    "day": "Tuesday",
+    "venue": "The Palladium",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Bertha",
+            "Me And My Uncle",
+            "Peggy-O",
+            "Jack Straw",
+            "Row Jimmy",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Estimated Prophet",
+            "Sugaree",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "Not Fade Away",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

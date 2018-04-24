@@ -1,0 +1,18 @@
+{
+    "date": "May 28, 1969",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Smokestack Lightning",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Turn On Your Love Light"
+        ]
+    }
+}

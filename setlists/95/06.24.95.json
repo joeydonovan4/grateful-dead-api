@@ -1,0 +1,33 @@
+{
+    "date": "June 24, 1995",
+    "day": "Saturday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Althea",
+            "Little Red Rooster",
+            "Friend Of The Devil",
+            "El Paso",
+            "So Many Roads",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Saint Of Circumstance",
+            "New Speedway Boogie",
+            "That Would Be Something",
+            "Drums",
+            "Space",
+            "The Days Between",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

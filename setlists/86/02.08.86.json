@@ -1,0 +1,33 @@
+{
+    "date": "February 8, 1986",
+    "day": "Saturday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "It's All Over Now",
+            "Bertha",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "date": "May 18, 1968",
+    "day": "Saturday",
+    "venue": "Santa Clara County Fairgrounds",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ]
+    }
+}

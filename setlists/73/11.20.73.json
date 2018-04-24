@@ -1,0 +1,45 @@
+{
+    "date": "November 20, 1973",
+    "day": "Tuesday",
+    "venue": "Denver Coliseum",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ramble On Rose",
+            "Mexicali Blues",
+            "Don't Ease Me In",
+            "Black Throated Wind",
+            "To Lay Me Down",
+            "The Race Is On",
+            "They Love Each Other",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Big River",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Truckin'",
+            "The Other One",
+            "Mind Left Body Jam",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

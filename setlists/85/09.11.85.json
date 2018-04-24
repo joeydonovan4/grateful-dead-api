@@ -1,0 +1,33 @@
+{
+    "date": "September 11, 1985",
+    "day": "Wednesday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Beat It On Down The Line",
+            "Promised Land",
+            "Tennessee Jed",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Hell In A Bucket",
+            "Terrapin Station",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "November 14, 1971",
+    "day": "Sunday",
+    "venue": "Texas Christian University",
+    "city": "Fort Worth",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "Sugaree",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Me And Bobby McGee",
+            "Loser",
+            "Playin' In The Band",
+            "Tennessee Jed",
+            "You Win Again",
+            "Mexicali Blues",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

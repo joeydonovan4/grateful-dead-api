@@ -1,0 +1,38 @@
+{
+    "date": "September 9, 1987",
+    "day": "Wednesday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "Jack Straw",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Althea",
+            "Greatest Story Ever Told",
+            "Devil With A Blue Dress",
+            "Good Golly Miss Molly",
+            "Devil With A Blue Dress"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "China Doll",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Not Fade Away",
+            "The Mighty Quinn"
+        ]
+    }
+}

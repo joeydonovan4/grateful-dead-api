@@ -1,0 +1,36 @@
+{
+    "date": "April 17, 1982",
+    "day": "Saturday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "El Paso",
+            "Jack-A-Roe",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "It's All Over Now",
+            "Bird Song",
+            "Man Smart-Woman Smarter"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Spanish Jam",
+            "Uncle John's Band",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Around And Around",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

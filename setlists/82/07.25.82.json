@@ -1,0 +1,35 @@
+{
+    "date": "July 25, 1982",
+    "day": "Sunday",
+    "venue": "Compton Terrace Amphitheatre",
+    "city": "Tempe",
+    "state": "AZ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "C.C. Rider",
+            "Bird Song",
+            "El Paso",
+            "Candyman",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

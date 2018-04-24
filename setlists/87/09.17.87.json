@@ -1,0 +1,18 @@
+{
+    "date": "September 17, 1987",
+    "day": "Thursday",
+    "venue": "NBC Studios",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Lovin'",
+            "All Along The Watchtower",
+            "Walkin' The Dog",
+            "Tore Up Over You",
+            "Kansas City",
+            "When I Paint My Masterpiece"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "October 15, 1989",
+    "day": "Sunday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Iko Iko",
+            "Walkin' Blues",
+            "Far From Me",
+            "Row Jimmy",
+            "Victim Or The Crime",
+            "Standing On The Moon"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Just A Little Light",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "date": "June 9, 1976",
+    "day": "Wednesday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Cassidy",
+            "Scarlet Begonias",
+            "The Music Never Stopped",
+            "Crazy Fingers",
+            "Big River",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Ship Of Fools",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Eyes Of The World",
+            "Let It Grow",
+            "Drums",
+            "Brown-Eyed Women",
+            "Lazy Lightnin'",
+            "Supplication",
+            "High Time",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Dancin' In The Streets",
+            "Wharf Rat",
+            "Around And Around"
+        ],
+        "encore": [
+            "Franklin's Tower"
+        ]
+    }
+}

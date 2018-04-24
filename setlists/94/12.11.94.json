@@ -1,0 +1,35 @@
+{
+    "date": "December 11, 1994",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Lazy River Road",
+            "Black Throated Wind",
+            "If The Shoe Fits",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Samson And Delilah",
+            "Samba In The Rain",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "The Days Between",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "July 31, 1994",
+    "day": "Sunday",
+    "venue": "The Palace",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Row Jimmy",
+            "Spoonful",
+            "Lazy River Road",
+            "Me And My Uncle",
+            "Big River",
+            "Loose Lucy",
+            "In The Midnight Hour"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "New Speedway Boogie",
+            "Truckin'",
+            "He's Gone",
+            "Drums",
+            "The Last Time",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

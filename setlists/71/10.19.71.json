@@ -1,0 +1,43 @@
+{
+    "date": "October 19, 1971",
+    "day": "Tuesday",
+    "venue": "Northrop Auditorium",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Cumberland Blues",
+            "Tennessee Jed",
+            "Black Peter",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Comes A Time",
+            "Playin' In The Band",
+            "One More Saturday Night",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Brokedown Palace",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Uncle John's Band",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

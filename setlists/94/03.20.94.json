@@ -1,0 +1,35 @@
+{
+    "date": "March 20, 1994",
+    "day": "Sunday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "It's All Over Now",
+            "Candyman",
+            "Mama Tried",
+            "Big River",
+            "Lazy River Road",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Long Way To Go Home",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

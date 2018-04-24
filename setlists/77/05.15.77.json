@@ -1,0 +1,38 @@
+{
+    "date": "May 15, 1977",
+    "day": "Sunday",
+    "venue": "St. Louis Arena",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Jack-A-Roe",
+            "Passenger",
+            "Funiculi Funicula",
+            "Brown-Eyed Women",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "St. Stephen",
+            "Iko Iko",
+            "Not Fade Away",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

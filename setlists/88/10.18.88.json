@@ -1,0 +1,37 @@
+{
+    "date": "October 18, 1988",
+    "day": "Tuesday",
+    "venue": "Lakefront Arena",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "Loser",
+            "Beat It On Down The Line",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Iko Iko",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

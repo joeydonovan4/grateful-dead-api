@@ -1,0 +1,39 @@
+{
+    "date": "May 16, 1981",
+    "day": "Saturday",
+    "venue": "Barton Hall",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Big River",
+            "Althea",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "Passenger",
+            "High Time",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Bertha",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Spanish Jam",
+            "Drums",
+            "Truckin'",
+            "Nobody's Jam",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

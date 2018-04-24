@@ -1,0 +1,37 @@
+{
+    "date": "October 23, 1971",
+    "day": "Saturday",
+    "venue": "Easttown Theatre",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Loser",
+            "Mexicali Blues",
+            "Sugaree",
+            "Jack Straw",
+            "Big Railroad Blues",
+            "El Paso",
+            "Ramble On Rose",
+            "Me And Bobby McGee",
+            "Cumberland Blues",
+            "Brokedown Palace",
+            "One More Saturday Night"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Sugar Magnolia",
+            "Comes A Time",
+            "Truckin'",
+            "Brown-Eyed Women",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "April 7, 1987",
+    "day": "Tuesday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "Mama Tried",
+            "Big River",
+            "West LA Fadeaway",
+            "Hell In A Bucket",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "I Need A Miracle",
+            "Bertha",
+            "Ship Of Fools",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Morning Dew",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

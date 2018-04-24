@@ -1,0 +1,31 @@
+{
+    "date": "May 23, 1993",
+    "day": "Sunday",
+    "venue": "Shoreline Ampitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Loser",
+            "Just Like Tom Thumb's Blues",
+            "It's All Over Now",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Wave To The Wind",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "The Days Between",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

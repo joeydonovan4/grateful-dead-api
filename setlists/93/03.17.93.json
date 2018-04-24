@@ -1,0 +1,32 @@
+{
+    "date": "March 17, 1993",
+    "day": "Wednesday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Wang Dang Doodle",
+            "Lazy River Road",
+            "Desolation Row",
+            "Ramble On Rose",
+            "Eternity",
+            "Liberty"
+        ],
+        "setTwo": [
+            "Picasso Moon",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Dark Star",
+            "Drums",
+            "The Other One",
+            "The Days Between",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

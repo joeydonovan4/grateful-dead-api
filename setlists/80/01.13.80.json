@@ -1,0 +1,25 @@
+{
+    "date": "January 13, 1980",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

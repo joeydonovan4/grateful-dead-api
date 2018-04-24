@@ -1,0 +1,36 @@
+{
+    "date": "August 22, 1993",
+    "day": "Sunday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Little Red Rooster",
+            "Broken Arrow",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Corrina",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "The Days Between",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "date": "December 18, 1965",
+    "day": "Saturday",
+    "venue": "The Big Beat Club",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

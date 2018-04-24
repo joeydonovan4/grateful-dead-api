@@ -1,0 +1,40 @@
+{
+    "date": "June 12, 1976",
+    "day": "Saturday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Samson And Delilah",
+            "Row Jimmy",
+            "The Music Never Stopped",
+            "Brown-Eyed Women",
+            "Big River",
+            "Mission In The Rain",
+            "Looks Like Rain",
+            "Friend Of The Devil",
+            "Lazy Lightnin'",
+            "Supplication",
+            "High Time",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "The Wheel",
+            "Cassidy",
+            "Tennessee Jed",
+            "Let It Grow",
+            "Drums",
+            "Wharf Rat",
+            "Comes A Time",
+            "Dancin' In The Streets",
+            "Around And Around"
+        ],
+        "encore": [
+            "Sugar Magnolia",
+            "U.S. Blues",
+            "Sunshine Daydream"
+        ]
+    }
+}

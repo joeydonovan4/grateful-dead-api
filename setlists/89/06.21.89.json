@@ -1,0 +1,37 @@
+{
+    "date": "June 21, 1989",
+    "day": "Wednesday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hideaway",
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "Box Of Rain",
+            "Dire Wolf",
+            "When I Paint My Masterpiece",
+            "Row Jimmy",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Hell In A Bucket",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Morning Dew",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

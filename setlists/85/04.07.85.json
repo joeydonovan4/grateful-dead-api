@@ -1,0 +1,33 @@
+{
+    "date": "April 7, 1985",
+    "day": "Sunday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Why Don't We Do It In The Road",
+            "Mississippi Half-Step",
+            "C.C. Rider",
+            "Bird Song",
+            "Dancin' In The Streets",
+            "Deal"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Samson And Delilah",
+            "She Belongs To Me",
+            "Man Smart-Woman Smarter",
+            "Drums",
+            "Gimme Some Lovin'",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

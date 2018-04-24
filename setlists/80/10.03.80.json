@@ -1,0 +1,47 @@
+{
+    "date": "October 3, 1980",
+    "day": "Friday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Monkey And The Engineer",
+            "Been All Around This World",
+            "Dark Hollow",
+            "Jack-A-Roe",
+            "Heaven Help The Fool",
+            "China Doll",
+            "On The Road Again",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

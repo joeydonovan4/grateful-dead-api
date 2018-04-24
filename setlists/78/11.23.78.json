@@ -1,0 +1,35 @@
+{
+    "date": "November 23, 1978",
+    "day": "Thursday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Passenger",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Dancin' In The Streets",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Shakedown Street",
+            "Playin' In The Band",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

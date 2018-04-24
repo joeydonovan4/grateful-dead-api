@@ -1,0 +1,45 @@
+{
+    "date": "October 23, 1980",
+    "day": "Thursday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "It Must Have Been The Roses",
+            "Dark Hollow",
+            "Jack-A-Roe",
+            "Cassidy",
+            "China Doll",
+            "Monkey And The Engineer",
+            "Oh Babe It Ain't No Lie",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Feel Like A Stranger",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setThree": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Truckin'",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

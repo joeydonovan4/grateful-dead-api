@@ -1,0 +1,35 @@
+{
+    "date": "December 18, 1994",
+    "day": "Sunday",
+    "venue": "Los Angeles Sports Arena",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Walkin' Blues",
+            "Just Like Tom Thumb's Blues",
+            "El Paso",
+            "Loose Lucy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Attics Of My Life",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "May 17, 1977",
+    "day": "Tuesday",
+    "venue": "Memorial Coliseum",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "El Paso",
+            "They Love Each Other",
+            "Jack Straw",
+            "Jack-A-Roe",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Passenger",
+            "High Time",
+            "Big River",
+            "Sunrise",
+            "Scarlet Begonias",
+            "Fire On The Mountain"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Bertha",
+            "Good Lovin'",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Wharf Rat",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

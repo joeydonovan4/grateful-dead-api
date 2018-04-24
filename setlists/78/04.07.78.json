@@ -1,0 +1,36 @@
+{
+    "date": "April 7, 1978",
+    "day": "Friday",
+    "venue": "The Sportatorium",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Cassidy",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Ship Of Fools",
+            "Good Lovin'",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

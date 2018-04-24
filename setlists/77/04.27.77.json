@@ -1,0 +1,34 @@
+{
+    "date": "April 27, 1977",
+    "day": "Wednesday",
+    "venue": "Capitol Theater",
+    "city": "Passaic",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Looks Like Rain",
+            "Sugaree",
+            "El Paso",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Loser",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "Ramble On Rose",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

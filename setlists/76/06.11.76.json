@@ -1,0 +1,40 @@
+{
+    "date": "June 11, 1976",
+    "day": "Friday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "Mama Tried",
+            "Tennessee Jed",
+            "Cassidy",
+            "Candyman",
+            "Big River",
+            "Scarlet Begonias",
+            "Looks Like Rain",
+            "It Must Have Been The Roses",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "St. Stephen",
+            "Dancin' In The Streets",
+            "The Music Never Stopped",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Sugaree",
+            "Sugar Magnolia",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

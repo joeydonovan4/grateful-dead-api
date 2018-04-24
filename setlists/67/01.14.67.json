@@ -1,0 +1,15 @@
+{
+    "date": "January 14, 1967",
+    "day": "Saturday",
+    "venue": "Polo Field at Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Viola Lee Blues",
+            "Good Morning Little School Girl"
+        ]
+    }
+}

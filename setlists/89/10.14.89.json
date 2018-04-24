@@ -1,0 +1,33 @@
+{
+    "date": "October 14, 1989",
+    "day": "Saturday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "New Minglewood Blues",
+            "We Can Run",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Scarlet Begonias",
+            "Truckin'",
+            "Drums",
+            "China Doll",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

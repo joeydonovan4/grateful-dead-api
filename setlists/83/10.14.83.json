@@ -1,0 +1,36 @@
+{
+    "date": "October 14, 1983",
+    "day": "Friday",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Mama Tried",
+            "Big River",
+            "Althea",
+            "C.C. Rider",
+            "Tennessee Jed",
+            "Hell In A Bucket",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

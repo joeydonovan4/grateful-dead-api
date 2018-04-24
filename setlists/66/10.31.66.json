@@ -1,0 +1,14 @@
+{
+    "date": "October 31, 1966",
+    "day": "Monday",
+    "venue": "Alliope Warehouse",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Alice D. Millionaire"
+        ]
+    }
+}

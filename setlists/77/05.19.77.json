@@ -1,0 +1,33 @@
+{
+    "date": "May 19, 1977",
+    "day": "Thursday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "El Paso",
+            "Peggy-O",
+            "Looks Like Rain",
+            "Row Jimmy",
+            "Passenger",
+            "Loser",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ramble On Rose",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "The Wheel",
+            "China Doll",
+            "Playin' Reprise"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "date": "February 13, 1988",
+    "day": "Saturday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Big River",
+            "Loser"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Looks Like Rain",
+            "Gimme Some Lovin'",
+            "Jam",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Good Lovin'",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

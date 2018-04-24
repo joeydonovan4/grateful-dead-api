@@ -1,0 +1,35 @@
+{
+    "date": "September 3, 1985",
+    "day": "Tuesday",
+    "venue": "Starlight Theatre",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "Cassidy",
+            "Big Railroad Blues",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "The Other One",
+            "Eyes Of The World",
+            "Don't Need Love",
+            "Drums",
+            "Nobody's Fault But Mine",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Comes A Time",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

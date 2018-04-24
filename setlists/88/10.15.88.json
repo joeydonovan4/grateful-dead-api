@@ -1,0 +1,34 @@
+{
+    "date": "October 15, 1988",
+    "day": "Saturday",
+    "venue": "Bayfront Center",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "Blow Away",
+            "Walkin' Blues",
+            "When Push Comes To Shove",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "One More Saturday Night",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

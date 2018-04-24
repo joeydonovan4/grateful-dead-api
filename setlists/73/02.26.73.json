@@ -1,0 +1,43 @@
+{
+    "date": "February 26, 1973",
+    "day": "Monday",
+    "venue": "Pershing Municipal Auditorium",
+    "city": "Lincoln",
+    "state": "NE",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Deal",
+            "Mexicali Blues",
+            "Loser",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Box Of Rain",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Loose Lucy",
+            "Beat It On Down The Line",
+            "Row Jimmy",
+            "El Paso",
+            "Big Railroad Blues",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "They Love Each Other",
+            "Big River",
+            "Tennessee Jed",
+            "Greatest Story Ever Told",
+            "Dark Star",
+            "Eyes Of The World",
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Not Fade Away"
+        ]
+    }
+}

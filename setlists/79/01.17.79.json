@@ -1,0 +1,35 @@
+{
+    "date": "January 17, 1979",
+    "day": "Wednesday",
+    "venue": "New Haven Coliseum",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Me And My Uncle",
+            "Big River",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "Brown-Eyed Women",
+            "From The Heart Of Me",
+            "I Need A Miracle"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

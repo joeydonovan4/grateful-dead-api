@@ -1,0 +1,34 @@
+{
+    "date": "July 10, 1989",
+    "day": "Monday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "When I Paint My Masterpiece",
+            "Tennessee Jed",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Just A Little Light",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Iko Iko",
+            "All Along The Watchtower",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

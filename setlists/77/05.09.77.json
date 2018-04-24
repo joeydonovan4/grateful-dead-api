@@ -1,0 +1,37 @@
+{
+    "date": "May 9, 1977",
+    "day": "Monday",
+    "venue": "War Memorial Auditorium",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Big River",
+            "Peggy-O",
+            "Sunrise",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "The Other One",
+            "Drums",
+            "Not Fade Away",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

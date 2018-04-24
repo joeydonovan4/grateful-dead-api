@@ -1,0 +1,37 @@
+{
+    "date": "December 4, 1990",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Mississippi Half-Step",
+            "Walkin' Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Valley Road"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "June 24, 1973",
+    "day": "Sunday",
+    "venue": "Portland Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "You Ain't Woman Enough",
+            "El Paso",
+            "Stella Blue",
+            "Greatest Story Ever Told",
+            "Bertha",
+            "Row Jimmy",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Dark Star",
+            "Eyes Of The World",
+            "China Doll",
+            "Sugar Magnolia",
+            "One More Saturday Night",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

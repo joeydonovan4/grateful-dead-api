@@ -1,0 +1,33 @@
+{
+    "date": "February 17, 1988",
+    "day": "Wednesday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hey Pocky Way",
+            "Desolation Row",
+            "Tennessee Jed",
+            "Little Red Rooster",
+            "Cumberland Blues",
+            "It's All Over Now",
+            "Box Of Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

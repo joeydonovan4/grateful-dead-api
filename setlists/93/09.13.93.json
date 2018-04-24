@@ -1,0 +1,33 @@
+{
+    "date": "September 13, 1993",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Jack-A-Roe",
+            "The Same Thing",
+            "Stagger Lee",
+            "Black Throated Wind",
+            "Dire Wolf",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Dark Star",
+            "Terrapin Station",
+            "Drums",
+            "Easy Answers",
+            "The Days Between",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

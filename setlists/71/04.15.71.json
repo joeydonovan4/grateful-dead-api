@@ -1,0 +1,33 @@
+{
+    "date": "April 15, 1971",
+    "day": "Thursday",
+    "venue": "Allegheny State College",
+    "city": "Meadville",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "El Paso",
+            "Deal",
+            "Playin' In The Band",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "Next Time You See Me",
+            "Sugar Magnolia",
+            "Second That Emotion",
+            "Truckin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away",
+            "Casey Jones",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "In The Midnight Hour"
+        ]
+    }
+}

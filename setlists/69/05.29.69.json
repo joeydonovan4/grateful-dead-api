@@ -1,0 +1,22 @@
+{
+    "date": "May 29, 1969",
+    "day": "Thursday",
+    "venue": "Robertson Gym",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Good Morning Little School Girl",
+            "Me And My Uncle",
+            "Alligator",
+            "Drums",
+            "Turn On Your Love Light"
+        ]
+    }
+}

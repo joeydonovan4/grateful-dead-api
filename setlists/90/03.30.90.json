@@ -1,0 +1,36 @@
+{
+    "date": "March 30, 1990",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Dire Wolf",
+            "It's All Over Now",
+            "Just Like Tom Thumb's Blues",
+            "Picasso Moon",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "China Doll",
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Gimme Some Lovin'",
+            "Standing On The Moon",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Attics Of My Life"
+        ]
+    }
+}

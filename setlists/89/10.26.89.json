@@ -1,0 +1,33 @@
+{
+    "date": "October 26, 1989",
+    "day": "Thursday",
+    "venue": "Miami Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Foolish Heart",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Me And My Uncle",
+            "Big River",
+            "Brown-Eyed Women",
+            "Victim Or The Crime",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Blow Away",
+            "Dark Star",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

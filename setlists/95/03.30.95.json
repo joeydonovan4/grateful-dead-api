@@ -1,0 +1,36 @@
+{
+    "date": "March 30, 1995",
+    "day": "Thursday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Good Morning Little School Girl",
+            "Friend Of The Devil",
+            "Queen Jane Approximately",
+            "Loose Lucy",
+            "Broken Arrow",
+            "Easy Answers",
+            "Alabama Getaway"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "Samba In The Rain",
+            "He's Gone",
+            "That Would Be Something",
+            "Drums",
+            "Space",
+            "Visions Of Johanna",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Lucy In The Sky With Diamonds"
+        ]
+    }
+}

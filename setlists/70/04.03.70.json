@@ -1,0 +1,40 @@
+{
+    "date": "April 3, 1970",
+    "day": "Friday",
+    "venue": "Field House",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Hard To Handle",
+            "Dancin' In The Streets",
+            "Me And My Uncle"
+        ],
+        "setTwo": [
+            "Friend Of The Devil",
+            "Deep Elem Blues",
+            "Candyman",
+            "Wake Up Little Susie",
+            "Black Peter",
+            "Uncle John's Band",
+            "Katie Mae"
+        ],
+        "setThree": [
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

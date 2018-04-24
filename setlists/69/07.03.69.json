@@ -1,0 +1,13 @@
+{
+    "date": "July 3, 1969",
+    "day": "Thursday",
+    "venue": "Reed's Ranch",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "date": "September 27, 1972",
+    "day": "Wednesday",
+    "venue": "Stanley Theater",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Beat It On Down The Line",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Mexicali Blues",
+            "Bird Song",
+            "Big River",
+            "Brokedown Palace",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "Me And My Uncle",
+            "Deal",
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "Dark Star",
+            "Cumberland Blues",
+            "Attics Of My Life",
+            "Promised Land",
+            "Uncle John's Band",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "date": "April 24, 1978",
+    "day": "Monday",
+    "venue": "Horton Field House",
+    "city": "Normal",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Passenger",
+            "It Must Have Been The Roses",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Good Lovin'",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "Werewolves Of London"
+        ]
+    }
+}

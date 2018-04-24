@@ -1,0 +1,13 @@
+{
+    "date": "October 1, 1969",
+    "day": "Wednesday",
+    "venue": "Cafe au Go-Go",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

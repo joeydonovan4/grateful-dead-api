@@ -1,0 +1,32 @@
+{
+    "date": "October 11, 1977",
+    "day": "Tuesday",
+    "venue": "Lloyd Noble Center",
+    "city": "Norman",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Jack Straw",
+            "Peggy-O",
+            "El Paso",
+            "Sunrise",
+            "Deal",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Dancin' In The Streets",
+            "Dire Wolf",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Not Fade Away",
+            "Wharf Rat"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

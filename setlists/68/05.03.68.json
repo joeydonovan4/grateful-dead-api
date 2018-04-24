@@ -1,0 +1,14 @@
+{
+    "date": "May 3, 1968",
+    "day": "Friday",
+    "venue": "Low Library Plaza",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Sitting On Top Of The World"
+        ]
+    }
+}

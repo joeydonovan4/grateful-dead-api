@@ -1,0 +1,40 @@
+{
+    "date": "March 18, 1971",
+    "day": "Thursday",
+    "venue": "Fox Theatre",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Me And My Uncle",
+            "Big Boss Man",
+            "Bertha",
+            "Me And Bobby McGee",
+            "Loser",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "The Rub",
+            "Playin' In The Band",
+            "Cumberland Blues"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "The Other One",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Caution (Do Not Stop On Tracks)",
+            "Feedback"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

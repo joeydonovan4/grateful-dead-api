@@ -1,0 +1,37 @@
+{
+    "date": "December 12, 1969",
+    "day": "Friday",
+    "venue": "Thelma Theater",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Me And My Uncle",
+            "Easy Wind",
+            "Cumberland Blues",
+            "Black Peter",
+            "Next Time You See Me",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Turn On Your Love Light",
+            "Hard To Handle",
+            "Casey Jones",
+            "Mama Tried",
+            "High Time",
+            "Dire Wolf",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "I'm A King Bee",
+            "Uncle John's Band",
+            "He Was A Friend Of Mine",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

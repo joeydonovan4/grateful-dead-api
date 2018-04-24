@@ -1,0 +1,22 @@
+{
+    "date": "March 28, 1969",
+    "day": "Friday",
+    "venue": "Student Center",
+    "city": "Modesto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment"
+        ]
+    }
+}

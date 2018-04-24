@@ -1,0 +1,32 @@
+{
+    "date": "April 1, 1986",
+    "day": "Tuesday",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Gimme Some Lovin'",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Cassidy",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "I Need A Miracle",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

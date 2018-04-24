@@ -1,0 +1,21 @@
+{
+    "date": "November 10, 1967",
+    "day": "Friday",
+    "venue": "Shrine Auditorium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "It Hurts Me Too",
+            "Beat It On Down The Line",
+            "Morning Dew",
+            "Good Morning Little School Girl",
+            "Alligator",
+            "Drums",
+            "Alligator",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

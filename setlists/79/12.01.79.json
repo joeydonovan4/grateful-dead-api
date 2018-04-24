@@ -1,0 +1,36 @@
+{
+    "date": "December 1, 1979",
+    "day": "Saturday",
+    "venue": "Stanley Theater",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Me And My Uncle",
+            "Big River",
+            "Loser",
+            "Easy To Love You",
+            "New Minglewood Blues",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "He's Gone",
+            "Gloria Jam",
+            "C.C. Rider",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

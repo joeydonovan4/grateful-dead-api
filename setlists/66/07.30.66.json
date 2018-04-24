@@ -1,0 +1,27 @@
+{
+    "date": "July 30, 1966",
+    "day": "Saturday",
+    "venue": "PNE Garden Auditorium",
+    "city": "Vancouver",
+    "state": "N/A",
+    "country": "CAN",
+    "setlist": {
+        "setOne": [
+            "Standing On The Corner",
+            "I Know You Rider",
+            "Next Time You See Me",
+            "Sitting On Top Of The World",
+            "You Don't Have To Ask",
+            "Big Boss Man",
+            "Stealin",
+            "Cardboard Cowboy",
+            "Baby Blue",
+            "Cream Puff War"
+        ],
+        "setTwo": [
+            "Viola Lee Blues",
+            "Bring It On Down The Line",
+            "Good Morning Little School Girl"
+        ]
+    }
+}

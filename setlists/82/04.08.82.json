@@ -1,0 +1,35 @@
+{
+    "date": "April 8, 1982",
+    "day": "Thursday",
+    "venue": "Onondaga War Memorial Auditorium",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Funiculi Funicula",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Playin' In The Band",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

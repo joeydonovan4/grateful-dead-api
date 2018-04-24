@@ -1,0 +1,34 @@
+{
+    "date": "April 23, 1984",
+    "day": "Monday",
+    "venue": "New Haven Coliseum",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Cassidy",
+            "Dupree's Diamond Blues",
+            "Hell In A Bucket",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Uncle John's Band",
+            "Only A Fool",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

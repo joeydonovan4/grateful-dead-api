@@ -1,0 +1,22 @@
+{
+    "date": "January 17, 1969",
+    "day": "Friday",
+    "venue": "Civic Auditorium",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Death Don't Have No Mercy",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Cosmic Charlie"
+        ]
+    }
+}

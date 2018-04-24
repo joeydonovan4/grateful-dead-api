@@ -1,0 +1,34 @@
+{
+    "date": "May 29, 1995",
+    "day": "Monday",
+    "venue": "Portland Meadows",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Jack-A-Roe",
+            "Walkin' Blues",
+            "Dire Wolf",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Just Like Tom Thumb's Blues",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Looks Like Rain",
+            "Samba In The Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "The Days Between",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

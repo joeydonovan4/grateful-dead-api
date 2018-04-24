@@ -1,0 +1,33 @@
+{
+    "date": "March 6, 1992",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Friend Of The Devil",
+            "Mexicali Blues",
+            "Maggie's Farm",
+            "Stagger Lee",
+            "Picasso Moon",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "New Speedway Boogie",
+            "Truckin'",
+            "Crazy Fingers",
+            "Corrina",
+            "Drums",
+            "Space",
+            "This Could Be The Last Time",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

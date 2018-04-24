@@ -1,0 +1,35 @@
+{
+    "date": "April 10, 1983",
+    "day": "Sunday",
+    "venue": "Morgantown Civic Center",
+    "city": "Morgantown",
+    "state": "WV",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Althea",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "My Brother Esau",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "China Doll",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

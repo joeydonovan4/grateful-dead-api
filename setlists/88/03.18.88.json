@@ -1,0 +1,32 @@
+{
+    "date": "March 18, 1988",
+    "day": "Friday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "When Push Comes To Shove",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Uncle John's Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

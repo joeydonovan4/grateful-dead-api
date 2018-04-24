@@ -1,0 +1,33 @@
+{
+    "date": "April 16, 1989",
+    "day": "Sunday",
+    "venue": "MECCA Arena",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "Stagger Lee",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Saint Of Circumstance",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

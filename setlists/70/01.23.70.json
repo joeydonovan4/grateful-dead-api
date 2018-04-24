@@ -1,0 +1,30 @@
+{
+    "date": "January 23, 1970",
+    "day": "Friday",
+    "venue": "Honolulu Civic Auditorium",
+    "city": "Honolulu",
+    "state": "HI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "Black Peter",
+            "Yellow Dog Story",
+            "Hard To Handle",
+            "Mama Tried",
+            "Dire Wolf",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Dark Star",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ]
+    }
+}

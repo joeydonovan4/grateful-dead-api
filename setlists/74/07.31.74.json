@@ -1,0 +1,50 @@
+{
+    "date": "July 31, 1974",
+    "day": "Wednesday",
+    "venue": "Dillon Stadium",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Scarlet Begonias",
+            "Me And My Uncle",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Mississippi Half-Step",
+            "It Must Have Been The Roses",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Big River",
+            "Eyes Of The World",
+            "China Doll",
+            "Promised Land",
+            "Ship Of Fools",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setThree": [
+            "El Paso",
+            "Ramble On Rose",
+            "Greatest Story Ever Told",
+            "To Lay Me Down",
+            "Truckin'",
+            "Heaven Help Jam",
+            "Spanish Jam",
+            "Wharf Rat",
+            "U.S. Blues",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

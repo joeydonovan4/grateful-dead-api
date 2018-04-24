@@ -1,0 +1,35 @@
+{
+    "date": "October 22, 1978",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ollin Arrageed",
+            "Deal",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "From The Heart Of Me",
+            "I Need A Miracle",
+            "Drums",
+            "Not Fade Away",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Mojo Jam",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

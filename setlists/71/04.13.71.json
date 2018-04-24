@@ -1,0 +1,34 @@
+{
+    "date": "April 13, 1971",
+    "day": "Tuesday",
+    "venue": "Catholic Youth Center",
+    "city": "Scranton",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Casey Jones",
+            "Mama Tried",
+            "Loser",
+            "Big Boss Man",
+            "Me And Bobby McGee",
+            "Bertha",
+            "Cumberland Blues",
+            "Big Railroad Blues",
+            "Playin' In The Band",
+            "Hard To Handle",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "Good Lovin'",
+            "Second That Emotion",
+            "Greatest Story Ever Told",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

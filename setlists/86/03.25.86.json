@@ -1,0 +1,33 @@
+{
+    "date": "March 25, 1986",
+    "day": "Tuesday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Tennessee Jed",
+            "C.C. Rider",
+            "Tons Of Steel",
+            "It Must Have Been The Roses",
+            "Desolation Row",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Looks Like Rain",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "Just Like Tom Thumb's Blues",
+            "Black Peter",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

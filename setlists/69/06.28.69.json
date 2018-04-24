@@ -1,0 +1,21 @@
+{
+    "date": "June 28, 1969",
+    "day": "Saturday",
+    "venue": "Veterans Auditorium",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Slewfoot",
+            "Silver Threads",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Doin' That Rag",
+            "High Time",
+            "I'm A King Bee",
+            "Sitting On Top Of The World",
+            "Turn On Your Love Light"
+        ]
+    }
+}

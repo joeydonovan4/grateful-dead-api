@@ -1,0 +1,37 @@
+{
+    "date": "March 30, 1983",
+    "day": "Wednesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Promised Land",
+            "Dire Wolf",
+            "Cassidy",
+            "Peggy-O",
+            "Mama Tried",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "New Minglewood Blues",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "My Brother Esau",
+            "Might As Well",
+            "Playin' In The Band",
+            "Drums",
+            "Man Smart-Woman Smarter",
+            "China Doll",
+            "Playin' In The Band",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

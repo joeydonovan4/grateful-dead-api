@@ -1,0 +1,46 @@
+{
+    "date": "November 23, 1973",
+    "day": "Friday",
+    "venue": "County Coliseum",
+    "city": "El Paso",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Deal",
+            "Looks Like Rain",
+            "Don't Ease Me In",
+            "The Race Is On",
+            "Loser",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "El Paso",
+            "Tennessee Jed",
+            "Big River",
+            "Row Jimmy",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Sugaree",
+            "Me And Bobby McGee",
+            "He's Gone",
+            "Truckin'",
+            "The Other One",
+            "Space",
+            "Me And My Uncle",
+            "Eyes Of The World",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

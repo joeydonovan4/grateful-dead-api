@@ -1,0 +1,32 @@
+{
+    "date": "March 12, 1985",
+    "day": "Tuesday",
+    "venue": "Berkeley Community Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Dupree's Diamond Blues",
+            "Me And My Uncle",
+            "Big River",
+            "West LA Fadeaway",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Drums",
+            "He's Gone",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

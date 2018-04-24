@@ -1,0 +1,13 @@
+{
+    "date": "May 9, 1968",
+    "day": "Thursday",
+    "venue": "Electric Circus",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "He Was A Friend Of Mine"
+        ]
+    }
+}

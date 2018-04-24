@@ -1,0 +1,35 @@
+{
+    "date": "February 22, 1973",
+    "day": "Thursday",
+    "venue": "Assembly Hall",
+    "city": "Champaign",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "They Love Each Other",
+            "El Paso",
+            "Bird Song",
+            "Mexicali Blues",
+            "Deal",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Box Of Rain",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Wave That Flag",
+            "Me And My Uncle",
+            "Dark Star",
+            "Eyes Of The World",
+            "China Doll",
+            "Around And Around",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

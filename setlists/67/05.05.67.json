@@ -1,0 +1,16 @@
+{
+    "date": "May 5, 1967",
+    "day": "Friday",
+    "venue": "Fillmore Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "He Was A Friend Of Mine",
+            "Golden Road To Unlimited Devotion",
+            "New Potato Caboose",
+            "Alligator"
+        ]
+    }
+}

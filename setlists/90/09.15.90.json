@@ -1,0 +1,36 @@
+{
+    "date": "September 15, 1990",
+    "day": "Saturday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Walkin' Blues",
+            "Candyman",
+            "Mama Tried",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Box Of Rain"
+        ],
+        "setTwo": [
+            "The Weight",
+            "Playin' In The Band",
+            "Crazy Fingers",
+            "Uncle John's Band",
+            "Drums",
+            "Gimme Some Lovin'",
+            "All Along The Watchtower",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

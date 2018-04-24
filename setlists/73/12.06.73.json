@@ -1,0 +1,35 @@
+{
+    "date": "December 6, 1973",
+    "day": "Thursday",
+    "venue": "Convention Center",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Loser",
+            "Black Throated Wind",
+            "They Love Each Other",
+            "Beat It On Down The Line",
+            "Deal",
+            "El Paso",
+            "Row Jimmy",
+            "Greatest Story Ever Told",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Here Comes Sunshine",
+            "Big River",
+            "Dark Star",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ]
+    }
+}

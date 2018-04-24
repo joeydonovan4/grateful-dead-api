@@ -1,0 +1,35 @@
+{
+    "date": "October 15, 1981",
+    "day": "Thursday",
+    "venue": "Club Melkweg",
+    "city": "Amsterdam",
+    "state": "N/A",
+    "country": "NLD",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "El Paso",
+            "Friend Of The Devil",
+            "Little Red Rooster",
+            "Althea",
+            "Beat It On Down The Line",
+            "Far From Me",
+            "Alabama Getaway",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Spoonful",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

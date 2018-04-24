@@ -1,0 +1,36 @@
+{
+    "date": "September 24, 1988",
+    "day": "Saturday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Feel Like A Stranger",
+            "West LA Fadeaway",
+            "Little Red Rooster",
+            "Box Of Rain",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Chinese Bones",
+            "Neighborhood Girls",
+            "Crazy Fingers",
+            "Man Smart-Woman Smarter",
+            "Every Time You Go",
+            "What's Going On",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Good Lovin'",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

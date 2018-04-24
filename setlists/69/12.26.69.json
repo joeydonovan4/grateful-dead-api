@@ -1,0 +1,32 @@
+{
+    "date": "December 26, 1969",
+    "day": "Friday",
+    "venue": "McFarlin Auditorium",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Monkey And The Engineer",
+            "Little Sadie",
+            "Long Black Limousine",
+            "I've Been All Around This World",
+            "The Master'S Bouquet",
+            "Black Peter",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Casey Jones",
+            "Hard To Handle",
+            "Cold Rain And Snow",
+            "China Cat Sunflower",
+            "Jam",
+            "I Know You Rider",
+            "High Time",
+            "Me And My Uncle",
+            "Dark Star",
+            "New Speedway Boogie",
+            "Turn On Your Love Light"
+        ]
+    }
+}

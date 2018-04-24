@@ -1,0 +1,33 @@
+{
+    "date": "August 16, 1991",
+    "day": "Friday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "It's All Over Now",
+            "Ramble On Rose",
+            "Desolation Row",
+            "Dark Star",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Victim Or The Crime",
+            "Fire On The Mountain",
+            "Truckin'",
+            "Drums",
+            "Space",
+            "Playin' Reprise",
+            "Standing On The Moon",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

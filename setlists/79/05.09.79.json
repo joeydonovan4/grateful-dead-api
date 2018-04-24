@@ -1,0 +1,32 @@
+{
+    "date": "May 9, 1979",
+    "day": "Wednesday",
+    "venue": "Broome County Arena",
+    "city": "Binghamton",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Me And My Uncle",
+            "Loser",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

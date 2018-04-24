@@ -1,0 +1,20 @@
+{
+    "date": "August 20, 1969",
+    "day": "Wednesday",
+    "venue": "Aquatheatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Big Boss Man",
+            "Sitting On Top Of The World",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Dark Star",
+            "Cosmic Charlie"
+        ]
+    }
+}

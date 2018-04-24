@@ -1,0 +1,38 @@
+{
+    "date": "October 19, 1989",
+    "day": "Thursday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Victim Or The Crime",
+            "Built To Last",
+            "Blow Away",
+            "When I Paint My Masterpiece",
+            "Cumberland Blues",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "Dear Mr. Fantasy",
+            "Hey Jude Reprise",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

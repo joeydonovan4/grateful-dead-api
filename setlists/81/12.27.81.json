@@ -1,0 +1,35 @@
+{
+    "date": "December 27, 1981",
+    "day": "Sunday",
+    "venue": "Oakland Civic Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Cassidy",
+            "Deep Elem Blues",
+            "C.C. Rider",
+            "Friend Of The Devil",
+            "Passenger",
+            "Althea",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "To Lay Me Down",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

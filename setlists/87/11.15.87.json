@@ -1,0 +1,34 @@
+{
+    "date": "November 15, 1987",
+    "day": "Sunday",
+    "venue": "Long Beach Arena",
+    "city": "Long Beach",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Walkin' Blues",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Morning Dew",
+            "Around And Around",
+            "All Along The Watchtower"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "December 6, 1981",
+    "day": "Sunday",
+    "venue": "Rosemont Horizon",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Sugaree",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Candyman",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Jack-A-Roe",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "To Lay Me Down",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

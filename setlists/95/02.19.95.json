@@ -1,0 +1,35 @@
+{
+    "date": "February 19, 1995",
+    "day": "Sunday",
+    "venue": "Delta Center",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Sugaree",
+            "Walkin' Blues",
+            "Alabama Getaway",
+            "Me And My Uncle",
+            "Big River",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "If The Shoe Fits",
+            "New Speedway Boogie",
+            "Estimated Prophet",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Attics Of My Life",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

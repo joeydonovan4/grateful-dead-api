@@ -1,0 +1,37 @@
+{
+    "date": "May 12, 1977",
+    "day": "Thursday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "Cassidy",
+            "Peggy-O",
+            "Jack Straw",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Mississippi Half-Step",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Brown-Eyed Women",
+            "Estimated Prophet",
+            "Sunrise",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Comes A Time",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

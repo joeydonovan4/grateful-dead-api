@@ -1,0 +1,40 @@
+{
+    "date": "October 28, 1972",
+    "day": "Saturday",
+    "venue": "Cleveland Public Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Friend Of The Devil",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Me And Bobby McGee",
+            "Candyman",
+            "Me And My Uncle",
+            "Sugaree",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "He's Gone",
+            "El Paso",
+            "Don't Ease Me In",
+            "Greatest Story Ever Told",
+            "Brown-Eyed Women",
+            "Beat It On Down The Line",
+            "Attics Of My Life",
+            "Big River",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

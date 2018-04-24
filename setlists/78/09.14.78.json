@@ -1,0 +1,33 @@
+{
+    "date": "September 14, 1978",
+    "day": "Thursday",
+    "venue": "Son Et Lumiere Theater",
+    "city": "Giza",
+    "state": "N/A",
+    "country": "EGY",
+    "setlist": {
+        "setOne": [
+            "Ollin Arrageed",
+            "Not Fade Away",
+            "Me And My Uncle",
+            "They Love Each Other",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Beat It On Down The Line",
+            "Deal"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Truckin'",
+            "The Other One",
+            "Drums",
+            "Black Peter"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "August 31, 1978",
+    "day": "Thursday",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "El Paso",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Candyman",
+            "From The Heart Of Me",
+            "Jack Straw"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Samson And Delilah",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Nobody's Jam",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

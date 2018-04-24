@@ -1,0 +1,43 @@
+{
+    "date": "August 26, 1971",
+    "day": "Thursday",
+    "venue": "Gaelic Park",
+    "city": "Bronx",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Playin' In The Band",
+            "Mr. Charlie",
+            "Sugaree",
+            "El Paso",
+            "Big Boss Man",
+            "Big Railroad Blues",
+            "Hard To Handle",
+            "Beat It On Down The Line",
+            "Loser",
+            "Sugar Magnolia",
+            "Empty Pages",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Deal",
+            "Cumberland Blues",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Next Time You See Me",
+            "Me And Bobby McGee",
+            "Uncle John's Band",
+            "St. Stephen",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

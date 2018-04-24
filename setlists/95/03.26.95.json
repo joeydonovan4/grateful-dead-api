@@ -1,0 +1,34 @@
+{
+    "date": "March 26, 1995",
+    "day": "Sunday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big River",
+            "Lazy River Road",
+            "Eternity",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It's All Too Much",
+            "Crazy Fingers",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

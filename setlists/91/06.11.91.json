@@ -1,0 +1,36 @@
+{
+    "date": "June 11, 1991",
+    "day": "Tuesday",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Walkin' Blues",
+            "Jack-A-Roe",
+            "Mama Tried",
+            "Mexicali Blues",
+            "West LA Fadeaway",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Eyes Of The World",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "Playin' Reprise",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

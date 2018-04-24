@@ -1,0 +1,38 @@
+{
+    "date": "October 10, 1981",
+    "day": "Saturday",
+    "venue": "Stadthalle Bremen",
+    "city": "Bremen",
+    "state": "N/A",
+    "country": "GER",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Bertha",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "El Paso",
+            "Tennessee Jed",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Let It Grow",
+            "Deal"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Sugaree",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Eyes Of The World",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

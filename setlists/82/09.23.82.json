@@ -1,0 +1,37 @@
+{
+    "date": "September 23, 1982",
+    "day": "Thursday",
+    "venue": "New Haven Coliseum",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Peggy-O",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Ship Of Fools",
+            "Throwin' Stones",
+            "Drums",
+            "The Wheel",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

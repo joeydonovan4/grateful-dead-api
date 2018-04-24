@@ -1,0 +1,41 @@
+{
+    "date": "December 7, 1971",
+    "day": "Tuesday",
+    "venue": "Felt Forum",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Bring It On Down The Line",
+            "Mr. Charlie",
+            "Sugaree",
+            "Jack Straw",
+            "Next Time You See Me",
+            "Tennessee Jed",
+            "El Paso",
+            "Brokedown Palace",
+            "Run Rudolph Run",
+            "You Win Again",
+            "Cumberland Blues",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Ramble On Rose",
+            "Big Boss Man",
+            "Mexicali Blues",
+            "Brown-Eyed Women",
+            "Me & My Uncle ",
+            "Smokestack Lightning",
+            "Deal",
+            "Truckin'",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

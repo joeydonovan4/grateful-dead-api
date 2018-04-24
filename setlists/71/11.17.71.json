@@ -1,0 +1,42 @@
+{
+    "date": "November 17, 1971",
+    "day": "Wednesday",
+    "venue": "Albuquerque Civic Auditorium",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "El Paso",
+            "Big Railroad Blues",
+            "Jack Straw",
+            "Deal",
+            "Playin' In The Band",
+            "Cumberland Blues",
+            "Me And Bobby McGee",
+            "You Win Again",
+            "Mexicali Blues",
+            "Casey Jones",
+            "One More Saturday Night",
+            "Sugar Magnolia"
+        ],
+        "setTwo": [
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Me And My Uncle",
+            "The Other One",
+            "Wharf Rat",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Ramble On Rose"
+        ]
+    }
+}

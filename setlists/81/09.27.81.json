@@ -1,0 +1,38 @@
+{
+    "date": "September 27, 1981",
+    "day": "Sunday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Little Red Rooster",
+            "Althea",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Truckin'",
+            "Drums",
+            "Spanish Jam",
+            "Wharf Rat",
+            "I Need A Miracle",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "October 31, 1985",
+    "day": "Thursday",
+    "venue": "Carolina Coliseum",
+    "city": "Columbia",
+    "state": "SC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Werewolves Of London",
+            "The Music Never Stopped",
+            "West LA Fadeaway",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Playin' In The Band",
+            "Ship Of Fools",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

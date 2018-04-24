@@ -1,0 +1,38 @@
+{
+    "date": "July 17, 1989",
+    "day": "Monday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Built To Last",
+            "Me And My Uncle",
+            "Cumberland Blues",
+            "It's All Over Now",
+            "Row Jimmy",
+            "When I Paint My Masterpiece",
+            "When Push Comes To Shove",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Standing On The Moon",
+            "Drums",
+            "The Wheel",
+            "Gimme Some Lovin'",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "And We Bid You Goodnight",
+            "Johnny B. Goode"
+        ]
+    }
+}

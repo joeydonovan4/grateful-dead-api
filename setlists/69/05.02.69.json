@@ -1,0 +1,16 @@
+{
+    "date": "May 2, 1969",
+    "day": "Friday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Alligator",
+            "The Other One",
+            "Death Don't Have No Mercy"
+        ]
+    }
+}

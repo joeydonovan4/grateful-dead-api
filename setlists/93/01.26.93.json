@@ -1,0 +1,32 @@
+{
+    "date": "January 26, 1993",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Picasso Moon",
+            "Row Jimmy",
+            "Wang Dang Doodle",
+            "Brown-Eyed Women",
+            "Desolation Row",
+            "Ramble On Rose",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Gloria"
+        ]
+    }
+}

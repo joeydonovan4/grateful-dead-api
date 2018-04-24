@@ -1,0 +1,35 @@
+{
+    "date": "July 2, 1986",
+    "day": "Wednesday",
+    "venue": "Rubber Bowl",
+    "city": "Akron",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "They Love Each Other",
+            "Little Red Rooster",
+            "Don't Think Twice It's Alright",
+            "Baby Blue",
+            "Candyman",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band",
+            "Desolation Row",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Box Of Rain"
+        ]
+    }
+}

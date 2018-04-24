@@ -1,0 +1,41 @@
+{
+    "date": "August 2, 1976",
+    "day": "Monday",
+    "venue": "Colt Park",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Mama Tried",
+            "Deal",
+            "Cassidy",
+            "Tennessee Jed",
+            "Big River",
+            "Brown-Eyed Women",
+            "New Minglewood Blues",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Loser",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Candyman",
+            "Playin' In The Band",
+            "Wharf Rat",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "Playin' In The Band",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Sugar Magnolia"
+        ]
+    }
+}

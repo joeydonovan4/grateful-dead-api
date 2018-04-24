@@ -1,0 +1,47 @@
+{
+    "date": "October 13, 1980",
+    "day": "Monday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Bird Song",
+            "El Paso",
+            "To Lay Me Down",
+            "Heaven Help The Fool",
+            "Jack-A-Roe",
+            "The Race Is On",
+            "Deep Elem Blues",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "C.C. Rider",
+            "Big Railroad Blues",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Deal"
+        ],
+        "setThree": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "He's Gone",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

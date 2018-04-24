@@ -1,0 +1,37 @@
+{
+    "date": "May 15, 1980",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "Cassidy",
+            "They Love Each Other",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Peggy-O",
+            "Far From Me",
+            "Feel Like A Stranger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

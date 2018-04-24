@@ -1,0 +1,33 @@
+{
+    "date": "October 22, 1983",
+    "day": "Saturday",
+    "venue": "Carrier Dome",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Wang Dang Doodle",
+            "Candyman",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Hell In A Bucket",
+            "Day Job"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Revolution"
+        ]
+    }
+}

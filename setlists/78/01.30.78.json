@@ -1,0 +1,36 @@
+{
+    "date": "January 30, 1978",
+    "day": "Monday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Dire Wolf",
+            "Mexicali Blues",
+            "Big River",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Peggy-O",
+            "It's All Over Now",
+            "Deal",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Franklin's Tower",
+            "Around And Around"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

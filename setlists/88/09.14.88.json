@@ -1,0 +1,35 @@
+{
+    "date": "September 14, 1988",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Stagger Lee",
+            "Walkin' Blues",
+            "It Must Have Been The Roses",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "I Need A Miracle",
+            "Gimme Some Lovin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

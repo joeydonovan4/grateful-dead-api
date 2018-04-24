@@ -1,0 +1,40 @@
+{
+    "date": "July 5, 1981",
+    "day": "Sunday",
+    "venue": "Zoo Amphitheatre",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Promised Land",
+            "Candyman",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "C.C. Rider",
+            "They Love Each Other",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Don't Ease Me In",
+            "The Music Never Stopped",
+            "Ship Of Fools",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Around And Around",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

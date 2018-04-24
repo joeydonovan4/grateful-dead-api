@@ -1,0 +1,32 @@
+{
+    "date": "September 21, 1993",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "The Same Thing",
+            "Peggy-O",
+            "Broken Arrow",
+            "Tennessee Jed",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Here Comes Sunshine",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Last Time",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "The Weight"
+        ]
+    }
+}

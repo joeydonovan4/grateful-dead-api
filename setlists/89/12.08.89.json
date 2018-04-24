@@ -1,0 +1,35 @@
+{
+    "date": "December 8, 1989",
+    "day": "Friday",
+    "venue": "Great Western Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "Beat It On Down The Line",
+            "Ramble On Rose",
+            "Cassidy",
+            "Blow Away"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "I Will Take You Home",
+            "The Other One",
+            "Wharf Rat",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

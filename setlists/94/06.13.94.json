@@ -1,0 +1,32 @@
+{
+    "date": "June 13, 1994",
+    "day": "Monday",
+    "venue": "Memorial Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Tennessee Jed",
+            "Queen Jane Approximately",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Corrina",
+            "Terrapin Station",
+            "Drums",
+            "Space",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

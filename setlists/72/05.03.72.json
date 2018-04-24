@@ -1,0 +1,47 @@
+{
+    "date": "May 3, 1972",
+    "day": "Wednesday",
+    "venue": "Olympia Theater",
+    "city": "Paris",
+    "state": "N/A",
+    "country": "FRA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Mr. Charlie",
+            "Sugaree",
+            "Black Throated Wind",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Beat It On Down The Line",
+            "He's Gone",
+            "Next Time You See Me",
+            "Playin' In The Band",
+            "Good Lovin'",
+            "Sing Me Back Home",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Greatest Story Ever Told",
+            "Ramble On Rose",
+            "It Hurts Me Too",
+            "Truckin'",
+            "The Other One",
+            "Drums",
+            "The Other One",
+            "Me And Bobby McGee",
+            "The Other One",
+            "Wharf Rat",
+            "Jack Straw",
+            "Sugar Magnolia",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

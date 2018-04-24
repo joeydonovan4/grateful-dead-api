@@ -1,0 +1,37 @@
+{
+    "date": "February 27, 1994",
+    "day": "Sunday",
+    "venue": "Oakland Coliseum Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "Lazy River Road",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Easy Answers"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Samson And Delilah",
+            "Uncle John's Band",
+            "Supplication Jam",
+            "Uncle John's Band",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Cosmic Charlie tease",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

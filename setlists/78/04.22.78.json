@@ -1,0 +1,35 @@
+{
+    "date": "April 22, 1978",
+    "day": "Saturday",
+    "venue": "Nashville Municipal Auditorium",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Candyman",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Peggy-O",
+            "New Minglewood Blues",
+            "Deal"
+        ],
+        "setTwo": [
+            "Lazy Lightnin'",
+            "Supplication",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

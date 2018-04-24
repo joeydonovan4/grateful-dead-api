@@ -1,0 +1,13 @@
+{
+    "date": "May 7, 1968",
+    "day": "Tuesday",
+    "venue": "Electric Circus",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [],
+        "setTwo": [],
+        "encore": []
+    }
+}

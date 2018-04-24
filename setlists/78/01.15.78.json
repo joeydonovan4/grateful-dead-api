@@ -1,0 +1,32 @@
+{
+    "date": "January 15, 1978",
+    "day": "Sunday",
+    "venue": "Selland Arena",
+    "city": "Fresno",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Good Lovin'",
+            "Dire Wolf",
+            "Mexicali Blues",
+            "Big River",
+            "It Must Have Been The Roses",
+            "Passenger",
+            "Brown-Eyed Women",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Sunrise",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Wharf Rat"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

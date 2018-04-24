@@ -1,0 +1,19 @@
+{
+    "date": "January 1, 1967",
+    "day": "Sunday",
+    "venue": "Panhandle at Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I'm A King Bee",
+            "Lucky Man",
+            "Minglewood Blues",
+            "I Know You Rider",
+            "Cold Rain And Snow",
+            "Cream Puff War",
+            "Sitting On Top Of The World"
+        ]
+    }
+}

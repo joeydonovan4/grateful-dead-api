@@ -1,0 +1,25 @@
+{
+    "date": "January 10, 1970",
+    "day": "Saturday",
+    "venue": "Golden Hall Community Concourse",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And My Uncle",
+            "Dire Wolf",
+            "Hard To Handle",
+            "Casey Jones",
+            "Mason's Children",
+            "Black Peter",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Cold Rain And Snow",
+            "Turn On Your Love Light"
+        ]
+    }
+}

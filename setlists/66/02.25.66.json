@@ -1,0 +1,20 @@
+{
+    "date": "February 25, 1966",
+    "day": "Friday",
+    "venue": "Ivar Theater",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "On The Road Again",
+            "Next Time You See Me",
+            "I Know You Rider",
+            "Hey Little One",
+            "Cold Rain And Snow",
+            "King Bee",
+            "Caution (Do Not Stop On Tracks)",
+            "Stealin"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "March 21, 1986",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Roadrunner",
+            "Dupree's Diamond Blues",
+            "New Minglewood Blues",
+            "Bird Song",
+            "Tons Of Steel",
+            "Supplication",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

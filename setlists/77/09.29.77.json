@@ -1,0 +1,35 @@
+{
+    "date": "September 29, 1977",
+    "day": "Thursday",
+    "venue": "Paramount Theatre",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Mama Tried",
+            "Deal",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "El Paso",
+            "Sugaree",
+            "Let It Grow",
+            "Franklin's Tower"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Stella Blue",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

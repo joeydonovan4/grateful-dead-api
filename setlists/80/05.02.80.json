@@ -1,0 +1,35 @@
+{
+    "date": "May 2, 1980",
+    "day": "Friday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Loser",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Friend Of The Devil",
+            "Far From Me",
+            "Looks Like Rain",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Feel Like A Stranger",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "I Need A Miracle",
+            "Bertha",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

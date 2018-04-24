@@ -1,0 +1,36 @@
+{
+    "date": "May 8, 1977",
+    "day": "Sunday",
+    "venue": "Barton Hall",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "New Minglewood Blues",
+            "Loser",
+            "El Paso",
+            "They Love Each Other",
+            "Jack Straw",
+            "Deal",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "Mama Tried",
+            "Row Jimmy",
+            "Dancin' In The Streets"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "St. Stephen",
+            "Not Fade Away",
+            "St. Stephen",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

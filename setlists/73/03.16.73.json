@@ -1,0 +1,41 @@
+{
+    "date": "March 16, 1973",
+    "day": "Friday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Wave That Flag",
+            "Looks Like Rain",
+            "Ramble On Rose",
+            "Box Of Rain",
+            "Beat It On Down The Line",
+            "They Love Each Other",
+            "El Paso",
+            "Row Jimmy",
+            "Mexicali Blues",
+            "Bird Song",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Big River",
+            "Don't Ease Me In",
+            "Me And My Uncle",
+            "Dark Star",
+            "Truckin'",
+            "Morning Dew"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

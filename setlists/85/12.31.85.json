@@ -1,0 +1,40 @@
+{
+    "date": "December 31, 1985",
+    "day": "Tuesday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Not Fade Away",
+            "Touch Of Grey",
+            "Tons Of Steel",
+            "C.C. Rider",
+            "Dupree's Diamond Blues",
+            "Cassidy",
+            "Brown-Eyed Women",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Midnight Hour",
+            "Sugaree",
+            "Man Smart-Woman Smarter",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "setThree": [
+            "Not Fade Away",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

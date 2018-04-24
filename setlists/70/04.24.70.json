@@ -1,0 +1,27 @@
+{
+    "date": "April 24, 1970",
+    "day": "Friday",
+    "venue": "Mammoth Gardens",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "I Know You Rider",
+            "Monkey And The Engineer",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Candyman",
+            "Uncle John's Band"
+        ],
+        "setTwo": [
+            "Easy Wind",
+            "Cumberland Blues",
+            "Dire Wolf",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Drums"
+        ]
+    }
+}

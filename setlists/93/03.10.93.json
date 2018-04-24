@@ -1,0 +1,33 @@
+{
+    "date": "March 10, 1993",
+    "day": "Wednesday",
+    "venue": "Rosemont Horizon",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Stagger Lee",
+            "The Same Thing",
+            "Peggy-O",
+            "Queen Jane Approximately",
+            "Ramble On Rose",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Long Way To Go Home",
+            "Lazy River Road",
+            "Corrina",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Standing On The Moon",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

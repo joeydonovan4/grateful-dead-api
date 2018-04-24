@@ -1,0 +1,29 @@
+{
+    "date": "March 30, 1968",
+    "day": "Saturday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Dark Star",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Born Cross-Eyed",
+            "Feedback",
+            "Spanish Jam",
+            "Death Don't Have No Mercy",
+            "Turn On Your Love Light",
+            "Beat It On Down The Line",
+            "Dancin' In The Streets"
+        ]
+    }
+}

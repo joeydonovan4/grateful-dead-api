@@ -1,0 +1,51 @@
+{
+    "date": "July 12, 1987",
+    "day": "Sunday",
+    "venue": "Giants Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "West LA Fadeaway",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Tons Of Steel",
+            "Step Back",
+            "Ramble On Rose",
+            "When I Paint My Masterpiece",
+            "When Push Comes To Shove",
+            "Promised Land",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Morning Dew",
+            "Playin' In The Band",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "setThree": [
+            "Slow Train",
+            "Stuck Inside Of Mobile",
+            "Tomorrow Is A Long Time",
+            "Highway 61",
+            "John Brown",
+            "Baby Blue",
+            "Ballad Of A Thin Man",
+            "Wicked Messenger",
+            "Queen Jane Approximately",
+            "Chimes Of Freedom",
+            "Joey",
+            "All Along The Watchtower",
+            "Times They Are A-Changin'"
+        ],
+        "encore": [
+            "Touch Of Grey",
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

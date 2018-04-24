@@ -1,0 +1,40 @@
+{
+    "date": "October 30, 1973",
+    "day": "Tuesday",
+    "venue": "Kiel Auditorium",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Deal",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "El Paso",
+            "Row Jimmy",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Mississippi Half-Step",
+            "Big River",
+            "Dark Star",
+            "Stella Blue",
+            "Eyes Of The World",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Goin' Down The Road Feeling Bad",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

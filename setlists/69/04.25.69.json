@@ -1,0 +1,18 @@
+{
+    "date": "April 25, 1969",
+    "day": "Friday",
+    "venue": "Electric Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hard To Handle",
+            "Doin' That Rag",
+            "Good Morning Little School Girl",
+            "Morning Dew",
+            "Sitting On Top Of The World",
+            "Turn On Your Love Light"
+        ]
+    }
+}

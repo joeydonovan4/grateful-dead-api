@@ -1,0 +1,32 @@
+{
+    "date": "February 16, 1988",
+    "day": "Tuesday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "West LA Fadeaway",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Row Jimmy",
+            "When I Paint My Masterpiece",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "The Wheel",
+            "All Along The Watchtower",
+            "Dear Mr. Fantasy",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

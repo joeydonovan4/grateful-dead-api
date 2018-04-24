@@ -1,0 +1,30 @@
+{
+    "date": "May 3, 1986",
+    "day": "Saturday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "The Race Is On",
+            "They Love Each Other",
+            "C.C. Rider",
+            "High Time",
+            "Beat It On Down The Line",
+            "Promised Land",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Goin' Down The Road Feeling Bad",
+            "Drums",
+            "The Other One",
+            "Comes A Time",
+            "Sugar Magnolia"
+        ]
+    }
+}

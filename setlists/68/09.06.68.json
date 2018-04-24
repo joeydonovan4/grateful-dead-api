@@ -1,0 +1,14 @@
+{
+    "date": "September 6, 1968",
+    "day": "Friday",
+    "venue": "Pacific High Recording",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "St. Stephen",
+            "Whats Become Of The Baby"
+        ]
+    }
+}

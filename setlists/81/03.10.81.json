@@ -1,0 +1,38 @@
+{
+    "date": "March 10, 1981",
+    "day": "Tuesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "It Must Have Been The Roses",
+            "Little Red Rooster",
+            "Don't Ease Me In",
+            "Lazy Lightnin'",
+            "Supplication",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "The Wheel",
+            "China Doll",
+            "Truckin'",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

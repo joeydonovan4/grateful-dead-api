@@ -1,0 +1,33 @@
+{
+    "date": "May 26, 1993",
+    "day": "Wednesday",
+    "venue": "Cal Expo Amphitheatre",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Samson And Delilah",
+            "Here Comes Sunshine",
+            "Walkin' Blues",
+            "Broken Arrow",
+            "Ramble On Rose",
+            "Stuck Inside Of Mobile",
+            "Deal"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "Corrina",
+            "Playin' Reprise",
+            "China Doll",
+            "Around And Around"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

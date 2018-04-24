@@ -1,0 +1,46 @@
+{
+    "date": "March 28, 1973",
+    "day": "Wednesday",
+    "venue": "Springfield Civic Center",
+    "city": "Springfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cumberland Blues",
+            "Here Comes Sunshine",
+            "Mexicali Blues",
+            "Wave That Flag",
+            "Beat It On Down The Line",
+            "Loser",
+            "Jack Straw",
+            "Box Of Rain",
+            "They Love Each Other",
+            "El Paso",
+            "Row Jimmy",
+            "Around And Around",
+            "Brown-Eyed Women",
+            "You Ain't Woman Enough",
+            "Looks Like Rain",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Loose Lucy",
+            "Big River",
+            "Mississippi Half-Step",
+            "Me And My Uncle",
+            "Don't Ease Me In",
+            "The Race Is On",
+            "Stella Blue",
+            "WRS Prelude",
+            "Dark Star",
+            "Eyes Of The World",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

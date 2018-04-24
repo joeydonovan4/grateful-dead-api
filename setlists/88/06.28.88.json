@@ -1,0 +1,35 @@
+{
+    "date": "June 28, 1988",
+    "day": "Tuesday",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Bertha",
+            "Walkin' Blues",
+            "Candyman",
+            "When I Paint My Masterpiece",
+            "Row Jimmy",
+            "Victim Or The Crime",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Crazy Fingers",
+            "Drums",
+            "I Will Take You Home",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "date": "December 4, 1971",
+    "day": "Saturday",
+    "venue": "Felt Forum",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Truckin'",
+            "Sugaree",
+            "Mr. Charlie",
+            "Beat It On Down The Line",
+            "Tennessee Jed",
+            "Jack Straw",
+            "Run Rudolph Run",
+            "You Win Again"
+        ],
+        "setTwo": [
+            "Smokestack Lightning",
+            "Ramble On Rose",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Mexicali Blues",
+            "Comes A Time",
+            "El Paso"
+        ]
+    }
+}

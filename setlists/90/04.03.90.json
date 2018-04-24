@@ -1,0 +1,35 @@
+{
+    "date": "April 3, 1990",
+    "day": "Tuesday",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Hell In A Bucket",
+            "Sugaree",
+            "We Can Run",
+            "When I Paint My Masterpiece",
+            "Row Jimmy",
+            "Picasso Moon",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Estimated Prophet",
+            "Scarlet Begonias",
+            "Crazy Fingers",
+            "Playin' In The Band",
+            "Drums",
+            "I Will Take You Home",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "And We Bid You Goodnight"
+        ]
+    }
+}

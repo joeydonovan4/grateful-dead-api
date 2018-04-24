@@ -1,0 +1,41 @@
+{
+    "date": "September 13, 1981",
+    "day": "Sunday",
+    "venue": "Greek Theater",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Bertha",
+            "Me And My Uncle",
+            "Big River",
+            "To Lay Me Down",
+            "Little Red Rooster",
+            "Loser",
+            "Passenger",
+            "Ramble On Rose",
+            "Let It Grow",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Cold Rain And Snow",
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Good Time Blues",
+            "Drums",
+            "The Wheel",
+            "I Need A Miracle",
+            "Goin' Down The Road Feeling Bad",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction",
+            "Brokedown Palace"
+        ]
+    }
+}

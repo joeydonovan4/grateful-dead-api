@@ -1,0 +1,39 @@
+{
+    "date": "May 4, 1981",
+    "day": "Monday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Beat It On Down The Line",
+            "Jack-A-Roe",
+            "Little Red Rooster",
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Althea",
+            "Looks Like Rain",
+            "Bertha",
+            "Greatest Story Ever Told"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "To Lay Me Down",
+            "Playin' In The Band",
+            "Drums",
+            "Nobody's Fault But Mine",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

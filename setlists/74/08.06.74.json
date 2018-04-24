@@ -1,0 +1,44 @@
+{
+    "date": "August 6, 1974",
+    "day": "Tuesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mexicali Blues",
+            "Don't Ease Me In",
+            "Beat It On Down The Line",
+            "Sugaree",
+            "Jack Straw",
+            "Eyes Of The World",
+            "Promised Land",
+            "Deal",
+            "Playin' In The Band",
+            "Scarlet Begonias",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Black Peter",
+            "El Paso",
+            "Loose Lucy",
+            "Big River",
+            "Ship Of Fools",
+            "Me And My Uncle",
+            "Row Jimmy",
+            "Sugar Magnolia",
+            "He's Gone",
+            "Truckin'",
+            "Spanish Jam",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

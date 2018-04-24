@@ -1,0 +1,21 @@
+{
+    "date": "October 16, 1970",
+    "day": "Friday",
+    "venue": "Irvine Auditorium",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Casey Jones",
+            "St. Stephen",
+            "Not Fade Away",
+            "Turn On Your Love Light",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

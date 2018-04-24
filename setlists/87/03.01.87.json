@@ -1,0 +1,37 @@
+{
+    "date": "March 1, 1987",
+    "day": "Sunday",
+    "venue": "Henry J. Kaiser Convention Center",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Touch Of Grey",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "When Push Comes To Shove",
+            "It's All Over Now",
+            "Row Jimmy",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Samson And Delilah",
+            "Black Muddy River",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Black Peter",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Don't Ease Me In"
+        ]
+    }
+}

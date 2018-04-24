@@ -1,0 +1,47 @@
+{
+    "date": "March 24, 1973",
+    "day": "Saturday",
+    "venue": "The Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Beat It On Down The Line",
+            "Don't Ease Me In",
+            "The Race Is On",
+            "Cumberland Blues",
+            "Box Of Rain",
+            "Row Jimmy",
+            "Jack Straw",
+            "They Love Each Other",
+            "Mexicali Blues",
+            "Tennessee Jed",
+            "Looks Like Rain",
+            "Wave That Flag",
+            "El Paso",
+            "Here Comes Sunshine",
+            "Me And Bobby McGee",
+            "Loser",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Big River",
+            "Stella Blue",
+            "Me And My Uncle",
+            "He's Gone",
+            "Truckin'",
+            "Spanish Jam",
+            "Dark Star",
+            "Sing Me Back Home",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

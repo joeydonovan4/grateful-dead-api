@@ -1,0 +1,33 @@
+{
+    "date": "November 8, 1985",
+    "day": "Friday",
+    "venue": "War Memorial Auditorium",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Little Red Rooster",
+            "Peggy-O",
+            "My Brother Esau",
+            "Brown-Eyed Women",
+            "Baby What You Want Me To Do",
+            "Jack Straw",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Revolution",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "The Other One",
+            "I Need A Miracle",
+            "She Belongs To Me",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Satisfaction"
+        ]
+    }
+}

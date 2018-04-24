@@ -1,0 +1,30 @@
+{
+    "date": "November 26, 1982",
+    "day": "Friday",
+    "venue": "Bob Marley Performing Arts Center",
+    "city": "Montego Bay",
+    "state": "N/A",
+    "country": "JAM",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "New Minglewood Blues",
+            "Loser",
+            "Man Smart-Woman Smarter",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "Throwin' Stones",
+            "Not Fade Away",
+            "Black Peter"
+        ],
+        "encore": [
+            "Good Lovin'"
+        ]
+    }
+}

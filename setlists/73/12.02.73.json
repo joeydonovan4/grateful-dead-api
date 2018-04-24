@@ -1,0 +1,39 @@
+{
+    "date": "December 2, 1973",
+    "day": "Sunday",
+    "venue": "Boston Music Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Beat It On Down The Line",
+            "Dire Wolf",
+            "The Race Is On",
+            "Brown-Eyed Women",
+            "Jack Straw",
+            "Ramble On Rose",
+            "El Paso",
+            "Row Jimmy",
+            "Big River",
+            "Deal",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Wharf Rat",
+            "Mississippi Half-Step",
+            "Playin' In The Band",
+            "Mind Left Body Jam",
+            "He's Gone",
+            "Truckin'",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Morning Dew"
+        ]
+    }
+}

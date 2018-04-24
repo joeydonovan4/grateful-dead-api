@@ -1,0 +1,36 @@
+{
+    "date": "June 24, 1990",
+    "day": "Sunday",
+    "venue": "Autzen Stadium",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "When I Paint My Masterpiece",
+            "Loose Lucy",
+            "Just A Little Light",
+            "Picasso Moon",
+            "Candyman",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Standing On The Moon",
+            "Box Of Rain",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

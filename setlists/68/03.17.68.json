@@ -1,0 +1,21 @@
+{
+    "date": "March 17, 1968",
+    "day": "Sunday",
+    "venue": "Carousel Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dark Star",
+            "Born Cross-Eyed",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "New Potato Caboose",
+            "China Cat Sunflower",
+            "The Eleven",
+            "Caution (Do Not Stop On Tracks)"
+        ]
+    }
+}

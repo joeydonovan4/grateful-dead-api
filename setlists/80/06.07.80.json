@@ -1,0 +1,39 @@
+{
+    "date": "June 7, 1980",
+    "day": "Saturday",
+    "venue": "Folsom Field",
+    "city": "Boulder",
+    "state": "CO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "El Paso",
+            "Mama Tried",
+            "Ramble On Rose",
+            "Passenger",
+            "Far From Me",
+            "New Minglewood Blues",
+            "Loser",
+            "Feel Like A Stranger",
+            "Deal"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway",
+            "One More Saturday Night",
+            "U.S. Blues"
+        ]
+    }
+}

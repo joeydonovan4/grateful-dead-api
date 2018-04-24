@@ -1,0 +1,43 @@
+{
+    "date": "October 30, 1972",
+    "day": "Monday",
+    "venue": "Ford Auditorium",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Deal",
+            "Black Throated Wind",
+            "Sugaree",
+            "El Paso",
+            "Bird Song",
+            "Big River",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Jack Straw",
+            "Don't Ease Me In",
+            "Mexicali Blues",
+            "Box Of Rain",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Ramble On Rose",
+            "The Promised Land",
+            "Tomorrow Is Forever",
+            "Around And Around",
+            "Candyman",
+            "Greatest Story Ever Told",
+            "Mississippi Half-Step",
+            "Sugar Magnolia",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

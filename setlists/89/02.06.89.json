@@ -1,0 +1,33 @@
+{
+    "date": "February 6, 1989",
+    "day": "Monday",
+    "venue": "Henry J. Kaiser Auditorium",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Not Fade Away",
+            "Sugaree",
+            "Wang Dang Doodle",
+            "Jack-A-Roe",
+            "Queen Jane Approximately",
+            "Brown-Eyed Women",
+            "Cassidy",
+            "Tennessee Jed"
+        ],
+        "setTwo": [
+            "Hell In A Bucket",
+            "Scarlet Begonias",
+            "Looks Like Rain",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

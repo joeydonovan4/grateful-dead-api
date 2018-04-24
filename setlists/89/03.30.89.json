@@ -1,0 +1,32 @@
+{
+    "date": "March 30, 1989",
+    "day": "Thursday",
+    "venue": "Greensboro Coliseum",
+    "city": "Greensboro",
+    "state": "NC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Row Jimmy",
+            "Blow Away",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Looks Like Rain",
+            "He's Gone",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

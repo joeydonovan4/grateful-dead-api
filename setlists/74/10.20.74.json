@@ -1,0 +1,46 @@
+{
+    "date": "October 20, 1974",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Mama Tried",
+            "Deal",
+            "Beat It On Down The Line",
+            "Loser",
+            "Jack Straw",
+            "Tennessee Jed",
+            "El Paso",
+            "Brokedown Palace",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Around And Around"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Playin' In The Band"
+        ],
+        "setThree": [
+            "Good Lovin'",
+            "It Must Have Been The Roses",
+            "Promised Land",
+            "Eyes Of The World",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Johnny B. Goode",
+            "Mississippi Half-Step",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "February 1, 1978",
+    "day": "Wednesday",
+    "venue": "Uptown Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Cassidy",
+            "Sunrise",
+            "Sugaree"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "It Must Have Been The Roses",
+            "Estimated Prophet",
+            "He's Gone",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

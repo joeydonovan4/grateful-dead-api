@@ -1,0 +1,39 @@
+{
+    "date": "October 1, 1976",
+    "day": "Friday",
+    "venue": "Market Square Arena",
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Mama Tried",
+            "Deal",
+            "Cassidy",
+            "Friend Of The Devil",
+            "Big River",
+            "Brown-Eyed Women",
+            "It's All Over Now",
+            "Scarlet Begonias",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Samson And Delilah",
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Dancin' In The Streets",
+            "Drums",
+            "The Wheel",
+            "Ship Of Fools",
+            "Dancin' In The Streets",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

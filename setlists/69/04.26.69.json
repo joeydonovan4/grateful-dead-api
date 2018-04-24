@@ -1,0 +1,42 @@
+{
+    "date": "April 26, 1969",
+    "day": "Saturday",
+    "venue": "Electric Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dupree's Diamond Blues",
+            "Mountains Of The Moon",
+            "Dark Star Jam",
+            "China Cat Sunflower",
+            "Doin' That Rag",
+            "It Hurts Me Too",
+            "Hard To Handle",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "The Eleven Jam",
+            "The Other One",
+            "It's A Sin",
+            "Morning Dew",
+            "Sitting On Top Of The World",
+            "Minglewood Blues",
+            "Silver Threads",
+            "It's All Over Now Baby Blue",
+            "St. Stephen",
+            "Turn On Your Love Light"
+        ],
+        "setTwo": [
+            "Drums",
+            "Viola Lee Blues",
+            "Caution (Do Not Stop On Tracks) Jam",
+            "Viola Lee Blues",
+            "Feedback",
+            "What's Become Of My Baby",
+            "Feedback",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

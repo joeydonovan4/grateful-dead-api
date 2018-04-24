@@ -1,0 +1,42 @@
+{
+    "date": "October 26, 1980",
+    "day": "Sunday",
+    "venue": "Radio City Music Hall",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Dark Hollow",
+            "It Must Have Been The Roses",
+            "On The Road Again",
+            "Jack-A-Roe",
+            "Cassidy",
+            "China Doll",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Sugaree",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Let It Grow",
+            "Don't Ease Me In"
+        ],
+        "setThree": [
+            "Jam",
+            "Samson And Delilah",
+            "Althea",
+            "Estimated Prophet",
+            "He's Gone",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

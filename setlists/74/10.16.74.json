@@ -1,0 +1,38 @@
+{
+    "date": "October 16, 1974",
+    "day": "Wednesday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Jack Straw",
+            "Deal",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Beat It On Down The Line",
+            "Scarlet Begonias",
+            "Me And Bobby McGee",
+            "Tennessee Jed",
+            "Cumberland Blues",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Space",
+            "Wharf Rat",
+            "Space",
+            "Eyes Of The World",
+            "Big River",
+            "Ship Of Fools",
+            "Truckin'",
+            "Goin' Down The Road Feeling Bad",
+            "Uncle John's Band",
+            "Johnny B. Goode"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

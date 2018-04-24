@@ -1,0 +1,37 @@
+{
+    "date": "September 20, 1982",
+    "day": "Monday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "New Minglewood Blues",
+            "Candyman",
+            "El Paso",
+            "Dupree's Diamond Blues",
+            "It's All Over Now",
+            "Good Time Blues",
+            "Row Jimmy",
+            "Throwin' Stones",
+            "Day Job"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Touch Of Grey"
+        ]
+    }
+}

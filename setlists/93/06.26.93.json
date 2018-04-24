@@ -1,0 +1,33 @@
+{
+    "date": "June 26, 1993",
+    "day": "Saturday",
+    "venue": "RFK Stadium",
+    "city": "Washington, DC",
+    "state": "DC",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Brown-Eyed Women",
+            "Spoonful",
+            "Lazy River Road",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Picasso Moon"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Long Way To Go Home",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "The Last Time",
+            "The Days Between",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

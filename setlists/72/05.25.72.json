@@ -1,0 +1,43 @@
+{
+    "date": "May 25, 1972",
+    "day": "Thursday",
+    "venue": "The Strand Lyceum",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Big Boss Man",
+            "Black Throated Wind",
+            "Tennessee Jed",
+            "Mr. Charlie",
+            "Jack Straw",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Me And Bobby McGee",
+            "Good Lovin'",
+            "Playin' In The Band",
+            "Brokedown Palace",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Chinatown Shuffle",
+            "Ramble On Rose",
+            "Uncle John's Band",
+            "Wharf Rat",
+            "Dark Star",
+            "Sugar Magnolia",
+            "Comes A Time",
+            "El Paso",
+            "Sitting On Top Of The World",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

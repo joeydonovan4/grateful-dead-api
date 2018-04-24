@@ -1,0 +1,35 @@
+{
+    "date": "July 3, 1984",
+    "day": "Tuesday",
+    "venue": "Starlight Theatre",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Promised Land",
+            "Candyman",
+            "Cassidy",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Loser",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Fire On The Mountain",
+            "Scarlet Begonias",
+            "Don't Need Love",
+            "Drums",
+            "The Wheel",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

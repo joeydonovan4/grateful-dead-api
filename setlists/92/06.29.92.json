@@ -1,0 +1,32 @@
+{
+    "date": "June 29, 1992",
+    "day": "Monday",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Althea",
+            "Little Red Rooster",
+            "So Many Roads",
+            "Desolation Row",
+            "Deal"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Ship Of Fools",
+            "Corrina",
+            "Drums",
+            "Space",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

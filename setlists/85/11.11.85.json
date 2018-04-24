@@ -1,0 +1,35 @@
+{
+    "date": "November 11, 1985",
+    "day": "Monday",
+    "venue": "Brendan Byrne Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Walkin' The Dog",
+            "Deal",
+            "New Minglewood Blues",
+            "Althea",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Looks Like Rain",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Dear Mr. Fantasy",
+            "Goin' Down The Road Feeling Bad",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}

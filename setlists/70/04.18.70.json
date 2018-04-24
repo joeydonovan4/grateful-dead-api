@@ -1,0 +1,27 @@
+{
+    "date": "April 18, 1970",
+    "day": "Saturday",
+    "venue": "Family Dog at the Great Highway",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Silver Threads",
+            "Friend Of The Devil",
+            "Deep Elem Blues",
+            "Wake Up Little Susie",
+            "Candyman",
+            "Cumberland Blues",
+            "New Speedway Boogie",
+            "Me And My Uncle",
+            "Mama Tried",
+            "Katie Mae",
+            "The Rub",
+            "Roberta",
+            "Walk Down The Street",
+            "The Flood"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "date": "March 14, 1982",
+    "day": "Sunday",
+    "venue": "Recreation Hall",
+    "city": "Davis",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "One More Saturday Night",
+            "Sugaree",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Bird Song",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "Looks Like Rain",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Drums",
+            "Not Fade Away",
+            "Wharf Rat",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

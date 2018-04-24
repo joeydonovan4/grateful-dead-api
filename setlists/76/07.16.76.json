@@ -1,0 +1,39 @@
+{
+    "date": "July 16, 1976",
+    "day": "Friday",
+    "venue": "Orpheum Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Cassidy",
+            "Deal",
+            "Mama Tried",
+            "Row Jimmy",
+            "Big River",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Peggy-O",
+            "The Music Never Stopped",
+            "Scarlet Begonias"
+        ],
+        "setTwo": [
+            "Playin' In The Band",
+            "Stronger Than Dirt",
+            "Cosmic Charlie",
+            "Samson And Delilah",
+            "Drums",
+            "The Wheel",
+            "Spanish Jam",
+            "Playin' In The Band",
+            "Around And Around",
+            "High Time",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

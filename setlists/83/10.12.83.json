@@ -1,0 +1,35 @@
+{
+    "date": "October 12, 1983",
+    "day": "Wednesday",
+    "venue": "Madison Square Garden",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "New Minglewood Blues",
+            "Ramble On Rose",
+            "My Brother Esau",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Cumberland Blues",
+            "Looks Like Rain",
+            "Might As Well"
+        ],
+        "setTwo": [
+            "Help On The Way",
+            "Slipknot!",
+            "Franklin's Tower",
+            "Man Smart-Woman Smarter",
+            "He's Gone",
+            "Drums",
+            "Truckin'",
+            "Black Peter",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Revolution"
+        ]
+    }
+}

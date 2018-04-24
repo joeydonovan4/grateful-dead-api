@@ -1,0 +1,36 @@
+{
+    "date": "November 20, 1978",
+    "day": "Monday",
+    "venue": "Cleveland Music Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Franklin's Tower",
+            "Mama Tried",
+            "Mexicali Blues",
+            "It Must Have Been The Roses",
+            "Looks Like Rain",
+            "Stagger Lee",
+            "Passenger",
+            "Peggy-O",
+            "Lazy Lightnin'",
+            "Supplication"
+        ],
+        "setTwo": [
+            "Jam",
+            "Drums",
+            "Jack-A-Roe",
+            "Playin' In The Band",
+            "Shakedown Street",
+            "Drums",
+            "If I Had The World To Give",
+            "Playin' In The Band"
+        ],
+        "encore": [
+            "Around And Around"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "date": "April 14, 1984",
+    "day": "Saturday",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "They Love Each Other",
+            "C.C. Rider",
+            "Brown-Eyed Women",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Touch Of Grey",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Don't Need Love",
+            "Drums",
+            "Morning Dew",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Baby Blue"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "date": "July 14, 1976",
+    "day": "Wednesday",
+    "venue": "Orpheum Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "New Minglewood Blues",
+            "Scarlet Begonias",
+            "Looks Like Rain",
+            "They Love Each Other",
+            "Mama Tried",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Drums",
+            "The Wheel",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Brown-Eyed Women",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Let It Grow",
+            "Eyes Of The World",
+            "Wharf Rat",
+            "The Other One",
+            "The Music Never Stopped"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "date": "September 15, 1978",
+    "day": "Friday",
+    "venue": "Son Et Lumiere Theater",
+    "city": "Giza",
+    "state": "N/A",
+    "country": "EGY",
+    "setlist": {
+        "setOne": [
+            "Ollin Arrageed",
+            "Promised Land",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Big River",
+            "Loser",
+            "I Need A Miracle",
+            "Stagger Lee"
+        ],
+        "setTwo": [
+            "Jack Straw",
+            "Ship Of Fools",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Terrapin Station"
+        ],
+        "encore": [
+            "Sugar Magnolia"
+        ]
+    }
+}

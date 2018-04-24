@@ -1,0 +1,35 @@
+{
+    "date": "May 6, 1990",
+    "day": "Sunday",
+    "venue": "Cal State Dominguez Hills",
+    "city": "Carson",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Mississippi Half-Step",
+            "Feel Like A Stranger",
+            "Easy To Love You",
+            "West LA Fadeaway",
+            "When I Paint My Masterpiece",
+            "Candyman",
+            "Victim Or The Crime",
+            "Foolish Heart"
+        ],
+        "setTwo": [
+            "Iko Iko",
+            "Samson And Delilah",
+            "The Weight",
+            "Blow Away",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Standing On The Moon",
+            "Throwin' Stones",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "This Could Be The Last Time"
+        ]
+    }
+}

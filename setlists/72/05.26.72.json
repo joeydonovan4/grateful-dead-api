@@ -1,0 +1,45 @@
+{
+    "date": "May 26, 1972",
+    "day": "Friday",
+    "venue": "The Strand Lyceum",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Sugaree",
+            "Mr. Charlie",
+            "Black Throated Wind",
+            "Loser",
+            "Next Time You See Me",
+            "El Paso",
+            "Dire Wolf",
+            "Two Souls In Communion",
+            "Playin' In The Band",
+            "He's Gone",
+            "Cumberland Blues",
+            "Jack Straw",
+            "Chinatown Shuffle",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "The Other One",
+            "Morning Dew",
+            "The Other One",
+            "Sing Me Back Home",
+            "Me And My Uncle",
+            "Ramble On Rose",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

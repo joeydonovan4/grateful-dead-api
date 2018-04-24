@@ -1,0 +1,17 @@
+{
+    "date": "May 9, 1969",
+    "day": "Friday",
+    "venue": "Hall of Flowers",
+    "city": "San Mateo",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Me And My Uncle",
+            "Hard To Handle",
+            "Doin' That Rag",
+            "New Potato Caboose",
+            "Turn On Your Love Light"
+        ]
+    }
+}

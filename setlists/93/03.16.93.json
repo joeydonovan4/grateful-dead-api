@@ -1,0 +1,32 @@
+{
+    "date": "March 16, 1993",
+    "day": "Tuesday",
+    "venue": "Capital Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Row Jimmy",
+            "New Minglewood Blues",
+            "So Many Roads",
+            "Cassidy",
+            "Tennessee Jed",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Man Smart-Woman Smarter",
+            "Uncle John's Band",
+            "Drums",
+            "The Last Time",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

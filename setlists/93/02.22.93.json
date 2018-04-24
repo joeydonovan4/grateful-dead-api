@@ -1,0 +1,33 @@
+{
+    "date": "February 22, 1993",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Sugaree",
+            "Walkin' Blues",
+            "Althea",
+            "When I Paint My Masterpiece",
+            "So Many Roads",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Saint Of Circumstance",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Wave To The Wind",
+            "Drums",
+            "The Days Between",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Knockin' On Heaven's Door"
+        ]
+    }
+}

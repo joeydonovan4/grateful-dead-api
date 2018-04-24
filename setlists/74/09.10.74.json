@@ -1,0 +1,39 @@
+{
+    "date": "September 10, 1974",
+    "day": "Tuesday",
+    "venue": "Alexandra Palace",
+    "city": "London",
+    "state": "N/A",
+    "country": "ENG",
+    "setlist": {
+        "setOne": [
+            "Around And Around",
+            "Mississippi Half-Step",
+            "Beat It On Down The Line",
+            "Peggy-O",
+            "Tennessee Jed",
+            "Black Throated Wind",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Loser",
+            "Black Peter",
+            "WRS Prelude",
+            "WRS Part 1",
+            "Let It Grow",
+            "Stella Blue"
+        ],
+        "setTwo": [
+            "Me And My Uncle",
+            "Dire Wolf",
+            "Not Fade Away",
+            "Ramble On Rose",
+            "Big River",
+            "Dark Star",
+            "Morning Dew",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

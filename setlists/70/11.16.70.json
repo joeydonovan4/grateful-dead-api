@@ -1,0 +1,13 @@
+{
+    "date": "November 16, 1970",
+    "day": "Monday",
+    "venue": "Fillmore East",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Good Lovin'"
+        ]
+    }
+}

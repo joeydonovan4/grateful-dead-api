@@ -1,0 +1,18 @@
+{
+    "date": "November 9, 1970",
+    "day": "Monday",
+    "venue": "Action House",
+    "city": "Island Park",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Attics Of My Life",
+            "Mama Tried",
+            "Walkin' The Dog",
+            "Minglewood Blues",
+            "Morning Dew",
+            "Deep Elem Blues"
+        ]
+    }
+}

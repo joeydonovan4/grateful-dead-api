@@ -1,0 +1,35 @@
+{
+    "date": "October 28, 1985",
+    "day": "Monday",
+    "venue": "Fox Theater",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Sugaree",
+            "Kansas City",
+            "Peggy-O",
+            "My Brother Esau",
+            "Ramble On Rose",
+            "Cassidy",
+            "Row Jimmy",
+            "Promised Land"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Touch Of Grey",
+            "Man Smart-Woman Smarter",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "Smokestack Lightning",
+            "Stella Blue",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Day Job"
+        ]
+    }
+}

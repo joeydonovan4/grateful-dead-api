@@ -1,0 +1,16 @@
+{
+    "date": "March 3, 1968",
+    "day": "Sunday",
+    "venue": "Haight Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Smokestack Lightning",
+            "Turn On Your Love Light",
+            "It Hurts Me Too"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "date": "March 21, 1972",
+    "day": "Tuesday",
+    "venue": "Academy of Music",
+    "city": "New York City",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Black Throated Wind",
+            "Sugaree",
+            "Next Time You See Me",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Mr. Charlie",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "Playin' In The Band",
+            "You Win Again",
+            "Cumberland Blues",
+            "Chinatown Shuffle",
+            "El Paso",
+            "Good Lovin'",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Sugar Magnolia",
+            "Two Souls In Communion",
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Big Railroad Blues",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "One More Saturday Night"
+        ]
+    }
+}

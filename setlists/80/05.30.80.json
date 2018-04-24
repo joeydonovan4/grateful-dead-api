@@ -1,0 +1,34 @@
+{
+    "date": "May 30, 1980",
+    "day": "Friday",
+    "venue": "Milwaukee Auditorium",
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Franklin's Tower",
+            "Me And My Uncle",
+            "Big River",
+            "Friend Of The Devil",
+            "Passenger",
+            "Easy To Love You",
+            "Althea",
+            "The Music Never Stopped"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Goin' Down The Road Feeling Bad",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Alabama Getaway"
+        ]
+    }
+}

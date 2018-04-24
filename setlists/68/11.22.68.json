@@ -1,0 +1,24 @@
+{
+    "date": "November 22, 1968",
+    "day": "Friday",
+    "venue": "Columbus Veterans Hall",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "Good Morning Little School Girl",
+            "Dark Star",
+            "St. Stephen",
+            "The Eleven",
+            "Turn On Your Love Light",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment",
+            "The Other One Jam",
+            "New Potato Caboose",
+            "And We Bid You Goodnight"
+        ]
+    }
+}

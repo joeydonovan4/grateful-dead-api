@@ -1,0 +1,21 @@
+{
+    "date": "October 22, 1971",
+    "day": "Friday",
+    "venue": "Auditorium Theater",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "El Paso",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Sitting On Top Of The World",
+            "The Other One",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Not Fade Away"
+        ]
+    }
+}

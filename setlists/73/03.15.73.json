@@ -1,0 +1,42 @@
+{
+    "date": "March 15, 1973",
+    "day": "Thursday",
+    "venue": "Nassau Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Promised Land",
+            "Mississippi Half-Step",
+            "Mexicali Blues",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Deal",
+            "Beat It On Down The Line",
+            "Box Of Rain",
+            "Row Jimmy",
+            "Me And My Uncle",
+            "Tennessee Jed",
+            "El Paso",
+            "Here Comes Sunshine",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Loose Lucy",
+            "Big River",
+            "Sugaree",
+            "Jack Straw",
+            "Stella Blue",
+            "Truckin'",
+            "The Other One",
+            "Eyes Of The World",
+            "China Doll",
+            "You Ain't Woman Enough",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

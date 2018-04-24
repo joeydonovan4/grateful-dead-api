@@ -1,0 +1,39 @@
+{
+    "date": "August 20, 1972",
+    "day": "Sunday",
+    "venue": "Civic Auditorium",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And My Uncle",
+            "Sugaree",
+            "Beat It On Down The Line",
+            "Bird Song",
+            "Jack Straw",
+            "Friend Of The Devil",
+            "Black Throated Wind",
+            "Cumberland Blues",
+            "El Paso",
+            "Loser",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Brown-Eyed Women",
+            "Me And Bobby McGee",
+            "Truckin'",
+            "Drums",
+            "The Other One",
+            "Stella Blue",
+            "Sugar Magnolia",
+            "Casey Jones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

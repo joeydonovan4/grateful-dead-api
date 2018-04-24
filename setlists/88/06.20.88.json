@@ -1,0 +1,35 @@
+{
+    "date": "June 20, 1988",
+    "day": "Monday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Box Of Rain",
+            "West LA Fadeaway",
+            "Stuck Inside Of Mobile",
+            "Loser",
+            "Cassidy",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Cumberland Blues",
+            "Blow Away",
+            "Ship Of Fools",
+            "Truckin'",
+            "Terrapin Station",
+            "Drums",
+            "The Other One",
+            "Wharf Rat",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

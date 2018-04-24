@@ -1,0 +1,31 @@
+{
+    "date": "September 9, 1993",
+    "day": "Thursday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Here Comes Sunshine",
+            "Spoonful",
+            "Stagger Lee",
+            "Queen Jane Approximately",
+            "Tennessee Jed",
+            "Easy Answers",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Crazy Fingers",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "The Last Time",
+            "Morning Dew"
+        ],
+        "encore": [
+            "I Fought The Law"
+        ]
+    }
+}

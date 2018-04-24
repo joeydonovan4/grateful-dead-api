@@ -1,0 +1,35 @@
+{
+    "date": "June 27, 1987",
+    "day": "Saturday",
+    "venue": "Alpine Valley Music Theater",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Iko Iko",
+            "Greatest Story Ever Told",
+            "Stagger Lee",
+            "New Minglewood Blues",
+            "Friend Of The Devil",
+            "Just Like Tom Thumb's Blues",
+            "West LA Fadeaway",
+            "My Brother Esau",
+            "Tennessee Jed",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Uncle John's Band",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "Truckin'",
+            "The Other One",
+            "Wharf Rat",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

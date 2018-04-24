@@ -1,0 +1,36 @@
+{
+    "date": "August 15, 1981",
+    "day": "Saturday",
+    "venue": "Portland Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Shakedown Street",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "Cassidy",
+            "Candyman",
+            "C.C. Rider",
+            "Althea",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Man Smart-Woman Smarter",
+            "To Lay Me Down",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Terrapin Station",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

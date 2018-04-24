@@ -1,0 +1,42 @@
+{
+    "date": "July 31, 1973",
+    "day": "Tuesday",
+    "venue": "Roosevelt Stadium",
+    "city": "Jersey City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Ramble On Rose",
+            "Me And My Uncle",
+            "Don't Ease Me In",
+            "Beat It On Down The Line",
+            "Brown-Eyed Women",
+            "Mexicali Blues",
+            "Loser",
+            "Jack Straw",
+            "They Love Each Other",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "El Paso",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Playin' In The Band"
+        ],
+        "setTwo": [
+            "Promised Land",
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Black Peter",
+            "Big River",
+            "Loose Lucy",
+            "Me And Bobby McGee",
+            "Truckin'",
+            "The Other One",
+            "Goin' Down The Road Feeling Bad"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

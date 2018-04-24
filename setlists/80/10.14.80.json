@@ -1,0 +1,52 @@
+{
+    "date": "October 14, 1980",
+    "day": "Tuesday",
+    "venue": "Warfield Theater",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Dire Wolf",
+            "Dark Hollow",
+            "It Must Have Been The Roses",
+            "Cassidy",
+            "Been All Around This World",
+            "Monkey And The Engineer",
+            "China Doll",
+            "Heaven Help The Fool",
+            "Bird Song",
+            "Ripple"
+        ],
+        "setTwo": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Me And My Uncle",
+            "Mexicali Blues",
+            "Candyman",
+            "Little Red Rooster",
+            "Tennessee Jed",
+            "Let It Grow",
+            "The Wheel",
+            "The Music Never Stopped"
+        ],
+        "setThree": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "I Need A Miracle",
+            "Uncle John's Band",
+            "Morning Dew",
+            "Playin' In The Band",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues",
+            "Brokedown Palace"
+        ]
+    }
+}

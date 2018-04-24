@@ -1,0 +1,35 @@
+{
+    "date": "March 25, 1990",
+    "day": "Sunday",
+    "venue": "Knickerbocker Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Greatest Story Ever Told",
+            "Touch Of Grey",
+            "Wang Dang Doodle",
+            "Good Time Blues",
+            "Jack-A-Roe",
+            "When I Paint My Masterpiece",
+            "Bird Song",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Eyes Of The World",
+            "Samson And Delilah",
+            "Crazy Fingers",
+            "Truckin'",
+            "Spoonful",
+            "Drums",
+            "I Will Take You Home",
+            "Goin' Down The Road Feeling Bad",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "The Mighty Quinn"
+        ]
+    }
+}

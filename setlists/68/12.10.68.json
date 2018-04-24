@@ -1,0 +1,18 @@
+{
+    "date": "December 10, 1968",
+    "day": "Tuesday",
+    "venue": "Alembic Studios",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Turn On Your Love Light",
+            "Dark Star",
+            "St. Stephen",
+            "St. Stephen",
+            "The Eleven",
+            "The Eleven"
+        ]
+    }
+}

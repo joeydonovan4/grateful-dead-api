@@ -1,0 +1,36 @@
+{
+    "date": "May 12, 1979",
+    "day": "Saturday",
+    "venue": "Alumni Stadium",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "They Love Each Other",
+            "Me And My Uncle",
+            "Big River",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Stagger Lee",
+            "Looks Like Rain",
+            "Deal"
+        ],
+        "setTwo": [
+            "Don't Ease Me In",
+            "Samson And Delilah",
+            "Friend Of The Devil",
+            "Terrapin Station",
+            "Playin' In The Band",
+            "Drums",
+            "Not Fade Away",
+            "Stella Blue",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Shakedown Street",
+            "One More Saturday Night"
+        ]
+    }
+}

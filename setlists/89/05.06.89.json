@@ -1,0 +1,40 @@
+{
+    "date": "May 6, 1989",
+    "day": "Saturday",
+    "venue": "Frost Amphitheatre",
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Jack Straw",
+            "Peggy-O",
+            "Walkin' Blues",
+            "They Love Each Other",
+            "The Race Is On",
+            "West LA Fadeaway",
+            "Just A Little Light",
+            "Queen Jane Approximately",
+            "China Cat Sunflower",
+            "I Know You Rider"
+        ],
+        "setTwo": [
+            "Let The Good Times Roll",
+            "Hey Pocky Way",
+            "Samson And Delilah",
+            "Ship Of Fools",
+            "Playin' In The Band",
+            "Eyes Of The World",
+            "Drums",
+            "I Will Take You Home",
+            "The Wheel",
+            "I Need A Miracle",
+            "Wharf Rat",
+            "Around And Around",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Black Muddy River"
+        ]
+    }
+}

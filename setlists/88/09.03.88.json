@@ -1,0 +1,35 @@
+{
+    "date": "September 3, 1988",
+    "day": "Saturday",
+    "venue": "Capitol Centre",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Let The Good Times Roll",
+            "Feel Like A Stranger",
+            "Franklin's Tower",
+            "Little Red Rooster",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Victim Or The Crime",
+            "Foolish Heart",
+            "Man Smart-Woman Smarter",
+            "Eyes Of The World",
+            "Drums",
+            "Goin' Down The Road Feeling Bad",
+            "I Need A Miracle",
+            "Morning Dew"
+        ],
+        "encore": [
+            "One More Saturday Night",
+            "Ripple"
+        ]
+    }
+}

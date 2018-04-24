@@ -1,0 +1,14 @@
+{
+    "date": "June 18, 1967",
+    "day": "Sunday",
+    "venue": "Monterey Fairgrounds",
+    "city": "Monterey",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Viola Lee Blues",
+            "Cold Rain And Snow"
+        ]
+    }
+}

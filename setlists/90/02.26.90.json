@@ -1,0 +1,33 @@
+{
+    "date": "February 26, 1990",
+    "day": "Monday",
+    "venue": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Peggy-O",
+            "Walkin' Blues",
+            "Ramble On Rose",
+            "Just Like Tom Thumb's Blues",
+            "The Music Never Stopped",
+            "Don't Ease Me In"
+        ],
+        "setTwo": [
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Playin' In The Band",
+            "Terrapin Station",
+            "Drums",
+            "I Need A Miracle",
+            "Stella Blue",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "It's All Over Now",
+            "Baby Blue"
+        ]
+    }
+}

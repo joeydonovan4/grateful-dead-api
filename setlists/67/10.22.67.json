@@ -1,0 +1,21 @@
+{
+    "date": "October 22, 1967",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Morning Dew",
+            "New Potato Caboose",
+            "It Hurts Me Too",
+            "Cold Rain And Snow",
+            "Turn On Your Love Light",
+            "Beat It On Down The Line",
+            "Cryptical Envelopment",
+            "The Other One",
+            "Cryptical Envelopment"
+        ]
+    }
+}

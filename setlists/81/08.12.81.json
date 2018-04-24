@@ -1,0 +1,39 @@
+{
+    "date": "August 12, 1981",
+    "day": "Wednesday",
+    "venue": "Salt Palace",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Alabama Getaway",
+            "Greatest Story Ever Told",
+            "Friend Of The Devil",
+            "Mama Tried",
+            "Mexicali Blues",
+            "Jack-A-Roe",
+            "C.C. Rider",
+            "Althea",
+            "Lost Sailor",
+            "Saint Of Circumstance"
+        ],
+        "setTwo": [
+            "Might As Well",
+            "Man Smart-Woman Smarter",
+            "Scarlet Begonias",
+            "Fire On The Mountain",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Spanish Jam",
+            "Truckin'",
+            "Morning Dew",
+            "Around And Around",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

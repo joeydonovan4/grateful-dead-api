@@ -1,0 +1,34 @@
+{
+    "date": "June 3, 1995",
+    "day": "Saturday",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Hell In A Bucket",
+            "Althea",
+            "Little Red Rooster",
+            "Brown-Eyed Women",
+            "Broken Arrow",
+            "Stagger Lee",
+            "Eternity"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samba In The Rain",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Box Of Rain",
+            "Stella Blue",
+            "Throwin' Stones",
+            "One More Saturday Night"
+        ],
+        "encore": [
+            "Liberty"
+        ]
+    }
+}

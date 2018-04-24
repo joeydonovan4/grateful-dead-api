@@ -1,0 +1,37 @@
+{
+    "date": "May 26, 1977",
+    "day": "Thursday",
+    "venue": "Baltimore Civic Center",
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "The Music Never Stopped",
+            "Sugaree",
+            "Mama Tried",
+            "Sunrise",
+            "Deal",
+            "Passenger",
+            "Brown-Eyed Women",
+            "Looks Like Rain",
+            "Jack-A-Roe",
+            "New Minglewood Blues",
+            "Bertha"
+        ],
+        "setTwo": [
+            "Samson And Delilah",
+            "High Time",
+            "Big River",
+            "Terrapin Station",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Not Fade Away",
+            "Goin' Down The Road Feeling Bad",
+            "Around And Around"
+        ],
+        "encore": [
+            "Uncle John's Band"
+        ]
+    }
+}

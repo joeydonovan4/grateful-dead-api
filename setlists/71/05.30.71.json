@@ -1,0 +1,36 @@
+{
+    "date": "May 30, 1971",
+    "day": "Sunday",
+    "venue": "Winterland Arena",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Me And Bobby McGee",
+            "The Rub",
+            "Loser",
+            "Playin' In The Band",
+            "Next Time You See Me",
+            "Morning Dew",
+            "Promised Land",
+            "Good Lovin'"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Sugar Magnolia",
+            "Cumberland Blues",
+            "Me And My Uncle",
+            "Deal",
+            "Truckin'",
+            "Turn On Your Love Light",
+            "Uncle John's Band",
+            "Casey Jones"
+        ],
+        "encore": [
+            "Johnny B. Goode"
+        ]
+    }
+}

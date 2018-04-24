@@ -1,0 +1,35 @@
+{
+    "date": "February 20, 1995",
+    "day": "Monday",
+    "venue": "Delta Center",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Bertha",
+            "Greatest Story Ever Told",
+            "Loser",
+            "Little Red Rooster",
+            "Ramble On Rose",
+            "El Paso",
+            "Lazy River Road",
+            "Cassidy"
+        ],
+        "setTwo": [
+            "Box Of Rain",
+            "Eyes Of The World",
+            "Playin' In The Band",
+            "Uncle John's Band",
+            "Drums",
+            "Space",
+            "The Last Time",
+            "Stella Blue",
+            "Throwin' Stones",
+            "Not Fade Away"
+        ],
+        "encore": [
+            "Rain"
+        ]
+    }
+}

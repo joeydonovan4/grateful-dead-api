@@ -1,0 +1,35 @@
+{
+    "date": "May 7, 1979",
+    "day": "Monday",
+    "venue": "Allan Kirby Field House",
+    "city": "Easton",
+    "state": "PA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Don't Ease Me In",
+            "Me And My Uncle",
+            "Big River",
+            "Candyman",
+            "Looks Like Rain",
+            "Tennessee Jed",
+            "New Minglewood Blues",
+            "Peggy-O",
+            "Passenger"
+        ],
+        "setTwo": [
+            "Shakedown Street",
+            "Jack Straw",
+            "Stagger Lee",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "Drums",
+            "Not Fade Away",
+            "Black Peter",
+            "Around And Around"
+        ],
+        "encore": [
+            "U.S. Blues"
+        ]
+    }
+}

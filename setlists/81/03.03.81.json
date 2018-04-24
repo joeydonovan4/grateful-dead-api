@@ -1,0 +1,35 @@
+{
+    "date": "March 3, 1981",
+    "day": "Tuesday",
+    "venue": "Cleveland Music Hall",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Feel Like A Stranger",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Bird Song",
+            "Looks Like Rain",
+            "Big Railroad Blues",
+            "Little Red Rooster",
+            "Deal"
+        ],
+        "setTwo": [
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Samson And Delilah",
+            "He's Gone",
+            "Drums",
+            "Lost Sailor",
+            "Saint Of Circumstance",
+            "Black Peter",
+            "Good Lovin'"
+        ],
+        "encore": [
+            "Casey Jones"
+        ]
+    }
+}

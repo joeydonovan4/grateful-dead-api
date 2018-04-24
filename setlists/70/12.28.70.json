@@ -1,0 +1,37 @@
+{
+    "date": "December 28, 1970",
+    "day": "Monday",
+    "venue": "Legion Stadium",
+    "city": "El Monte",
+    "state": "CA",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Truckin'",
+            "It Hurts Me Too",
+            "Me And My Uncle",
+            "Beat It On Down The Line",
+            "China Cat Sunflower",
+            "I Know You Rider",
+            "Cryptical Envelopment",
+            "Drums",
+            "The Other One",
+            "Cryptical Envelopment",
+            "Sugar Magnolia",
+            "Casey Jones"
+        ],
+        "setTwo": [
+            "Smokestack Lightning",
+            "Big Railroad Blues",
+            "Me And Bobby McGee",
+            "Deep Elem Blues",
+            "Cumberland Blues",
+            "Morning Dew",
+            "Good Lovin'",
+            "Drums",
+            "Good Lovin'",
+            "Uncle John's Band"
+        ]
+    }
+}

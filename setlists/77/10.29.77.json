@@ -1,0 +1,38 @@
+{
+    "date": "October 29, 1977",
+    "day": "Saturday",
+    "venue": "Field House",
+    "city": "De Kalb",
+    "state": "IL",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Might As Well",
+            "Jack Straw",
+            "Dire Wolf",
+            "Looks Like Rain",
+            "Loser",
+            "El Paso",
+            "Ramble On Rose",
+            "New Minglewood Blues",
+            "It Must Have Been The Roses",
+            "Let It Grow"
+        ],
+        "setTwo": [
+            "Bertha",
+            "Good Lovin'",
+            "Friend Of The Devil",
+            "Estimated Prophet",
+            "Eyes Of The World",
+            "St. Stephen",
+            "Not Fade Away",
+            "Black Peter",
+            "Sugar Magnolia",
+            "Drums",
+            "Sunshine Daydream"
+        ],
+        "encore": [
+            "One More Saturday Night"
+        ]
+    }
+}

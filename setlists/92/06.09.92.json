@@ -1,0 +1,34 @@
+{
+    "date": "June 9, 1992",
+    "day": "Tuesday",
+    "venue": "Richfield Coliseum",
+    "city": "Richfield",
+    "state": "OH",
+    "country": "USA",
+    "setlist": {
+        "setOne": [
+            "Cold Rain And Snow",
+            "Wang Dang Doodle",
+            "Peggy-O",
+            "Me And My Uncle",
+            "Big River",
+            "Stagger Lee",
+            "Cassidy",
+            "Deal"
+        ],
+        "setTwo": [
+            "Victim Or The Crime",
+            "Ship Of Fools",
+            "Long Way To Go Home",
+            "Eyes Of The World",
+            "Drums",
+            "Space",
+            "All Along The Watchtower",
+            "Black Peter",
+            "Turn On Your Love Light"
+        ],
+        "encore": [
+            "Brokedown Palace"
+        ]
+    }
+}
