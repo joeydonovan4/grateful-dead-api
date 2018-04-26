@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Greensboro Coliseum",
     "city": "Greensboro",
-    "state": "NC",
+    "region": "NC",
     "country": "USA",
     "setlist": {
         "setOne": [

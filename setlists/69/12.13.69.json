@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Swing Auditorium",
     "city": "San Bernardino",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Easttown Theatre",
     "city": "Detroit",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [

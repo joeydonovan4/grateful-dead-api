@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Assembly Hall",
     "city": "Bloomington",
-    "state": "IN",
+    "region": "IN",
     "country": "USA",
     "setlist": {
         "setOne": [

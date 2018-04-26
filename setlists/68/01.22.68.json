@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Eagle's Auditorium",
     "city": "Seattle",
-    "state": "WA",
+    "region": "WA",
     "country": "USA",
     "setlist": {
         "setOne": [

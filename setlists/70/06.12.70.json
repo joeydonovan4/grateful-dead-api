@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Red Vest",
     "city": "Oahu",
-    "state": "HI",
+    "region": "HI",
     "country": "USA",
     "setlist": {
         "setOne": [],

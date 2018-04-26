@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Memorial Stadium",
     "city": "Seattle",
-    "state": "WA",
+    "region": "WA",
     "country": "USA",
     "setlist": {
         "setOne": [

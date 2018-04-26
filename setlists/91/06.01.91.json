@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Los Angeles Memorial Coliseum",
     "city": "Los Angeles",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

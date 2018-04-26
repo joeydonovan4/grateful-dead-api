@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Colt Park",
     "city": "Hartford",
-    "state": "CT",
+    "region": "CT",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Fillmore East",
     "city": "New York City",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

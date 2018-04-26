@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Ford Auditorium",
     "city": "Detroit",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [

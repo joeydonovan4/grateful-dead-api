@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Beaver Hall",
     "city": "Portland",
-    "state": "OR",
+    "region": "OR",
     "country": "USA",
     "setlist": {
         "setOne": [],

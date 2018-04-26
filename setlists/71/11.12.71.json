@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "San Antonio Civic Auditorium",
     "city": "San Antonio",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [

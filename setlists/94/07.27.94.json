@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Riverport Amphitheatre",
     "city": "St. Louis",
-    "state": "MO",
+    "region": "MO",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Sacramento Memorial Auditorium",
     "city": "Sacramento",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

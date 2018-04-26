@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Stanley Theater",
     "city": "Pittsburgh",
-    "state": "PA",
+    "region": "PA",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Rich Stadium",
     "city": "Orchard Park",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

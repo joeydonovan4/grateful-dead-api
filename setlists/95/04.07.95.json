@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Tampa Stadium",
     "city": "Tampa",
-    "state": "FL",
+    "region": "FL",
     "country": "USA",
     "setlist": {
         "setOne": [

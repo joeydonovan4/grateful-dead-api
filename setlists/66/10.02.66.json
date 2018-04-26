@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "San Francisco State College",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

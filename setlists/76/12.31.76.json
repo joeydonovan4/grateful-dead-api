@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Cow Palace",
     "city": "Daly City",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

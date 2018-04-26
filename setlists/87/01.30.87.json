@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "San Francisco Civic Auditorium",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "The Omni",
     "city": "Atlanta",
-    "state": "GA",
+    "region": "GA",
     "country": "USA",
     "setlist": {
         "setOne": [

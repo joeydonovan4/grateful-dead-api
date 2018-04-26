@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "The Matrix",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

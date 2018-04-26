@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Hilton Hotel",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

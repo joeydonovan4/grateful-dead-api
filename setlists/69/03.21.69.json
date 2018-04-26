@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Rose Palace",
     "city": "Pasadena",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

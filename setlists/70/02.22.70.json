@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Sam Houston Coliseum",
     "city": "Houston",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [],

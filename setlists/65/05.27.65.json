@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Magoo's Pizza Parlor",
     "city": "Menlo Park",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

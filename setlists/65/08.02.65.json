@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Big Al's Gas House",
     "city": "Redwood City",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

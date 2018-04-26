@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "New York State Pavilion",
     "city": "Queens",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

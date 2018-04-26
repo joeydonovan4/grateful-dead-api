@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "University Gymnasium",
     "city": "Stony Brook",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

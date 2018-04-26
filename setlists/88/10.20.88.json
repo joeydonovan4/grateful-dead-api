@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "The Summit",
     "city": "Houston",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [

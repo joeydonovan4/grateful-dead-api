@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Knickerbocker Arena",
     "city": "Albany",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

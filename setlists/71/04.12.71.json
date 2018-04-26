@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Civic Arena",
     "city": "Pittsburgh",
-    "state": "PA",
+    "region": "PA",
     "country": "USA",
     "setlist": {
         "setOne": [

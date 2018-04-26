@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Star Theatre",
     "city": "Phoenix",
-    "state": "AZ",
+    "region": "AZ",
     "country": "USA",
     "setlist": {
         "setOne": [

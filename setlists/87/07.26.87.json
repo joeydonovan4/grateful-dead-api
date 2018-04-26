@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Anaheim Stadium",
     "city": "Anaheim",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

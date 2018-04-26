@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Capitol Theatre",
     "city": "Port Chester",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Grand Center",
     "city": "Grand Rapids",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [

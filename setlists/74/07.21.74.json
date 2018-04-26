@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Hollywood Bowl",
     "city": "Hollywood",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

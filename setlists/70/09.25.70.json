@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Pasadena Civic Auditorium",
     "city": "Pasadena",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

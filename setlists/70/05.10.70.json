@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Sports Arena",
     "city": "Atlanta",
-    "state": "GA",
+    "region": "GA",
     "country": "USA",
     "setlist": {
         "setOne": [],

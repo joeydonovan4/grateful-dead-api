@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Mile High Stadium",
     "city": "Denver",
-    "state": "CO",
+    "region": "CO",
     "country": "USA",
     "setlist": {
         "setOne": [

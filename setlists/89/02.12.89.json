@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "The Forum",
     "city": "Los Angeles",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

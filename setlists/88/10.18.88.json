@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Lakefront Arena",
     "city": "New Orleans",
-    "state": "LA",
+    "region": "LA",
     "country": "USA",
     "setlist": {
         "setOne": [

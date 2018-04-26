@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Folsom Field",
     "city": "Boulder",
-    "state": "CO",
+    "region": "CO",
     "country": "USA",
     "setlist": {
         "setOne": [

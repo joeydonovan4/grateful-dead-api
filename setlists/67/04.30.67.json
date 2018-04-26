@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "The Cheetah",
     "city": "Santa Monica",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

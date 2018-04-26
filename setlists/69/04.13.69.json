@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "University of Colorado",
     "city": "Boulder",
-    "state": "CO",
+    "region": "CO",
     "country": "USA",
     "setlist": {
         "setOne": [

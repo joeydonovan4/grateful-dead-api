@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "McNichols Sports Arena",
     "city": "Denver",
-    "state": "CO",
+    "region": "CO",
     "country": "USA",
     "setlist": {
         "setOne": [

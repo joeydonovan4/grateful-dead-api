@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Allen Theater",
     "city": "Cleveland",
-    "state": "OH",
+    "region": "OH",
     "country": "USA",
     "setlist": {
         "setOne": [

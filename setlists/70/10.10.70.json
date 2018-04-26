@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Colden Auditorium",
     "city": "Queens",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

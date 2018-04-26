@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Thelma Theater",
     "city": "Los Angeles",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

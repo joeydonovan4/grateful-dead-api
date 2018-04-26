@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Whiskey-A-Go-Go",
     "city": "Los Angeles",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

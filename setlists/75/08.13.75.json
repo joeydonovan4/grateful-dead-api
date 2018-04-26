@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Great American Music Hall",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

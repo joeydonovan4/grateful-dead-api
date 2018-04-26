@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Dallas Convention Center",
     "city": "Dallas",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [

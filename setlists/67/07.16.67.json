@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Golden Gardens Beach",
     "city": "Seattle",
-    "state": "WA",
+    "region": "WA",
     "country": "USA",
     "setlist": {
         "setOne": [],

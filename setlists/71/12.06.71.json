@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Felt Forum",
     "city": "New York City",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

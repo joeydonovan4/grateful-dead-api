@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Boston Tea Party",
     "city": "Boston",
-    "state": "MA",
+    "region": "MA",
     "country": "USA",
     "setlist": {
         "setOne": [

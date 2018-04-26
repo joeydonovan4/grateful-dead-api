@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Recreation Hall",
     "city": "Davis",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Baltimore Civic Center",
     "city": "Baltimore",
-    "state": "MD",
+    "region": "MD",
     "country": "USA",
     "setlist": {
         "setOne": [

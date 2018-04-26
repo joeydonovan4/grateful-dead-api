@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Golden Hall",
     "city": "San Diego",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

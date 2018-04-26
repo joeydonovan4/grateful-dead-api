@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Memorial Auditorium",
     "city": "Dallas",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [

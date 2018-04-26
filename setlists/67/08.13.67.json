@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "West Park",
     "city": "Ann Arbor",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [],

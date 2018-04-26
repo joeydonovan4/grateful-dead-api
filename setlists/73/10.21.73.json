@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Civic Auditorium",
     "city": "Omaha",
-    "state": "NE",
+    "region": "NE",
     "country": "USA",
     "setlist": {
         "setOne": [

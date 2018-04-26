@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "The Palace",
     "city": "Auburn Hills",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [

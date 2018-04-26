@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Orpheum Theatre",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

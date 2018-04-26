@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Family Dog",
     "city": "Denver",
-    "state": "CO",
+    "region": "CO",
     "country": "USA",
     "setlist": {
         "setOne": [],

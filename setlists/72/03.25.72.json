@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Academy of Music",
     "city": "New York City",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

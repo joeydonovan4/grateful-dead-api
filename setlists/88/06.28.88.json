@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Saratoga Performing Arts Center",
     "city": "Saratoga Springs",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

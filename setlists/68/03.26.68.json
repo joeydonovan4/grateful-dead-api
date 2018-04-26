@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Melodyland Theater",
     "city": "Anaheim",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

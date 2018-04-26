@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Robertson Gym",
     "city": "Goleta",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

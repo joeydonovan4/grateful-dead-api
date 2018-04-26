@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Soldier Field",
     "city": "Chicago",
-    "state": "IL",
+    "region": "IL",
     "country": "USA",
     "setlist": {
         "setOne": [

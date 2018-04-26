@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Civic Auditorium",
     "city": "San Jose",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

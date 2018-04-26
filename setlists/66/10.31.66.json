@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Alliope Warehouse",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

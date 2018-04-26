@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Uptown Theater",
     "city": "Chicago",
-    "state": "IL",
+    "region": "IL",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Clark University",
     "city": "Worcester",
-    "state": "MA",
+    "region": "MA",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Universal Amphitheatre",
     "city": "Universal City",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

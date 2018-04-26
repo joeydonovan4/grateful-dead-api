@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "NBC Studios",
     "city": "New York City",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Haight Street",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

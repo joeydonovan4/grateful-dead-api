@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Shoreline Amphitheatre",
     "city": "Mountain View",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

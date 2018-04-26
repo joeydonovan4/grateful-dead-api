@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "The Pyramid",
     "city": "Memphis",
-    "state": "TN",
+    "region": "TN",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Zoo Amphitheatre",
     "city": "Oklahoma City",
-    "state": "OK",
+    "region": "OK",
     "country": "USA",
     "setlist": {
         "setOne": [

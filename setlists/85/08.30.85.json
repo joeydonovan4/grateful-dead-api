@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Southern Star Amphitheatre",
     "city": "Houston",
-    "state": "TX",
+    "region": "TX",
     "country": "USA",
     "setlist": {
         "setOne": [

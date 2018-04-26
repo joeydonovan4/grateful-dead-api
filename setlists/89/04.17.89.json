@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Met Center",
     "city": "Minneapolis",
-    "state": "MN",
+    "region": "MN",
     "country": "USA",
     "setlist": {
         "setOne": [

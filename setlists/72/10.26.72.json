@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "Music Hall",
     "city": "Cincinnati",
-    "state": "OH",
+    "region": "OH",
     "country": "USA",
     "setlist": {
         "setOne": [

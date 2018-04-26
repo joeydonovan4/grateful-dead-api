@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "The Wharehouse",
     "city": "New Orleans",
-    "state": "LA",
+    "region": "LA",
     "country": "USA",
     "setlist": {
         "setOne": [

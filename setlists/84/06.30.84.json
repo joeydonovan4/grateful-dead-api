@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "Sports and Music Center",
     "city": "Indianapolis",
-    "state": "IN",
+    "region": "IN",
     "country": "USA",
     "setlist": {
         "setOne": [

@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Greek Theater",
     "city": "Berkeley",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

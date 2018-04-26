@@ -3,7 +3,7 @@
     "day": "Thursday",
     "venue": "The Metrodome",
     "city": "Minneapolis",
-    "state": "MN",
+    "region": "MN",
     "country": "USA",
     "setlist": {
         "setOne": [

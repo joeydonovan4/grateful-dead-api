@@ -3,7 +3,7 @@
     "day": "Tuesday",
     "venue": "Auditorium Theater",
     "city": "Chicago",
-    "state": "IL",
+    "region": "IL",
     "country": "USA",
     "setlist": {
         "setOne": [

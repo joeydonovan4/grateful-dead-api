@@ -3,7 +3,7 @@
     "day": "Saturday",
     "venue": "RFK Stadium",
     "city": "Washington, DC",
-    "state": "DC",
+    "region": "DC",
     "country": "USA",
     "setlist": {
         "setOne": [

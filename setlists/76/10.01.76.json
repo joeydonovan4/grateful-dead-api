@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "Market Square Arena",
     "city": "Indianapolis",
-    "state": "IN",
+    "region": "IN",
     "country": "USA",
     "setlist": {
         "setOne": [

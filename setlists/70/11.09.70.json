@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Action House",
     "city": "Island Park",
-    "state": "NY",
+    "region": "NY",
     "country": "USA",
     "setlist": {
         "setOne": [

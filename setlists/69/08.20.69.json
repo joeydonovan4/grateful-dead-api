@@ -3,7 +3,7 @@
     "day": "Wednesday",
     "venue": "Aquatheatre",
     "city": "Seattle",
-    "state": "WA",
+    "region": "WA",
     "country": "USA",
     "setlist": {
         "setOne": [

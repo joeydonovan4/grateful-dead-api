@@ -3,7 +3,7 @@
     "day": "Friday",
     "venue": "The Rock Garden",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [],

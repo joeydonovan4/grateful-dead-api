@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "Unknown Venue",
     "city": "San Francisco",
-    "state": "CA",
+    "region": "CA",
     "country": "USA",
     "setlist": {
         "setOne": [

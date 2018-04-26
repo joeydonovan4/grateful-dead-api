@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Honolulu Civic Auditorium",
     "city": "Honolulu",
-    "state": "HI",
+    "region": "HI",
     "country": "USA",
     "setlist": {
         "setOne": [],

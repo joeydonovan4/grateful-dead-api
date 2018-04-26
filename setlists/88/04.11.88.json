@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "Joe Louis Arena",
     "city": "Detroit",
-    "state": "MI",
+    "region": "MI",
     "country": "USA",
     "setlist": {
         "setOne": [

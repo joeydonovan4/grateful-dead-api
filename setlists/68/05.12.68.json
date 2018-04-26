@@ -3,7 +3,7 @@
     "day": "Sunday",
     "venue": "The Dome",
     "city": "Virginia Beach",
-    "state": "VA",
+    "region": "VA",
     "country": "USA",
     "setlist": {
         "setOne": [],

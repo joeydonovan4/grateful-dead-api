@@ -3,7 +3,7 @@
     "day": "Monday",
     "venue": "The Spectrum",
     "city": "Philadelphia",
-    "state": "PA",
+    "region": "PA",
     "country": "USA",
     "setlist": {
         "setOne": [
